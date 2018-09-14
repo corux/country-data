@@ -1,4 +1,5 @@
 import { data } from "./data";
+import { Region } from "./regions";
 
 export interface ICountry {
   name: string;
@@ -13,7 +14,7 @@ export interface ICountry {
   };
   iso3: string;
   iso2: string;
-  region: string;
+  region: Region;
   languages: string[];
   currencies: string[];
   borders: string[];

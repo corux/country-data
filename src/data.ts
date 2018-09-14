@@ -1,6 +1,7 @@
 import * as generic from "./data/generic.json";
 import * as de from "./data/i18n/de.json";
 import * as en from "./data/i18n/en.json";
+import { Region } from "./regions";
 
 interface IData {
   generic: IDataGeneric[];
@@ -18,7 +19,7 @@ interface IDataGeneric {
   };
   iso3: string;
   iso2: string;
-  region: string;
+  region: Region;
   languages: [string];
   currencies: [string];
   borders: [string];

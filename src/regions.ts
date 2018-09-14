@@ -1,7 +1,17 @@
 import { data } from "./data";
 
+export enum Region {
+  AFRICA = "AF",
+  AMERICAS = "AM",
+  ASIA = "AS",
+  EUROPE = "EU",
+  NORTH_AMERICA = "NA",
+  OCEANIA = "OC",
+  SOUTH_AMERICA = "SA",
+};
+
 export interface IRegion {
-  code: string;
+  code: Region;
   name: string;
 }
 
@@ -18,5 +28,5 @@ export function getRegions(lang: string): IRegion[] {
   }
   const regions = data.i18n[lang].regions;
   return Object.keys(regions)
-    .map((val) => ({ code: val, name: regions[val] }));
+    .map((val) => ({ code: val as Region, name: regions[val] }));
 }
