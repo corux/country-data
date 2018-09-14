@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "declaration": true,
+    "module": "commonjs",
+    "rootDir": "src",
+    "outDir": "dist",
+    "target": "es5",
+    "alwaysStrict": true,
+    "lib": [
+      "es2017"
+    ]
+  },
+  "include": [
+    "src/**/*.ts",
+    "test/**/*.ts"
+  ]
+}

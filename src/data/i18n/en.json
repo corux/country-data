@@ -1,0 +1,12 @@
+{
+  "countries": {},
+  "regions": {
+    "AF": "Africa",
+    "AS": "Asia",
+    "AM": "Americas",
+    "EU": "Europe",
+    "OC": "Oceania",
+    "SA": "South America",
+    "NA": "North America"
+  }
+}

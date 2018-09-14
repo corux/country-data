@@ -1,0 +1,252 @@
+#!/usr/bin/env babel-node
+
+import fs from 'fs';
+import request from 'request';
+import path from 'path';
+import nomnom from 'nomnom';
+import process from 'process';
+import cheerio from 'cheerio';
+import countryjs from 'countryjs'
+
+const exists = (filename) => fs.existsSync(filename)
+  ? undefined
+  : `${filename} does not exist`;
+
+let { destination } = nomnom
+  .script('generate-data')
+  .option('destination', { required: true, callback: exists })
+  .parse();
+
+function fixCountryName(name) {
+  const fixedNames = {
+    'Korea, Süd': 'Südkorea',
+    'Korea, Nord': 'Nordkorea',
+    'Kongo, Demokratische Republik': 'Demokratische Republik Kongo',
+    'Kongo, Republik': 'Republik Kongo'
+  };
+  return fixedNames[name] || name;
+}
+
+function getAlternativeNames(name) {
+  const altNames = {
+    'Vereinigtes Königreich': ['England', 'Großbritannien'],
+    'Vereinigte Staaten': ['USA'],
+    'Volksrepublik China': ['China'],
+    'Republik China': ['Taiwan']
+  };
+  return altNames[name] || [];
+}
+
+function fixCapitalName(name) {
+  if (name.toLowerCase() === "stadtstaat") {
+    return;
+  }
+
+  return name;
+}
+
+function fixAnthemName(name) {
+  if (['nationalhymne', 'hymne'].indexOf(name.toLowerCase()) !== -1) {
+    return;
+  }
+
+  return name;
+}
+
+function getRegionCode(countryJsData) {
+  switch (countryJsData.subregion) {
+    case 'South America':
+      return 'SA';
+    case 'North America':
+      return 'NA';
+  }
+  switch (countryJsData.region) {
+    case 'Americas':
+      return 'AM';
+    case 'Africa':
+      return 'AF';
+    case 'Europe':
+      return 'EU';
+    case 'Asia':
+      return 'AS';
+    case 'Oceania':
+      return 'OC';
+  }
+}
+
+request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, response, body) => {
+  // parse wikipedia table
+  var $ = cheerio.load(body);
+  var data = $('.wikitable tbody tr:not([class])').map((i, elem) => {
+    const get = position => {
+      let text = $(elem).children().eq(position);
+      text.find('br').replaceWith('\n');
+      text = text.text();
+      text = text.split('\n')[0];
+      text = text.replace(/\[.*\]/, '');
+      return text;
+    };
+    const toNumber = value => {
+      value = value.replace(/\./g, '');
+      return parseInt(value, 10);
+    };
+    const getFlag = size => 'https:' + $(elem).children().eq(6).find('img').attr('src').replace(/\/[0-9]*px-/, '/' + size + 'px-');
+    const getFlagSvg = () => 'https:' + $(elem).children().eq(6).find('img').attr('src').replace('/thumb/', '/').replace(/\/[^\/]*$/, '');
+    const name = fixCountryName(get(0));
+    const data = {
+      name: name,
+      longName: get(1),
+      altNames: getAlternativeNames(name),
+      capital: fixCapitalName(get(2)),
+      population: toNumber(get(3)),
+      //area: toNumber(get(4)),
+      //populationPerSquareKm: toNumber(get(5)),
+      flag: {
+        svgUrl: getFlagSvg(),
+        smallImageUrl: getFlag(720),
+        largeImageUrl: getFlag(1200),
+      },
+      iso3: /^[a-zA-Z]{3}$/.test(get(7)) && get(7),
+      iso2: /^[a-zA-Z]{2}$/.test(get(8)) && get(8),
+      //tld: get(9),
+      //englishName: get(10),
+      //localeNames: get(11).split(',').map(Function.prototype.call, String.prototype.trim)
+    };
+    if (!data.iso2) {
+      delete data.iso2;
+    }
+    return data;
+  }).get();
+
+  // retrieve national anthems
+  request('https://de.wikipedia.org/wiki/Liste_der_Nationalhymnen', (error, response, body) => {
+    // parse wikipedia table
+    var $ = cheerio.load(body);
+    var anthemData = $('.wikitable').first().find('tbody tr:not([class])').map((i, elem) => {
+      const get = position => {
+        let text = $(elem).children().eq(position).text();
+        text = text.split('\n')[0];
+        text = text.replace(/\[.*\]/, '');
+        return text;
+      };
+      const getName = () => {
+        let text = $(elem).children().eq(0).find('a').text();
+        text = text.split('\n')[0];
+        text = text.replace(/\[.*\]/, '');
+        return text;
+      };
+      const getAudio = () => {
+        const src = $(elem).children().eq(3).find('audio source').attr('src');
+        return src ? `https:${src}` : undefined;
+      };
+      return {
+        name: fixCountryName(getName()),
+        anthemName: get(1),
+        anthemNameGerman: fixAnthemName(get(2)),
+        audio: getAudio()
+      };
+    }).get();
+
+    request('https://de.wikipedia.org/wiki/Wikipedia:Namenskonventionen/Staaten', (error, response, body) => {
+      var $ = cheerio.load(body);
+      var adjectiveRows = $('.wikitable tbody').find('tr:not(.hintergrundfarbe6)').get();
+      let isoCode;
+      let adjectiveMapping = {};
+      for (let row of adjectiveRows) {
+        const td = $(row).find('td');
+        const match = td.first().text().trim().match(/^[A-Z]{2}.*([A-Z]{3})/i);
+        if (match && match[1]) {
+          isoCode = match[1];
+          adjectiveMapping[isoCode] = [];
+        }
+        if (isoCode && td.length >= 4) {
+          let adjectives = adjectiveMapping[isoCode];
+          const adjective = td.last().text().trim()
+            .replace(/\((.*)\)/, ',$1,')
+            .replace(/\[(.*)\]/, ',$1,')
+            .replace(' oder ', ',')
+            .replace(/bis [0-9]*:/i, '');
+          adjectives = adjectives.concat(adjective.split(','));
+
+          adjectiveMapping[isoCode] = adjectives
+            .map(val => val.trim())
+            .filter(val => val.length > 0 && val.match(/^[a-z]/i));
+        }
+      }
+
+      // amend with information from countryjs, national anthems and adjectives
+      for (let country of data) {
+        const countryJsData = countryjs.info(country.iso3, 'ISO3');
+        if (countryJsData) {
+          country.region = getRegionCode(countryJsData);
+          country.languages = countryJsData.languages;
+          country.currencies = countryJsData.currencies;
+          country.borders = countryJsData.borders;
+        }
+
+        const anthem = anthemData.filter(val => val.name == country.name);
+        if (anthem.length === 1) {
+          country.anthem = anthem[0].audio;
+          if (anthem[0].anthemNameGerman) {
+            country.anthemName = anthem[0].anthemNameGerman;
+          }
+        }
+
+        const adjectives = adjectiveMapping[country.iso3];
+        if (adjectives && adjectives.length > 0) {
+          country.adjectives = adjectives;
+        }
+      }
+
+      // get missing anthems from nationalanthems.info
+      for (let country of data.filter(val => !val.anthem && val.iso2)) {
+        country.anthem = `http://www.nationalanthems.info/${country.iso2.toLowerCase()}.mp3`;
+      }
+
+      // filter out countries without enough information
+      data = data.filter(val => val.iso3);
+
+      // write data.json file
+      writeFile(data);
+    });
+  });
+});
+
+function writeFile(all) {
+  const genericData = all.map((val) => ({
+    iso3: val.iso3,
+    iso2: val.iso2,
+    region: val.region,
+    population: val.population,
+    flag: val.flag,
+    languages: val.languages,
+    currencies: val.currencies,
+    borders: val.borders,
+    anthem: val.anthem
+  }));
+  fs.writeFile(path.join(process.cwd(), destination, 'generic.json'),
+    JSON.stringify(genericData, null, 2), 'utf8', (err) => {
+      if (err) {
+        process.exit(1);
+      }
+    });
+
+  const deFile = path.join(process.cwd(), destination, 'i18n/de.json');
+  const deData = JSON.parse(fs.readFileSync(deFile));
+  deData.countries = {};
+  all.forEach((val) => {
+    deData.countries[val.iso3] = {
+      name: val.name,
+      longName: val.longName,
+      altNames: val.altNames,
+      capital: val.capital,
+      adjectives: val.adjectives,
+      anthemName: val.anthemName
+    };
+  });
+  fs.writeFile(deFile, JSON.stringify(deData, null, 2), 'utf8', (err) => {
+    if (err) {
+      process.exit(1);
+    }
+  });
+}

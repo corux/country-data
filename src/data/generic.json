@@ -1,0 +1,4634 @@
+[
+  {
+    "iso3": "ABC",
+    "population": 240000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_the_Republic_of_Abkhazia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/720px-Flag_of_the_Republic_of_Abkhazia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/1200px-Flag_of_the_Republic_of_Abkhazia.svg.png"
+    }
+  },
+  {
+    "iso3": "AFG",
+    "iso2": "AF",
+    "region": "AS",
+    "population": 35500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/720px-Flag_of_Afghanistan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Afghanistan.svg/1200px-Flag_of_Afghanistan.svg.png"
+    },
+    "languages": [
+      "ps",
+      "uz",
+      "tk"
+    ],
+    "currencies": [
+      "AFN"
+    ],
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "anthem": "http://www.nationalanthems.info/af.mp3"
+  },
+  {
+    "iso3": "EGY",
+    "iso2": "EG",
+    "region": "AF",
+    "population": 93400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/720px-Flag_of_Egypt.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "EGP"
+    ],
+    "borders": [
+      "ISR",
+      "LBY",
+      "SDN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg"
+  },
+  {
+    "iso3": "ALB",
+    "iso2": "AL",
+    "region": "EU",
+    "population": 2900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/720px-Flag_of_Albania.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1200px-Flag_of_Albania.svg.png"
+    },
+    "languages": [
+      "sq"
+    ],
+    "currencies": [
+      "ALL"
+    ],
+    "borders": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "KOS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hymni_i_Flamurit_instrumental.ogg"
+  },
+  {
+    "iso3": "DZA",
+    "iso2": "DZ",
+    "region": "AF",
+    "population": 42200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/720px-Flag_of_Algeria.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "DZD"
+    ],
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "anthem": "http://www.nationalanthems.info/dz.mp3"
+  },
+  {
+    "iso3": "AND",
+    "iso2": "AD",
+    "population": 80000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/720px-Flag_of_Andorra.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png"
+    },
+    "anthem": "http://www.nationalanthems.info/ad.mp3"
+  },
+  {
+    "iso3": "AGO",
+    "iso2": "AO",
+    "region": "AF",
+    "population": 28600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/720px-Flag_of_Angola.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/1200px-Flag_of_Angola.svg.png"
+    },
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "AOA"
+    ],
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "anthem": "http://www.nationalanthems.info/ao.mp3"
+  },
+  {
+    "iso3": "ATG",
+    "iso2": "AG",
+    "region": "AM",
+    "population": 100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/720px-Flag_of_Antigua_and_Barbuda.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Antigua_and_Barbuda.svg/1200px-Flag_of_Antigua_and_Barbuda.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/ag.mp3"
+  },
+  {
+    "iso3": "GNQ",
+    "iso2": "GQ",
+    "region": "AF",
+    "population": 1300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/720px-Flag_of_Equatorial_Guinea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/1200px-Flag_of_Equatorial_Guinea.svg.png"
+    },
+    "languages": [
+      "es",
+      "fr"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "CMR",
+      "GAB"
+    ],
+    "anthem": "http://www.nationalanthems.info/gq.mp3"
+  },
+  {
+    "iso3": "ARG",
+    "iso2": "AR",
+    "region": "SA",
+    "population": 44300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/720px-Flag_of_Argentina.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1200px-Flag_of_Argentina.svg.png"
+    },
+    "languages": [
+      "es",
+      "gn"
+    ],
+    "currencies": [
+      "ARS"
+    ],
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Himno_Nacional_Argentino_instrumental.ogg"
+  },
+  {
+    "iso3": "ARM",
+    "iso2": "AM",
+    "region": "AS",
+    "population": 3000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/720px-Flag_of_Armenia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/1200px-Flag_of_Armenia.svg.png"
+    },
+    "languages": [
+      "hy",
+      "ru"
+    ],
+    "currencies": [
+      "AMD"
+    ],
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mer_Hayrenik_instrumental.ogg"
+  },
+  {
+    "iso3": "AZE",
+    "iso2": "AZ",
+    "region": "AS",
+    "population": 9900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/720px-Flag_of_Azerbaijan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/1200px-Flag_of_Azerbaijan.svg.png"
+    },
+    "languages": [
+      "az",
+      "hy"
+    ],
+    "currencies": [
+      "AZN"
+    ],
+    "borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/91/National_Anthem_of_the_Republic_of_Azerbaijan_instrumental.ogg"
+  },
+  {
+    "iso3": "ETH",
+    "iso2": "ET",
+    "region": "AF",
+    "population": 105000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/720px-Flag_of_Ethiopia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/1200px-Flag_of_Ethiopia.svg.png"
+    },
+    "languages": [
+      "am"
+    ],
+    "currencies": [
+      "ETB"
+    ],
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wedefit_Gesgeshi_Widd_Innat_Ittyoppya.ogg"
+  },
+  {
+    "iso3": "AUS",
+    "iso2": "AU",
+    "region": "OC",
+    "population": 24500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/720px-Flag_of_Australia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/1200px-Flag_of_Australia.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg"
+  },
+  {
+    "iso3": "BHS",
+    "iso2": "BS",
+    "region": "AM",
+    "population": 400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/720px-Flag_of_the_Bahamas.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Flag_of_the_Bahamas.svg/1200px-Flag_of_the_Bahamas.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "BSD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/37/March_On_Bahamaland_instrumental.ogg"
+  },
+  {
+    "iso3": "BHR",
+    "iso2": "BH",
+    "region": "AS",
+    "population": 1500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/720px-Flag_of_Bahrain.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/1200px-Flag_of_Bahrain.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "BHD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bahraini_Anthem.ogg"
+  },
+  {
+    "iso3": "BGD",
+    "iso2": "BD",
+    "region": "AS",
+    "population": 164700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/720px-Flag_of_Bangladesh.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/1200px-Flag_of_Bangladesh.svg.png"
+    },
+    "languages": [
+      "bn"
+    ],
+    "currencies": [
+      "BDT"
+    ],
+    "borders": [
+      "MMR",
+      "IND"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Amar_Shonar_Bangla_instrumental.ogg"
+  },
+  {
+    "iso3": "BRB",
+    "iso2": "BB",
+    "region": "AM",
+    "population": 300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/720px-Flag_of_Barbados.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_Barbados.svg/1200px-Flag_of_Barbados.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "BBD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/73/In_Plenty_and_In_Time_of_Need_instrumental.ogg"
+  },
+  {
+    "iso3": "BEL",
+    "iso2": "BE",
+    "region": "EU",
+    "population": 11300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/720px-Flag_of_Belgium_%28civil%29.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/1200px-Flag_of_Belgium_%28civil%29.svg.png"
+    },
+    "languages": [
+      "nl",
+      "fr",
+      "de"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/e8/La_Braban%C3%A7onne.oga/La_Braban%C3%A7onne.oga.mp3"
+  },
+  {
+    "iso3": "BLZ",
+    "iso2": "BZ",
+    "region": "AM",
+    "population": 400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/720px-Flag_of_Belize.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Flag_of_Belize.svg/1200px-Flag_of_Belize.svg.png"
+    },
+    "languages": [
+      "en",
+      "es"
+    ],
+    "currencies": [
+      "BZD"
+    ],
+    "borders": [
+      "GTM",
+      "MEX"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Land_of_the_Free_instrumental.ogg"
+  },
+  {
+    "iso3": "BEN",
+    "iso2": "BJ",
+    "region": "AF",
+    "population": 11200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/720px-Flag_of_Benin.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/1200px-Flag_of_Benin.svg.png"
+    },
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/74/L%27Aube_Nouvelle.ogg"
+  },
+  {
+    "iso3": "BTN",
+    "iso2": "BT",
+    "region": "AS",
+    "population": 800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/720px-Flag_of_Bhutan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/1200px-Flag_of_Bhutan.svg.png"
+    },
+    "languages": [
+      "dz"
+    ],
+    "currencies": [
+      "BTN",
+      "INR"
+    ],
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "anthem": "http://www.nationalanthems.info/bt.mp3"
+  },
+  {
+    "iso3": "BOL",
+    "iso2": "BO",
+    "region": "SA",
+    "population": 11100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/720px-Flag_of_Bolivia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/1200px-Flag_of_Bolivia.svg.png"
+    },
+    "languages": [
+      "es",
+      "ay",
+      "qu"
+    ],
+    "currencies": [
+      "BOB",
+      "BOV"
+    ],
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg"
+  },
+  {
+    "iso3": "BIH",
+    "iso2": "BA",
+    "region": "EU",
+    "population": 3500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/720px-Flag_of_Bosnia_and_Herzegovina.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1200px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+    },
+    "languages": [
+      "bs",
+      "hr",
+      "sr"
+    ],
+    "currencies": [
+      "BAM"
+    ],
+    "borders": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "anthem": "http://www.nationalanthems.info/ba.mp3"
+  },
+  {
+    "iso3": "BWA",
+    "iso2": "BW",
+    "region": "AF",
+    "population": 2300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/720px-Flag_of_Botswana.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1200px-Flag_of_Botswana.svg.png"
+    },
+    "languages": [
+      "en",
+      "tn"
+    ],
+    "currencies": [
+      "BWP"
+    ],
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/United_States_Navy_Band_-_Fatshe_leno_la_rona.ogg"
+  },
+  {
+    "iso3": "BRA",
+    "iso2": "BR",
+    "region": "SA",
+    "population": 207900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/720px-Flag_of_Brazil.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/1200px-Flag_of_Brazil.svg.png"
+    },
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "BRL"
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hino_Nacional_Brasileiro_instrumental.ogg"
+  },
+  {
+    "iso3": "BRN",
+    "iso2": "BN",
+    "region": "AS",
+    "population": 400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/720px-Flag_of_Brunei.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/1200px-Flag_of_Brunei.svg.png"
+    },
+    "languages": [
+      "ms"
+    ],
+    "currencies": [
+      "BND"
+    ],
+    "borders": [
+      "MYS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Navy_Band_-_Allah_Peliharakan_Sultan.oga"
+  },
+  {
+    "iso3": "BGR",
+    "iso2": "BG",
+    "region": "EU",
+    "population": 7100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/720px-Flag_of_Bulgaria.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/1200px-Flag_of_Bulgaria.svg.png"
+    },
+    "languages": [
+      "bg"
+    ],
+    "currencies": [
+      "BGN"
+    ],
+    "borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mila_Rodino_instrumental.ogg"
+  },
+  {
+    "iso3": "BFA",
+    "iso2": "BF",
+    "region": "AF",
+    "population": 19600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/720px-Flag_of_Burkina_Faso.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1200px-Flag_of_Burkina_Faso.svg.png"
+    },
+    "languages": [
+      "fr",
+      "ff"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "anthem": "http://www.nationalanthems.info/bf.mp3"
+  },
+  {
+    "iso3": "BDI",
+    "iso2": "BI",
+    "region": "AF",
+    "population": 10400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/720px-Flag_of_Burundi.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1200px-Flag_of_Burundi.svg.png"
+    },
+    "languages": [
+      "fr",
+      "rn"
+    ],
+    "currencies": [
+      "BIF"
+    ],
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "anthem": "http://www.nationalanthems.info/bi.mp3"
+  },
+  {
+    "iso3": "CHL",
+    "iso2": "CL",
+    "region": "SA",
+    "population": 18400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/720px-Flag_of_Chile.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1200px-Flag_of_Chile.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "CLF",
+      "CLP"
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg"
+  },
+  {
+    "iso3": "TWN",
+    "iso2": "TW",
+    "region": "AS",
+    "population": 23600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/720px-Flag_of_the_Republic_of_China.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/1200px-Flag_of_the_Republic_of_China.svg.png"
+    },
+    "languages": [
+      "zh"
+    ],
+    "currencies": [
+      "TWD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/tw.mp3"
+  },
+  {
+    "iso3": "CHN",
+    "iso2": "CN",
+    "region": "AS",
+    "population": 1386800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/720px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+    },
+    "languages": [
+      "zh"
+    ],
+    "currencies": [
+      "CNY"
+    ],
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/March_of_the_Volunteers_instrumental.ogg"
+  },
+  {
+    "iso3": "COK",
+    "iso2": "CK",
+    "region": "OC",
+    "population": 11500,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/720px-Flag_of_the_Cook_Islands.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_the_Cook_Islands.svg/1200px-Flag_of_the_Cook_Islands.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/ck.mp3"
+  },
+  {
+    "iso3": "CRI",
+    "iso2": "CR",
+    "region": "AM",
+    "population": 4900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/720px-Flag_of_Costa_Rica.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/1200px-Flag_of_Costa_Rica.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "CRC"
+    ],
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "anthem": "http://www.nationalanthems.info/cr.mp3"
+  },
+  {
+    "iso3": "DNK",
+    "iso2": "DK",
+    "region": "EU",
+    "population": 5748769,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/720px-Flag_of_Denmark.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/1200px-Flag_of_Denmark.svg.png"
+    },
+    "languages": [
+      "da"
+    ],
+    "currencies": [
+      "DKK"
+    ],
+    "borders": [
+      "DEU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/06/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg.mp3"
+  },
+  {
+    "iso3": "DEU",
+    "iso2": "DE",
+    "region": "EU",
+    "population": 83100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/720px-Flag_of_Germany.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
+    },
+    "languages": [
+      "de"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/German_national_anthem_performed_by_the_US_Navy_Band.ogg/German_national_anthem_performed_by_the_US_Navy_Band.ogg.mp3"
+  },
+  {
+    "iso3": "DMA",
+    "iso2": "DM",
+    "region": "AM",
+    "population": 73000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/720px-Flag_of_Dominica.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/1200px-Flag_of_Dominica.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/National_Anthem_of_Dominica_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "DOM",
+    "iso2": "DO",
+    "region": "AM",
+    "population": 10700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/720px-Flag_of_the_Dominican_Republic.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_the_Dominican_Republic.svg/1200px-Flag_of_the_Dominican_Republic.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "DOP"
+    ],
+    "borders": [
+      "HTI"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dominican_Republic_National_Anthem.ogg"
+  },
+  {
+    "iso3": "DJI",
+    "iso2": "DJ",
+    "region": "AF",
+    "population": 1000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/720px-Flag_of_Djibouti.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/1200px-Flag_of_Djibouti.svg.png"
+    },
+    "languages": [
+      "fr",
+      "ar"
+    ],
+    "currencies": [
+      "DJF"
+    ],
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/77/National_Anthem_of_Djibouti_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "ECU",
+    "iso2": "EC",
+    "region": "SA",
+    "population": 16800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/720px-Flag_of_Ecuador.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/1200px-Flag_of_Ecuador.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Salve%2C_Oh_Patria.oga"
+  },
+  {
+    "iso3": "SLV",
+    "iso2": "SV",
+    "region": "AM",
+    "population": 6400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/720px-Flag_of_El_Salvador.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/1200px-Flag_of_El_Salvador.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "SVC",
+      "USD"
+    ],
+    "borders": [
+      "GTM",
+      "HND"
+    ],
+    "anthem": "http://www.nationalanthems.info/sv.mp3"
+  },
+  {
+    "iso3": "CIV",
+    "iso2": "CI",
+    "region": "AF",
+    "population": 24400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/720px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+    },
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a3/Hymne_National_de_C%C3%B4te_d%27Ivoire.ogg/Hymne_National_de_C%C3%B4te_d%27Ivoire.ogg.mp3"
+  },
+  {
+    "iso3": "ERI",
+    "iso2": "ER",
+    "region": "AF",
+    "population": 5900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/720px-Flag_of_Eritrea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/1200px-Flag_of_Eritrea.svg.png"
+    },
+    "languages": [
+      "ti",
+      "ar",
+      "en"
+    ],
+    "currencies": [
+      "ERN"
+    ],
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4f/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg.mp3"
+  },
+  {
+    "iso3": "EST",
+    "iso2": "EE",
+    "region": "EU",
+    "population": 1300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/720px-Flag_of_Estonia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/1200px-Flag_of_Estonia.svg.png"
+    },
+    "languages": [
+      "et"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "LVA",
+      "RUS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/52/US_Navy_band_-_National_anthem_of_Estonia.ogg"
+  },
+  {
+    "iso3": "FJI",
+    "iso2": "FJ",
+    "region": "OC",
+    "population": 900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/720px-Flag_of_Fiji.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/1200px-Flag_of_Fiji.svg.png"
+    },
+    "languages": [
+      "en",
+      "fj",
+      "hi",
+      "ur"
+    ],
+    "currencies": [
+      "FJD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fiji_National_Anthem.ogg"
+  },
+  {
+    "iso3": "FIN",
+    "region": "EU",
+    "population": 5500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/720px-Flag_of_Finland.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1200px-Flag_of_Finland.svg.png"
+    },
+    "languages": [
+      "fi",
+      "sv"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/61/United_States_Navy_Band_-_Maamme.ogg"
+  },
+  {
+    "iso3": "FRA",
+    "iso2": "FR",
+    "region": "EU",
+    "population": 65000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/720px-Flag_of_France.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
+    },
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+  },
+  {
+    "iso3": "GAB",
+    "iso2": "GA",
+    "region": "AF",
+    "population": 2000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/720px-Flag_of_Gabon.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/1200px-Flag_of_Gabon.svg.png"
+    },
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/La_Concorde.ogg"
+  },
+  {
+    "iso3": "GMB",
+    "iso2": "GM",
+    "region": "AF",
+    "population": 2100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/720px-Flag_of_The_Gambia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/1200px-Flag_of_The_Gambia.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "GMD"
+    ],
+    "borders": [
+      "SEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/23/National_Anthem_of_Gambia_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "GEO",
+    "iso2": "GE",
+    "region": "AS",
+    "population": 3900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/720px-Flag_of_Georgia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/1200px-Flag_of_Georgia.svg.png"
+    },
+    "languages": [
+      "ka"
+    ],
+    "currencies": [
+      "GEL"
+    ],
+    "borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Tavisupleba_instrumental.ogg"
+  },
+  {
+    "iso3": "GHA",
+    "iso2": "GH",
+    "region": "AF",
+    "population": 28800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/720px-Flag_of_Ghana.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/1200px-Flag_of_Ghana.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "GHS"
+    ],
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a1/National_Anthem_of_Ghana_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "GRD",
+    "iso2": "GD",
+    "region": "AM",
+    "population": 108000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/720px-Flag_of_Grenada.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Grenada.svg/1200px-Flag_of_Grenada.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/76/HailGrenada.ogg"
+  },
+  {
+    "iso3": "GRC",
+    "iso2": "GR",
+    "region": "EU",
+    "population": 10700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/720px-Flag_of_Greece.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/1200px-Flag_of_Greece.svg.png"
+    },
+    "languages": [
+      "el"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga"
+  },
+  {
+    "iso3": "GTM",
+    "iso2": "GT",
+    "region": "AM",
+    "population": 16900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/720px-Flag_of_Guatemala.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/1200px-Flag_of_Guatemala.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "GTQ"
+    ],
+    "borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/National_Anthem_of_Guatemala_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "GIN",
+    "iso2": "GN",
+    "region": "AF",
+    "population": 11500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/720px-Flag_of_Guinea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/1200px-Flag_of_Guinea.svg.png"
+    },
+    "languages": [
+      "fr",
+      "ff"
+    ],
+    "currencies": [
+      "GNF"
+    ],
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/65/National_Anthem_of_Guinea_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "GNB",
+    "iso2": "GW",
+    "region": "AF",
+    "population": 1900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/720px-Flag_of_Guinea-Bissau.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/1200px-Flag_of_Guinea-Bissau.svg.png"
+    },
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "GIN",
+      "SEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/40/National_Anthem_of_Guinea-Bissau_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "GUY",
+    "iso2": "GY",
+    "region": "SA",
+    "population": 800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/720px-Flag_of_Guyana.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_Guyana.svg/1200px-Flag_of_Guyana.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "GYD"
+    ],
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/National_Anthem_of_Guyana_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "HTI",
+    "iso2": "HT",
+    "region": "AM",
+    "population": 10600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/720px-Flag_of_Haiti.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/1200px-Flag_of_Haiti.svg.png"
+    },
+    "languages": [
+      "fr",
+      "ht"
+    ],
+    "currencies": [
+      "HTG",
+      "USD"
+    ],
+    "borders": [
+      "DOM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Haiti_National_Anthem.ogg"
+  },
+  {
+    "iso3": "HND",
+    "iso2": "HN",
+    "region": "AM",
+    "population": 8900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/720px-Flag_of_Honduras.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_Honduras.svg/1200px-Flag_of_Honduras.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "HNL"
+    ],
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Honduras_National_Anthem.ogg"
+  },
+  {
+    "iso3": "IND",
+    "iso2": "IN",
+    "region": "AS",
+    "population": 1352600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/720px-Flag_of_India.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"
+    },
+    "languages": [
+      "hi",
+      "en"
+    ],
+    "currencies": [
+      "INR"
+    ],
+    "borders": [
+      "AFG",
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK",
+      "LKA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jana_Gana_Mana_instrumental.ogg"
+  },
+  {
+    "iso3": "IDN",
+    "iso2": "ID",
+    "region": "AS",
+    "population": 264000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/720px-Flag_of_Indonesia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/1200px-Flag_of_Indonesia.svg.png"
+    },
+    "languages": [
+      "id"
+    ],
+    "currencies": [
+      "IDR"
+    ],
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Indonesiaraya.ogg"
+  },
+  {
+    "iso3": "IRQ",
+    "iso2": "IQ",
+    "region": "AS",
+    "population": 39200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/720px-Flag_of_Iraq.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/1200px-Flag_of_Iraq.svg.png"
+    },
+    "languages": [
+      "ar",
+      "ku"
+    ],
+    "currencies": [
+      "IQD"
+    ],
+    "borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/16/United_States_Navy_Band_-_Mawtini.ogg"
+  },
+  {
+    "iso3": "IRN",
+    "iso2": "IR",
+    "region": "AS",
+    "population": 80600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/720px-Flag_of_Iran.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/1200px-Flag_of_Iran.svg.png"
+    },
+    "languages": [
+      "fa"
+    ],
+    "currencies": [
+      "IRR"
+    ],
+    "borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/ac/EY_IRAN_gholamHossein_banan_Version_-_1958.ogg/EY_IRAN_gholamHossein_banan_Version_-_1958.ogg.mp3"
+  },
+  {
+    "iso3": "IRL",
+    "iso2": "IE",
+    "region": "EU",
+    "population": 4800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/720px-Flag_of_Ireland.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png"
+    },
+    "languages": [
+      "ga",
+      "en"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "GBR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/7c/United_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg/United_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg.mp3"
+  },
+  {
+    "iso3": "ISL",
+    "iso2": "IS",
+    "region": "EU",
+    "population": 350000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/720px-Flag_of_Iceland.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1200px-Flag_of_Iceland.svg.png"
+    },
+    "languages": [
+      "is"
+    ],
+    "currencies": [
+      "ISK"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/4b/Lofs%C3%B6ngur.ogg/Lofs%C3%B6ngur.ogg.mp3"
+  },
+  {
+    "iso3": "ISR",
+    "iso2": "IL",
+    "region": "AS",
+    "population": 8600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/720px-Flag_of_Israel.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/1200px-Flag_of_Israel.svg.png"
+    },
+    "languages": [
+      "he",
+      "ar"
+    ],
+    "currencies": [
+      "ILS"
+    ],
+    "borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "SYR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hatikvah_instrumental.ogg"
+  },
+  {
+    "iso3": "ITA",
+    "iso2": "IT",
+    "region": "EU",
+    "population": 60500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/720px-Flag_of_Italy.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png"
+    },
+    "languages": [
+      "it"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c0/National_anthem_of_Italy_-_U.S._Navy_Band_%28long_version%29.ogg/National_anthem_of_Italy_-_U.S._Navy_Band_%28long_version%29.ogg.mp3"
+  },
+  {
+    "iso3": "JAM",
+    "iso2": "JM",
+    "region": "AM",
+    "population": 2900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/720px-Flag_of_Jamaica.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Jamaica.svg/1200px-Flag_of_Jamaica.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "JMD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Anthems_-_National_Anthem_Of_Jamaica.ogg"
+  },
+  {
+    "iso3": "JPN",
+    "iso2": "JP",
+    "region": "AS",
+    "population": 126700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/720px-Flag_of_Japan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
+    },
+    "languages": [
+      "ja"
+    ],
+    "currencies": [
+      "JPY"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kimi_ga_Yo_instrumental.ogg"
+  },
+  {
+    "iso3": "YEM",
+    "iso2": "YE",
+    "region": "AS",
+    "population": 28300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/720px-Flag_of_Yemen.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/1200px-Flag_of_Yemen.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "YER"
+    ],
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/13/United_States_Navy_Band_-_United_Republic.ogg"
+  },
+  {
+    "iso3": "JOR",
+    "iso2": "JO",
+    "region": "AS",
+    "population": 9700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/720px-Flag_of_Jordan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/1200px-Flag_of_Jordan.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "JOD"
+    ],
+    "borders": [
+      "IRQ",
+      "ISR",
+      "SAU",
+      "SYR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_anthem_of_Jordan_instrumental.ogg"
+  },
+  {
+    "iso3": "KHM",
+    "iso2": "KH",
+    "region": "AS",
+    "population": 15900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/720px-Flag_of_Cambodia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/1200px-Flag_of_Cambodia.svg.png"
+    },
+    "languages": [
+      "km"
+    ],
+    "currencies": [
+      "KHR"
+    ],
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/af/United_States_Navy_Band_-_Nokoreach.ogg"
+  },
+  {
+    "iso3": "CMR",
+    "iso2": "CM",
+    "region": "AF",
+    "population": 25000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/720px-Flag_of_Cameroon.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1200px-Flag_of_Cameroon.svg.png"
+    },
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Chant_de_Ralliement.ogg"
+  },
+  {
+    "iso3": "CAN",
+    "iso2": "CA",
+    "region": "AM",
+    "population": 36700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/720px-Flag_of_Canada.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/1200px-Flag_of_Canada.svg.png"
+    },
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "currencies": [
+      "CAD"
+    ],
+    "borders": [
+      "USA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/71/O_Canada_instrumental_1916.ogg"
+  },
+  {
+    "iso3": "CPV",
+    "iso2": "CV",
+    "region": "AF",
+    "population": 517000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/720px-Flag_of_Cape_Verde.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png"
+    },
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "CVE"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/cv.mp3"
+  },
+  {
+    "iso3": "KAZ",
+    "iso2": "KZ",
+    "region": "AS",
+    "population": 18000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/720px-Flag_of_Kazakhstan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1200px-Flag_of_Kazakhstan.svg.png"
+    },
+    "languages": [
+      "kk",
+      "ru"
+    ],
+    "currencies": [
+      "KZT"
+    ],
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Kazakhstan_National_Anthem_2012.ogg"
+  },
+  {
+    "iso3": "QAT",
+    "iso2": "QA",
+    "region": "AS",
+    "population": 2700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/720px-Flag_of_Qatar.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/1200px-Flag_of_Qatar.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "QAR"
+    ],
+    "borders": [
+      "SAU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/ec/National_anthem_of_Qatar.ogg"
+  },
+  {
+    "iso3": "KEN",
+    "iso2": "KE",
+    "region": "AF",
+    "population": 49700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/720px-Flag_of_Kenya.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/1200px-Flag_of_Kenya.svg.png"
+    },
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "currencies": [
+      "KES"
+    ],
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/49/National_Anthem_of_Kenya.ogg"
+  },
+  {
+    "iso3": "KGZ",
+    "iso2": "KG",
+    "region": "AS",
+    "population": 6200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/720px-Flag_of_Kyrgyzstan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/1200px-Flag_of_Kyrgyzstan.svg.png"
+    },
+    "languages": [
+      "ky",
+      "ru"
+    ],
+    "currencies": [
+      "KGS"
+    ],
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/National_Anthem_of_Kyrgyzstan.ogg"
+  },
+  {
+    "iso3": "KIR",
+    "iso2": "KI",
+    "region": "OC",
+    "population": 100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/720px-Flag_of_Kiribati.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kiribati.svg/1200px-Flag_of_Kiribati.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/ki.mp3"
+  },
+  {
+    "iso3": "COL",
+    "iso2": "CO",
+    "region": "SA",
+    "population": 49300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/720px-Flag_of_Colombia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/1200px-Flag_of_Colombia.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "COP"
+    ],
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/55/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg"
+  },
+  {
+    "iso3": "COM",
+    "iso2": "KM",
+    "region": "AF",
+    "population": 800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/720px-Flag_of_the_Comoros.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/1200px-Flag_of_the_Comoros.svg.png"
+    },
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "currencies": [
+      "KMF"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/National_Anthem_of_Comoros_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "COD",
+    "iso2": "CD",
+    "region": "AF",
+    "population": 81500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/720px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/1200px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
+    },
+    "languages": [
+      "fr",
+      "ln",
+      "kg",
+      "sw",
+      "lu"
+    ],
+    "currencies": [
+      "CDF"
+    ],
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/70/National_Anthem_of_Democratic_Republic_of_the_Congo_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "COG",
+    "iso2": "CG",
+    "region": "AF",
+    "population": 5000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/720px-Flag_of_the_Republic_of_the_Congo.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/1200px-Flag_of_the_Republic_of_the_Congo.svg.png"
+    },
+    "languages": [
+      "fr",
+      "ln"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "anthem": "http://www.nationalanthems.info/cg.mp3"
+  },
+  {
+    "iso3": "PRK",
+    "iso2": "KP",
+    "region": "AS",
+    "population": 25500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/720px-Flag_of_North_Korea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1200px-Flag_of_North_Korea.svg.png"
+    },
+    "languages": [
+      "ko"
+    ],
+    "currencies": [
+      "KPW"
+    ],
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "anthem": "http://www.nationalanthems.info/kp.mp3"
+  },
+  {
+    "iso3": "KOR",
+    "iso2": "KR",
+    "region": "AS",
+    "population": 51400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/720px-Flag_of_South_Korea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/1200px-Flag_of_South_Korea.svg.png"
+    },
+    "languages": [
+      "ko"
+    ],
+    "currencies": [
+      "KRW"
+    ],
+    "borders": [
+      "PRK"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0d/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav.ogg"
+  },
+  {
+    "iso3": "RKS",
+    "iso2": "XK",
+    "population": 1800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/720px-Flag_of_Kosovo.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png"
+    },
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg"
+  },
+  {
+    "iso3": "HRV",
+    "iso2": "HR",
+    "region": "EU",
+    "population": 4100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/720px-Flag_of_Croatia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/1200px-Flag_of_Croatia.svg.png"
+    },
+    "languages": [
+      "hr"
+    ],
+    "currencies": [
+      "HRK"
+    ],
+    "borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lijepa_nasa_domovino_instrumental.ogg"
+  },
+  {
+    "iso3": "CUB",
+    "iso2": "CU",
+    "region": "AM",
+    "population": 11300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/720px-Flag_of_Cuba.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flag_of_Cuba.svg/1200px-Flag_of_Cuba.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "CUC",
+      "CUP"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/United_States_Navy_Band_-_La_Bayamesa.ogg"
+  },
+  {
+    "iso3": "KWT",
+    "iso2": "KW",
+    "region": "AS",
+    "population": 4100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/720px-Flag_of_Kuwait.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/1200px-Flag_of_Kuwait.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "KWD"
+    ],
+    "borders": [
+      "IRN",
+      "SAU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Kuwait.ogg"
+  },
+  {
+    "iso3": "LAO",
+    "iso2": "LA",
+    "region": "AS",
+    "population": 7000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/720px-Flag_of_Laos.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/1200px-Flag_of_Laos.svg.png"
+    },
+    "languages": [
+      "lo"
+    ],
+    "currencies": [
+      "LAK"
+    ],
+    "borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/e/ee/National_Anthem_of_Laos.ogg/National_Anthem_of_Laos.ogg.mp3"
+  },
+  {
+    "iso3": "LSO",
+    "iso2": "LS",
+    "region": "AF",
+    "population": 2200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/720px-Flag_of_Lesotho.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1200px-Flag_of_Lesotho.svg.png"
+    },
+    "languages": [
+      "en",
+      "st"
+    ],
+    "currencies": [
+      "LSL",
+      "ZAR"
+    ],
+    "borders": [
+      "ZAF"
+    ],
+    "anthem": "http://www.nationalanthems.info/ls.mp3"
+  },
+  {
+    "iso3": "LVA",
+    "iso2": "LV",
+    "region": "EU",
+    "population": 1900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/720px-Flag_of_Latvia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/1200px-Flag_of_Latvia.svg.png"
+    },
+    "languages": [
+      "lv"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "anthem": "http://www.nationalanthems.info/lv.mp3"
+  },
+  {
+    "iso3": "LBN",
+    "iso2": "LB",
+    "region": "AS",
+    "population": 6200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/720px-Flag_of_Lebanon.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/1200px-Flag_of_Lebanon.svg.png"
+    },
+    "languages": [
+      "ar",
+      "fr"
+    ],
+    "currencies": [
+      "LBP"
+    ],
+    "borders": [
+      "ISR",
+      "SYR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d4/National_Anthem_of_Lebanon.ogg"
+  },
+  {
+    "iso3": "LBR",
+    "iso2": "LR",
+    "region": "AF",
+    "population": 4700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/720px-Flag_of_Liberia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/1200px-Flag_of_Liberia.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "LRD"
+    ],
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/All_Hail%2C_Liberia%2C_Hail_%28instrumental%29.oga"
+  },
+  {
+    "iso3": "LBY",
+    "iso2": "LY",
+    "region": "AF",
+    "population": 6400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/720px-Flag_of_Libya.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/1200px-Flag_of_Libya.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "LYD"
+    ],
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "anthem": "http://www.nationalanthems.info/ly.mp3"
+  },
+  {
+    "iso3": "LIE",
+    "iso2": "LI",
+    "region": "EU",
+    "population": 40000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/720px-Flag_of_Liechtenstein.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/1200px-Flag_of_Liechtenstein.svg.png"
+    },
+    "languages": [
+      "de"
+    ],
+    "currencies": [
+      "CHF"
+    ],
+    "borders": [
+      "AUT",
+      "CHE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/61/Oben_am_jungen_Rhein%2C_by_the_U.S._Navy_Band.ogg/Oben_am_jungen_Rhein%2C_by_the_U.S._Navy_Band.ogg.mp3"
+  },
+  {
+    "iso3": "LTU",
+    "iso2": "LT",
+    "region": "EU",
+    "population": 2800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/720px-Flag_of_Lithuania.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png"
+    },
+    "languages": [
+      "lt"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tauti%C5%A1ka_giesme_instumental.ogg"
+  },
+  {
+    "iso3": "LUX",
+    "iso2": "LU",
+    "region": "EU",
+    "population": 600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/720px-Flag_of_Luxembourg.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/1200px-Flag_of_Luxembourg.svg.png"
+    },
+    "languages": [
+      "fr",
+      "de",
+      "lb"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_National_Anthem.ogg"
+  },
+  {
+    "iso3": "MDG",
+    "iso2": "MG",
+    "region": "AF",
+    "population": 25500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/720px-Flag_of_Madagascar.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/1200px-Flag_of_Madagascar.svg.png"
+    },
+    "languages": [
+      "fr",
+      "mg"
+    ],
+    "currencies": [
+      "MGA"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/National_Anthem_of_Madagascar_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "MWI",
+    "iso2": "MW",
+    "region": "AF",
+    "population": 18600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/720px-Flag_of_Malawi.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/1200px-Flag_of_Malawi.svg.png"
+    },
+    "languages": [
+      "en",
+      "ny"
+    ],
+    "currencies": [
+      "MWK"
+    ],
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Malawian_national_anthem.oga"
+  },
+  {
+    "iso3": "MYS",
+    "iso2": "MY",
+    "region": "AS",
+    "population": 31600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/720px-Flag_of_Malaysia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/1200px-Flag_of_Malaysia.svg.png"
+    },
+    "languages": [],
+    "currencies": [
+      "MYR"
+    ],
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Negaraku_instrumental.ogg"
+  },
+  {
+    "iso3": "MDV",
+    "iso2": "MV",
+    "region": "AS",
+    "population": 400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/720px-Flag_of_Maldives.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/1200px-Flag_of_Maldives.svg.png"
+    },
+    "languages": [
+      "dv"
+    ],
+    "currencies": [
+      "MVR"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gaumii_salaam.ogg"
+  },
+  {
+    "iso3": "MLI",
+    "iso2": "ML",
+    "region": "AF",
+    "population": 18900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/720px-Flag_of_Mali.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/1200px-Flag_of_Mali.svg.png"
+    },
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "anthem": "http://www.nationalanthems.info/ml.mp3"
+  },
+  {
+    "iso3": "MLT",
+    "iso2": "MT",
+    "region": "EU",
+    "population": 438000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/720px-Flag_of_Malta.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/1200px-Flag_of_Malta.svg.png"
+    },
+    "languages": [
+      "mt",
+      "en"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malta_National_Anthem.ogg"
+  },
+  {
+    "iso3": "MAR",
+    "iso2": "MA",
+    "region": "AF",
+    "population": 35100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/720px-Flag_of_Morocco.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/1200px-Flag_of_Morocco.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "MAD"
+    ],
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/National_Anthem_of_Morocco_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "MHL",
+    "iso2": "MH",
+    "region": "OC",
+    "population": 60000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/720px-Flag_of_the_Marshall_Islands.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Flag_of_the_Marshall_Islands.svg/1200px-Flag_of_the_Marshall_Islands.svg.png"
+    },
+    "languages": [
+      "en",
+      "mh"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/National_Anthem_of_Marshall_Islands_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "MRT",
+    "iso2": "MR",
+    "region": "AF",
+    "population": 4400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/720px-Flag_of_Mauritania.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/1200px-Flag_of_Mauritania.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "MRO"
+    ],
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Former_national_anthem_of_Mauritania_%281960%E2%80%932017%29%2C_performed_by_the_U.S._Navy_Band.oga"
+  },
+  {
+    "iso3": "MUS",
+    "iso2": "MU",
+    "region": "AF",
+    "population": 1300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/720px-Flag_of_Mauritius.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/1200px-Flag_of_Mauritius.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "MUR"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/45/National_Anthem_of_Mauritius_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "MKD",
+    "iso2": "MK",
+    "region": "EU",
+    "population": 2100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Macedonia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/720px-Flag_of_Macedonia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/1200px-Flag_of_Macedonia.svg.png"
+    },
+    "languages": [
+      "mk"
+    ],
+    "currencies": [
+      "MKD"
+    ],
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "KOS",
+      "SRB"
+    ],
+    "anthem": "http://www.nationalanthems.info/mk.mp3"
+  },
+  {
+    "iso3": "MEX",
+    "iso2": "MX",
+    "region": "AM",
+    "population": 129200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/720px-Flag_of_Mexico.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/1200px-Flag_of_Mexico.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "MXN"
+    ],
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg"
+  },
+  {
+    "iso3": "FSM",
+    "iso2": "FM",
+    "region": "OC",
+    "population": 107000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/720px-Flag_of_the_Federated_States_of_Micronesia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg/1200px-Flag_of_the_Federated_States_of_Micronesia.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Micronesia_National_Anthem.ogg"
+  },
+  {
+    "iso3": "MDA",
+    "iso2": "MD",
+    "region": "EU",
+    "population": 3900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/720px-Flag_of_Moldova.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/1200px-Flag_of_Moldova.svg.png"
+    },
+    "languages": [
+      "ro"
+    ],
+    "currencies": [
+      "MDL"
+    ],
+    "borders": [
+      "ROU",
+      "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Imnul_Republicii_Moldova_US_NAVY.ogg"
+  },
+  {
+    "iso3": "MCO",
+    "iso2": "MC",
+    "region": "EU",
+    "population": 37800,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/720px-Flag_of_Monaco.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/1200px-Flag_of_Monaco.svg.png"
+    },
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "FRA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/c/c2/Monaco_National_Anthem.ogg/Monaco_National_Anthem.ogg.mp3"
+  },
+  {
+    "iso3": "MNG",
+    "iso2": "MN",
+    "region": "AS",
+    "population": 3200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/720px-Flag_of_Mongolia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/1200px-Flag_of_Mongolia.svg.png"
+    },
+    "languages": [
+      "mn"
+    ],
+    "currencies": [
+      "MNT"
+    ],
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_anthem_of_Mongolia_2006_official-instrumental.ogg"
+  },
+  {
+    "iso3": "MNE",
+    "iso2": "ME",
+    "population": 600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/720px-Flag_of_Montenegro.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1200px-Flag_of_Montenegro.svg.png"
+    },
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_Anthem_of_Montenegro.ogg"
+  },
+  {
+    "iso3": "MOZ",
+    "iso2": "MZ",
+    "region": "AF",
+    "population": 29700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/720px-Flag_of_Mozambique.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/1200px-Flag_of_Mozambique.svg.png"
+    },
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "MZN"
+    ],
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "anthem": "http://www.nationalanthems.info/mz.mp3"
+  },
+  {
+    "iso3": "MMR",
+    "iso2": "MM",
+    "population": 53400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/720px-Flag_of_Myanmar.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png"
+    },
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga"
+  },
+  {
+    "iso3": "NAM",
+    "iso2": "NA",
+    "region": "AF",
+    "population": 2500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/720px-Flag_of_Namibia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png"
+    },
+    "languages": [
+      "en",
+      "af"
+    ],
+    "currencies": [
+      "NAD",
+      "ZAR"
+    ],
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "anthem": "http://www.nationalanthems.info/na.mp3"
+  },
+  {
+    "iso3": "NRU",
+    "iso2": "NR",
+    "region": "OC",
+    "population": 10000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/720px-Flag_of_Nauru.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/1200px-Flag_of_Nauru.svg.png"
+    },
+    "languages": [
+      "en",
+      "na"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/nr.mp3"
+  },
+  {
+    "iso3": "NPL",
+    "iso2": "NP",
+    "region": "AS",
+    "population": 29400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg/720px-Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg/1200px-Flag_of_Nepal_%28with_spacing%2C_aspect_ratio_4-3%29.svg.png"
+    },
+    "languages": [
+      "ne"
+    ],
+    "currencies": [
+      "NPR"
+    ],
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "anthem": "http://www.nationalanthems.info/np.mp3"
+  },
+  {
+    "iso3": "NZL",
+    "iso2": "NZ",
+    "region": "OC",
+    "population": 4800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/720px-Flag_of_New_Zealand.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/1200px-Flag_of_New_Zealand.svg.png"
+    },
+    "languages": [
+      "en",
+      "mi"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg"
+  },
+  {
+    "iso3": "NIC",
+    "iso2": "NI",
+    "region": "AM",
+    "population": 6200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/720px-Flag_of_Nicaragua.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/1200px-Flag_of_Nicaragua.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "NIO"
+    ],
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/National_Anthem_of_Nicaragua_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "NLD",
+    "iso2": "NL",
+    "region": "EU",
+    "population": 17100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/720px-Flag_of_the_Netherlands.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/1200px-Flag_of_the_Netherlands.svg.png"
+    },
+    "languages": [
+      "nl"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "BEL",
+      "DEU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Wilhelmus_koor.oga"
+  },
+  {
+    "iso3": "NER",
+    "iso2": "NE",
+    "region": "AF",
+    "population": 20600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/720px-Flag_of_Niger.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/1200px-Flag_of_Niger.svg.png"
+    },
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "anthem": "http://www.nationalanthems.info/ne.mp3"
+  },
+  {
+    "iso3": "NGA",
+    "iso2": "NG",
+    "region": "AF",
+    "population": 190900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/720px-Flag_of_Nigeria.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/1200px-Flag_of_Nigeria.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "NGN"
+    ],
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/86/United_States_Navy_Band_-_%22Arise_O%2C_Compatriots%22.oga"
+  },
+  {
+    "iso3": "NIU",
+    "iso2": "NU",
+    "region": "OC",
+    "population": 1229,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/720px-Flag_of_Niue.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Niue.svg/1200px-Flag_of_Niue.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "NZD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/nu.mp3"
+  },
+  {
+    "iso3": "NOR",
+    "iso2": "NO",
+    "region": "EU",
+    "population": 5300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/720px-Flag_of_Norway.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1200px-Flag_of_Norway.svg.png"
+    },
+    "languages": [
+      "no",
+      "nb",
+      "nn"
+    ],
+    "currencies": [
+      "NOK"
+    ],
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Norway_%28National_Anthem%29.ogg"
+  },
+  {
+    "iso3": "OMN",
+    "iso2": "OM",
+    "region": "AS",
+    "population": 4700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/720px-Flag_of_Oman.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/1200px-Flag_of_Oman.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "OMR"
+    ],
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "anthem": "http://www.nationalanthems.info/om.mp3"
+  },
+  {
+    "iso3": "AUT",
+    "iso2": "AT",
+    "region": "EU",
+    "population": 8800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/720px-Flag_of_Austria.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/1200px-Flag_of_Austria.svg.png"
+    },
+    "languages": [
+      "de"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Land_der_Berge_Land_am_Strome_instrumental.ogg"
+  },
+  {
+    "iso3": "TLS",
+    "region": "AS",
+    "population": 1300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/720px-Flag_of_East_Timor.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/1200px-Flag_of_East_Timor.svg.png"
+    },
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": [
+      "IDN"
+    ]
+  },
+  {
+    "iso3": "PAK",
+    "iso2": "PK",
+    "region": "AS",
+    "population": 207600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/720px-Flag_of_Pakistan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/1200px-Flag_of_Pakistan.svg.png"
+    },
+    "languages": [
+      "en",
+      "ur"
+    ],
+    "currencies": [
+      "PKR"
+    ],
+    "borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "anthem": "http://www.nationalanthems.info/pk.mp3"
+  },
+  {
+    "iso3": "PSE",
+    "iso2": "PS",
+    "population": 4900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/720px-Flag_of_Palestine.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1200px-Flag_of_Palestine.svg.png"
+    },
+    "anthem": "http://www.nationalanthems.info/ps.mp3"
+  },
+  {
+    "iso3": "PLW",
+    "iso2": "PW",
+    "region": "OC",
+    "population": 21000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/720px-Flag_of_Palau.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/1200px-Flag_of_Palau.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/pw.mp3"
+  },
+  {
+    "iso3": "PAN",
+    "iso2": "PA",
+    "region": "AM",
+    "population": 4100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/720px-Flag_of_Panama.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/1200px-Flag_of_Panama.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "PAB",
+      "USD"
+    ],
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Panama_National_Anthem.ogg"
+  },
+  {
+    "iso3": "PNG",
+    "iso2": "PG",
+    "region": "OC",
+    "population": 8300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/720px-Flag_of_Papua_New_Guinea.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1200px-Flag_of_Papua_New_Guinea.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "PGK"
+    ],
+    "borders": [
+      "IDN"
+    ],
+    "anthem": "http://www.nationalanthems.info/pg.mp3"
+  },
+  {
+    "iso3": "PRY",
+    "iso2": "PY",
+    "region": "SA",
+    "population": 6800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/720px-Flag_of_Paraguay.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/1200px-Flag_of_Paraguay.svg.png"
+    },
+    "languages": [
+      "es",
+      "gn"
+    ],
+    "currencies": [
+      "PYG"
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/a/a6/Paraguayan_National_Anthem.oga/Paraguayan_National_Anthem.oga.mp3"
+  },
+  {
+    "iso3": "PER",
+    "iso2": "PE",
+    "region": "SA",
+    "population": 31800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/720px-Flag_of_Peru.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Peru.svg/1200px-Flag_of_Peru.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "PEN"
+    ],
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg"
+  },
+  {
+    "iso3": "PHL",
+    "iso2": "PH",
+    "region": "AS",
+    "population": 105000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/720px-Flag_of_the_Philippines.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/1200px-Flag_of_the_Philippines.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "PHP"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lupang_Hinirang_instrumental.ogg"
+  },
+  {
+    "iso3": "POL",
+    "iso2": "PL",
+    "region": "EU",
+    "population": 38400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/720px-Flag_of_Poland.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1200px-Flag_of_Poland.svg.png"
+    },
+    "languages": [
+      "pl"
+    ],
+    "currencies": [
+      "PLN"
+    ],
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ignacy_dygas_-_mazurek_d%C4%85browskiego.ogg"
+  },
+  {
+    "iso3": "PRT",
+    "iso2": "PT",
+    "region": "EU",
+    "population": 10300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/720px-Flag_of_Portugal.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png"
+    },
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "ESP"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg"
+  },
+  {
+    "iso3": "RWA",
+    "iso2": "RW",
+    "region": "AF",
+    "population": 12300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/720px-Flag_of_Rwanda.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1200px-Flag_of_Rwanda.svg.png"
+    },
+    "languages": [
+      "rw",
+      "en",
+      "fr"
+    ],
+    "currencies": [
+      "RWF"
+    ],
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/0/0e/Hymne_National_du_Rwanda.ogg/Hymne_National_du_Rwanda.ogg.mp3"
+  },
+  {
+    "iso3": "ROU",
+    "iso2": "RO",
+    "region": "EU",
+    "population": 19600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/720px-Flag_of_Romania.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1200px-Flag_of_Romania.svg.png"
+    },
+    "languages": [
+      "ro"
+    ],
+    "currencies": [
+      "RON"
+    ],
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Desteapta-te%2C_romane%21.ogg"
+  },
+  {
+    "iso3": "RUS",
+    "iso2": "RU",
+    "region": "EU",
+    "population": 144500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/720px-Flag_of_Russia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png"
+    },
+    "languages": [
+      "ru"
+    ],
+    "currencies": [
+      "RUB"
+    ],
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/4/41/National_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg/National_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg.mp3"
+  },
+  {
+    "iso3": "SLB",
+    "iso2": "SB",
+    "region": "OC",
+    "population": 700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/720px-Flag_of_the_Solomon_Islands.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/1200px-Flag_of_the_Solomon_Islands.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "SDB"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/sb.mp3"
+  },
+  {
+    "iso3": "ZMB",
+    "iso2": "ZM",
+    "region": "AF",
+    "population": 16400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/720px-Flag_of_Zambia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1200px-Flag_of_Zambia.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "ZMK"
+    ],
+    "borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "anthem": "http://www.nationalanthems.info/zm.mp3"
+  },
+  {
+    "iso3": "WSM",
+    "iso2": "WS",
+    "region": "OC",
+    "population": 200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/720px-Flag_of_Samoa.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Samoa.svg/1200px-Flag_of_Samoa.svg.png"
+    },
+    "languages": [
+      "sm",
+      "en"
+    ],
+    "currencies": [
+      "WST"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/ws.mp3"
+  },
+  {
+    "iso3": "SMR",
+    "iso2": "SM",
+    "region": "EU",
+    "population": 32800,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/720px-Flag_of_San_Marino.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/1200px-Flag_of_San_Marino.svg.png"
+    },
+    "languages": [
+      "it"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "ITA"
+    ],
+    "anthem": "http://www.nationalanthems.info/sm.mp3"
+  },
+  {
+    "iso3": "STP",
+    "iso2": "ST",
+    "region": "AF",
+    "population": 200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/720px-Flag_of_Sao_Tome_and_Principe.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/1200px-Flag_of_Sao_Tome_and_Principe.svg.png"
+    },
+    "languages": [
+      "pt"
+    ],
+    "currencies": [
+      "STD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/st.mp3"
+  },
+  {
+    "iso3": "SAU",
+    "iso2": "SA",
+    "region": "AS",
+    "population": 32600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/720px-Flag_of_Saudi_Arabia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/1200px-Flag_of_Saudi_Arabia.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "SAR"
+    ],
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/f0/Aash_Al_Maleek_instrumental.ogg/Aash_Al_Maleek_instrumental.ogg.mp3"
+  },
+  {
+    "iso3": "SWE",
+    "iso2": "SE",
+    "region": "EU",
+    "population": 10100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/720px-Flag_of_Sweden.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/1200px-Flag_of_Sweden.svg.png"
+    },
+    "languages": [
+      "sv"
+    ],
+    "currencies": [
+      "SEK"
+    ],
+    "borders": [
+      "FIN",
+      "NOR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/02/United_States_Navy_Band_-_Sweden.ogg"
+  },
+  {
+    "iso3": "CHE",
+    "iso2": "CH",
+    "region": "EU",
+    "population": 8500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Switzerland_within_2to3.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/720px-Flag_of_Switzerland_within_2to3.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/1200px-Flag_of_Switzerland_within_2to3.svg.png"
+    },
+    "languages": [
+      "de",
+      "fr",
+      "it"
+    ],
+    "currencies": [
+      "CHE",
+      "CHF",
+      "CHW"
+    ],
+    "borders": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Swiss_Psalm.ogg"
+  },
+  {
+    "iso3": "SEN",
+    "iso2": "SN",
+    "region": "AF",
+    "population": 15800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/720px-Flag_of_Senegal.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/1200px-Flag_of_Senegal.svg.png"
+    },
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/1/19/Hymne_National_du_S%C3%A9n%C3%A9gal.ogg/Hymne_National_du_S%C3%A9n%C3%A9gal.ogg.mp3"
+  },
+  {
+    "iso3": "SRB",
+    "iso2": "RS",
+    "population": 7000000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/720px-Flag_of_Serbia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png"
+    },
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/8/8e/Serbian_national_anthem%2C_instrumental.oga/Serbian_national_anthem%2C_instrumental.oga.mp3"
+  },
+  {
+    "iso3": "SYC",
+    "iso2": "SC",
+    "region": "AF",
+    "population": 90000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/720px-Flag_of_Seychelles.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/1200px-Flag_of_Seychelles.svg.png"
+    },
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "currencies": [
+      "SCR"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/sc.mp3"
+  },
+  {
+    "iso3": "SLE",
+    "iso2": "SL",
+    "region": "AF",
+    "population": 7600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/720px-Flag_of_Sierra_Leone.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/1200px-Flag_of_Sierra_Leone.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "SLL"
+    ],
+    "borders": [
+      "GIN",
+      "LBR"
+    ],
+    "anthem": "http://www.nationalanthems.info/sl.mp3"
+  },
+  {
+    "iso3": "ZWE",
+    "iso2": "ZW",
+    "region": "AF",
+    "population": 16600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/720px-Flag_of_Zimbabwe.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/1200px-Flag_of_Zimbabwe.svg.png"
+    },
+    "languages": [
+      "en",
+      "sn",
+      "nd"
+    ],
+    "currencies": [
+      "USD"
+    ],
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "anthem": "http://www.nationalanthems.info/zw.mp3"
+  },
+  {
+    "iso3": "SGP",
+    "iso2": "SG",
+    "region": "AS",
+    "population": 5700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/720px-Flag_of_Singapore.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/1200px-Flag_of_Singapore.svg.png"
+    },
+    "languages": [
+      "en",
+      "ms",
+      "ta",
+      "zh"
+    ],
+    "currencies": [
+      "SGD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/74/Majulah_Singapura.ogg/Majulah_Singapura.ogg.mp3"
+  },
+  {
+    "iso3": "SVK",
+    "iso2": "SK",
+    "region": "EU",
+    "population": 5400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/720px-Flag_of_Slovakia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1200px-Flag_of_Slovakia.svg.png"
+    },
+    "languages": [
+      "sk"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "anthem": "http://www.nationalanthems.info/sk.mp3"
+  },
+  {
+    "iso3": "SVN",
+    "iso2": "SI",
+    "region": "EU",
+    "population": 2100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/720px-Flag_of_Slovenia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1200px-Flag_of_Slovenia.svg.png"
+    },
+    "languages": [
+      "sl"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zdravljica.ogg"
+  },
+  {
+    "iso3": "SOM",
+    "iso2": "SO",
+    "region": "AF",
+    "population": 14700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/720px-Flag_of_Somalia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/1200px-Flag_of_Somalia.svg.png"
+    },
+    "languages": [
+      "so",
+      "ar"
+    ],
+    "currencies": [
+      "SOS"
+    ],
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/86/National_anthem_of_somalia.ogg"
+  },
+  {
+    "iso3": "ESP",
+    "iso2": "ES",
+    "region": "EU",
+    "population": 46600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/720px-Flag_of_Spain.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "LKA",
+    "iso2": "LK",
+    "region": "AS",
+    "population": 21400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/720px-Flag_of_Sri_Lanka.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/1200px-Flag_of_Sri_Lanka.svg.png"
+    },
+    "languages": [
+      "si",
+      "ta"
+    ],
+    "currencies": [
+      "LKR"
+    ],
+    "borders": [
+      "IND"
+    ],
+    "anthem": "http://www.nationalanthems.info/lk.mp3"
+  },
+  {
+    "iso3": "KNA",
+    "iso2": "KN",
+    "region": "AM",
+    "population": 50000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/720px-Flag_of_Saint_Kitts_and_Nevis.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg/1200px-Flag_of_Saint_Kitts_and_Nevis.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/United_States_Navy_Band_-_O_Land_of_Beauty.ogg"
+  },
+  {
+    "iso3": "LCA",
+    "iso2": "LC",
+    "region": "AM",
+    "population": 200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/720px-Flag_of_Saint_Lucia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Saint_Lucia.svg/1200px-Flag_of_Saint_Lucia.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/lc.mp3"
+  },
+  {
+    "iso3": "VCT",
+    "iso2": "VC",
+    "region": "AM",
+    "population": 104000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/720px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg/1200px-Flag_of_Saint_Vincent_and_the_Grenadines.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "XCD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/vc.mp3"
+  },
+  {
+    "iso3": "ZAF",
+    "iso2": "ZA",
+    "region": "AF",
+    "population": 56500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/720px-Flag_of_South_Africa.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/1200px-Flag_of_South_Africa.svg.png"
+    },
+    "languages": [
+      "af",
+      "en",
+      "nr",
+      "st",
+      "ss",
+      "tn",
+      "ts",
+      "ve",
+      "xh",
+      "zu"
+    ],
+    "currencies": [
+      "ZAR"
+    ],
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga"
+  },
+  {
+    "iso3": "SDN",
+    "iso2": "SD",
+    "region": "AF",
+    "population": 40600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/720px-Flag_of_Sudan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/1200px-Flag_of_Sudan.svg.png"
+    },
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "currencies": [
+      "SDG"
+    ],
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Sudan.ogg/Sudan.ogg.mp3"
+  },
+  {
+    "iso3": "SOS",
+    "population": 51000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_South_Ossetia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/720px-Flag_of_South_Ossetia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1200px-Flag_of_South_Ossetia.svg.png"
+    }
+  },
+  {
+    "iso3": "SSD",
+    "iso2": "SS",
+    "region": "AF",
+    "population": 12600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/720px-Flag_of_South_Sudan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/1200px-Flag_of_South_Sudan.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "SSP"
+    ],
+    "borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "anthem": "http://www.nationalanthems.info/ss.mp3"
+  },
+  {
+    "iso3": "SUR",
+    "iso2": "SR",
+    "region": "SA",
+    "population": 600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/720px-Flag_of_Suriname.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Flag_of_Suriname.svg/1200px-Flag_of_Suriname.svg.png"
+    },
+    "languages": [
+      "nl"
+    ],
+    "currencies": [
+      "SRD"
+    ],
+    "borders": [
+      "BRA",
+      "GUF",
+      "FRA",
+      "GUY"
+    ],
+    "anthem": "http://www.nationalanthems.info/sr.mp3"
+  },
+  {
+    "iso3": "SWZ",
+    "iso2": "SZ",
+    "region": "AF",
+    "population": 1400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Swaziland.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/720px-Flag_of_Swaziland.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/1200px-Flag_of_Swaziland.svg.png"
+    },
+    "languages": [
+      "en",
+      "ss"
+    ],
+    "currencies": [
+      "SZL"
+    ],
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "anthem": "http://www.nationalanthems.info/sz.mp3"
+  },
+  {
+    "iso3": "SYR",
+    "iso2": "SY",
+    "region": "AS",
+    "population": 18300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/720px-Flag_of_Syria.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/1200px-Flag_of_Syria.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "SYP"
+    ],
+    "borders": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "anthem": "http://www.nationalanthems.info/sy.mp3"
+  },
+  {
+    "iso3": "TJK",
+    "iso2": "TJ",
+    "region": "AS",
+    "population": 8800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/720px-Flag_of_Tajikistan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/1200px-Flag_of_Tajikistan.svg.png"
+    },
+    "languages": [
+      "tg",
+      "ru"
+    ],
+    "currencies": [
+      "TJS"
+    ],
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/b/b9/Tajikistan_anthem.ogg/Tajikistan_anthem.ogg.mp3"
+  },
+  {
+    "iso3": "TZA",
+    "iso2": "TZ",
+    "region": "AF",
+    "population": 57500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/720px-Flag_of_Tanzania.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/1200px-Flag_of_Tanzania.svg.png"
+    },
+    "languages": [
+      "sw",
+      "en"
+    ],
+    "currencies": [
+      "TZS"
+    ],
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tanzanian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+  },
+  {
+    "iso3": "THA",
+    "iso2": "TH",
+    "region": "AS",
+    "population": 66100000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/720px-Flag_of_Thailand.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1200px-Flag_of_Thailand.svg.png"
+    },
+    "languages": [
+      "th"
+    ],
+    "currencies": [
+      "THB"
+    ],
+    "borders": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Thai_National_Anthem_-_US_Navy_Band.ogg"
+  },
+  {
+    "iso3": "TGO",
+    "iso2": "TG",
+    "region": "AF",
+    "population": 7800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/720px-Flag_of_Togo.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1200px-Flag_of_Togo.svg.png"
+    },
+    "languages": [
+      "fr"
+    ],
+    "currencies": [
+      "XOF"
+    ],
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "anthem": "http://www.nationalanthems.info/tg.mp3"
+  },
+  {
+    "iso3": "TON",
+    "iso2": "TO",
+    "region": "OC",
+    "population": 123000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/720px-Flag_of_Tonga.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/1200px-Flag_of_Tonga.svg.png"
+    },
+    "languages": [
+      "en",
+      "to"
+    ],
+    "currencies": [
+      "TOP"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/to.mp3"
+  },
+  {
+    "iso3": "TTO",
+    "iso2": "TT",
+    "region": "AM",
+    "population": 1400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/720px-Flag_of_Trinidad_and_Tobago.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Trinidad_and_Tobago.svg/1200px-Flag_of_Trinidad_and_Tobago.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "TTD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/tt.mp3"
+  },
+  {
+    "iso3": "TCD",
+    "iso2": "TD",
+    "region": "AF",
+    "population": 14900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/720px-Flag_of_Chad.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/1200px-Flag_of_Chad.svg.png"
+    },
+    "languages": [
+      "fr",
+      "ar"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SSD"
+    ],
+    "anthem": "http://www.nationalanthems.info/td.mp3"
+  },
+  {
+    "iso3": "CZE",
+    "iso2": "CZ",
+    "region": "EU",
+    "population": 10600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/720px-Flag_of_the_Czech_Republic.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1200px-Flag_of_the_Czech_Republic.svg.png"
+    },
+    "languages": [
+      "cs",
+      "sk"
+    ],
+    "currencies": [
+      "CZK"
+    ],
+    "borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Czech_anthem.ogg"
+  },
+  {
+    "iso3": "TUN",
+    "iso2": "TN",
+    "region": "AF",
+    "population": 11500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/720px-Flag_of_Tunisia.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "TND"
+    ],
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Humat_al-Hima.ogg"
+  },
+  {
+    "iso3": "TUR",
+    "iso2": "TR",
+    "region": "AS",
+    "population": 80900000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/720px-Flag_of_Turkey.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png"
+    },
+    "languages": [
+      "tr"
+    ],
+    "currencies": [
+      "TRY"
+    ],
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Istikl%C3%A2l_Marsi_instrumetal.ogg"
+  },
+  {
+    "iso3": "TKM",
+    "iso2": "TM",
+    "region": "AS",
+    "population": 5800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/720px-Flag_of_Turkmenistan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/1200px-Flag_of_Turkmenistan.svg.png"
+    },
+    "languages": [
+      "tk",
+      "ru"
+    ],
+    "currencies": [
+      "TMT"
+    ],
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/US_Navy_Band_-_National_Anthem_of_Turkmenistan.ogg"
+  },
+  {
+    "iso3": "TUV",
+    "iso2": "TV",
+    "region": "OC",
+    "population": 10000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/720px-Flag_of_Tuvalu.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/1200px-Flag_of_Tuvalu.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "AUD"
+    ],
+    "borders": [],
+    "anthem": "http://www.nationalanthems.info/tv.mp3"
+  },
+  {
+    "iso3": "UGA",
+    "iso2": "UG",
+    "region": "AF",
+    "population": 42800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/720px-Flag_of_Uganda.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/1200px-Flag_of_Uganda.svg.png"
+    },
+    "languages": [
+      "en",
+      "sw"
+    ],
+    "currencies": [
+      "UGX"
+    ],
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/69/Uganda_national_anthem.ogg"
+  },
+  {
+    "iso3": "UKR",
+    "iso2": "UA",
+    "region": "EU",
+    "population": 42300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/720px-Flag_of_Ukraine.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/1200px-Flag_of_Ukraine.svg.png"
+    },
+    "languages": [
+      "uk"
+    ],
+    "currencies": [
+      "UAH"
+    ],
+    "borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/f/ff/Anthem_of_Ukraine_instrumental.ogg/Anthem_of_Ukraine_instrumental.ogg.mp3"
+  },
+  {
+    "iso3": "HUN",
+    "iso2": "HU",
+    "region": "EU",
+    "population": 9800000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/720px-Flag_of_Hungary.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/1200px-Flag_of_Hungary.svg.png"
+    },
+    "languages": [
+      "hu"
+    ],
+    "currencies": [
+      "HUF"
+    ],
+    "borders": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "anthem": "http://www.nationalanthems.info/hu.mp3"
+  },
+  {
+    "iso3": "URY",
+    "iso2": "UY",
+    "region": "SA",
+    "population": 3500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/720px-Flag_of_Uruguay.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1200px-Flag_of_Uruguay.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "UYI",
+      "UYU"
+    ],
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg"
+  },
+  {
+    "iso3": "UZB",
+    "iso2": "UZ",
+    "region": "AS",
+    "population": 32600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/720px-Flag_of_Uzbekistan.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/1200px-Flag_of_Uzbekistan.svg.png"
+    },
+    "languages": [
+      "uz",
+      "ru"
+    ],
+    "currencies": [
+      "UZS"
+    ],
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Uzbekistan_anthem.ogg"
+  },
+  {
+    "iso3": "VUT",
+    "iso2": "VU",
+    "region": "OC",
+    "population": 300000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/720px-Flag_of_Vanuatu.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Vanuatu.svg/1200px-Flag_of_Vanuatu.svg.png"
+    },
+    "languages": [
+      "bi",
+      "en",
+      "fr"
+    ],
+    "currencies": [
+      "VUV"
+    ],
+    "borders": [],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/United_States_Navy_Band_-_Yumi%2C_Yumi%2C_Yumi.ogg"
+  },
+  {
+    "iso3": "VAT",
+    "iso2": "VA",
+    "population": 829,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/720px-Flag_of_the_Vatican_City.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/1200px-Flag_of_the_Vatican_City.svg.png"
+    },
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg"
+  },
+  {
+    "iso3": "VEN",
+    "iso2": "VE",
+    "region": "SA",
+    "population": 31400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/720px-Flag_of_Venezuela.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/1200px-Flag_of_Venezuela.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "VEF"
+    ],
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/United_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg"
+  },
+  {
+    "iso3": "ARE",
+    "iso2": "AE",
+    "region": "AS",
+    "population": 9400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/720px-Flag_of_the_United_Arab_Emirates.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/1200px-Flag_of_the_United_Arab_Emirates.svg.png"
+    },
+    "languages": [
+      "ar"
+    ],
+    "currencies": [
+      "AED"
+    ],
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "anthem": "http://www.nationalanthems.info/ae.mp3"
+  },
+  {
+    "iso3": "USA",
+    "iso2": "US",
+    "region": "AM",
+    "population": 325400000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/720px-Flag_of_the_United_States.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/1200px-Flag_of_the_United_States.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "USD",
+      "USN",
+      "USS"
+    ],
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/transcoded/6/65/Star_Spangled_Banner_instrumental.ogg/Star_Spangled_Banner_instrumental.ogg.mp3"
+  },
+  {
+    "iso3": "GBR",
+    "region": "EU",
+    "population": 66200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/720px-Flag_of_the_United_Kingdom.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+    },
+    "languages": [
+      "en"
+    ],
+    "currencies": [
+      "GBP"
+    ],
+    "borders": [
+      "IRL"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+  },
+  {
+    "iso3": "VNM",
+    "iso2": "VN",
+    "region": "AS",
+    "population": 93700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/720px-Flag_of_Vietnam.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/1200px-Flag_of_Vietnam.svg.png"
+    },
+    "languages": [
+      "vi"
+    ],
+    "currencies": [
+      "VND"
+    ],
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/73/United_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg"
+  },
+  {
+    "iso3": "BLR",
+    "iso2": "BY",
+    "region": "EU",
+    "population": 9500000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/720px-Flag_of_Belarus.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/1200px-Flag_of_Belarus.svg.png"
+    },
+    "languages": [
+      "be",
+      "ru"
+    ],
+    "currencies": [
+      "BYR"
+    ],
+    "borders": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/46/My_Belarusy.ogg"
+  },
+  {
+    "iso3": "ESH",
+    "iso2": "EH",
+    "region": "AF",
+    "population": 600000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/720px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/1200px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
+    },
+    "languages": [
+      "es"
+    ],
+    "currencies": [
+      "MAD",
+      "DZD",
+      "MRO"
+    ],
+    "borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ],
+    "anthem": "http://www.nationalanthems.info/eh.mp3"
+  },
+  {
+    "iso3": "CAF",
+    "iso2": "CF",
+    "region": "AF",
+    "population": 4700000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/720px-Flag_of_the_Central_African_Republic.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1200px-Flag_of_the_Central_African_Republic.svg.png"
+    },
+    "languages": [
+      "fr",
+      "sg"
+    ],
+    "currencies": [
+      "XAF"
+    ],
+    "borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "anthem": "http://www.nationalanthems.info/cf.mp3"
+  },
+  {
+    "iso3": "CYP",
+    "iso2": "CY",
+    "region": "EU",
+    "population": 1200000,
+    "flag": {
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/720px-Flag_of_Cyprus.svg.png",
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/1200px-Flag_of_Cyprus.svg.png"
+    },
+    "languages": [
+      "el",
+      "tr",
+      "hy"
+    ],
+    "currencies": [
+      "EUR"
+    ],
+    "borders": [
+      "GBR"
+    ],
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga"
+  }
+]
