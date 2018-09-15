@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "generate-data": "bin/generate-data --destination src/data/",
+    "generate-data": "bin/generate-data.ts --destination src/data/",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "tslint --project tsconfig.json",
     "lint:fix": "npm run lint -- --fix",
@@ -14,12 +14,12 @@
   "author": "corux",
   "license": "ISC",
   "devDependencies": {
+    "axios": "^0.18.0",
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.18.0",
     "countryjs": "^1.8.0",
-    "nomnom": "^1.8.1",
-    "request": "^2.88.0",
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
     "typescript": "^2.7.2"

@@ -17,63 +17,6 @@ let { destination } = nomnom
   .option('destination', { required: true, callback: exists })
   .parse();
 
-function fixCountryName(name) {
-  const fixedNames = {
-    'Korea, Süd': 'Südkorea',
-    'Korea, Nord': 'Nordkorea',
-    'Kongo, Demokratische Republik': 'Demokratische Republik Kongo',
-    'Kongo, Republik': 'Republik Kongo'
-  };
-  return fixedNames[name] || name;
-}
-
-function getAlternativeNames(name) {
-  const altNames = {
-    'Vereinigtes Königreich': ['England', 'Großbritannien'],
-    'Vereinigte Staaten': ['USA'],
-    'Volksrepublik China': ['China'],
-    'Republik China': ['Taiwan']
-  };
-  return altNames[name] || [];
-}
-
-function fixCapitalName(name) {
-  if (name.toLowerCase() === "stadtstaat") {
-    return;
-  }
-
-  return name;
-}
-
-function fixAnthemName(name) {
-  if (['nationalhymne', 'hymne'].indexOf(name.toLowerCase()) !== -1) {
-    return;
-  }
-
-  return name;
-}
-
-function getRegionCode(countryJsData) {
-  switch (countryJsData.subregion) {
-    case 'South America':
-      return 'SA';
-    case 'North America':
-      return 'NA';
-  }
-  switch (countryJsData.region) {
-    case 'Americas':
-      return 'AM';
-    case 'Africa':
-      return 'AF';
-    case 'Europe':
-      return 'EU';
-    case 'Asia':
-      return 'AS';
-    case 'Oceania':
-      return 'OC';
-  }
-}
-
 request('https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde', (error, response, body) => {
   // parse wikipedia table
   var $ = cheerio.load(body);
