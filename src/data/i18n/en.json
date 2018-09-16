@@ -259,6 +259,9 @@
       "adjectives": [
         "Chinese"
       ],
+      "altNames": [
+        "China"
+      ],
       "anthemName": "March of the Volunteers",
       "capital": "Beijing",
       "name": "People's Republic of China"
@@ -1450,6 +1453,9 @@
     "TWN": {
       "adjectives": [
         "Taiwanese"
+      ],
+      "altNames": [
+        "Taiwan"
       ],
       "anthemName": "Three Principles of the People",
       "capital": "Taipei",

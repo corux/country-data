@@ -1,8 +1,6 @@
 {
   "countries": {
     "ABC": {
-      "altNames": [
-      ],
       "capital": "Sochumi",
       "longName": "Republik Abchasien",
       "name": "Abchasien"
@@ -11,8 +9,6 @@
       "adjectives": [
         "afghanisch"
       ],
-      "altNames": [
-      ],
       "capital": "Kabul",
       "longName": "Islamische Republik Afghanistan",
       "name": "Afghanistan"
@@ -20,8 +16,6 @@
     "AGO": {
       "adjectives": [
         "angolanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Vorwärts Angola",
       "capital": "Luanda",
@@ -32,8 +26,6 @@
       "adjectives": [
         "albanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Hymne an die Flagge",
       "capital": "Tirana",
       "longName": "Republik Albanien",
@@ -43,16 +35,12 @@
       "adjectives": [
         "andorranisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Der große Karl der Große",
       "capital": "Andorra la Vella",
       "longName": "Fürstentum Andorra",
       "name": "Andorra"
     },
     "ARE": {
-      "altNames": [
-      ],
       "anthemName": "Lang lebe mein Land",
       "capital": "Abu Dhabi",
       "longName": "Vereinigte Arabische Emirate",
@@ -61,8 +49,6 @@
     "ARG": {
       "adjectives": [
         "argentinisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Argentinische Nationalhymne",
       "capital": "Buenos Aires",
@@ -73,8 +59,6 @@
       "adjectives": [
         "armenisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Unser Vaterland",
       "capital": "Jerewan",
       "longName": "Republik Armenien",
@@ -83,8 +67,6 @@
     "ATG": {
       "adjectives": [
         "antiguanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Schönes Antigua und Barbuda",
       "capital": "Saint John’s",
@@ -95,16 +77,12 @@
       "adjectives": [
         "australisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Schreite voran, schönes, glückliches Australien",
       "capital": "Canberra",
       "longName": "Australien",
       "name": "Australien"
     },
     "AUT": {
-      "altNames": [
-      ],
       "anthemName": "Österreichische Bundeshymne",
       "capital": "Wien",
       "longName": "Republik Österreich",
@@ -113,8 +91,6 @@
     "AZE": {
       "adjectives": [
         "aserbaidschanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Marsch von Aserbaidschan",
       "capital": "Baku",
@@ -125,8 +101,6 @@
       "adjectives": [
         "burundisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Geliebtes Burundi",
       "capital": "Bujumbura",
       "longName": "Republik Burundi",
@@ -135,8 +109,6 @@
     "BEL": {
       "adjectives": [
         "belgisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Brabantlied",
       "capital": "Brüssel",
@@ -147,8 +119,6 @@
       "adjectives": [
         "beninisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Der Anbruch eines neuen Tages",
       "capital": "Porto-Novo",
       "longName": "Republik Benin",
@@ -157,8 +127,6 @@
     "BFA": {
       "adjectives": [
         "burkinisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Ditanyè",
       "capital": "Ouagadougou",
@@ -169,8 +137,6 @@
       "adjectives": [
         "bangladeschisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Mein goldenes Bengalen",
       "capital": "Dhaka",
       "longName": "Volksrepublik Bangladesch",
@@ -179,8 +145,6 @@
     "BGR": {
       "adjectives": [
         "bulgarisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Liebe Heimat",
       "capital": "Sofia",
@@ -191,8 +155,6 @@
       "adjectives": [
         "bahrainisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Unser Bahrain",
       "capital": "Manama",
       "longName": "Königreich Bahrain",
@@ -202,8 +164,6 @@
       "adjectives": [
         "bahamaisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Marschiere voran, Bahama",
       "capital": "Nassau",
       "longName": "Commonwealth der Bahamas",
@@ -212,8 +172,6 @@
     "BIH": {
       "adjectives": [
         "bosnisch-herzegowinisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Intermeco",
       "capital": "Sarajevo",
@@ -225,8 +183,6 @@
         "belarussisch",
         "weißrussisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Wir Weißrussen",
       "capital": "Minsk",
       "longName": "Republik Belarus",
@@ -235,8 +191,6 @@
     "BLZ": {
       "adjectives": [
         "belizisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Land der Freien",
       "capital": "Belmopan",
@@ -247,8 +201,6 @@
       "adjectives": [
         "bolivianisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Bolivianer, das günstige Schicksal",
       "capital": "Sucre",
       "longName": "Plurinationaler Staat Bolivien",
@@ -257,8 +209,6 @@
     "BRA": {
       "adjectives": [
         "brasilianisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Brasilianische Nationalhymne",
       "capital": "Brasília",
@@ -269,8 +219,6 @@
       "adjectives": [
         "barbadisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "In guten wie in schlechten Zeiten",
       "capital": "Bridgetown",
       "longName": "Barbados",
@@ -279,8 +227,6 @@
     "BRN": {
       "adjectives": [
         "bruneiisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Gott segne den Sultan",
       "capital": "Bandar Seri Begawan",
@@ -291,8 +237,6 @@
       "adjectives": [
         "bhutanisch"
       ],
-      "altNames": [
-      ],
       "capital": "Thimphu",
       "longName": "Königreich Bhutan",
       "name": "Bhutan"
@@ -301,8 +245,6 @@
       "adjectives": [
         "botswanisch",
         "botsuanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Gesegnet sei dies edle Land",
       "capital": "Gaborone",
@@ -313,8 +255,6 @@
       "adjectives": [
         "zentralafrikanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Die Wiedergeburt",
       "capital": "Bangui",
       "longName": "Zentralafrikanische Republik",
@@ -323,8 +263,6 @@
     "CAN": {
       "adjectives": [
         "kanadisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Oh Kanada",
       "capital": "Ottawa",
@@ -336,8 +274,6 @@
         "Schweizer",
         "schweizerisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Schweizerpsalm",
       "capital": "Bern",
       "longName": "Schweizerische Eidgenossenschaft",
@@ -346,8 +282,6 @@
     "CHL": {
       "adjectives": [
         "chilenisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Rein ist, Chile",
       "capital": "Santiago de Chile",
@@ -370,8 +304,6 @@
       "adjectives": [
         "ivorisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Lied von Abidjan",
       "capital": "Yamoussoukro",
       "longName": "Republik Côte d’Ivoire",
@@ -380,8 +312,6 @@
     "CMR": {
       "adjectives": [
         "kamerunisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Versammlungslied",
       "capital": "Yaoundé",
@@ -392,8 +322,6 @@
       "adjectives": [
         "kongolesisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Stehe auf, Kongolese",
       "capital": "Kinshasa",
       "longName": "Demokratische Republik Kongo",
@@ -403,16 +331,12 @@
       "adjectives": [
         "kongolesisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Kongolied",
       "capital": "Brazzaville",
       "longName": "Republik Kongo",
       "name": "Republik Kongo"
     },
     "COK": {
-      "altNames": [
-      ],
       "capital": "Avarua",
       "longName": "Cookinseln",
       "name": "Cookinseln"
@@ -420,8 +344,6 @@
     "COL": {
       "adjectives": [
         "kolumbianisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Nationalhymne der Republik Kolumbien",
       "capital": "Bogotá",
@@ -431,8 +353,6 @@
     "COM": {
       "adjectives": [
         "komorisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Die Einheit der großen Inseln",
       "capital": "Moroni",
@@ -444,8 +364,6 @@
         "kapverdisch",
         "kap-verdisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Lied der Freiheit",
       "capital": "Praia",
       "longName": "Republik Cabo Verde",
@@ -454,8 +372,6 @@
     "CRI": {
       "adjectives": [
         "costa-ricanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Edles Vaterland, deine schöne Flagge",
       "capital": "San José",
@@ -466,8 +382,6 @@
       "adjectives": [
         "kubanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Bayamolied",
       "capital": "Havanna",
       "longName": "Republik Kuba",
@@ -476,8 +390,6 @@
     "CYP": {
       "adjectives": [
         "zyprisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Ode an die Freiheit",
       "capital": "Nikosia",
@@ -488,8 +400,6 @@
       "adjectives": [
         "tschechisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Wo ist mein Heimatland?",
       "capital": "Prag",
       "longName": "Tschechische Republik",
@@ -498,8 +408,6 @@
     "DEU": {
       "adjectives": [
         "deutsch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Deutsche Nationalhymne (Lied der Deutschen, nur dritte Strophe)",
       "capital": "Berlin",
@@ -510,8 +418,6 @@
       "adjectives": [
         "dschibutisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Dschibuti",
       "capital": "Dschibuti-Stadt",
       "longName": "Republik Dschibuti",
@@ -520,8 +426,6 @@
     "DMA": {
       "adjectives": [
         "dominicanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Insel der Schönheit, Insel der Pracht",
       "capital": "Roseau",
@@ -532,8 +436,6 @@
       "adjectives": [
         "dänisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Es gibt ein liebliches Land",
       "capital": "Kopenhagen",
       "longName": "Königreich Dänemark",
@@ -542,8 +444,6 @@
     "DOM": {
       "adjectives": [
         "dominikanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Tapfere Söhne von Quisqueya",
       "capital": "Santo Domingo",
@@ -554,8 +454,6 @@
       "adjectives": [
         "algerisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Wir geloben",
       "capital": "Algier",
       "longName": "Demokratische Volksrepublik Algerien",
@@ -565,16 +463,12 @@
       "adjectives": [
         "ecuadorianisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Wir grüßen unsere Heimat",
       "capital": "Quito",
       "longName": "Republik Ecuador",
       "name": "Ecuador"
     },
     "EGY": {
-      "altNames": [
-      ],
       "anthemName": "Mein Heimatland, mein Heimatland, mein Heimatland",
       "capital": "Kairo",
       "longName": "Arabische Republik Ägypten",
@@ -583,8 +477,6 @@
     "ERI": {
       "adjectives": [
         "eritreisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Eritrea, Eritrea, Eritrea",
       "capital": "Asmara",
@@ -595,8 +487,6 @@
       "adjectives": [
         "saharauisch"
       ],
-      "altNames": [
-      ],
       "capital": "El Aaiún",
       "longName": "Demokratische Arabische Republik Sahara",
       "name": "Westsahara"
@@ -604,8 +494,6 @@
     "ESP": {
       "adjectives": [
         "spanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Königlicher Marsch",
       "capital": "Madrid",
@@ -616,16 +504,12 @@
       "adjectives": [
         "estnisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Mein Heimatland, mein Glück und meine Freude",
       "capital": "Tallinn",
       "longName": "Republik Estland",
       "name": "Estland"
     },
     "ETH": {
-      "altNames": [
-      ],
       "anthemName": "Marschiere voran, liebe Mutter Äthiopien",
       "capital": "Addis Abeba",
       "longName": "Demokratische Bundesrepublik Äthiopien",
@@ -634,8 +518,6 @@
     "FIN": {
       "adjectives": [
         "finnisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Unser Land",
       "capital": "Helsinki",
@@ -646,8 +528,6 @@
       "adjectives": [
         "fidschianisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Gott schütze Fidschi",
       "capital": "Suva",
       "longName": "Republik Fidschi",
@@ -656,8 +536,6 @@
     "FRA": {
       "adjectives": [
         "französisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Marseillelied",
       "capital": "Paris",
@@ -668,8 +546,6 @@
       "adjectives": [
         "mikronesisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Patrioten von Mikronesien",
       "capital": "Palikir",
       "longName": "Föderierte Staaten von Mikronesien",
@@ -678,8 +554,6 @@
     "GAB": {
       "adjectives": [
         "gabunisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Die Eintracht",
       "capital": "Libreville",
@@ -703,8 +577,6 @@
       "adjectives": [
         "georgisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Freiheit",
       "capital": "Tiflis",
       "longName": "Georgien",
@@ -713,8 +585,6 @@
     "GHA": {
       "adjectives": [
         "ghanaisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Gott segne unser Heimatland Ghana",
       "capital": "Accra",
@@ -725,8 +595,6 @@
       "adjectives": [
         "guineisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Freiheit",
       "capital": "Conakry",
       "longName": "Republik Guinea",
@@ -735,8 +603,6 @@
     "GMB": {
       "adjectives": [
         "gambisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Für Gambia, unser Heimatland",
       "capital": "Banjul",
@@ -747,16 +613,12 @@
       "adjectives": [
         "guinea-bissauisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Dies ist unser geliebtes Land",
       "capital": "Bissau",
       "longName": "Republik Guinea-Bissau",
       "name": "Guinea-Bissau"
     },
     "GNQ": {
-      "altNames": [
-      ],
       "anthemName": "Lasst uns den Weg unserer großen Freude gehen",
       "capital": "Malabo",
       "longName": "Republik Äquatorialguinea",
@@ -765,8 +627,6 @@
     "GRC": {
       "adjectives": [
         "griechisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Ode an die Freiheit",
       "capital": "Athen",
@@ -777,8 +637,6 @@
       "adjectives": [
         "grenadisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Heil Grenada",
       "capital": "St. George’s",
       "longName": "Grenada",
@@ -787,8 +645,6 @@
     "GTM": {
       "adjectives": [
         "guatemaltekisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Glückliches Guatemala",
       "capital": "Guatemala-Stadt",
@@ -799,8 +655,6 @@
       "adjectives": [
         "guyanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Geliebtes Land Guyana der Flüsse und Ebenen",
       "capital": "Georgetown",
       "longName": "Kooperative Republik Guyana",
@@ -809,8 +663,6 @@
     "HND": {
       "adjectives": [
         "honduranisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Nationalhymne von Honduras",
       "capital": "Tegucigalpa",
@@ -821,8 +673,6 @@
       "adjectives": [
         "kroatisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Unser schönes Heimatland",
       "capital": "Zagreb",
       "longName": "Republik Kroatien",
@@ -831,8 +681,6 @@
     "HTI": {
       "adjectives": [
         "haitianisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Lied von Dessalines",
       "capital": "Port-au-Prince",
@@ -843,8 +691,6 @@
       "adjectives": [
         "ungarisch"
       ],
-      "altNames": [
-      ],
       "capital": "Budapest",
       "longName": "Ungarn",
       "name": "Ungarn"
@@ -852,8 +698,6 @@
     "IDN": {
       "adjectives": [
         "indonesisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Großes Indonesien",
       "capital": "Jakarta",
@@ -864,8 +708,6 @@
       "adjectives": [
         "indisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Herrscher über den Geist des Volkes",
       "capital": "Neu-Delhi",
       "longName": "Republik Indien",
@@ -874,8 +716,6 @@
     "IRL": {
       "adjectives": [
         "irisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Das Soldatenlied",
       "capital": "Dublin",
@@ -886,8 +726,6 @@
       "adjectives": [
         "iranisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Nationalhymne der Islamischen Republik Iran",
       "capital": "Teheran",
       "longName": "Islamische Republik Iran",
@@ -896,8 +734,6 @@
     "IRQ": {
       "adjectives": [
         "irakisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Meine Heimat",
       "capital": "Bagdad",
@@ -908,8 +744,6 @@
       "adjectives": [
         "isländisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Lobgesang",
       "capital": "Reykjavík",
       "longName": "Republik Island",
@@ -918,8 +752,6 @@
     "ISR": {
       "adjectives": [
         "israelisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Die Hoffnung",
       "capital": "Jerusalem",
@@ -930,8 +762,6 @@
       "adjectives": [
         "italienisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Brüder Italiens",
       "capital": "Rom",
       "longName": "Italienische Republik",
@@ -940,8 +770,6 @@
     "JAM": {
       "adjectives": [
         "jamaikanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Jamaika, das Land, das wir lieben",
       "capital": "Kingston",
@@ -952,8 +780,6 @@
       "adjectives": [
         "jordanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Lang lebe der König",
       "capital": "Amman",
       "longName": "Haschemitisches Königreich Jordanien",
@@ -962,8 +788,6 @@
     "JPN": {
       "adjectives": [
         "japanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Deine Herrschaft",
       "capital": "Tokio",
@@ -974,8 +798,6 @@
       "adjectives": [
         "kasachisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Mein Kasachstan",
       "capital": "Astana",
       "longName": "Republik Kasachstan",
@@ -984,8 +806,6 @@
     "KEN": {
       "adjectives": [
         "kenianisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Oh Gott allen Ursprungs",
       "capital": "Nairobi",
@@ -996,8 +816,6 @@
       "adjectives": [
         "kirgisisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Hohe Berge und Täler",
       "capital": "Bischkek",
       "longName": "Kirgisische Republik",
@@ -1006,8 +824,6 @@
     "KHM": {
       "adjectives": [
         "kambodschanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Königreich",
       "capital": "Phnom Penh",
@@ -1018,16 +834,12 @@
       "adjectives": [
         "kiribatisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Steht auf, Kiribatier!",
       "capital": "South Tarawa",
       "longName": "Republik Kiribati",
       "name": "Kiribati"
     },
     "KNA": {
-      "altNames": [
-      ],
       "anthemName": "Oh Land der Schönheit",
       "capital": "Basseterre",
       "longName": "Föderation St. Kitts und Nevis",
@@ -1036,8 +848,6 @@
     "KOR": {
       "adjectives": [
         "koreanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Lied der Liebe für das Land",
       "capital": "Seoul",
@@ -1048,8 +858,6 @@
       "adjectives": [
         "kuwaitisch"
       ],
-      "altNames": [
-      ],
       "capital": "Kuwait-Stadt",
       "longName": "Staat Kuwait",
       "name": "Kuwait"
@@ -1057,8 +865,6 @@
     "LAO": {
       "adjectives": [
         "laotisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Hymne des Volkes von Laos",
       "capital": "Vientiane",
@@ -1069,8 +875,6 @@
       "adjectives": [
         "libanesisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Wir alle! Für das Vaterland, den Ruhm und die Flagge!",
       "capital": "Beirut",
       "longName": "Libanesische Republik",
@@ -1079,8 +883,6 @@
     "LBR": {
       "adjectives": [
         "liberianisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Heil dir, Liberia, heil!",
       "capital": "Monrovia",
@@ -1091,8 +893,6 @@
       "adjectives": [
         "libysch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Libyen, Libyen, Libyen",
       "capital": "Tripolis",
       "longName": "Libyen",
@@ -1101,8 +901,6 @@
     "LCA": {
       "adjectives": [
         "lucianisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Söhne und Töchter von St. Lucia",
       "capital": "Castries",
@@ -1113,8 +911,6 @@
       "adjectives": [
         "liechtensteinisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Oben am jungen Rhein",
       "capital": "Vaduz",
       "longName": "Fürstentum Liechtenstein",
@@ -1123,8 +919,6 @@
     "LKA": {
       "adjectives": [
         "sri-lankisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Mutter Sri Lanka",
       "capital": "Colombo",
@@ -1135,8 +929,6 @@
       "adjectives": [
         "lesothisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Lesotho, das Land unserer Väter",
       "capital": "Maseru",
       "longName": "Königreich Lesotho",
@@ -1145,8 +937,6 @@
     "LTU": {
       "adjectives": [
         "litauisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Das Nationallied",
       "capital": "Vilnius",
@@ -1157,8 +947,6 @@
       "adjectives": [
         "luxemburgisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Unsere Heimat",
       "capital": "Luxemburg",
       "longName": "Großherzogtum Luxemburg",
@@ -1167,8 +955,6 @@
     "LVA": {
       "adjectives": [
         "lettisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Gott segne Lettland",
       "capital": "Riga",
@@ -1179,8 +965,6 @@
       "adjectives": [
         "marokkanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "die Scherifische Hymne",
       "capital": "Rabat",
       "longName": "Königreich Marokko",
@@ -1189,8 +973,6 @@
     "MCO": {
       "adjectives": [
         "monegassisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Monegassische Hymne",
       "longName": "Fürstentum Monaco",
@@ -1201,8 +983,6 @@
         "moldauisch",
         "moldavisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Unsere Sprache",
       "capital": "Chișinău",
       "longName": "Republik Moldau",
@@ -1211,8 +991,6 @@
     "MDG": {
       "adjectives": [
         "madagassisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Oh, unser geliebtes Vaterland",
       "capital": "Antananarivo",
@@ -1223,8 +1001,6 @@
       "adjectives": [
         "maledivisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Nationaler Gruß",
       "capital": "Malé",
       "longName": "Republik Malediven",
@@ -1233,8 +1009,6 @@
     "MEX": {
       "adjectives": [
         "mexikanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Mexikanische Nationalhymne",
       "capital": "Mexiko-Stadt",
@@ -1245,8 +1019,6 @@
       "adjectives": [
         "marshallisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Die Marshallinseln über alles",
       "capital": "Majuro",
       "longName": "Republik Marshallinseln",
@@ -1255,8 +1027,6 @@
     "MKD": {
       "adjectives": [
         "mazedonisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Heute über Mazedonien",
       "capital": "Skopje",
@@ -1267,8 +1037,6 @@
       "adjectives": [
         "malisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Mali",
       "capital": "Bamako",
       "longName": "Republik Mali",
@@ -1277,8 +1045,6 @@
     "MLT": {
       "adjectives": [
         "maltesisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Die Hymne Maltas",
       "capital": "Valletta",
@@ -1291,8 +1057,6 @@
         "birmanisch",
         "burmesisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Bis zum Ende der Welt",
       "capital": "Naypyidaw",
       "longName": "Republik der Union Myanmar",
@@ -1301,8 +1065,6 @@
     "MNE": {
       "adjectives": [
         "montenegrinisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Oh, du helle Morgenröte im Mai",
       "capital": "Podgorica",
@@ -1313,8 +1075,6 @@
       "adjectives": [
         "mongolisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Mongolische Nationalhymne",
       "capital": "Ulaanbaatar",
       "longName": "Mongolei",
@@ -1323,8 +1083,6 @@
     "MOZ": {
       "adjectives": [
         "mosambikanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Geliebtes Vaterland",
       "capital": "Maputo",
@@ -1335,8 +1093,6 @@
       "adjectives": [
         "mauretanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Nationalhymne Mauretaniens",
       "capital": "Nouakchott",
       "longName": "Islamische Republik Mauretanien",
@@ -1345,8 +1101,6 @@
     "MUS": {
       "adjectives": [
         "mauritisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Mutterland",
       "capital": "Port Louis",
@@ -1357,8 +1111,6 @@
       "adjectives": [
         "malawisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Gott segne Malawi",
       "capital": "Lilongwe",
       "longName": "Republik Malawi",
@@ -1367,8 +1119,6 @@
     "MYS": {
       "adjectives": [
         "malaysisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Mein Land",
       "capital": "Kuala Lumpur",
@@ -1379,8 +1129,6 @@
       "adjectives": [
         "namibisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Namibia, Land der Mutigen",
       "capital": "Windhoek",
       "longName": "Republik Namibia",
@@ -1389,8 +1137,6 @@
     "NER": {
       "adjectives": [
         "nigrisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Nigerlied",
       "capital": "Niamey",
@@ -1401,8 +1147,6 @@
       "adjectives": [
         "nigerianisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Erhebt euch, Landsleute, folgt Nigerias Ruf",
       "capital": "Abuja",
       "longName": "Bundesrepublik Nigeria",
@@ -1411,8 +1155,6 @@
     "NIC": {
       "adjectives": [
         "nicaraguanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Sei gegrüßt, Nicaragua",
       "capital": "Managua",
@@ -1423,8 +1165,6 @@
       "adjectives": [
         "niueanisch"
       ],
-      "altNames": [
-      ],
       "capital": "Alofi",
       "longName": "Niue",
       "name": "Niue"
@@ -1432,8 +1172,6 @@
     "NLD": {
       "adjectives": [
         "niederländisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Wilhelmlied",
       "capital": "Amsterdam",
@@ -1444,8 +1182,6 @@
       "adjectives": [
         "norwegisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Ja, wir lieben dieses Land",
       "capital": "Oslo",
       "longName": "Königreich Norwegen",
@@ -1454,8 +1190,6 @@
     "NPL": {
       "adjectives": [
         "nepalesisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Hunderte von Blumen",
       "capital": "Kathmandu",
@@ -1466,8 +1200,6 @@
       "adjectives": [
         "nauruisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Nauru, unser Heimatland",
       "capital": "Yaren",
       "longName": "Republik Nauru",
@@ -1476,8 +1208,6 @@
     "NZL": {
       "adjectives": [
         "neuseeländisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Gott beschütze Neuseeland",
       "capital": "Wellington",
@@ -1488,8 +1218,6 @@
       "adjectives": [
         "omanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Nationalhymne Omans",
       "capital": "Maskat",
       "longName": "Sultanat Oman",
@@ -1499,8 +1227,6 @@
       "adjectives": [
         "pakistanisch"
       ],
-      "altNames": [
-      ],
       "capital": "Islamabad",
       "longName": "Islamische Republik Pakistan",
       "name": "Pakistan"
@@ -1508,8 +1234,6 @@
     "PAN": {
       "adjectives": [
         "panamaisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Hymne des Isthmus",
       "capital": "Panama-Stadt",
@@ -1520,8 +1244,6 @@
       "adjectives": [
         "peruanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Wir sind frei, lasst uns so für immer bleiben",
       "capital": "Lima",
       "longName": "Republik Peru",
@@ -1530,8 +1252,6 @@
     "PHL": {
       "adjectives": [
         "philippinisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Auserwähltes Land",
       "capital": "Manila",
@@ -1542,8 +1262,6 @@
       "adjectives": [
         "palauisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Unser Belau",
       "capital": "Ngerulmud",
       "longName": "Republik Palau",
@@ -1552,8 +1270,6 @@
     "PNG": {
       "adjectives": [
         "papua-neuguineisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Erhebt euch, Söhne dieses Landes",
       "capital": "Port Moresby",
@@ -1564,8 +1280,6 @@
       "adjectives": [
         "polnisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Dąbrowski-Mazurka",
       "capital": "Warschau",
       "longName": "Republik Polen",
@@ -1574,8 +1288,6 @@
     "PRK": {
       "adjectives": [
         "koreanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Lass die Morgensonne scheinen",
       "capital": "Pjöngjang",
@@ -1586,8 +1298,6 @@
       "adjectives": [
         "portugiesisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Portugallied",
       "capital": "Lissabon",
       "longName": "Portugiesische Republik",
@@ -1597,16 +1307,12 @@
       "adjectives": [
         "paraguayisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Paraguay, Republik oder Tod",
       "capital": "Asunción",
       "longName": "Republik Paraguay",
       "name": "Paraguay"
     },
     "PSE": {
-      "altNames": [
-      ],
       "capital": "Gaza und Ramallah",
       "longName": "–",
       "name": "Palästina"
@@ -1614,8 +1320,6 @@
     "QAT": {
       "adjectives": [
         "katarisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Es lebe der Emir",
       "capital": "Doha",
@@ -1626,8 +1330,6 @@
       "adjectives": [
         "rumänisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Erwache, Rumäne",
       "capital": "Bukarest",
       "longName": "Republik Rumänien",
@@ -1636,8 +1338,6 @@
     "RUS": {
       "adjectives": [
         "russisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Hymne der Russischen Föderation",
       "capital": "Moskau",
@@ -1648,8 +1348,6 @@
       "adjectives": [
         "ruandisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Unser Ruanda",
       "capital": "Kigali",
       "longName": "Republik Ruanda",
@@ -1658,8 +1356,6 @@
     "SAU": {
       "adjectives": [
         "saudi-arabisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Saudische Nationalhymne",
       "capital": "Riad",
@@ -1670,8 +1366,6 @@
       "adjectives": [
         "sudanesisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Wir sind die Soldaten Gottes und der Heimat",
       "capital": "Khartum",
       "longName": "Republik Sudan",
@@ -1680,8 +1374,6 @@
     "SEN": {
       "adjectives": [
         "senegalesisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Zupft eure Koras, trommelt die Balafone",
       "capital": "Dakar",
@@ -1692,8 +1384,6 @@
       "adjectives": [
         "singapurisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Vorwärts Singapur!",
       "longName": "Republik Singapur",
       "name": "Singapur"
@@ -1701,8 +1391,6 @@
     "SLB": {
       "adjectives": [
         "salomonisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Gott schütze unsere Salomonen",
       "capital": "Honiara",
@@ -1713,8 +1401,6 @@
       "adjectives": [
         "sierra-leonisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Hoch verehren wir dich, Land der Freien",
       "capital": "Freetown",
       "longName": "Republik Sierra Leone",
@@ -1723,8 +1409,6 @@
     "SLV": {
       "adjectives": [
         "salvadorianisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Lasst uns stolz unsere Heimat grüßen",
       "capital": "San Salvador",
@@ -1735,8 +1419,6 @@
       "adjectives": [
         "san-marinesisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Nationalhymne der Republik",
       "capital": "San Marino",
       "longName": "Republik San Marino",
@@ -1746,16 +1428,12 @@
       "adjectives": [
         "somalisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Qolobaa Calankeed",
       "capital": "Mogadischu",
       "longName": "Bundesrepublik Somalia",
       "name": "Somalia"
     },
     "SOS": {
-      "altNames": [
-      ],
       "capital": "Zchinwali",
       "longName": "Südossetien",
       "name": "Südossetien"
@@ -1763,8 +1441,6 @@
     "SRB": {
       "adjectives": [
         "serbisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Gott der Gerechtigkeit",
       "capital": "Belgrad",
@@ -1775,8 +1451,6 @@
       "adjectives": [
         "südsudanesisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Südsudan hurra",
       "capital": "Juba",
       "longName": "Republik Südsudan",
@@ -1785,8 +1459,6 @@
     "STP": {
       "adjectives": [
         "são-toméisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Absolute Unabhängigkeit",
       "capital": "São Tomé",
@@ -1797,8 +1469,6 @@
       "adjectives": [
         "surinamisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Gott sei mit unserem Suriname",
       "capital": "Paramaribo",
       "longName": "Republik Suriname",
@@ -1807,8 +1477,6 @@
     "SVK": {
       "adjectives": [
         "slowakisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Es blitzt über der Tatra",
       "capital": "Bratislava",
@@ -1819,8 +1487,6 @@
       "adjectives": [
         "slowenisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Prost",
       "capital": "Ljubljana",
       "longName": "Republik Slowenien",
@@ -1829,8 +1495,6 @@
     "SWE": {
       "adjectives": [
         "schwedisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Du alter, du freier",
       "capital": "Stockholm",
@@ -1841,8 +1505,6 @@
       "adjectives": [
         "swasiländisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "O Herr unser Gott, der Du die Segnungen an die Swasi verteilst",
       "capital": "Mbabane",
       "longName": "Königreich Swasiland",
@@ -1851,8 +1513,6 @@
     "SYC": {
       "adjectives": [
         "seychellisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Vereinigt euch, Seycheller",
       "capital": "Victoria",
@@ -1863,8 +1523,6 @@
       "adjectives": [
         "syrisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Hüter der Heimat",
       "capital": "Damaskus",
       "longName": "Arabische Republik Syrien",
@@ -1873,8 +1531,6 @@
     "TCD": {
       "adjectives": [
         "tschadisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Tschadlied",
       "capital": "N’Djamena",
@@ -1885,8 +1541,6 @@
       "adjectives": [
         "togoisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Gegrüßt seist du, Land unserer Vorväter",
       "capital": "Lomé",
       "longName": "Republik Togo",
@@ -1896,8 +1550,6 @@
       "adjectives": [
         "thailändisch"
       ],
-      "altNames": [
-      ],
       "capital": "Bangkok",
       "longName": "Königreich Thailand",
       "name": "Thailand"
@@ -1906,8 +1558,6 @@
       "adjectives": [
         "tadschikisch"
       ],
-      "altNames": [
-      ],
       "capital": "Duschanbe",
       "longName": "Republik Tadschikistan",
       "name": "Tadschikistan"
@@ -1915,8 +1565,6 @@
     "TKM": {
       "adjectives": [
         "turkmenisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Die Staatshymne des unabhängigen und neutralen Turkmenistans",
       "capital": "Aschgabad",
@@ -1940,16 +1588,12 @@
       "adjectives": [
         "tongaisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Lied des Königs der Tonga-Inseln",
       "capital": "Nukuʻalofa",
       "longName": "Königreich Tonga",
       "name": "Tonga"
     },
     "TTO": {
-      "altNames": [
-      ],
       "anthemName": "Geschmiedet aus der Liebe zur Freiheit",
       "capital": "Port of Spain",
       "longName": "Republik Trinidad und Tobago",
@@ -1958,8 +1602,6 @@
     "TUN": {
       "adjectives": [
         "tunesisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Verteidiger des Vaterlandes",
       "capital": "Tunis",
@@ -1970,8 +1612,6 @@
       "adjectives": [
         "türkisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Unabhängigkeitsmarsch",
       "capital": "Ankara",
       "longName": "Republik Türkei",
@@ -1980,8 +1620,6 @@
     "TUV": {
       "adjectives": [
         "tuvaluisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Tuvalu dem Allmächtigen",
       "capital": "Funafuti",
@@ -2004,8 +1642,6 @@
       "adjectives": [
         "tansanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Gott segne Afrika",
       "capital": "Dodoma",
       "longName": "Vereinigte Republik Tansania",
@@ -2014,8 +1650,6 @@
     "UGA": {
       "adjectives": [
         "ugandisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Oh Uganda, Land der Schönheit",
       "capital": "Kampala",
@@ -2026,8 +1660,6 @@
       "adjectives": [
         "ukrainisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Noch sind der Ukraine Ruhm und Freiheit nicht gestorben",
       "capital": "Kiew",
       "longName": "Ukraine",
@@ -2036,8 +1668,6 @@
     "URY": {
       "adjectives": [
         "uruguayisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Uruguayer, Vaterland oder Tod!",
       "capital": "Montevideo",
@@ -2061,8 +1691,6 @@
       "adjectives": [
         "usbekisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Bleib’ stark, mein freies Land, Glück und Rettung dir",
       "capital": "Taschkent",
       "longName": "Republik Usbekistan",
@@ -2072,8 +1700,6 @@
       "adjectives": [
         "vatikanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Hymne und Pontifikalmarsch",
       "longName": "Staat Vatikanstadt",
       "name": "Vatikanstadt"
@@ -2081,8 +1707,6 @@
     "VCT": {
       "adjectives": [
         "vincentisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "St. Vincent, ein so schönes Land",
       "capital": "Kingstown",
@@ -2093,8 +1717,6 @@
       "adjectives": [
         "venezolanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Ruhm dem tapferen Volke",
       "capital": "Caracas",
       "longName": "Bolivarische Republik Venezuela",
@@ -2103,8 +1725,6 @@
     "VNM": {
       "adjectives": [
         "vietnamesisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Marschiert an die Front",
       "capital": "Hanoi",
@@ -2115,8 +1735,6 @@
       "adjectives": [
         "vanuatuisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Wir, wir, wir",
       "capital": "Port Vila",
       "longName": "Republik Vanuatu",
@@ -2125,8 +1743,6 @@
     "WSM": {
       "adjectives": [
         "samoanisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Das Banner der Freiheit",
       "capital": "Apia",
@@ -2137,8 +1753,6 @@
       "adjectives": [
         "kosovarisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Europa",
       "capital": "Pristina",
       "longName": "Republik Kosovo",
@@ -2147,8 +1761,6 @@
     "YEM": {
       "adjectives": [
         "jemenitisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Nationalhymne Jemens",
       "capital": "Sanaa (de jure)",
@@ -2159,8 +1771,6 @@
       "adjectives": [
         "südafrikanisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Nationalhymne von Südafrika",
       "capital": "Pretoria",
       "longName": "Republik Südafrika",
@@ -2170,8 +1780,6 @@
       "adjectives": [
         "sambisch"
       ],
-      "altNames": [
-      ],
       "anthemName": "Steht und singt von Sambia, stolz und frei",
       "capital": "Lusaka",
       "longName": "Republik Sambia",
@@ -2180,8 +1788,6 @@
     "ZWE": {
       "adjectives": [
         "simbabwisch"
-      ],
-      "altNames": [
       ],
       "anthemName": "Gesegnet sei das Land Simbabwe",
       "capital": "Harare",

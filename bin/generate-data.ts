@@ -44,7 +44,7 @@ namespace Helpers {
       "Republic of China": ["Taiwan"],
       "Osttimor": ["Timor-Leste"]
     };
-    return altNames[name] || [];
+    return altNames[name];
   }
 
   export function fixCapitalName(name: string): string {
@@ -300,7 +300,7 @@ namespace Parsers {
         const country: any = data[val.ISO.alpha3] = {
           name: name,
           capital: Helpers.fixCapitalName(val.capital),
-          // altNames: Helpers.getAlternativeNames(name)
+          altNames: Helpers.getAlternativeNames(name)
         };
         const anthem = anthemData.find((a) => a.name === country.name);
         if (anthem) {
