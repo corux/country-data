@@ -110,7 +110,7 @@
     "region": "AF"
   },
   {
-    "anthem": "http://www.nationalanthems.info/ad.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/El_Gran_Carlemany.ogg",
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/720px-Flag_of_Andorra.svg.png",
@@ -2039,7 +2039,7 @@
     "region": "AS"
   },
   {
-    "anthem": "http://www.nationalanthems.info/xk.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg",
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/720px-Flag_of_Kosovo.svg.png",
@@ -2688,7 +2688,7 @@
     "region": "AS"
   },
   {
-    "anthem": "http://www.nationalanthems.info/me.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_Anthem_of_Montenegro.ogg",
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1200px-Flag_of_Montenegro.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/720px-Flag_of_Montenegro.svg.png",
@@ -2725,7 +2725,7 @@
     "region": "AF"
   },
   {
-    "anthem": "http://www.nationalanthems.info/mm.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga",
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/720px-Flag_of_Myanmar.svg.png",
@@ -3061,7 +3061,7 @@
     "region": "AS"
   },
   {
-    "anthem": "http://www.nationalanthems.info/ps.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/97/National_Anthem_of_Palestine_%28Vocal%29.ogg",
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1200px-Flag_of_Palestine.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/720px-Flag_of_Palestine.svg.png",
@@ -3551,7 +3551,7 @@
     "region": "AF"
   },
   {
-    "anthem": "http://www.nationalanthems.info/rs.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Serbian_national_anthem%2C_instrumental.oga",
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/720px-Flag_of_Serbia.svg.png",
@@ -4442,7 +4442,7 @@
     "region": "OC"
   },
   {
-    "anthem": "http://www.nationalanthems.info/va.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg",
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/1200px-Flag_of_the_Vatican_City.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/720px-Flag_of_the_Vatican_City.svg.png",

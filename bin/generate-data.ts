@@ -27,9 +27,9 @@ namespace Helpers {
       "Korea, Nord": "Nordkorea",
       "Kongo, Demokratische Republik": "Demokratische Republik Kongo",
       "Kongo, Republik": "Republik Kongo",
-      "Taiwan": "Republic of China",
-      "China": "People's Republic of China",
       "Osttimor / Timor-Leste": "Osttimor",
+      "Federated States of Micronesia": "Micronesia",
+      "Republic of Macedonia": "Macedonia",
     };
     return fixedNames[name] || name.replace(/[\u00AD]+/g, "");
   }
@@ -40,9 +40,8 @@ namespace Helpers {
       "Vereinigte Staaten": ["USA"],
       "Volksrepublik China": ["China"],
       "Republik China": ["Taiwan"],
-      "People's Republic of China": ["China"],
-      "Republic of China": ["Taiwan"],
-      "Osttimor": ["Timor-Leste"]
+      "Osttimor": ["Timor-Leste"],
+      "Myanmar": ["Burma"],
     };
     return altNames[name];
   }
@@ -231,8 +230,8 @@ namespace Parsers {
         const text = $(elem).children().eq(0).children("a").first().text();
         const mapping = {
           "Bahamas": "The Bahamas",
-          "Macedonia": "Republic of Macedonia",
-          "Micronesia": "Federated States of Micronesia",
+          "Republic of China": "Taiwan",
+          "People's Republic of China": "China",
         };
         return mapping[text] || text;
       };
@@ -270,8 +269,9 @@ namespace Parsers {
           "United States of America": "United States",
           "United Kingdom of Great Britain and Northern Ireland": "United Kingdom",
           "Cabo Verde": "Cape Verde",
-          "China": "People's Republic of China",
-          "Taiwan": "Republic of China",
+          "Federated States of Micronesia": "Micronesia",
+          "Republic of Macedonia": "Macedonia",
+          "Vatican City State": "Vatican City",
         };
         return mapping[text] || text;
       };
@@ -288,8 +288,39 @@ namespace Parsers {
       };
     }).get();
 
+    $ = cheerio.load((await Axios.get("https://en.wikipedia.org/wiki/List_of_sovereign_states")).data);
+    const nameData = $(".wikitable").find("tbody tr:not(:first-child):not(style)").map((i, elem) => {
+      if ($(elem).children().eq(0).text().indexOf("→") !== -1) {
+        // Row contains link to another row -> skip
+        return null;
+      }
+      const nameRow = $(elem).children().eq(0).text().replace(/\[[0-9a-z]*\]/, "")
+        .split("–").map(n => n.trim());
+      const name = $(elem).children().eq(0).find("a").first().text()
+        .split(",").reverse().join(" ").trim();
+      const mapping = {
+        "Sahrawi Arab Democratic Republic": "Western Sahara"
+      };
+      return {
+        name: mapping[name] || name,
+        longName: mapping[name] ? name : nameRow[1],
+      };
+    }).get().filter(n => !!n);
+
     const data = {};
-    countryjs.all().filter((val) => isoCodes.indexOf(val.ISO.alpha3) !== -1)
+    // Data missing in countryjs
+    const additional = [
+      { ISO: { alpha3: "ABC" }, name: "Abkhazia", capital: "Sukhumi" },
+      { ISO: { alpha3: "AND" }, name: "Andorra", capital: "Andorra la Vella" },
+      { ISO: { alpha3: "XXK" }, name: "Kosovo", capital: "Pristina" },
+      { ISO: { alpha3: "MNE" }, name: "Montenegro", capital: "Podgorica" },
+      { ISO: { alpha3: "MMR" }, name: "Myanmar", capital: "Nay Pyi Taw" },
+      { ISO: { alpha3: "PSE" }, name: "Palestine", capital: "East Jerusalem" },
+      { ISO: { alpha3: "SRB" }, name: "Serbia", capital: "Belgrade" },
+      { ISO: { alpha3: "SOS" }, name: "South Ossetia", capital: "Tskhinvali" },
+      { ISO: { alpha3: "VAT" }, name: "Vatican City", capital: "Vatican City" },
+    ];
+    [].concat(countryjs.all(), additional).filter((val) => isoCodes.indexOf(val.ISO.alpha3) !== -1)
       .forEach((val) => {
         if ((val.ISO.alpha3 === "GBR" && val.name !== "United Kingdom")
           || (val.ISO.alpha3 === "HUN" && !val.name)) {
@@ -300,7 +331,8 @@ namespace Parsers {
         const country: any = data[val.ISO.alpha3] = {
           name: name,
           capital: Helpers.fixCapitalName(val.capital),
-          altNames: Helpers.getAlternativeNames(name)
+          altNames: Helpers.getAlternativeNames(name),
+          longName: nameData.find(n => n.name === name).longName,
         };
         const anthem = anthemData.find((a) => a.name === country.name);
         if (anthem) {
@@ -309,10 +341,7 @@ namespace Parsers {
             anthemUrls[val.ISO.alpha3] = anthem.url;
           }
         }
-        const adjective = adjectiveData.find(n => n.name === country.name);
-        if (adjective) {
-          country.adjectives = adjective.adjectives;
-        }
+        country.adjectives = adjectiveData.find(n => n.name === country.name).adjectives;
       });
 
     return data;

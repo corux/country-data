@@ -1,11 +1,22 @@
 {
   "countries": {
+    "ABC": {
+      "adjectives": [
+        "Abkhaz",
+        "Abkhazian"
+      ],
+      "anthemName": "Victory",
+      "capital": "Sukhumi",
+      "longName": "Republic of Abkhazia",
+      "name": "Abkhazia"
+    },
     "AFG": {
       "adjectives": [
         "Afghan"
       ],
       "anthemName": "National Anthem",
       "capital": "Kabul",
+      "longName": "Islamic Republic of Afghanistan",
       "name": "Afghanistan"
     },
     "AGO": {
@@ -14,6 +25,7 @@
       ],
       "anthemName": "Forward Angola",
       "capital": "Luanda",
+      "longName": "Republic of Angola",
       "name": "Angola"
     },
     "ALB": {
@@ -22,7 +34,17 @@
       ],
       "anthemName": "The Pledge on the Flag",
       "capital": "Tirana",
+      "longName": "Republic of Albania",
       "name": "Albania"
+    },
+    "AND": {
+      "adjectives": [
+        "Andorran"
+      ],
+      "anthemName": "The Great Charlemagne",
+      "capital": "Andorra la Vella",
+      "longName": "Principality of Andorra",
+      "name": "Andorra"
     },
     "ARE": {
       "adjectives": [
@@ -40,6 +62,7 @@
       ],
       "anthemName": "Argentine National Anthem",
       "capital": "Buenos Aires",
+      "longName": "Argentine Republic",
       "name": "Argentina"
     },
     "ARM": {
@@ -48,6 +71,7 @@
       ],
       "anthemName": "Our Fatherland",
       "capital": "Yerevan",
+      "longName": "Republic of Armenia",
       "name": "Armenia"
     },
     "ATG": {
@@ -65,6 +89,7 @@
       ],
       "anthemName": "Advance Australia Fair",
       "capital": "Canberra",
+      "longName": "Commonwealth of Australia",
       "name": "Australia"
     },
     "AUT": {
@@ -73,6 +98,7 @@
       ],
       "anthemName": "Land of Mountains, Land on the River",
       "capital": "Vienna",
+      "longName": "Republic of Austria",
       "name": "Austria"
     },
     "AZE": {
@@ -82,6 +108,7 @@
       ],
       "anthemName": "Azerbaijan's Anthem",
       "capital": "Baku",
+      "longName": "Republic of Azerbaijan",
       "name": "Azerbaijan"
     },
     "BDI": {
@@ -90,6 +117,7 @@
       ],
       "anthemName": "Our Burundi",
       "capital": "Bujumbura",
+      "longName": "Republic of Burundi",
       "name": "Burundi"
     },
     "BEL": {
@@ -98,6 +126,7 @@
       ],
       "anthemName": "Brabançonne",
       "capital": "Brussels",
+      "longName": "Kingdom of Belgium",
       "name": "Belgium"
     },
     "BEN": {
@@ -107,6 +136,7 @@
       ],
       "anthemName": "The Dawn of a New Day",
       "capital": "Porto-Novo",
+      "longName": "Republic of Benin",
       "name": "Benin"
     },
     "BFA": {
@@ -123,6 +153,7 @@
       ],
       "anthemName": "My Golden Bengal",
       "capital": "Dhaka",
+      "longName": "People's Republic of Bangladesh",
       "name": "Bangladesh"
     },
     "BGR": {
@@ -131,6 +162,7 @@
       ],
       "anthemName": "Dear Motherland",
       "capital": "Sofia",
+      "longName": "Republic of Bulgaria",
       "name": "Bulgaria"
     },
     "BHR": {
@@ -139,6 +171,7 @@
       ],
       "anthemName": "Our Bahrain",
       "capital": "Manama",
+      "longName": "Kingdom of Bahrain",
       "name": "Bahrain"
     },
     "BHS": {
@@ -147,6 +180,7 @@
       ],
       "anthemName": "March On, Bahamaland",
       "capital": "Nassau",
+      "longName": "Commonwealth of The Bahamas",
       "name": "The Bahamas"
     },
     "BIH": {
@@ -164,6 +198,7 @@
       ],
       "anthemName": "We, the Belarusians",
       "capital": "Minsk",
+      "longName": "Republic of Belarus",
       "name": "Belarus"
     },
     "BLZ": {
@@ -180,6 +215,7 @@
       ],
       "anthemName": "National Anthem of Bolivia",
       "capital": "Sucre",
+      "longName": "Plurinational State of Bolivia",
       "name": "Bolivia"
     },
     "BRA": {
@@ -188,6 +224,7 @@
       ],
       "anthemName": "Brazilian National Anthem",
       "capital": "Brasília",
+      "longName": "Federative Republic of Brazil",
       "name": "Brazil"
     },
     "BRB": {
@@ -204,6 +241,7 @@
       ],
       "anthemName": "God Bless the Sultan",
       "capital": "Bandar Seri Begawan",
+      "longName": "Nation of Brunei, Abode of Peace",
       "name": "Brunei"
     },
     "BTN": {
@@ -212,6 +250,7 @@
       ],
       "anthemName": "The Thunder Dragon Kingdom",
       "capital": "Thimphu",
+      "longName": "Kingdom of Bhutan",
       "name": "Bhutan"
     },
     "BWA": {
@@ -221,6 +260,7 @@
       ],
       "anthemName": "Blessed Be This Noble Land",
       "capital": "Gaborone",
+      "longName": "Republic of Botswana",
       "name": "Botswana"
     },
     "CAF": {
@@ -245,6 +285,7 @@
       ],
       "anthemName": "Swiss Psalm",
       "capital": "Bern",
+      "longName": "Swiss Confederation",
       "name": "Switzerland"
     },
     "CHL": {
@@ -253,18 +294,17 @@
       ],
       "anthemName": "National Anthem of Chile",
       "capital": "Santiago",
+      "longName": "Republic of Chile",
       "name": "Chile"
     },
     "CHN": {
       "adjectives": [
         "Chinese"
       ],
-      "altNames": [
-        "China"
-      ],
       "anthemName": "March of the Volunteers",
       "capital": "Beijing",
-      "name": "People's Republic of China"
+      "longName": "People's Republic of China",
+      "name": "China"
     },
     "CIV": {
       "adjectives": [
@@ -272,6 +312,7 @@
       ],
       "anthemName": "Song of Abidjan",
       "capital": "Yamoussoukro",
+      "longName": "Republic of Côte d'Ivoire",
       "name": "Ivory Coast"
     },
     "CMR": {
@@ -280,6 +321,7 @@
       ],
       "anthemName": "O Cameroon, Cradle of Our Forefathers",
       "capital": "Yaoundé",
+      "longName": "Republic of Cameroon",
       "name": "Cameroon"
     },
     "COD": {
@@ -311,6 +353,7 @@
       ],
       "anthemName": "National Anthem of the Republic of Colombia",
       "capital": "Bogotá",
+      "longName": "Republic of Colombia",
       "name": "Colombia"
     },
     "COM": {
@@ -320,6 +363,7 @@
       ],
       "anthemName": "The Union of the Great Islands",
       "capital": "Moroni",
+      "longName": "Union of the Comoros",
       "name": "Comoros"
     },
     "CPV": {
@@ -328,6 +372,7 @@
       ],
       "anthemName": "Song of Freedom",
       "capital": "Praia",
+      "longName": "Republic of Cabo Verde",
       "name": "Cape Verde"
     },
     "CRI": {
@@ -336,6 +381,7 @@
       ],
       "anthemName": "National Anthem of Costa Rica",
       "capital": "San José",
+      "longName": "Republic of Costa Rica",
       "name": "Costa Rica"
     },
     "CUB": {
@@ -344,6 +390,7 @@
       ],
       "anthemName": "The Anthem of Bayamo",
       "capital": "Havana",
+      "longName": "Republic of Cuba",
       "name": "Cuba"
     },
     "CYP": {
@@ -352,6 +399,7 @@
       ],
       "anthemName": "Hymn to Liberty",
       "capital": "Nicosia",
+      "longName": "Republic of Cyprus",
       "name": "Cyprus"
     },
     "CZE": {
@@ -368,6 +416,7 @@
       ],
       "anthemName": "Song of the Germans",
       "capital": "Berlin",
+      "longName": "Federal Republic of Germany",
       "name": "Germany"
     },
     "DJI": {
@@ -376,6 +425,7 @@
       ],
       "anthemName": "Djibouti",
       "capital": "Djibouti",
+      "longName": "Republic of Djibouti",
       "name": "Djibouti"
     },
     "DMA": {
@@ -384,6 +434,7 @@
       ],
       "anthemName": "Isle of Beauty, Isle of Splendour",
       "capital": "Roseau",
+      "longName": "Commonwealth of Dominica",
       "name": "Dominica"
     },
     "DNK": {
@@ -392,6 +443,7 @@
       ],
       "anthemName": "King Christian stood by the lofty mast",
       "capital": "Copenhagen",
+      "longName": "Kingdom of Denmark",
       "name": "Denmark"
     },
     "DOM": {
@@ -408,6 +460,7 @@
       ],
       "anthemName": "We Pledge",
       "capital": "Algiers",
+      "longName": "People's Democratic Republic of Algeria",
       "name": "Algeria"
     },
     "ECU": {
@@ -416,6 +469,7 @@
       ],
       "anthemName": "We Salute You, Our Homeland",
       "capital": "Quito",
+      "longName": "Republic of Ecuador",
       "name": "Ecuador"
     },
     "EGY": {
@@ -424,6 +478,7 @@
       ],
       "anthemName": "My Country, My Country, My Country",
       "capital": "Cairo",
+      "longName": "Arab Republic of Egypt",
       "name": "Egypt"
     },
     "ERI": {
@@ -432,6 +487,7 @@
       ],
       "anthemName": "Eritrea, Eritrea, Eritrea",
       "capital": "Asmara",
+      "longName": "State of Eritrea",
       "name": "Eritrea"
     },
     "ESH": {
@@ -442,6 +498,7 @@
       ],
       "anthemName": "O Sons of the Sahara",
       "capital": "El Aaiún",
+      "longName": "Sahrawi Arab Democratic Republic",
       "name": "Western Sahara"
     },
     "ESP": {
@@ -450,6 +507,7 @@
       ],
       "anthemName": "The Royal March",
       "capital": "Madrid",
+      "longName": "Kingdom of Spain",
       "name": "Spain"
     },
     "EST": {
@@ -458,6 +516,7 @@
       ],
       "anthemName": "My Fatherland, My Happiness and Joy",
       "capital": "Tallinn",
+      "longName": "Republic of Estonia",
       "name": "Estonia"
     },
     "ETH": {
@@ -466,6 +525,7 @@
       ],
       "anthemName": "March Forward, Dear Mother Ethiopia",
       "capital": "Addis Ababa",
+      "longName": "Federal Democratic Republic of Ethiopia",
       "name": "Ethiopia"
     },
     "FIN": {
@@ -474,6 +534,7 @@
       ],
       "anthemName": "Our Land",
       "capital": "Helsinki",
+      "longName": "Republic of Finland",
       "name": "Finland"
     },
     "FJI": {
@@ -482,6 +543,7 @@
       ],
       "anthemName": "God Bless Fiji",
       "capital": "Suva",
+      "longName": "Republic of Fiji",
       "name": "Fiji"
     },
     "FRA": {
@@ -490,6 +552,7 @@
       ],
       "anthemName": "The Song of Marseille",
       "capital": "Paris",
+      "longName": "French Republic",
       "name": "France"
     },
     "FSM": {
@@ -498,7 +561,8 @@
       ],
       "anthemName": "Patriots of Micronesia",
       "capital": "Palikir",
-      "name": "Federated States of Micronesia"
+      "longName": "Federated States of Micronesia",
+      "name": "Micronesia"
     },
     "GAB": {
       "adjectives": [
@@ -506,6 +570,7 @@
       ],
       "anthemName": "Concord",
       "capital": "Libreville",
+      "longName": "Gabonese Republic",
       "name": "Gabon"
     },
     "GBR": {
@@ -515,6 +580,7 @@
       ],
       "anthemName": "God Save the Queen",
       "capital": "London",
+      "longName": "United Kingdom of Great Britain and Northern Ireland",
       "name": "United Kingdom"
     },
     "GEO": {
@@ -531,6 +597,7 @@
       ],
       "anthemName": "God Bless Our Homeland Ghana",
       "capital": "Accra",
+      "longName": "Republic of Ghana",
       "name": "Ghana"
     },
     "GIN": {
@@ -539,6 +606,7 @@
       ],
       "anthemName": "Liberty",
       "capital": "Conakry",
+      "longName": "Republic of Guinea",
       "name": "Guinea"
     },
     "GMB": {
@@ -547,6 +615,7 @@
       ],
       "anthemName": "For The Gambia Our Homeland",
       "capital": "Banjul",
+      "longName": "Republic of The Gambia",
       "name": "The Gambia"
     },
     "GNB": {
@@ -555,6 +624,7 @@
       ],
       "anthemName": "This Is Our Beloved Country",
       "capital": "Bissau",
+      "longName": "Republic of Guinea-Bissau",
       "name": "Guinea-Bissau"
     },
     "GNQ": {
@@ -564,6 +634,7 @@
       ],
       "anthemName": "Let Us Tread the Path of our Immense Happiness",
       "capital": "Malabo",
+      "longName": "Republic of Equatorial Guinea",
       "name": "Equatorial Guinea"
     },
     "GRC": {
@@ -573,6 +644,7 @@
       ],
       "anthemName": "Hymn to Liberty",
       "capital": "Athens",
+      "longName": "Hellenic Republic",
       "name": "Greece"
     },
     "GRD": {
@@ -589,6 +661,7 @@
       ],
       "anthemName": "National Anthem of Guatemala",
       "capital": "Guatemala City",
+      "longName": "Republic of Guatemala",
       "name": "Guatemala"
     },
     "GUY": {
@@ -597,6 +670,7 @@
       ],
       "anthemName": "Dear Land of Guyana, of Rivers and Plains",
       "capital": "Georgetown",
+      "longName": "Co-operative Republic of Guyana",
       "name": "Guyana"
     },
     "HND": {
@@ -605,6 +679,7 @@
       ],
       "anthemName": "National Anthem of Honduras",
       "capital": "Tegucigalpa",
+      "longName": "Republic of Honduras",
       "name": "Honduras"
     },
     "HRV": {
@@ -613,6 +688,7 @@
       ],
       "anthemName": "Our Beautiful Homeland",
       "capital": "Zagreb",
+      "longName": "Republic of Croatia",
       "name": "Croatia"
     },
     "HTI": {
@@ -621,6 +697,7 @@
       ],
       "anthemName": "Song of Dessalines",
       "capital": "Port-au-Prince",
+      "longName": "Republic of Haiti",
       "name": "Haiti"
     },
     "HUN": {
@@ -638,6 +715,7 @@
       ],
       "anthemName": "Great Indonesia",
       "capital": "Jakarta",
+      "longName": "Republic of Indonesia",
       "name": "Indonesia"
     },
     "IND": {
@@ -646,6 +724,7 @@
       ],
       "anthemName": "Hail the ruler of all minds",
       "capital": "New Delhi",
+      "longName": "Republic of India",
       "name": "India"
     },
     "IRL": {
@@ -663,6 +742,7 @@
       ],
       "anthemName": "National Anthem of Iran",
       "capital": "Tehran",
+      "longName": "Islamic Republic of Iran",
       "name": "Iran"
     },
     "IRQ": {
@@ -671,6 +751,7 @@
       ],
       "anthemName": "My Homeland",
       "capital": "Baghdad",
+      "longName": "Republic of Iraq",
       "name": "Iraq"
     },
     "ISL": {
@@ -687,6 +768,7 @@
       ],
       "anthemName": "The Hope",
       "capital": "Jerusalem",
+      "longName": "State of Israel",
       "name": "Israel"
     },
     "ITA": {
@@ -695,6 +777,7 @@
       ],
       "anthemName": "The Song of the Italians",
       "capital": "Rome",
+      "longName": "Italian Republic",
       "name": "Italy"
     },
     "JAM": {
@@ -711,6 +794,7 @@
       ],
       "anthemName": "The Royal Anthem of Jordan",
       "capital": "Amman",
+      "longName": "Hashemite Kingdom of Jordan",
       "name": "Jordan"
     },
     "JPN": {
@@ -719,6 +803,7 @@
       ],
       "anthemName": "His Majesty's Reign",
       "capital": "Tokyo",
+      "longName": "State of Japan",
       "name": "Japan"
     },
     "KAZ": {
@@ -728,6 +813,7 @@
       ],
       "anthemName": "My Kazakhstan",
       "capital": "Astana",
+      "longName": "Republic of Kazakhstan",
       "name": "Kazakhstan"
     },
     "KEN": {
@@ -736,6 +822,7 @@
       ],
       "anthemName": "Oh God of All Creation",
       "capital": "Nairobi",
+      "longName": "Republic of Kenya",
       "name": "Kenya"
     },
     "KGZ": {
@@ -747,6 +834,7 @@
       ],
       "anthemName": "National Anthem of the Kyrgyz Republic",
       "capital": "Bishkek",
+      "longName": "Kyrgyz Republic",
       "name": "Kyrgyzstan"
     },
     "KHM": {
@@ -755,6 +843,7 @@
       ],
       "anthemName": "Royal Kingdom",
       "capital": "Phnom Penh",
+      "longName": "Kingdom of Cambodia",
       "name": "Cambodia"
     },
     "KIR": {
@@ -763,6 +852,7 @@
       ],
       "anthemName": "Stand up, Kiribati",
       "capital": "South Tarawa",
+      "longName": "Republic of Kiribati",
       "name": "Kiribati"
     },
     "KNA": {
@@ -772,6 +862,7 @@
       ],
       "anthemName": "O Land of Beauty!",
       "capital": "Basseterre",
+      "longName": "Federation of Saint Christopher and Nevis",
       "name": "Saint Kitts and Nevis"
     },
     "KOR": {
@@ -780,6 +871,7 @@
       ],
       "anthemName": "The Patriotic Song",
       "capital": "Seoul",
+      "longName": "Republic of Korea",
       "name": "South Korea"
     },
     "KWT": {
@@ -788,6 +880,7 @@
       ],
       "anthemName": "National Anthem",
       "capital": "Kuwait City",
+      "longName": "State of Kuwait",
       "name": "Kuwait"
     },
     "LAO": {
@@ -797,6 +890,7 @@
       ],
       "anthemName": "National Anthem of Laos",
       "capital": "Vientiane",
+      "longName": "Lao People's Democratic Republic",
       "name": "Laos"
     },
     "LBN": {
@@ -805,6 +899,7 @@
       ],
       "anthemName": "Lebanese National Anthem",
       "capital": "Beirut",
+      "longName": "Lebanese Republic",
       "name": "Lebanon"
     },
     "LBR": {
@@ -813,6 +908,7 @@
       ],
       "anthemName": "All Hail, Liberia, Hail!",
       "capital": "Monrovia",
+      "longName": "Republic of Liberia",
       "name": "Liberia"
     },
     "LBY": {
@@ -837,6 +933,7 @@
       ],
       "anthemName": "Up on the young Rhine",
       "capital": "Vaduz",
+      "longName": "Principality of Liechtenstein",
       "name": "Liechtenstein"
     },
     "LKA": {
@@ -845,6 +942,7 @@
       ],
       "anthemName": "Mother Sri Lanka",
       "capital": "Colombo",
+      "longName": "Democratic Socialist Republic of Sri Lanka",
       "name": "Sri Lanka"
     },
     "LSO": {
@@ -853,6 +951,7 @@
       ],
       "anthemName": "Lesotho, Land of Our Fathers",
       "capital": "Maseru",
+      "longName": "Kingdom of Lesotho",
       "name": "Lesotho"
     },
     "LTU": {
@@ -861,6 +960,7 @@
       ],
       "anthemName": "National Song",
       "capital": "Vilnius",
+      "longName": "Republic of Lithuania",
       "name": "Lithuania"
     },
     "LUX": {
@@ -870,6 +970,7 @@
       ],
       "anthemName": "Our Homeland",
       "capital": "Luxembourg",
+      "longName": "Grand Duchy of Luxembourg",
       "name": "Luxembourg"
     },
     "LVA": {
@@ -879,6 +980,7 @@
       ],
       "anthemName": "God Bless Latvia",
       "capital": "Riga",
+      "longName": "Republic of Latvia",
       "name": "Latvia"
     },
     "MAR": {
@@ -887,6 +989,7 @@
       ],
       "anthemName": "Anthem of Morocco",
       "capital": "Rabat",
+      "longName": "Kingdom of Morocco",
       "name": "Morocco"
     },
     "MCO": {
@@ -896,6 +999,7 @@
       ],
       "anthemName": "Monégasque Anthem",
       "capital": "Monaco",
+      "longName": "Principality of Monaco",
       "name": "Monaco"
     },
     "MDA": {
@@ -904,6 +1008,7 @@
       ],
       "anthemName": "Our Language",
       "capital": "Chișinău",
+      "longName": "Republic of Moldova",
       "name": "Moldova"
     },
     "MDG": {
@@ -912,6 +1017,7 @@
       ],
       "anthemName": "Oh, Beloved Land of our Ancestors",
       "capital": "Antananarivo",
+      "longName": "Republic of Madagascar",
       "name": "Madagascar"
     },
     "MDV": {
@@ -920,6 +1026,7 @@
       ],
       "anthemName": "National Salute",
       "capital": "Malé",
+      "longName": "Republic of Maldives",
       "name": "Maldives"
     },
     "MEX": {
@@ -928,6 +1035,7 @@
       ],
       "anthemName": "Mexican National Anthem",
       "capital": "Mexico City",
+      "longName": "United Mexican States",
       "name": "Mexico"
     },
     "MHL": {
@@ -936,6 +1044,7 @@
       ],
       "anthemName": "Forever Marshall Islands",
       "capital": "Majuro",
+      "longName": "Republic of the Marshall Islands",
       "name": "Marshall Islands"
     },
     "MKD": {
@@ -944,7 +1053,8 @@
       ],
       "anthemName": "Today Over Macedonia",
       "capital": "Skopje",
-      "name": "Republic of Macedonia"
+      "longName": "Republic of Macedonia",
+      "name": "Macedonia"
     },
     "MLI": {
       "adjectives": [
@@ -953,6 +1063,7 @@
       ],
       "anthemName": "For Africa and for You, Mali",
       "capital": "Bamako",
+      "longName": "Republic of Mali",
       "name": "Mali"
     },
     "MLT": {
@@ -961,7 +1072,28 @@
       ],
       "anthemName": "The Maltese Hymn",
       "capital": "Valletta",
+      "longName": "Republic of Malta",
       "name": "Malta"
+    },
+    "MMR": {
+      "adjectives": [
+        "Burmese"
+      ],
+      "altNames": [
+        "Burma"
+      ],
+      "anthemName": "Till the End of the World",
+      "capital": "Nay Pyi Taw",
+      "longName": "Republic of the Union of Myanmar",
+      "name": "Myanmar"
+    },
+    "MNE": {
+      "adjectives": [
+        "Montenegrin"
+      ],
+      "anthemName": "O, Bright Dawn of May",
+      "capital": "Podgorica",
+      "name": "Montenegro"
     },
     "MNG": {
       "adjectives": [
@@ -977,6 +1109,7 @@
       ],
       "anthemName": "Pátria Amada",
       "capital": "Maputo",
+      "longName": "Republic of Mozambique",
       "name": "Mozambique"
     },
     "MRT": {
@@ -985,6 +1118,7 @@
       ],
       "anthemName": "National anthem of Mauritania",
       "capital": "Nouakchott",
+      "longName": "Islamic Republic of Mauritania",
       "name": "Mauritania"
     },
     "MUS": {
@@ -993,6 +1127,7 @@
       ],
       "anthemName": "Motherland",
       "capital": "Port Louis",
+      "longName": "Republic of Mauritius",
       "name": "Mauritius"
     },
     "MWI": {
@@ -1001,6 +1136,7 @@
       ],
       "anthemName": "God Bless Malawi",
       "capital": "Lilongwe",
+      "longName": "Republic of Malawi",
       "name": "Malawi"
     },
     "MYS": {
@@ -1017,6 +1153,7 @@
       ],
       "anthemName": "Namibia, Land of the Brave",
       "capital": "Windhoek",
+      "longName": "Republic of Namibia",
       "name": "Namibia"
     },
     "NER": {
@@ -1025,6 +1162,7 @@
       ],
       "anthemName": "The Nigerien",
       "capital": "Niamey",
+      "longName": "Republic of Niger",
       "name": "Niger"
     },
     "NGA": {
@@ -1033,6 +1171,7 @@
       ],
       "anthemName": "Arise, O Compatriots",
       "capital": "Abuja",
+      "longName": "Federal Republic of Nigeria",
       "name": "Nigeria"
     },
     "NIC": {
@@ -1041,6 +1180,7 @@
       ],
       "anthemName": "Hail to Thee, Nicaragua",
       "capital": "Managua",
+      "longName": "Republic of Nicaragua",
       "name": "Nicaragua"
     },
     "NIU": {
@@ -1057,6 +1197,7 @@
       ],
       "anthemName": "William",
       "capital": "Amsterdam",
+      "longName": "Kingdom of the Netherlands",
       "name": "Netherlands"
     },
     "NOR": {
@@ -1065,6 +1206,7 @@
       ],
       "anthemName": "Yes, We Love This Country",
       "capital": "Oslo",
+      "longName": "Kingdom of Norway",
       "name": "Norway"
     },
     "NPL": {
@@ -1074,6 +1216,7 @@
       ],
       "anthemName": "A Garland of Hundred Flowers",
       "capital": "Kathmandu",
+      "longName": "Federal Democratic Republic of Nepal",
       "name": "Nepal"
     },
     "NRU": {
@@ -1082,6 +1225,7 @@
       ],
       "anthemName": "Song of Nauru",
       "capital": "Yaren",
+      "longName": "Republic of Nauru",
       "name": "Nauru"
     },
     "NZL": {
@@ -1098,6 +1242,7 @@
       ],
       "anthemName": "Nashid as-Salaam as-Sultani",
       "capital": "Muscat",
+      "longName": "Sultanate of Oman",
       "name": "Oman"
     },
     "PAK": {
@@ -1106,6 +1251,7 @@
       ],
       "anthemName": "National Anthem",
       "capital": "Islamabad",
+      "longName": "Islamic Republic of Pakistan",
       "name": "Pakistan"
     },
     "PAN": {
@@ -1114,6 +1260,7 @@
       ],
       "anthemName": "Hymn of the Isthmus",
       "capital": "Panama City",
+      "longName": "Republic of Panama",
       "name": "Panama"
     },
     "PER": {
@@ -1122,6 +1269,7 @@
       ],
       "anthemName": "National Anthem of Peru",
       "capital": "Lima",
+      "longName": "Republic of Peru",
       "name": "Peru"
     },
     "PHL": {
@@ -1131,6 +1279,7 @@
       ],
       "anthemName": "Chosen Land",
       "capital": "Manila",
+      "longName": "Republic of the Philippines",
       "name": "Philippines"
     },
     "PLW": {
@@ -1139,6 +1288,7 @@
       ],
       "anthemName": "Our Palau",
       "capital": "Ngerulmud",
+      "longName": "Republic of Palau",
       "name": "Palau"
     },
     "PNG": {
@@ -1148,6 +1298,7 @@
       ],
       "anthemName": "O Arise, All You Sons",
       "capital": "Port Moresby",
+      "longName": "Independent State of Papua New Guinea",
       "name": "Papua New Guinea"
     },
     "POL": {
@@ -1156,6 +1307,7 @@
       ],
       "anthemName": "Mazurek Dąbrowskiego",
       "capital": "Warsaw",
+      "longName": "Republic of Poland",
       "name": "Poland"
     },
     "PRK": {
@@ -1164,6 +1316,7 @@
       ],
       "anthemName": "The Patriotic Song",
       "capital": "Pyongyang",
+      "longName": "Democratic People's Republic of Korea",
       "name": "North Korea"
     },
     "PRT": {
@@ -1172,6 +1325,7 @@
       ],
       "anthemName": "The Portuguese",
       "capital": "Lisbon",
+      "longName": "Portuguese Republic",
       "name": "Portugal"
     },
     "PRY": {
@@ -1180,7 +1334,17 @@
       ],
       "anthemName": "Paraguayans, the Republic or Death",
       "capital": "Asunción",
+      "longName": "Republic of Paraguay",
       "name": "Paraguay"
+    },
+    "PSE": {
+      "adjectives": [
+        "Palestinian"
+      ],
+      "anthemName": "My Country",
+      "capital": "East Jerusalem",
+      "longName": "State of Palestine",
+      "name": "Palestine"
     },
     "QAT": {
       "adjectives": [
@@ -1188,6 +1352,7 @@
       ],
       "anthemName": "Peace to the Amir",
       "capital": "Doha",
+      "longName": "State of Qatar",
       "name": "Qatar"
     },
     "ROU": {
@@ -1204,6 +1369,7 @@
       ],
       "anthemName": "State Hymn of the Russian Federation",
       "capital": "Moscow",
+      "longName": "Russian Federation",
       "name": "Russia"
     },
     "RWA": {
@@ -1212,6 +1378,7 @@
       ],
       "anthemName": "Beautiful Rwanda",
       "capital": "Kigali",
+      "longName": "Republic of Rwanda",
       "name": "Rwanda"
     },
     "SAU": {
@@ -1221,6 +1388,7 @@
       ],
       "anthemName": "The Royal Salute",
       "capital": "Riyadh",
+      "longName": "Kingdom of Saudi Arabia",
       "name": "Saudi Arabia"
     },
     "SDN": {
@@ -1229,6 +1397,7 @@
       ],
       "anthemName": "We Are the Army of God and of Our Land",
       "capital": "Khartoum",
+      "longName": "Republic of the Sudan",
       "name": "Sudan"
     },
     "SEN": {
@@ -1237,6 +1406,7 @@
       ],
       "anthemName": "Strum your Koras, Strike the Balafons",
       "capital": "Dakar",
+      "longName": "Republic of Senegal",
       "name": "Senegal"
     },
     "SGP": {
@@ -1246,6 +1416,7 @@
       ],
       "anthemName": "Onward Singapore",
       "capital": "Singapore",
+      "longName": "Republic of Singapore",
       "name": "Singapore"
     },
     "SLB": {
@@ -1262,6 +1433,7 @@
       ],
       "anthemName": "High We Exalt Thee, Realm of the Free",
       "capital": "Freetown",
+      "longName": "Republic of Sierra Leone",
       "name": "Sierra Leone"
     },
     "SLV": {
@@ -1270,6 +1442,7 @@
       ],
       "anthemName": "National Anthem of El Salvador",
       "capital": "San Salvador",
+      "longName": "Republic of El Salvador",
       "name": "El Salvador"
     },
     "SMR": {
@@ -1278,6 +1451,7 @@
       ],
       "anthemName": "The National Anthem of the Republic",
       "capital": "City of San Marino",
+      "longName": "Republic of San Marino",
       "name": "San Marino"
     },
     "SOM": {
@@ -1286,7 +1460,26 @@
       ],
       "anthemName": "Qolobaa Calankeed",
       "capital": "Mogadishu",
+      "longName": "Federal Republic of Somalia",
       "name": "Somalia"
+    },
+    "SOS": {
+      "adjectives": [
+        "South Ossetian"
+      ],
+      "anthemName": "National Anthem of South Ossetia",
+      "capital": "Tskhinvali",
+      "longName": "Republic of South Ossetia",
+      "name": "South Ossetia"
+    },
+    "SRB": {
+      "adjectives": [
+        "Serbian"
+      ],
+      "anthemName": "God of Justice",
+      "capital": "Belgrade",
+      "longName": "Republic of Serbia",
+      "name": "Serbia"
     },
     "SSD": {
       "adjectives": [
@@ -1294,6 +1487,7 @@
       ],
       "anthemName": "South Sudan Oyee!",
       "capital": "Juba",
+      "longName": "Republic of South Sudan",
       "name": "South Sudan"
     },
     "STP": {
@@ -1302,6 +1496,7 @@
       ],
       "anthemName": "Total Independence",
       "capital": "São Tomé",
+      "longName": "Democratic Republic of São Tomé and Príncipe",
       "name": "São Tomé and Príncipe"
     },
     "SUR": {
@@ -1310,6 +1505,7 @@
       ],
       "anthemName": "God Be With Our Suriname",
       "capital": "Paramaribo",
+      "longName": "Republic of Suriname",
       "name": "Suriname"
     },
     "SVK": {
@@ -1318,6 +1514,7 @@
       ],
       "anthemName": "Lightning Over the Tatras",
       "capital": "Bratislava",
+      "longName": "Slovak Republic",
       "name": "Slovakia"
     },
     "SVN": {
@@ -1327,6 +1524,7 @@
       ],
       "anthemName": "A Toast",
       "capital": "Ljubljana",
+      "longName": "Republic of Slovenia",
       "name": "Slovenia"
     },
     "SWE": {
@@ -1335,6 +1533,7 @@
       ],
       "anthemName": "Thou Ancient, Thou Free",
       "capital": "Stockholm",
+      "longName": "Kingdom of Sweden",
       "name": "Sweden"
     },
     "SWZ": {
@@ -1343,6 +1542,7 @@
       ],
       "anthemName": "O Lord our God of the Swazi",
       "capital": "Lobamba",
+      "longName": "Kingdom of Eswatini",
       "name": "Swaziland"
     },
     "SYC": {
@@ -1351,6 +1551,7 @@
       ],
       "anthemName": "Join together all Seychellois",
       "capital": "Victoria",
+      "longName": "Republic of Seychelles",
       "name": "Seychelles"
     },
     "SYR": {
@@ -1359,6 +1560,7 @@
       ],
       "anthemName": "Guardians of the Homeland",
       "capital": "Damascus",
+      "longName": "Syrian Arab Republic",
       "name": "Syria"
     },
     "TCD": {
@@ -1367,6 +1569,7 @@
       ],
       "anthemName": "People of Chad",
       "capital": "N'Djamena",
+      "longName": "Republic of Chad",
       "name": "Chad"
     },
     "TGO": {
@@ -1375,6 +1578,7 @@
       ],
       "anthemName": "Hail to Thee, Land of our Forefathers",
       "capital": "Lomé",
+      "longName": "Togolese Republic",
       "name": "Togo"
     },
     "THA": {
@@ -1383,6 +1587,7 @@
       ],
       "anthemName": "National Song",
       "capital": "Bangkok",
+      "longName": "Kingdom of Thailand",
       "name": "Thailand"
     },
     "TJK": {
@@ -1391,6 +1596,7 @@
       ],
       "anthemName": "National Anthem",
       "capital": "Dushanbe",
+      "longName": "Republic of Tajikistan",
       "name": "Tajikistan"
     },
     "TKM": {
@@ -1407,6 +1613,7 @@
       ],
       "anthemName": "Fatherland",
       "capital": "Dili",
+      "longName": "Democratic Republic of Timor-Leste",
       "name": "East Timor"
     },
     "TON": {
@@ -1415,6 +1622,7 @@
       ],
       "anthemName": "Song of the King of the Tonga Islands",
       "capital": "Nuku'alofa",
+      "longName": "Kingdom of Tonga",
       "name": "Tonga"
     },
     "TTO": {
@@ -1424,6 +1632,7 @@
       ],
       "anthemName": "Forged from the Love of Liberty",
       "capital": "Port of Spain",
+      "longName": "Republic of Trinidad and Tobago",
       "name": "Trinidad and Tobago"
     },
     "TUN": {
@@ -1432,6 +1641,7 @@
       ],
       "anthemName": "Defenders of the Homeland",
       "capital": "Tunis",
+      "longName": "Tunisian Republic",
       "name": "Tunisia"
     },
     "TUR": {
@@ -1440,6 +1650,7 @@
       ],
       "anthemName": "The March of Independence",
       "capital": "Ankara",
+      "longName": "Republic of Turkey",
       "name": "Turkey"
     },
     "TUV": {
@@ -1454,12 +1665,10 @@
       "adjectives": [
         "Taiwanese"
       ],
-      "altNames": [
-        "Taiwan"
-      ],
       "anthemName": "Three Principles of the People",
       "capital": "Taipei",
-      "name": "Republic of China"
+      "longName": "Republic of China",
+      "name": "Taiwan"
     },
     "TZA": {
       "adjectives": [
@@ -1467,6 +1676,7 @@
       ],
       "anthemName": "God Bless Africa",
       "capital": "Dodoma",
+      "longName": "United Republic of Tanzania",
       "name": "Tanzania"
     },
     "UGA": {
@@ -1475,6 +1685,7 @@
       ],
       "anthemName": "Oh Uganda, Land of Beauty",
       "capital": "Kampala",
+      "longName": "Republic of Uganda",
       "name": "Uganda"
     },
     "UKR": {
@@ -1491,6 +1702,7 @@
       ],
       "anthemName": "National Anthem",
       "capital": "Montevideo",
+      "longName": "Oriental Republic of Uruguay",
       "name": "Uruguay"
     },
     "USA": {
@@ -1501,6 +1713,7 @@
       ],
       "anthemName": "The Star-Spangled Banner",
       "capital": "Washington D.C.",
+      "longName": "United States of America",
       "name": "United States"
     },
     "UZB": {
@@ -1510,7 +1723,17 @@
       ],
       "anthemName": "National Anthem of the Republic of Uzbekistan",
       "capital": "Tashkent",
+      "longName": "Republic of Uzbekistan",
       "name": "Uzbekistan"
+    },
+    "VAT": {
+      "adjectives": [
+        "Vatican"
+      ],
+      "anthemName": "Pontifical Anthem and March",
+      "capital": "Vatican City",
+      "longName": "Vatican City State",
+      "name": "Vatican City"
     },
     "VCT": {
       "adjectives": [
@@ -1527,6 +1750,7 @@
       ],
       "anthemName": "Glory to the Brave People",
       "capital": "Caracas",
+      "longName": "Bolivarian Republic of Venezuela",
       "name": "Venezuela"
     },
     "VNM": {
@@ -1535,6 +1759,7 @@
       ],
       "anthemName": "Marching Song",
       "capital": "Hanoi",
+      "longName": "Socialist Republic of Vietnam",
       "name": "Vietnam"
     },
     "VUT": {
@@ -1544,6 +1769,7 @@
       ],
       "anthemName": "We, We, We",
       "capital": "Port Vila",
+      "longName": "Republic of Vanuatu",
       "name": "Vanuatu"
     },
     "WSM": {
@@ -1552,7 +1778,18 @@
       ],
       "anthemName": "The Banner of Freedom",
       "capital": "Apia",
+      "longName": "Independent State of Samoa",
       "name": "Samoa"
+    },
+    "XXK": {
+      "adjectives": [
+        "Kosovar",
+        "Kosovan"
+      ],
+      "anthemName": "Europe",
+      "capital": "Pristina",
+      "longName": "Republic of Kosovo",
+      "name": "Kosovo"
     },
     "YEM": {
       "adjectives": [
@@ -1560,6 +1797,7 @@
       ],
       "anthemName": "National anthem of Yemen",
       "capital": "Sana'a",
+      "longName": "Republic of Yemen",
       "name": "Yemen"
     },
     "ZAF": {
@@ -1568,6 +1806,7 @@
       ],
       "anthemName": "National anthem of South Africa",
       "capital": "Pretoria",
+      "longName": "Republic of South Africa",
       "name": "South Africa"
     },
     "ZMB": {
@@ -1576,6 +1815,7 @@
       ],
       "anthemName": "Stand and Sing of Zambia, Proud and Free",
       "capital": "Lusaka",
+      "longName": "Republic of Zambia",
       "name": "Zambia"
     },
     "ZWE": {
@@ -1584,6 +1824,7 @@
       ],
       "anthemName": "O Lift High The Banner Of Zimbabwe",
       "capital": "Harare",
+      "longName": "Republic of Zimbabwe",
       "name": "Zimbabwe"
     }
   },
