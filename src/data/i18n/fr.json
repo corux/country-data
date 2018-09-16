@@ -1,1161 +1,810 @@
 {
   "countries": {
+    "ABC": {
+      "anthemName": "Victoire",
+      "name": "Abkhazie"
+    },
     "AFG": {
-      "adjectives": [
-      ],
-      "capital": "Kabul",
+      "anthemName": "Hymne national",
       "name": "Afghanistan"
     },
     "AGO": {
-      "adjectives": [
-      ],
-      "capital": "Luanda",
+      "anthemName": "En avant, Angola",
       "name": "Angola"
     },
     "ALB": {
-      "adjectives": [
-      ],
-      "capital": "Tirana",
+      "anthemName": "L'Hymne au Drapeau",
       "name": "Albanie"
     },
+    "AND": {
+      "anthemName": "Le Grand Charlemagne",
+      "name": "Andorre"
+    },
     "ARE": {
-      "adjectives": [
-      ],
-      "capital": "Abu Dhabi",
+      "anthemName": "Vive ma patrie",
       "name": "Émirats arabes unis"
     },
     "ARG": {
-      "adjectives": [
-      ],
-      "capital": "Buenos Aires",
+      "anthemName": "Hymne national argentin",
       "name": "Argentine"
     },
     "ARM": {
-      "adjectives": [
-      ],
-      "capital": "Yerevan",
+      "anthemName": "Notre Patrie",
       "name": "Arménie"
     },
     "ATG": {
-      "adjectives": [
-      ],
-      "capital": "Saint John's",
+      "anthemName": "Juste Antigua, nous te saluons",
       "name": "Antigua-et-Barbuda"
     },
     "AUS": {
-      "adjectives": [
-      ],
-      "capital": "Canberra",
+      "anthemName": "Avance belle et juste Australie",
       "name": "Australie"
     },
     "AUT": {
-      "adjectives": [
-      ],
-      "capital": "Vienna",
+      "anthemName": "Pays des montagnes, pays sur le fleuve",
       "name": "Autriche"
     },
     "AZE": {
-      "adjectives": [
-      ],
-      "capital": "Baku",
+      "anthemName": "Marche azerbaïdjanaise",
       "name": "Azerbaïdjan"
     },
     "BDI": {
-      "adjectives": [
-      ],
-      "capital": "Bujumbura",
+      "anthemName": "Burundi aimé",
       "name": "Burundi"
     },
     "BEL": {
-      "adjectives": [
-      ],
-      "capital": "Brussels",
+      "anthemName": "La Brabançonne",
       "name": "Belgique"
     },
     "BEN": {
-      "adjectives": [
-      ],
-      "capital": "Porto-Novo",
+      "anthemName": "L'Aube Nouvelle",
       "name": "Bénin"
     },
     "BFA": {
-      "adjectives": [
-      ],
-      "capital": "Ouagadougou",
+      "anthemName": "L'Hymne de la Victoire",
       "name": "Burkina Faso"
     },
     "BGD": {
-      "adjectives": [
-      ],
-      "capital": "Dhaka",
+      "anthemName": "Mon Bengale doré",
       "name": "Bangladesh"
     },
     "BGR": {
-      "adjectives": [
-      ],
-      "capital": "Sofia",
+      "anthemName": "Chère patrie",
       "name": "Bulgarie"
     },
     "BHR": {
-      "adjectives": [
-      ],
-      "capital": "Manama",
+      "anthemName": "Notre Bahreïn",
       "name": "Bahreïn"
     },
     "BHS": {
-      "adjectives": [
-      ],
-      "capital": "Nassau",
+      "anthemName": "Marchez, Bahamas",
       "name": "Bahamas"
     },
     "BIH": {
-      "adjectives": [
-      ],
-      "capital": "Sarajevo",
+      "anthemName": "Intermezzo",
       "name": "Bosnie-Herzégovine"
     },
     "BLR": {
-      "adjectives": [
-      ],
-      "capital": "Minsk",
+      "anthemName": "Nous, Biélorusses",
       "name": "Biélorussie"
     },
     "BLZ": {
-      "adjectives": [
-      ],
-      "capital": "Belmopan",
+      "anthemName": "Terre des Libres",
       "name": "Belize"
     },
     "BOL": {
-      "adjectives": [
-      ],
-      "capital": "Sucre",
+      "anthemName": "Boliviens, le Destin Propice",
       "name": "Bolivie"
     },
     "BRA": {
-      "adjectives": [
-      ],
-      "capital": "Brasília",
+      "anthemName": "Hymne national brésilien",
       "name": "Brésil"
     },
     "BRB": {
-      "adjectives": [
-      ],
-      "capital": "Bridgetown",
+      "anthemName": "Dans l'abondance et dans le besoin",
       "name": "Barbade"
     },
     "BRN": {
-      "adjectives": [
-      ],
-      "capital": "Bandar Seri Begawan",
+      "anthemName": "Dieu bénisse le Sultan",
       "name": "Brunei"
     },
     "BTN": {
-      "adjectives": [
-      ],
-      "capital": "Thimphu",
+      "anthemName": "Terre du dragon tonnerre",
       "name": "Bhoutan"
     },
     "BWA": {
-      "adjectives": [
-      ],
-      "capital": "Gaborone",
+      "anthemName": "Béni soit cette patrie noble",
       "name": "Botswana"
     },
     "CAF": {
-      "adjectives": [
-      ],
-      "capital": "Bangui",
+      "anthemName": "La Renaissance",
       "name": "République centrafricaine"
     },
     "CAN": {
-      "adjectives": [
-      ],
-      "capital": "Ottawa",
+      "anthemName": "Ô Canada",
       "name": "Canada"
     },
     "CHE": {
-      "adjectives": [
-      ],
-      "capital": "Bern",
+      "anthemName": "Cantique suisse",
       "name": "Suisse"
     },
     "CHL": {
-      "adjectives": [
-      ],
-      "capital": "Santiago",
+      "anthemName": "Hymne national du Chili",
       "name": "Chili"
     },
     "CHN": {
-      "adjectives": [
-      ],
-      "capital": "Beijing",
+      "anthemName": "La Marche des Volontaires",
       "name": "Chine"
     },
     "CIV": {
-      "adjectives": [
-      ],
-      "capital": "Yamoussoukro",
+      "anthemName": "L'Abidjanaise",
       "name": "Côte d'Ivoire"
     },
     "CMR": {
-      "adjectives": [
-      ],
-      "capital": "Yaoundé",
+      "anthemName": "Chant de Ralliement",
       "name": "Cameroun"
     },
     "COD": {
-      "adjectives": [
-      ],
-      "capital": "Kinshasa",
-      "name": "Congo (Rép. dém.)"
+      "anthemName": "Debout Congolais",
+      "name": "République démocratique du Congo"
     },
     "COG": {
-      "adjectives": [
-      ],
-      "capital": "Brazzaville",
+      "anthemName": "La Congolaise",
       "name": "Congo"
     },
     "COK": {
-      "adjectives": [
-      ],
-      "capital": "Avarua",
+      "anthemName": "Dieu est la vérité",
       "name": "Îles Cook"
     },
     "COL": {
-      "adjectives": [
-      ],
-      "capital": "Bogotá",
+      "anthemName": "Hymne national de la Colombie",
       "name": "Colombie"
     },
     "COM": {
-      "adjectives": [
-      ],
-      "capital": "Moroni",
+      "anthemName": "L'Union des îles",
       "name": "Comores"
     },
     "CPV": {
-      "adjectives": [
-      ],
-      "capital": "Praia",
-      "name": "Cap Vert"
+      "anthemName": "Chant de la Liberté",
+      "name": "Cap-Vert"
     },
     "CRI": {
-      "adjectives": [
-      ],
-      "capital": "San José",
+      "anthemName": "Noble patrie, ton beau drapeau",
       "name": "Costa Rica"
     },
     "CUB": {
-      "adjectives": [
-      ],
-      "capital": "Havana",
+      "anthemName": "La Bayamaise",
       "name": "Cuba"
     },
     "CYP": {
-      "adjectives": [
-      ],
-      "capital": "Nicosia",
+      "anthemName": "Hymne à la Liberté",
       "name": "Chypre"
     },
     "CZE": {
-      "adjectives": [
-      ],
-      "capital": "Prague",
+      "anthemName": "Où est ma patrie?",
       "name": "République tchèque"
     },
     "DEU": {
-      "adjectives": [
-      ],
-      "capital": "Berlin",
+      "anthemName": "Le Chant des Allemands",
       "name": "Allemagne"
     },
     "DJI": {
-      "adjectives": [
-      ],
-      "capital": "Djibouti",
+      "anthemName": "Djibouti",
       "name": "Djibouti"
     },
     "DMA": {
-      "adjectives": [
-      ],
-      "capital": "Roseau",
+      "anthemName": "Ile de Beauté, Ile de Splendeur",
       "name": "Dominique"
     },
     "DNK": {
-      "adjectives": [
-      ],
-      "capital": "Copenhagen",
+      "anthemName": "Il y a un pays charmant",
       "name": "Danemark"
     },
     "DOM": {
-      "adjectives": [
-      ],
-      "capital": "Santo Domingo",
+      "anthemName": "La République",
       "name": "République dominicaine"
     },
     "DZA": {
-      "adjectives": [
-      ],
-      "capital": "Algiers",
+      "anthemName": "Le Serment",
       "name": "Algérie"
     },
     "ECU": {
-      "adjectives": [
-      ],
-      "capital": "Quito",
+      "anthemName": "Nous te saluons, Oh Patrie",
       "name": "Équateur"
     },
     "EGY": {
-      "adjectives": [
-      ],
-      "capital": "Cairo",
+      "anthemName": "Ma patrie, ma patrie, ma patrie",
       "name": "Égypte"
     },
     "ERI": {
-      "adjectives": [
-      ],
-      "capital": "Asmara",
+      "anthemName": "Érythrée, Érythrée, Érythrée",
       "name": "Érythrée"
     },
     "ESH": {
-      "adjectives": [
-      ],
-      "capital": "El Aaiún",
       "name": "Sahara Occidental"
     },
     "ESP": {
-      "adjectives": [
-      ],
-      "capital": "Madrid",
+      "anthemName": "La  Marche Royale",
       "name": "Espagne"
     },
     "EST": {
-      "adjectives": [
-      ],
-      "capital": "Tallinn",
+      "anthemName": "Ma patrie, mon bonheur et ma joie",
       "name": "Estonie"
     },
     "ETH": {
-      "adjectives": [
-      ],
-      "capital": "Addis Ababa",
+      "anthemName": "Marche vers l'avant, chère Mère Éthiopie",
       "name": "Éthiopie"
     },
     "FIN": {
-      "adjectives": [
-      ],
-      "capital": "Helsinki",
+      "anthemName": "Notre Pays",
       "name": "Finlande"
     },
     "FJI": {
-      "adjectives": [
-      ],
-      "capital": "Suva",
+      "anthemName": "Dieu Bénisse les Fidji",
       "name": "Fidji"
     },
     "FRA": {
-      "adjectives": [
-      ],
-      "capital": "Paris",
+      "anthemName": "La Marseillaise",
       "name": "France"
     },
     "FSM": {
-      "adjectives": [
-      ],
-      "capital": "Palikir",
+      "anthemName": "Patriotes de Micronésie",
       "name": "Micronésie"
     },
     "GAB": {
-      "adjectives": [
-      ],
-      "capital": "Libreville",
+      "anthemName": "La Concorde",
       "name": "Gabon"
     },
     "GBR": {
-      "adjectives": [
-      ],
-      "capital": "London",
+      "anthemName": "Que Dieu sauve la Reine",
       "name": "Royaume-Uni"
     },
     "GEO": {
-      "adjectives": [
-      ],
-      "capital": "Tbilisi",
+      "anthemName": "Liberté",
       "name": "Géorgie"
     },
     "GHA": {
-      "adjectives": [
-      ],
-      "capital": "Accra",
+      "anthemName": "Dieu Bénisse Notre Patrie le Ghana",
       "name": "Ghana"
     },
     "GIN": {
-      "adjectives": [
-      ],
-      "capital": "Conakry",
+      "anthemName": "Liberté",
       "name": "Guinée"
     },
     "GMB": {
-      "adjectives": [
-      ],
-      "capital": "Banjul",
+      "anthemName": "Pour la Gambie Notre Patrie",
       "name": "Gambie"
     },
     "GNB": {
-      "adjectives": [
-      ],
-      "capital": "Bissau",
+      "anthemName": "C'est à notre patrie bien-aimée",
       "name": "Guinée-Bissau"
     },
     "GNQ": {
-      "adjectives": [
-      ],
-      "capital": "Malabo",
-      "name": "Guinée-Équatoriale"
+      "anthemName": "Marchons en foulant le chemin de notre immense joie",
+      "name": "Guinée équatoriale"
     },
     "GRC": {
-      "adjectives": [
-      ],
-      "capital": "Athens",
+      "anthemName": "Hymne à la Liberté",
       "name": "Grèce"
     },
     "GRD": {
-      "adjectives": [
-      ],
-      "capital": "St. George's",
+      "anthemName": "Je vous salue Grenade",
       "name": "Grenade"
     },
     "GTM": {
-      "adjectives": [
-      ],
-      "capital": "Guatemala City",
+      "anthemName": "Le Guatemala heureux",
       "name": "Guatemala"
     },
     "GUY": {
-      "adjectives": [
-      ],
-      "capital": "Georgetown",
-      "name": "Guyane"
+      "anthemName": "Chère Pays de Guyana, de Rivières et de Palmiers",
+      "name": "Guyana"
     },
     "HND": {
-      "adjectives": [
-      ],
-      "capital": "Tegucigalpa",
+      "anthemName": "Ton drapeau est une splendeur au ciel",
       "name": "Honduras"
     },
     "HRV": {
-      "adjectives": [
-      ],
-      "capital": "Zagreb",
+      "anthemName": "Toi, notre belle patrie",
       "name": "Croatie"
     },
     "HTI": {
-      "adjectives": [
-      ],
-      "capital": "Port-au-Prince",
+      "anthemName": "La Dessalinienne",
       "name": "Haïti"
     },
     "HUN": {
-      "adjectives": [
-      ],
-      "capital": "Budapest",
+      "anthemName": "Dieu, bénis les Hongrois",
       "name": "Hongrie"
     },
     "IDN": {
-      "adjectives": [
-      ],
-      "capital": "Jakarta",
+      "anthemName": "Grande Indonésie",
       "name": "Indonésie"
     },
     "IND": {
-      "adjectives": [
-      ],
-      "capital": "New Delhi",
+      "anthemName": "Tu es le souverain de toutes les âmes",
       "name": "Inde"
     },
     "IRL": {
-      "adjectives": [
-      ],
-      "capital": "Dublin",
+      "anthemName": "La chanson du soldat",
       "name": "Irlande"
     },
     "IRN": {
-      "adjectives": [
-      ],
-      "capital": "Tehran",
+      "anthemName": "Hymne de la république islamique",
       "name": "Iran"
     },
     "IRQ": {
-      "adjectives": [
-      ],
-      "capital": "Baghdad",
+      "anthemName": "Ma patrie",
       "name": "Irak"
     },
     "ISL": {
-      "adjectives": [
-      ],
-      "capital": "Reykjavik",
+      "anthemName": "Chanson de gloire",
       "name": "Islande"
     },
     "ISR": {
-      "adjectives": [
-      ],
-      "capital": "Jerusalem",
+      "anthemName": "L'Espoir",
       "name": "Israël"
     },
     "ITA": {
-      "adjectives": [
-      ],
-      "capital": "Rome",
+      "anthemName": "Frères d'Italie",
       "name": "Italie"
     },
     "JAM": {
-      "adjectives": [
-      ],
-      "capital": "Kingston",
+      "anthemName": "Jamaïque, terre que nous aimons",
       "name": "Jamaïque"
     },
     "JOR": {
-      "adjectives": [
-      ],
-      "capital": "Amman",
+      "anthemName": "Longue vie au roi !",
       "name": "Jordanie"
     },
     "JPN": {
-      "adjectives": [
-      ],
-      "capital": "Tokyo",
+      "anthemName": "Votre règne",
       "name": "Japon"
     },
     "KAZ": {
-      "adjectives": [
-      ],
-      "capital": "Astana",
+      "anthemName": "Mon Kazakhstan",
       "name": "Kazakhstan"
     },
     "KEN": {
-      "adjectives": [
-      ],
-      "capital": "Nairobi",
+      "anthemName": "Ô Dieu de toute la création",
       "name": "Kenya"
     },
     "KGZ": {
-      "adjectives": [
-      ],
-      "capital": "Bishkek",
+      "anthemName": "Hymne national de la République kirghize",
       "name": "Kirghizistan"
     },
     "KHM": {
-      "adjectives": [
-      ],
-      "capital": "Phnom Penh",
+      "anthemName": "Majestueux Royaume",
       "name": "Cambodge"
     },
     "KIR": {
-      "adjectives": [
-      ],
-      "capital": "South Tarawa",
+      "anthemName": "Debout Kiribati",
       "name": "Kiribati"
     },
     "KNA": {
-      "adjectives": [
-      ],
-      "capital": "Basseterre",
+      "anthemName": "Oh, Pays de Beauté",
       "name": "Saint-Christophe-et-Niévès"
     },
     "KOR": {
-      "adjectives": [
-      ],
-      "capital": "Seoul",
+      "anthemName": "Chanson de l'amour pour le Pays",
       "name": "Corée du Sud"
     },
     "KWT": {
-      "adjectives": [
-      ],
-      "capital": "Kuwait City",
+      "anthemName": "Hymne national",
       "name": "Koweït"
     },
     "LAO": {
-      "adjectives": [
-      ],
-      "capital": "Vientiane",
+      "anthemName": "Hymne aux gens du Laos",
       "name": "Laos"
     },
     "LBN": {
-      "adjectives": [
-      ],
-      "capital": "Beirut",
+      "anthemName": "Tous ! Pour notre pays, notre drapeau et notre gloire",
       "name": "Liban"
     },
     "LBR": {
-      "adjectives": [
-      ],
-      "capital": "Monrovia",
+      "anthemName": "Tous Salut, Salut Liberia",
       "name": "Liberia"
     },
     "LBY": {
-      "adjectives": [
-      ],
-      "capital": "Tripoli",
+      "anthemName": "Libye, Libye, Libye",
       "name": "Libye"
     },
     "LCA": {
-      "adjectives": [
-      ],
-      "capital": "Castries",
-      "name": "Saint-Lucie"
+      "anthemName": "Fils et Filles de Sainte-Lucie",
+      "name": "Sainte-Lucie"
     },
     "LIE": {
-      "adjectives": [
-      ],
-      "capital": "Vaduz",
+      "anthemName": "Haut au-dessus du jeune Rhin",
       "name": "Liechtenstein"
     },
     "LKA": {
-      "adjectives": [
-      ],
-      "capital": "Colombo",
+      "anthemName": "Mère Sri Lanka",
       "name": "Sri Lanka"
     },
     "LSO": {
-      "adjectives": [
-      ],
-      "capital": "Maseru",
+      "anthemName": "Lesotho, pays de nos ancêtres",
       "name": "Lesotho"
     },
     "LTU": {
-      "adjectives": [
-      ],
-      "capital": "Vilnius",
+      "anthemName": "Chanson nationale",
       "name": "Lituanie"
     },
     "LUX": {
-      "adjectives": [
-      ],
-      "capital": "Luxembourg",
+      "anthemName": "Notre mère-patrie",
       "name": "Luxembourg"
     },
     "LVA": {
-      "adjectives": [
-      ],
-      "capital": "Riga",
+      "anthemName": "Dieu honore la Lettonie",
       "name": "Lettonie"
     },
     "MAR": {
-      "adjectives": [
-      ],
-      "capital": "Rabat",
+      "anthemName": "Hymne national",
       "name": "Maroc"
     },
     "MCO": {
-      "adjectives": [
-      ],
-      "capital": "Monaco",
+      "anthemName": "Hymne monégasque",
       "name": "Monaco"
     },
     "MDA": {
-      "adjectives": [
-      ],
-      "capital": "Chișinău",
+      "anthemName": "Notre langue",
       "name": "Moldavie"
     },
     "MDG": {
-      "adjectives": [
-      ],
-      "capital": "Antananarivo",
+      "anthemName": "Ô, Notre chère patrie",
       "name": "Madagascar"
     },
     "MDV": {
-      "adjectives": [
-      ],
-      "capital": "Malé",
+      "anthemName": "Dans l'Unité nationale, nous saluons notre nation",
       "name": "Maldives"
     },
     "MEX": {
-      "adjectives": [
-      ],
-      "capital": "Mexico City",
+      "anthemName": "Hymne national mexicain",
       "name": "Mexique"
     },
     "MHL": {
-      "adjectives": [
-      ],
-      "capital": "Majuro",
+      "anthemName": "Îles Marshall pour toujours",
       "name": "Îles Marshall"
     },
     "MKD": {
-      "adjectives": [
-      ],
-      "capital": "Skopje",
+      "anthemName": "Le Soleil sur la Macédoine",
       "name": "Macédoine"
     },
     "MLI": {
-      "adjectives": [
-      ],
-      "capital": "Bamako",
+      "anthemName": "Pour l'Afrique et pour toi, Mali",
       "name": "Mali"
     },
     "MLT": {
-      "adjectives": [
-      ],
-      "capital": "Valletta",
+      "anthemName": "L'Hymne maltais",
       "name": "Malte"
     },
+    "MMR": {
+      "anthemName": "Nous aimerons la Birmanie",
+      "name": "Birmanie"
+    },
+    "MNE": {
+      "anthemName": "Ô brillante aube de Mai",
+      "name": "Monténégro"
+    },
     "MNG": {
-      "adjectives": [
-      ],
-      "capital": "Ulan Bator",
+      "anthemName": "Hymne mongol",
       "name": "Mongolie"
     },
     "MOZ": {
-      "adjectives": [
-      ],
-      "capital": "Maputo",
+      "anthemName": "Patrie aimée",
       "name": "Mozambique"
     },
     "MRT": {
-      "adjectives": [
-      ],
-      "capital": "Nouakchott",
+      "anthemName": "Chant religieux national",
       "name": "Mauritanie"
     },
     "MUS": {
-      "adjectives": [
-      ],
-      "capital": "Port Louis",
-      "name": "Île Maurice"
+      "anthemName": "Mère Patrie",
+      "name": "Maurice"
     },
     "MWI": {
-      "adjectives": [
-      ],
-      "capital": "Lilongwe",
+      "anthemName": "Ô Dieu honore notre pays le Malawi",
       "name": "Malawi"
     },
     "MYS": {
-      "adjectives": [
-      ],
-      "capital": "Kuala Lumpur",
+      "anthemName": "Mon Pays",
       "name": "Malaisie"
     },
     "NAM": {
-      "adjectives": [
-      ],
-      "capital": "Windhoek",
+      "anthemName": "Namibie, pays des courageux",
       "name": "Namibie"
     },
     "NER": {
-      "adjectives": [
-      ],
-      "capital": "Niamey",
+      "anthemName": "La Nigérienne",
       "name": "Niger"
     },
     "NGA": {
-      "adjectives": [
-      ],
-      "capital": "Abuja",
-      "name": "Nigéria"
+      "anthemName": "Levez-vous Oh Compatriotes, Obéissez à l'appel du Nigeria",
+      "name": "Nigeria"
     },
     "NIC": {
-      "adjectives": [
-      ],
-      "capital": "Managua",
+      "anthemName": "Salut à toi, Nicaragua",
       "name": "Nicaragua"
     },
     "NIU": {
-      "adjectives": [
-      ],
-      "capital": "Alofi",
+      "anthemName": "Le seigneur du Paradis",
       "name": "Niue"
     },
     "NLD": {
-      "adjectives": [
-      ],
-      "capital": "Amsterdam",
+      "anthemName": "Guillaume de Nassau",
       "name": "Pays-Bas"
     },
     "NOR": {
-      "adjectives": [
-      ],
-      "capital": "Oslo",
+      "anthemName": "Oui, nous aimons ce pays",
       "name": "Norvège"
     },
     "NPL": {
-      "adjectives": [
-      ],
-      "capital": "Kathmandu",
+      "anthemName": "Les cent fleurs",
       "name": "Népal"
     },
     "NRU": {
-      "adjectives": [
-      ],
-      "capital": "Yaren",
+      "anthemName": "Nauru Notre patrie",
       "name": "Nauru"
     },
     "NZL": {
-      "adjectives": [
-      ],
-      "capital": "Wellington",
+      "anthemName": "Dieu Défende la Nouvelle-Zélande",
       "name": "Nouvelle-Zélande"
     },
     "OMN": {
-      "adjectives": [
-      ],
-      "capital": "Muscat",
+      "anthemName": "Hymne du sultan",
       "name": "Oman"
     },
     "PAK": {
-      "adjectives": [
-      ],
-      "capital": "Islamabad",
+      "anthemName": "Honorée soit cette terre sacrée",
       "name": "Pakistan"
     },
     "PAN": {
-      "adjectives": [
-      ],
-      "capital": "Panama City",
+      "anthemName": "Hymne de l'Isthme",
       "name": "Panama"
     },
     "PER": {
-      "adjectives": [
-      ],
-      "capital": "Lima",
+      "anthemName": "Nous sommes libres, restons-le à jamais",
       "name": "Pérou"
     },
     "PHL": {
-      "adjectives": [
-      ],
-      "capital": "Manila",
+      "anthemName": "Pays choisi",
       "name": "Philippines"
     },
     "PLW": {
-      "adjectives": [
-      ],
-      "capital": "Ngerulmud",
+      "anthemName": "Nos Palaos",
       "name": "Palaos"
     },
     "PNG": {
-      "adjectives": [
-      ],
-      "capital": "Port Moresby",
+      "anthemName": "Ô manifestez, tous vous enfants de ce pays",
       "name": "Papouasie-Nouvelle-Guinée"
     },
     "POL": {
-      "adjectives": [
-      ],
-      "capital": "Warsaw",
+      "anthemName": "La Mazurka de Dąbrowski",
       "name": "Pologne"
     },
     "PRK": {
-      "adjectives": [
-      ],
-      "capital": "Pyongyang",
+      "anthemName": "Chant patriotique",
       "name": "Corée du Nord"
     },
     "PRT": {
-      "adjectives": [
-      ],
-      "capital": "Lisbon",
+      "anthemName": "La Portugaise",
       "name": "Portugal"
     },
     "PRY": {
-      "adjectives": [
-      ],
-      "capital": "Asunción",
+      "anthemName": "Paraguayos, la République ou mourir",
       "name": "Paraguay"
     },
+    "PSE": {
+      "anthemName": "Ma patrie, ma patrie",
+      "name": "Palestine"
+    },
     "QAT": {
-      "adjectives": [
-      ],
-      "capital": "Doha",
+      "anthemName": "Vive l'Émir !",
       "name": "Qatar"
     },
     "ROU": {
-      "adjectives": [
-      ],
-      "capital": "Bucharest",
+      "anthemName": "Réveille-toi, Roumain",
       "name": "Roumanie"
     },
     "RUS": {
-      "adjectives": [
-      ],
-      "capital": "Moscow",
+      "anthemName": "Hymne national de la Russie",
       "name": "Russie"
     },
     "RWA": {
-      "adjectives": [
-      ],
-      "capital": "Kigali",
+      "anthemName": "Beau Rwanda",
       "name": "Rwanda"
     },
     "SAU": {
-      "adjectives": [
-      ],
-      "capital": "Riyadh",
-      "name": "Arabie Saoudite"
+      "anthemName": "Le salut royal",
+      "name": "Arabie saoudite"
     },
     "SDN": {
-      "adjectives": [
-      ],
-      "capital": "Khartoum",
+      "anthemName": "Nous sommes l'armée de Dieu et de notre terre",
       "name": "Soudan"
     },
     "SEN": {
-      "adjectives": [
-      ],
-      "capital": "Dakar",
+      "anthemName": "Le Lion Rouge",
       "name": "Sénégal"
     },
     "SGP": {
-      "adjectives": [
-      ],
-      "capital": "Singapore",
+      "anthemName": "Puisse Singapour progresser",
       "name": "Singapour"
     },
     "SLB": {
-      "adjectives": [
-      ],
-      "capital": "Honiara",
+      "anthemName": "Dieu Sauve nos Iles Salomon",
       "name": "Îles Salomon"
     },
     "SLE": {
-      "adjectives": [
-      ],
-      "capital": "Freetown",
+      "anthemName": "Nous T'exaltons Grandement, Royaume de la Liberté",
       "name": "Sierra Leone"
     },
     "SLV": {
-      "adjectives": [
-      ],
-      "capital": "San Salvador",
+      "anthemName": "Hymne National du Salvador",
       "name": "Salvador"
     },
     "SMR": {
-      "adjectives": [
-      ],
-      "capital": "City of San Marino",
+      "anthemName": "Hymne national de la république",
       "name": "Saint-Marin"
     },
     "SOM": {
-      "adjectives": [
-      ],
-      "capital": "Mogadishu",
+      "anthemName": "Réveille-toi, Somalie",
       "name": "Somalie"
     },
+    "SOS": {
+      "anthemName": "Hymne national de l'Ossétie du Sud",
+      "name": "Ossétie du Sud"
+    },
+    "SRB": {
+      "anthemName": "Dieu donne Justice",
+      "name": "Serbie"
+    },
     "SSD": {
-      "adjectives": [
-      ],
-      "capital": "Juba",
+      "anthemName": "Soudan du Sud Hourra!",
       "name": "Soudan du Sud"
     },
     "STP": {
-      "adjectives": [
-      ],
-      "capital": "São Tomé",
+      "anthemName": "Indépendance totale",
       "name": "Sao Tomé-et-Principe"
     },
     "SUR": {
-      "adjectives": [
-      ],
-      "capital": "Paramaribo",
-      "name": "Surinam"
+      "anthemName": "Dieu soit avec le Suriname",
+      "name": "Suriname"
     },
     "SVK": {
-      "adjectives": [
-      ],
-      "capital": "Bratislava",
+      "anthemName": "Tempête sur les Tatras",
       "name": "Slovaquie"
     },
     "SVN": {
-      "adjectives": [
-      ],
-      "capital": "Ljubljana",
+      "anthemName": "Santé !",
       "name": "Slovénie"
     },
     "SWE": {
-      "adjectives": [
-      ],
-      "capital": "Stockholm",
+      "anthemName": "Toi l'antique, toi le libre",
       "name": "Suède"
     },
     "SWZ": {
-      "adjectives": [
-      ],
-      "capital": "Lobamba",
+      "anthemName": "Oh Seigneur notre Dieu, ordonnateur des bénédictions des Swazis",
       "name": "Swaziland"
     },
     "SYC": {
-      "adjectives": [
-      ],
-      "capital": "Victoria",
+      "anthemName": "Joignez, tous Seychellois",
       "name": "Seychelles"
     },
     "SYR": {
-      "adjectives": [
-      ],
-      "capital": "Damascus",
+      "anthemName": "Gardiens de la Patrie",
       "name": "Syrie"
     },
     "TCD": {
-      "adjectives": [
-      ],
-      "capital": "N'Djamena",
+      "anthemName": "La Tchadienne",
       "name": "Tchad"
     },
     "TGO": {
-      "adjectives": [
-      ],
-      "capital": "Lomé",
+      "anthemName": "Terre de nos aïeux",
       "name": "Togo"
     },
     "THA": {
-      "adjectives": [
-      ],
-      "capital": "Bangkok",
+      "anthemName": "Hymne national",
       "name": "Thaïlande"
     },
     "TJK": {
-      "adjectives": [
-      ],
-      "capital": "Dushanbe",
+      "anthemName": "Hymne national",
       "name": "Tadjikistan"
     },
     "TKM": {
-      "adjectives": [
-      ],
-      "capital": "Ashgabat",
+      "anthemName": "Hymne national turkmène",
       "name": "Turkménistan"
     },
     "TLS": {
-      "adjectives": [
-      ],
-      "capital": "Dili",
+      "anthemName": "Patrie",
       "name": "Timor oriental"
     },
     "TON": {
-      "adjectives": [
-      ],
-      "capital": "Nuku'alofa",
+      "anthemName": "Chanson du Roi des îles Tonga",
       "name": "Tonga"
     },
     "TTO": {
-      "adjectives": [
-      ],
-      "capital": "Port of Spain",
-      "name": "Trinité et Tobago"
+      "anthemName": "Forgé de l'amour de la liberté",
+      "name": "Trinité-et-Tobago"
     },
     "TUN": {
-      "adjectives": [
-      ],
-      "capital": "Tunis",
+      "anthemName": "Défenseurs de la patrie",
       "name": "Tunisie"
     },
     "TUR": {
-      "adjectives": [
-      ],
-      "capital": "Ankara",
+      "anthemName": "La Marche de l'Indépendance",
       "name": "Turquie"
     },
     "TUV": {
-      "adjectives": [
-      ],
-      "capital": "Funafuti",
+      "anthemName": "Les Tuvalu avec Dieu",
       "name": "Tuvalu"
     },
     "TWN": {
-      "adjectives": [
-      ],
-      "capital": "Taipei",
+      "anthemName": "Les Trois principes du peuple",
       "name": "Taïwan"
     },
     "TZA": {
-      "adjectives": [
-      ],
-      "capital": "Dodoma",
+      "anthemName": "Dieu honore l'Afrique",
       "name": "Tanzanie"
     },
     "UGA": {
-      "adjectives": [
-      ],
-      "capital": "Kampala",
-      "name": "Uganda"
+      "anthemName": "Ô Ouganda, pays de beauté",
+      "name": "Ouganda"
     },
     "UKR": {
-      "adjectives": [
-      ],
-      "capital": "Kiev",
+      "anthemName": "L'Ukraine n'est pas encore morte",
       "name": "Ukraine"
     },
     "URY": {
-      "adjectives": [
-      ],
-      "capital": "Montevideo",
+      "anthemName": "Uruguayens, la Patrie ou la Mort !",
       "name": "Uruguay"
     },
     "USA": {
-      "adjectives": [
-      ],
-      "capital": "Washington D.C.",
+      "anthemName": "La Bannière étoilée",
       "name": "États-Unis"
     },
     "UZB": {
-      "adjectives": [
-      ],
-      "capital": "Tashkent",
+      "anthemName": "Hymne national de l'Ouzbékistan",
       "name": "Ouzbékistan"
     },
+    "VAT": {
+      "anthemName": "Hymne et Marche Pontificaux",
+      "name": "Vatican"
+    },
     "VCT": {
-      "adjectives": [
-      ],
-      "capital": "Kingstown",
+      "anthemName": "Saint-Vincent, Pays si Beau",
       "name": "Saint-Vincent-et-les-Grenadines"
     },
     "VEN": {
-      "adjectives": [
-      ],
-      "capital": "Caracas",
+      "anthemName": "Gloire au peuple brave",
       "name": "Venezuela"
     },
     "VNM": {
-      "adjectives": [
-      ],
-      "capital": "Hanoi",
+      "anthemName": "Les troupes avancent",
       "name": "Viêt Nam"
     },
     "VUT": {
-      "adjectives": [
-      ],
-      "capital": "Port Vila",
+      "anthemName": "Nous, nous, nous",
       "name": "Vanuatu"
     },
     "WSM": {
-      "adjectives": [
-      ],
-      "capital": "Apia",
+      "anthemName": "La Bannière de la Liberté",
       "name": "Samoa"
     },
+    "XXK": {
+      "anthemName": "Europe",
+      "name": "Kosovo"
+    },
     "YEM": {
-      "adjectives": [
-      ],
-      "capital": "Sana'a",
+      "anthemName": "République unie",
       "name": "Yémen"
     },
     "ZAF": {
-      "adjectives": [
-      ],
-      "capital": "Pretoria",
+      "anthemName": "Dieu sauve l'Afrique/L'Appel de l'Afrique du Sud",
       "name": "Afrique du Sud"
     },
     "ZMB": {
-      "adjectives": [
-      ],
-      "capital": "Lusaka",
+      "anthemName": "Levez et chantez de la Zambie, fière et libre",
       "name": "Zambie"
     },
     "ZWE": {
-      "adjectives": [
-      ],
-      "capital": "Harare",
+      "anthemName": "Montez haut le drapeau de Zimbabwe",
       "name": "Zimbabwe"
     }
   },

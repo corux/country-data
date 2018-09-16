@@ -85,6 +85,44 @@ namespace Helpers {
 }
 
 namespace Parsers {
+  function getFromCountryJs(isoCodes: string[]): any[] {
+    // Data missing in countryjs
+    const additional = [
+      { ISO: { alpha3: "ABC" }, name: "Abkhazia", capital: "Sukhumi", translations: { fr: "Abkhazie" } },
+      { ISO: { alpha3: "AND" }, name: "Andorra", capital: "Andorra la Vella", translations: { fr: "Andorre" } },
+      { ISO: { alpha3: "XXK" }, name: "Kosovo", capital: "Pristina", translations: { fr: "Kosovo" } },
+      { ISO: { alpha3: "MNE" }, name: "Montenegro", capital: "Podgorica", translations: { fr: "Monténégro" } },
+      { ISO: { alpha3: "MMR" }, name: "Myanmar", capital: "Nay Pyi Taw", translations: { fr: "Birmanie" } },
+      { ISO: { alpha3: "PSE" }, name: "Palestine", capital: "East Jerusalem", translations: { fr: "Palestine" } },
+      { ISO: { alpha3: "SRB" }, name: "Serbia", capital: "Belgrade", translations: { fr: "Serbie" } },
+      { ISO: { alpha3: "SOS" }, name: "South Ossetia", capital: "Tskhinvali", translations: { fr: "Ossétie du Sud" } },
+      { ISO: { alpha3: "VAT" }, name: "Vatican City", capital: "Vatican City", translations: { fr: "Vatican" } },
+    ];
+    const data = [].concat(countryjs.all(), additional)
+      .filter((val) => isoCodes.indexOf(val.ISO.alpha3) !== -1)
+      .filter((val) => (!(val.ISO.alpha3 === "GBR" && val.name !== "United Kingdom")
+        && !(val.ISO.alpha3 === "HUN" && !val.name)));
+    data.forEach((val) => {
+      if (val.translations && val.translations.fr) {
+        const mapping = {
+          "Uganda": "Ouganda",
+          "Trinité et Tobago": "Trinité-et-Tobago",
+          "Surinam": "Suriname",
+          "Cap Vert": "Cap-Vert",
+          "Congo (Rép. dém.)": "République démocratique du Congo",
+          "Guinée-Équatoriale": "Guinée équatoriale",
+          "Guyane": "Guyana",
+          "Île Maurice": "Maurice",
+          "Nigéria": "Nigeria",
+          "Saint-Lucie": "Sainte-Lucie",
+          "Arabie Saoudite": "Arabie saoudite",
+        };
+        val.translations.fr = mapping[val.translations.fr] || val.translations.fr;
+      }
+    });
+    return data;
+  }
+
   export async function generic(): Promise<any> {
     // parse wikipedia table
     let $ = cheerio.load((await Axios.get("https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde")).data);
@@ -308,25 +346,8 @@ namespace Parsers {
     }).get().filter(n => !!n);
 
     const data = {};
-    // Data missing in countryjs
-    const additional = [
-      { ISO: { alpha3: "ABC" }, name: "Abkhazia", capital: "Sukhumi" },
-      { ISO: { alpha3: "AND" }, name: "Andorra", capital: "Andorra la Vella" },
-      { ISO: { alpha3: "XXK" }, name: "Kosovo", capital: "Pristina" },
-      { ISO: { alpha3: "MNE" }, name: "Montenegro", capital: "Podgorica" },
-      { ISO: { alpha3: "MMR" }, name: "Myanmar", capital: "Nay Pyi Taw" },
-      { ISO: { alpha3: "PSE" }, name: "Palestine", capital: "East Jerusalem" },
-      { ISO: { alpha3: "SRB" }, name: "Serbia", capital: "Belgrade" },
-      { ISO: { alpha3: "SOS" }, name: "South Ossetia", capital: "Tskhinvali" },
-      { ISO: { alpha3: "VAT" }, name: "Vatican City", capital: "Vatican City" },
-    ];
-    [].concat(countryjs.all(), additional).filter((val) => isoCodes.indexOf(val.ISO.alpha3) !== -1)
+    getFromCountryJs(isoCodes)
       .forEach((val) => {
-        if ((val.ISO.alpha3 === "GBR" && val.name !== "United Kingdom")
-          || (val.ISO.alpha3 === "HUN" && !val.name)) {
-          // skip duplicate iso codes from countryjs
-          return;
-        }
         const name = Helpers.fixCountryName(val.name);
         const country: any = data[val.ISO.alpha3] = {
           name: name,
@@ -357,47 +378,26 @@ namespace Parsers {
         return text;
       };
       const getName = () => {
-        const text = $(elem).children().eq(0).children("a").first().text();
+        const text = $(elem).children().eq(0).find("a").text().replace(/\[.*\]/, "");
         const mapping = {
-          "Bahamas": "The Bahamas",
-          "Macedonia": "Republic of Macedonia",
-          "Micronesia": "Federated States of Micronesia",
+          "Salomon": "Îles Salomon",
+          "République du Congo": "Congo",
+          "République de Macédoine": "Macédoine",
         };
         return mapping[text] || text;
       };
-      const getAudio = () => {
-        const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
-        return src ? `https:${src}` : undefined;
-      };
-      const getAnthemName = () => {
-        const match = get(1).match(/"([^\"]*)"(?:.*\("([^\"]*)"\))?/);
-        if (!match) {
-          return undefined;
-        }
 
-        return match[2] || match[1];
-      };
       return {
         name: getName(),
-        anthemName: getAnthemName(),
-        url: getAudio()
+        anthemName: get(2).trim() || get(1).trim()
       };
     }).get();
 
     const data = {};
-    countryjs.all().filter((val) => isoCodes.indexOf(val.ISO.alpha3) !== -1)
+    getFromCountryJs(isoCodes)
       .forEach((val) => {
-        if ((val.ISO.alpha3 === "GBR" && val.name !== "United Kingdom")
-          || (val.ISO.alpha3 === "HUN" && !val.name)) {
-          // skip duplicate iso codes from countryjs
-          return;
-        }
         const country: any = data[val.ISO.alpha3] = {
           name: Helpers.fixCountryName(val.translations.fr),
-          capital: Helpers.fixCapitalName(val.capital),
-          adjectives: ("").split(",")
-            .map((val) => val.trim())
-            .filter((val) => !!val),
         };
         const anthem = anthemData.find((a) => a.name === country.name);
         if (anthem) {
