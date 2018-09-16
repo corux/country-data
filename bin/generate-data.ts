@@ -6,6 +6,7 @@ import * as program from "commander";
 import * as process from "process";
 import * as cheerio from "cheerio";
 import * as countryjs from "countryjs";
+import * as stableStringify from "json-stable-stringify";
 import Axios from "axios";
 
 program
@@ -16,6 +17,8 @@ if (!fs.existsSync(program.destination)) {
   console.log("Destination does not exist: " + program.destination);
   process.exit(1);
 }
+
+const stringify = (obj: any) => stableStringify(obj, { space: 2 });
 
 namespace Helpers {
   export function fixCountryName(name: string): string {
@@ -291,8 +294,13 @@ Parsers.generic().then((generic) => {
     def.promise.then((val) => {
       const file = path.join(process.cwd(), program.destination, `i18n/${def.lang}.json`);
       const data = JSON.parse(fs.readFileSync(file).toString());
-      data.countries = val;
-      fs.writeFile(file, JSON.stringify(data, null, 2), "utf8", () => { });
+      data.countries = {};
+      isoCodes.forEach((iso) => {
+        if (val[iso]) {
+          data.countries[iso] = val[iso];
+        }
+      })
+      fs.writeFile(file, stringify(data), "utf8", () => { });
     });
   });
 
@@ -306,6 +314,6 @@ Parsers.generic().then((generic) => {
     });
 
     fs.writeFile(path.join(process.cwd(), program.destination, "generic.json"),
-      JSON.stringify(generic, null, 2), "utf8", () => { });
+      stringify(generic), "utf8", () => { });
   });
 });

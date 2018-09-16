@@ -20,6 +20,7 @@
     "cheerio": "^1.0.0-rc.2",
     "commander": "^2.18.0",
     "countryjs": "^1.8.0",
+    "json-stable-stringify": "^1.0.1",
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
     "typescript": "^2.7.2"
