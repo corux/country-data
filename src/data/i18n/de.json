@@ -74,7 +74,7 @@
     },
     "GNQ": {
       "name": "Äquatorialguinea",
-      "longName": "Republik Äquatorial­guinea",
+      "longName": "Republik Äquatorialguinea",
       "altNames": [],
       "capital": "Malabo",
       "anthemName": "Lasst uns den Weg unserer großen Freude gehen"
@@ -222,7 +222,8 @@
       "capital": "Sarajevo",
       "adjectives": [
         "bosnisch-herzegowinisch"
-      ]
+      ],
+      "anthemName": "Intermeco"
     },
     "BWA": {
       "name": "Botswana",
@@ -272,7 +273,8 @@
       "capital": "Ouagadougou",
       "adjectives": [
         "burkinisch"
-      ]
+      ],
+      "anthemName": "Ditanyè"
     },
     "BDI": {
       "name": "Burundi",
@@ -303,7 +305,8 @@
       "capital": "Taipeh",
       "adjectives": [
         "taiwanisch"
-      ]
+      ],
+      "anthemName": "Drei Prinzipien des Volkes"
     },
     "CHN": {
       "name": "Volksrepublik China",
@@ -330,7 +333,8 @@
       "capital": "San José",
       "adjectives": [
         "costa-ricanisch"
-      ]
+      ],
+      "anthemName": "Edles Vaterland, deine schöne Flagge"
     },
     "DNK": {
       "name": "Dänemark",
@@ -349,7 +353,8 @@
       "capital": "Berlin",
       "adjectives": [
         "deutsch"
-      ]
+      ],
+      "anthemName": "Deutsche Nationalhymne (Lied der Deutschen, nur dritte Strophe)"
     },
     "DMA": {
       "name": "Dominica",
@@ -378,7 +383,8 @@
       "capital": "Dschibuti-Stadt",
       "adjectives": [
         "dschibutisch"
-      ]
+      ],
+      "anthemName": "Dschibuti"
     },
     "ECU": {
       "name": "Ecuador",
@@ -397,7 +403,8 @@
       "capital": "San Salvador",
       "adjectives": [
         "salvadorianisch"
-      ]
+      ],
+      "anthemName": "Lasst uns stolz unsere Heimat grüßen"
     },
     "CIV": {
       "name": "Elfenbeinküste",
@@ -686,7 +693,8 @@
       "capital": "Sanaa (de jure)",
       "adjectives": [
         "jemenitisch"
-      ]
+      ],
+      "anthemName": "Nationalhymne Jemens"
     },
     "JOR": {
       "name": "Jordanien",
@@ -736,7 +744,8 @@
       "adjectives": [
         "kapverdisch",
         "kap-verdisch"
-      ]
+      ],
+      "anthemName": "Lied der Freiheit"
     },
     "KAZ": {
       "name": "Kasachstan",
@@ -848,11 +857,14 @@
       ],
       "anthemName": "Lied der Liebe für das Land"
     },
-    "RKS": {
+    "XXK": {
       "name": "Kosovo",
       "longName": "Republik Kosovo",
       "altNames": [],
       "capital": "Pristina",
+      "adjectives": [
+        "kosovarisch"
+      ],
       "anthemName": "Europa"
     },
     "HRV": {
@@ -951,7 +963,8 @@
       "capital": "Vaduz",
       "adjectives": [
         "liechtensteinisch"
-      ]
+      ],
+      "anthemName": "Oben am jungen Rhein"
     },
     "LTU": {
       "name": "Litauen",
@@ -1129,8 +1142,7 @@
       "altNames": [],
       "capital": "Ulaanbaatar",
       "adjectives": [
-        "mongolisch",
-        "montenegrinisch"
+        "mongolisch"
       ],
       "anthemName": "Mongolische Nationalhymne"
     },
@@ -1139,6 +1151,9 @@
       "longName": "Montenegro",
       "altNames": [],
       "capital": "Podgorica",
+      "adjectives": [
+        "montenegrinisch"
+      ],
       "anthemName": "Oh, du helle Morgenröte im Mai"
     },
     "MOZ": {
@@ -1276,17 +1291,21 @@
       "name": "Österreich",
       "longName": "Republik Österreich",
       "altNames": [],
-      "capital": "Wien"
+      "capital": "Wien",
+      "anthemName": "Österreichische Bundeshymne"
     },
     "TLS": {
-      "name": "Osttimor / Timor-Leste",
+      "name": "Osttimor",
       "longName": "Demokratische Republik Timor-Leste",
-      "altNames": [],
+      "altNames": [
+        "Timor-Leste"
+      ],
       "capital": "Dili",
       "adjectives": [
         "osttimoresisch",
         "osttimorisch"
-      ]
+      ],
+      "anthemName": "Vaterland"
     },
     "PAK": {
       "name": "Pakistan",
@@ -1450,7 +1469,8 @@
       "capital": "San Marino",
       "adjectives": [
         "san-marinesisch"
-      ]
+      ],
+      "anthemName": "Nationalhymne der Republik"
     },
     "STP": {
       "name": "São Tomé und Príncipe",
@@ -1459,7 +1479,8 @@
       "capital": "São Tomé",
       "adjectives": [
         "são-toméisch"
-      ]
+      ],
+      "anthemName": "Absolute Unabhängigkeit"
     },
     "SAU": {
       "name": "Saudi-Arabien",
@@ -1483,13 +1504,14 @@
     },
     "CHE": {
       "name": "Schweiz",
-      "longName": "Schweizerische Eid­genossen­schaft",
+      "longName": "Schweizerische Eidgenossenschaft",
       "altNames": [],
       "capital": "Bern",
       "adjectives": [
         "Schweizer",
         "schweizerisch"
-      ]
+      ],
+      "anthemName": "Schweizerpsalm"
     },
     "SEN": {
       "name": "Senegal",
@@ -1528,7 +1550,8 @@
       "capital": "Freetown",
       "adjectives": [
         "sierra-leonisch"
-      ]
+      ],
+      "anthemName": "Hoch verehren wir dich, Land der Freien"
     },
     "ZWE": {
       "name": "Simbabwe",
@@ -1576,7 +1599,8 @@
       "capital": "Mogadischu",
       "adjectives": [
         "somalisch"
-      ]
+      ],
+      "anthemName": "Qolobaa Calankeed"
     },
     "ESP": {
       "name": "Spanien",
@@ -1595,7 +1619,8 @@
       "capital": "Colombo",
       "adjectives": [
         "sri-lankisch"
-      ]
+      ],
+      "anthemName": "Mutter Sri Lanka"
     },
     "KNA": {
       "name": "St. Kitts und Nevis",
@@ -1611,7 +1636,8 @@
       "capital": "Castries",
       "adjectives": [
         "lucianisch"
-      ]
+      ],
+      "anthemName": "Söhne und Töchter von St. Lucia"
     },
     "VCT": {
       "name": "St. Vincent und die Grenadinen",
@@ -1620,7 +1646,8 @@
       "capital": "Kingstown",
       "adjectives": [
         "vincentisch"
-      ]
+      ],
+      "anthemName": "St. Vincent, ein so schönes Land"
     },
     "ZAF": {
       "name": "Südafrika",
@@ -1945,13 +1972,14 @@
       ]
     },
     "CAF": {
-      "name": "Zentral­afrikanische Republik",
-      "longName": "Zentral­afrikanische Republik",
+      "name": "Zentralafrikanische Republik",
+      "longName": "Zentralafrikanische Republik",
       "altNames": [],
       "capital": "Bangui",
       "adjectives": [
         "zentralafrikanisch"
-      ]
+      ],
+      "anthemName": "Die Wiedergeburt"
     },
     "CYP": {
       "name": "Zypern",

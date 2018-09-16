@@ -1,7 +1,6 @@
 #!/usr/bin/env ts-node
 
 import * as fs from "fs";
-import * as request from "request";
 import * as path from "path";
 import * as program from "commander";
 import * as process from "process";
@@ -24,9 +23,12 @@ namespace Helpers {
       "Korea, Süd": "Südkorea",
       "Korea, Nord": "Nordkorea",
       "Kongo, Demokratische Republik": "Demokratische Republik Kongo",
-      "Kongo, Republik": "Republik Kongo"
+      "Kongo, Republik": "Republik Kongo",
+      "Taiwan": "Republic of China",
+      "China": "People's Republic of China",
+      "Osttimor / Timor-Leste": "Osttimor",
     };
-    return fixedNames[name] || name;
+    return fixedNames[name] || name.replace(/[\u00AD]+/g, '');
   }
 
   export function getAlternativeNames(name: string): string {
@@ -34,14 +36,17 @@ namespace Helpers {
       "Vereinigtes Königreich": ["England", "Großbritannien"],
       "Vereinigte Staaten": ["USA"],
       "Volksrepublik China": ["China"],
-      "Republik China": ["Taiwan"]
+      "Republik China": ["Taiwan"],
+      "People's Republic of China": ["China"],
+      "Republic of China": ["Taiwan"],
+      "Osttimor": ["Timor-Leste"]
     };
     return altNames[name] || [];
   }
 
   export function fixCapitalName(name: string): string {
     if (name.toLowerCase() === "stadtstaat") {
-      return null;
+      return undefined;
     }
 
     return name;
@@ -115,14 +120,15 @@ namespace Parsers {
         country.region = Helpers.getRegionCode(countryJsData);
         country.languages = countryJsData.languages;
         country.currencies = countryJsData.currencies;
-        country.borders = countryJsData.borders;
+        country.borders = (countryJsData.borders || [])
+          .filter(border => data.find(n => n.iso3 === border));
       }
     }
 
     return data.filter((val) => val.iso3);
   }
 
-  export async function german(): Promise<any> {
+  export async function german(anthemUrls: { [iso: string]: string }): Promise<any> {
     // parse wikipedia country data
     let $ = cheerio.load((await Axios.get("https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde")).data);
     const data = {};
@@ -137,10 +143,9 @@ namespace Parsers {
         const name = Helpers.fixCountryName(get(0));
         data[iso] = {
           name: name,
-          longName: get(1),
+          longName: Helpers.fixCountryName(get(1)),
           altNames: Helpers.getAlternativeNames(name),
           capital: Helpers.fixCapitalName(get(2)),
-          adjectives: [],
         };
       }
     });
@@ -156,24 +161,97 @@ namespace Parsers {
         isoCode = match[1];
       }
       if (isoCode && td.length >= 4 && data[isoCode]) {
-        let adjectives = data[isoCode].adjectives;
+        let adjectives = data[isoCode].adjectives || [];
         const adjective = td.last().text().trim()
           .replace(/\((.*)\)/, ",$1,")
           .replace(/\[(.*)\]/, ",$1,")
           .replace(" oder ", ",")
           .replace(/bis [0-9]*:/i, "");
-        adjectives = adjectives.concat(adjective.split(","));
-
-        data[isoCode].adjectives = adjectives
+        adjectives = adjectives
+          .concat(adjective.split(","))
           .map(val => val.trim())
           .filter(val => val.length > 0 && val.match(/^[a-z]/i));
+        if (adjectives.length) {
+          data[isoCode].adjectives = adjectives;
+        }
       }
     }
+
+    // amend with anthem information
+    $ = cheerio.load((await Axios.get("https://de.wikipedia.org/wiki/Liste_der_Nationalhymnen")).data);
+    const anthemData = $('.wikitable').first().find('tbody tr:not(:first-child)').map((i, elem) => {
+      const get = position => {
+        let text = $(elem).children().eq(position).text();
+        text = text.split('\n')[0];
+        text = text.replace(/\[.*\]/, '');
+        return text;
+      };
+      const getName = () => {
+        const text = $(elem).children().eq(0).children("a").text().replace(/\s/, ' ');
+        return text;
+      };
+      const getAudio = () => {
+        const src = $(elem).find('audio source:not([data-transcodekey])').attr('src');
+        return src ? `https:${src}` : undefined;
+      };
+      return {
+        name: getName(),
+        anthemName: Helpers.fixAnthemName(get(2) || get(1)),
+        url: getAudio()
+      };
+    }).get();
+
+    anthemData.forEach((anthem) => {
+      const country: any = Object.values(data)
+        .find((n: any) => [n.name, n.longName].concat(n.altNames).indexOf(anthem.name) !== -1);
+      if (country) {
+        country.anthemName = anthem.anthemName;
+        if (anthem.url) {
+          anthemUrls[country.iso3] = anthem.url;
+        }
+      }
+    });
 
     return data;
   }
 
-  export async function english(isoCodes: string[]): Promise<any> {
+  export async function english(isoCodes: string[], anthemUrls: { [iso: string]: string }): Promise<any> {
+    let $ = cheerio.load((await Axios.get("https://en.wikipedia.org/wiki/List_of_national_anthems")).data);
+    var anthemData = $('.wikitable').find('tbody tr').map((i, elem) => {
+      const get = position => {
+        let text = $(elem).children().eq(position).text();
+        text = text.split('\n')[0];
+        text = text.replace(/\[.*\]/, '');
+        return text;
+      };
+      const getName = () => {
+        const text = $(elem).children().eq(0).children("a").first().text();
+        const mapping = {
+          "Bahamas": "The Bahamas",
+          "Macedonia": "Republic of Macedonia",
+          "Micronesia": "Federated States of Micronesia",
+        };
+        return mapping[text] || text;
+      };
+      const getAudio = () => {
+        const src = $(elem).find("audio source:not([data-transcodekey])").attr('src');
+        return src ? `https:${src}` : undefined;
+      };
+      const getAnthemName = () => {
+        const match = get(1).match(/"([^\"]*)"(?:.*\("([^\"]*)"\))?/);
+        if (!match) {
+          return undefined;
+        }
+
+        return match[2] || match[1];
+      };
+      return {
+        name: getName(),
+        anthemName: getAnthemName(),
+        url: getAudio()
+      };
+    }).get();
+
     const data = {};
     countryjs.all().filter((val) => isoCodes.indexOf(val.ISO.alpha3) !== -1)
       .forEach((val) => {
@@ -182,32 +260,52 @@ namespace Parsers {
           // skip duplicate iso codes from countryjs
           return;
         }
-        data[val.ISO.alpha3] = {
-          name: val.name,
-          capital: val.capital,
+        const country: any = data[val.ISO.alpha3] = {
+          name: Helpers.fixCountryName(val.name),
+          capital: Helpers.fixCapitalName(val.capital),
           adjectives: (val.demonym || "").split(",")
             .map((val) => val.trim())
             .filter((val) => !!val),
         };
+        const anthem = anthemData.find((a) => a.name === country.name);
+        if (anthem) {
+          country.anthemName = anthem.anthemName;
+          if (anthem.url) {
+            anthemUrls[val.ISO.alpha3] = anthem.url;
+          }
+        }
       });
+
     return data;
   }
 }
 
 Parsers.generic().then((generic) => {
-  fs.writeFile(path.join(process.cwd(), program.destination, "generic.json"),
-    JSON.stringify(generic, null, 2), "utf8", () => { });
   const isoCodes = generic.map((val) => val.iso3);
-
-  [
-    { promise: Parsers.german(), lang: "de" },
-    { promise: Parsers.english(isoCodes), lang: "en" },
-  ].forEach((def) => {
+  const anthemUrls = {};
+  const locales = [
+    { promise: Parsers.german(anthemUrls), lang: "de" },
+    { promise: Parsers.english(isoCodes, anthemUrls), lang: "en" },
+  ];
+  locales.forEach((def) => {
     def.promise.then((val) => {
       const file = path.join(process.cwd(), program.destination, `i18n/${def.lang}.json`);
       const data = JSON.parse(fs.readFileSync(file).toString());
       data.countries = val;
       fs.writeFile(file, JSON.stringify(data, null, 2), "utf8", () => { });
     });
+  });
+
+  // amend generic data with anthem URLs
+  Promise.all(locales.map((val) => val.promise)).then(() => {
+    generic.forEach((val) => {
+      val.anthem = anthemUrls[val.iso3];
+      if (!val.anthem && val.iso2) {
+        val.anthem = `http://www.nationalanthems.info/${val.iso2.toLowerCase()}.mp3`;
+      }
+    });
+
+    fs.writeFile(path.join(process.cwd(), program.destination, "generic.json"),
+      JSON.stringify(generic, null, 2), "utf8", () => { });
   });
 });
