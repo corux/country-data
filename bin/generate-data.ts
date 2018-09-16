@@ -31,7 +31,7 @@ namespace Helpers {
       "China": "People's Republic of China",
       "Osttimor / Timor-Leste": "Osttimor",
     };
-    return fixedNames[name] || name.replace(/[\u00AD]+/g, '');
+    return fixedNames[name] || name.replace(/[\u00AD]+/g, "");
   }
 
   export function getAlternativeNames(name: string): string {
@@ -182,19 +182,19 @@ namespace Parsers {
 
     // amend with anthem information
     $ = cheerio.load((await Axios.get("https://de.wikipedia.org/wiki/Liste_der_Nationalhymnen")).data);
-    const anthemData = $('.wikitable').first().find('tbody tr:not(:first-child)').map((i, elem) => {
+    const anthemData = $(".wikitable").first().find("tbody tr:not(:first-child)").map((i, elem) => {
       const get = position => {
         let text = $(elem).children().eq(position).text();
-        text = text.split('\n')[0];
-        text = text.replace(/\[.*\]/, '');
+        text = text.split("\n")[0];
+        text = text.replace(/\[.*\]/, "");
         return text;
       };
       const getName = () => {
-        const text = $(elem).children().eq(0).children("a").text().replace(/\s/, ' ');
+        const text = $(elem).children().eq(0).children("a").text().replace(/\s/, " ");
         return text;
       };
       const getAudio = () => {
-        const src = $(elem).find('audio source:not([data-transcodekey])').attr('src');
+        const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
         return src ? `https:${src}` : undefined;
       };
       return {
@@ -220,11 +220,11 @@ namespace Parsers {
 
   export async function english(isoCodes: string[], anthemUrls: { [iso: string]: string }): Promise<any> {
     let $ = cheerio.load((await Axios.get("https://en.wikipedia.org/wiki/List_of_national_anthems")).data);
-    var anthemData = $('.wikitable').find('tbody tr').map((i, elem) => {
+    const anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
       const get = position => {
         let text = $(elem).children().eq(position).text();
-        text = text.split('\n')[0];
-        text = text.replace(/\[.*\]/, '');
+        text = text.split("\n")[0];
+        text = text.replace(/\[.*\]/, "");
         return text;
       };
       const getName = () => {
@@ -237,7 +237,107 @@ namespace Parsers {
         return mapping[text] || text;
       };
       const getAudio = () => {
-        const src = $(elem).find("audio source:not([data-transcodekey])").attr('src');
+        const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
+        return src ? `https:${src}` : undefined;
+      };
+      const getAnthemName = () => {
+        const match = get(1).match(/"([^\"]*)"(?:.*\("([^\"]*)"\))?/);
+        if (!match) {
+          return undefined;
+        }
+
+        return match[2] || match[1];
+      };
+      return {
+        name: getName(),
+        anthemName: getAnthemName(),
+        url: getAudio()
+      };
+    }).get();
+
+    $ = cheerio.load((await Axios.get("https://en.wikipedia.org/wiki/List_of_adjectival_and_demonymic_forms_for_countries_and_nations")).data);
+    const adjectiveData = $(".wikitable").find("tbody tr:not(:first-child)").map((i, elem) => {
+      const get = position => {
+        let text = $(elem).children().eq(position).text();
+        text = text.split("\n")[0];
+        text = text.replace(/\[.*\]/, "");
+        return text;
+      };
+      const getName = () => {
+        let text = $(elem).children().eq(0).find("a").first().text();
+        text = text.split(",").reverse().join(" ").trim();
+        const mapping = {
+          "United States of America": "United States",
+          "United Kingdom of Great Britain and Northern Ireland": "United Kingdom",
+          "Cabo Verde": "Cape Verde",
+          "China": "People's Republic of China",
+          "Taiwan": "Republic of China",
+        };
+        return mapping[text] || text;
+      };
+      const getAdjectives = () => {
+        let sep = " or ";
+        if (get(1).indexOf(sep) === -1) {
+          sep = ",";
+        }
+        return get(1).split(sep).map(n => n.trim()).filter(n => !!n);
+      };
+      return {
+        name: getName(),
+        adjectives: getName() === "Republic of the Congo" ? ["Congolese"] : getAdjectives(),
+      };
+    }).get();
+
+    const data = {};
+    countryjs.all().filter((val) => isoCodes.indexOf(val.ISO.alpha3) !== -1)
+      .forEach((val) => {
+        if ((val.ISO.alpha3 === "GBR" && val.name !== "United Kingdom")
+          || (val.ISO.alpha3 === "HUN" && !val.name)) {
+          // skip duplicate iso codes from countryjs
+          return;
+        }
+        const name = Helpers.fixCountryName(val.name);
+        const country: any = data[val.ISO.alpha3] = {
+          name: name,
+          capital: Helpers.fixCapitalName(val.capital),
+          // altNames: Helpers.getAlternativeNames(name)
+        };
+        const anthem = anthemData.find((a) => a.name === country.name);
+        if (anthem) {
+          country.anthemName = anthem.anthemName;
+          if (anthem.url) {
+            anthemUrls[val.ISO.alpha3] = anthem.url;
+          }
+        }
+        const adjective = adjectiveData.find(n => n.name === country.name);
+        if (adjective) {
+          country.adjectives = adjective.adjectives;
+        }
+      });
+
+    return data;
+  }
+
+  export async function french(isoCodes: string[], anthemUrls: { [iso: string]: string }): Promise<any> {
+    let $ = cheerio.load((await Axios.get("https://fr.wikipedia.org/wiki/Liste_des_hymnes_nationaux")).data);
+    var anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
+      const get = position => {
+        let text = $(elem).children().eq(position).text();
+        text = text.split("\n")[0];
+        text = text.replace(/\[.*\]/, "");
+        return text;
+      };
+      const getName = () => {
+        const text = $(elem).children().eq(0).children("a").first().text();
+        const mapping = {
+          "Bahamas": "The Bahamas",
+          "Macedonia": "Republic of Macedonia",
+          "Micronesia": "Federated States of Micronesia",
+        };
+        return mapping[text] || text;
+      };
+      const getAudio = () => {
+        const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
         return src ? `https:${src}` : undefined;
       };
       const getAnthemName = () => {
@@ -264,9 +364,9 @@ namespace Parsers {
           return;
         }
         const country: any = data[val.ISO.alpha3] = {
-          name: Helpers.fixCountryName(val.name),
+          name: Helpers.fixCountryName(val.translations.fr),
           capital: Helpers.fixCapitalName(val.capital),
-          adjectives: (val.demonym || "").split(",")
+          adjectives: ("").split(",")
             .map((val) => val.trim())
             .filter((val) => !!val),
         };
@@ -289,6 +389,7 @@ Parsers.generic().then((generic) => {
   const locales = [
     { promise: Parsers.german(anthemUrls), lang: "de" },
     { promise: Parsers.english(isoCodes, anthemUrls), lang: "en" },
+    { promise: Parsers.french(isoCodes, anthemUrls), lang: "fr" },
   ];
   locales.forEach((def) => {
     def.promise.then((val) => {

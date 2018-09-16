@@ -26,7 +26,9 @@
     },
     "ARE": {
       "adjectives": [
-        "Emirati"
+        "Emirati",
+        "Emirian",
+        "Emiri"
       ],
       "anthemName": "Long Live my Homeland",
       "capital": "Abu Dhabi",
@@ -34,7 +36,7 @@
     },
     "ARG": {
       "adjectives": [
-        "Argentinean"
+        "Argentinian"
       ],
       "anthemName": "Argentine National Anthem",
       "capital": "Buenos Aires",
@@ -75,7 +77,8 @@
     },
     "AZE": {
       "adjectives": [
-        "Azerbaijani"
+        "Azerbaijani",
+        "Azeri"
       ],
       "anthemName": "Azerbaijan's Anthem",
       "capital": "Baku",
@@ -99,7 +102,8 @@
     },
     "BEN": {
       "adjectives": [
-        "Beninese"
+        "Beninese",
+        "Beninois"
       ],
       "anthemName": "The Dawn of a New Day",
       "capital": "Porto-Novo",
@@ -107,7 +111,7 @@
     },
     "BFA": {
       "adjectives": [
-        "Burkinabe"
+        "Burkinabé"
       ],
       "anthemName": "One Single Night",
       "capital": "Ouagadougou",
@@ -115,7 +119,7 @@
     },
     "BGD": {
       "adjectives": [
-        "Bangladeshi"
+        "Bengali"
       ],
       "anthemName": "My Golden Bengal",
       "capital": "Dhaka",
@@ -212,7 +216,8 @@
     },
     "BWA": {
       "adjectives": [
-        "Motswana"
+        "Motswana",
+        "Botswanan"
       ],
       "anthemName": "Blessed Be This Noble Land",
       "capital": "Gaborone",
@@ -292,7 +297,7 @@
     },
     "COK": {
       "adjectives": [
-        "Cook Islander"
+        "Cook Island"
       ],
       "capital": "Avarua",
       "name": "Cook Islands"
@@ -307,7 +312,8 @@
     },
     "COM": {
       "adjectives": [
-        "Comoran"
+        "Comoran",
+        "Comorian"
       ],
       "anthemName": "The Union of the Great Islands",
       "capital": "Moroni",
@@ -315,7 +321,7 @@
     },
     "CPV": {
       "adjectives": [
-        "Cape Verdian"
+        "Cabo Verdean"
       ],
       "anthemName": "Song of Freedom",
       "capital": "Praia",
@@ -363,7 +369,7 @@
     },
     "DJI": {
       "adjectives": [
-        "Djibouti"
+        "Djiboutian"
       ],
       "anthemName": "Djibouti",
       "capital": "Djibouti",
@@ -403,7 +409,7 @@
     },
     "ECU": {
       "adjectives": [
-        "Ecuadorean"
+        "Ecuadorian"
       ],
       "anthemName": "We Salute You, Our Homeland",
       "capital": "Quito",
@@ -427,7 +433,9 @@
     },
     "ESH": {
       "adjectives": [
-        "Sahrawi"
+        "Sahrawi",
+        "Sahrawian",
+        "Sahraouian"
       ],
       "anthemName": "O Sons of the Sahara",
       "capital": "El Aaiún",
@@ -499,7 +507,8 @@
     },
     "GBR": {
       "adjectives": [
-        "British"
+        "British",
+        "UK"
       ],
       "anthemName": "God Save the Queen",
       "capital": "London",
@@ -539,7 +548,7 @@
     },
     "GNB": {
       "adjectives": [
-        "Guinea-Bissauan"
+        "Bissau-Guinean"
       ],
       "anthemName": "This Is Our Beloved Country",
       "capital": "Bissau",
@@ -547,7 +556,8 @@
     },
     "GNQ": {
       "adjectives": [
-        "Equatorial Guinean"
+        "Equatorial Guinean",
+        "Equatoguinean"
       ],
       "anthemName": "Let Us Tread the Path of our Immense Happiness",
       "capital": "Malabo",
@@ -555,7 +565,8 @@
     },
     "GRC": {
       "adjectives": [
-        "Greek"
+        "Greek",
+        "Hellenic"
       ],
       "anthemName": "Hymn to Liberty",
       "capital": "Athens",
@@ -611,7 +622,8 @@
     },
     "HUN": {
       "adjectives": [
-        "Hungarian"
+        "Hungarian",
+        "Magyar"
       ],
       "anthemName": "Hymn",
       "capital": "Budapest",
@@ -643,7 +655,8 @@
     },
     "IRN": {
       "adjectives": [
-        "Iranian"
+        "Iranian",
+        "Persian"
       ],
       "anthemName": "National Anthem of Iran",
       "capital": "Tehran",
@@ -659,7 +672,7 @@
     },
     "ISL": {
       "adjectives": [
-        "Icelander"
+        "Icelandic"
       ],
       "anthemName": "Hymn",
       "capital": "Reykjavik",
@@ -707,7 +720,8 @@
     },
     "KAZ": {
       "adjectives": [
-        "Kazakhstani"
+        "Kazakhstani",
+        "Kazakh"
       ],
       "anthemName": "My Kazakhstan",
       "capital": "Astana",
@@ -723,6 +737,9 @@
     },
     "KGZ": {
       "adjectives": [
+        "Kyrgyzstani",
+        "Kyrgyz",
+        "Kirgiz",
         "Kirghiz"
       ],
       "anthemName": "National Anthem of the Kyrgyz Republic",
@@ -747,7 +764,8 @@
     },
     "KNA": {
       "adjectives": [
-        "Kittian and Nevisian"
+        "Kittitian",
+        "Nevisian"
       ],
       "anthemName": "O Land of Beauty!",
       "capital": "Basseterre",
@@ -771,6 +789,7 @@
     },
     "LAO": {
       "adjectives": [
+        "Lao",
         "Laotian"
       ],
       "anthemName": "National Anthem of Laos",
@@ -827,7 +846,7 @@
     },
     "LSO": {
       "adjectives": [
-        "Mosotho"
+        "Basotho"
       ],
       "anthemName": "Lesotho, Land of Our Fathers",
       "capital": "Maseru",
@@ -843,7 +862,8 @@
     },
     "LUX": {
       "adjectives": [
-        "Luxembourger"
+        "Luxembourg",
+        "Luxembourgish"
       ],
       "anthemName": "Our Homeland",
       "capital": "Luxembourg",
@@ -851,7 +871,8 @@
     },
     "LVA": {
       "adjectives": [
-        "Latvian"
+        "Latvian",
+        "Lettish"
       ],
       "anthemName": "God Bless Latvia",
       "capital": "Riga",
@@ -867,7 +888,8 @@
     },
     "MCO": {
       "adjectives": [
-        "Monegasque"
+        "Monégasque",
+        "Monacan"
       ],
       "anthemName": "Monégasque Anthem",
       "capital": "Monaco",
@@ -891,7 +913,7 @@
     },
     "MDV": {
       "adjectives": [
-        "Maldivan"
+        "Maldivian"
       ],
       "anthemName": "National Salute",
       "capital": "Malé",
@@ -923,7 +945,8 @@
     },
     "MLI": {
       "adjectives": [
-        "Malian"
+        "Malian",
+        "Malinese"
       ],
       "anthemName": "For Africa and for You, Mali",
       "capital": "Bamako",
@@ -1026,7 +1049,8 @@
     },
     "NLD": {
       "adjectives": [
-        "Dutch"
+        "Dutch",
+        "Netherlandic"
       ],
       "anthemName": "William",
       "capital": "Amsterdam",
@@ -1042,6 +1066,7 @@
     },
     "NPL": {
       "adjectives": [
+        "Nepali",
         "Nepalese"
       ],
       "anthemName": "A Garland of Hundred Flowers",
@@ -1058,7 +1083,7 @@
     },
     "NZL": {
       "adjectives": [
-        "New Zealander"
+        "New Zealand"
       ],
       "anthemName": "God Defend New Zealand",
       "capital": "Wellington",
@@ -1098,7 +1123,8 @@
     },
     "PHL": {
       "adjectives": [
-        "Filipino"
+        "Filipino",
+        "Philippine"
       ],
       "anthemName": "Chosen Land",
       "capital": "Manila",
@@ -1114,7 +1140,8 @@
     },
     "PNG": {
       "adjectives": [
-        "Papua New Guinean"
+        "Papua New Guinean",
+        "Papuan"
       ],
       "anthemName": "O Arise, All You Sons",
       "capital": "Port Moresby",
@@ -1186,6 +1213,7 @@
     },
     "SAU": {
       "adjectives": [
+        "Saudi",
         "Saudi Arabian"
       ],
       "anthemName": "The Royal Salute",
@@ -1210,6 +1238,7 @@
     },
     "SGP": {
       "adjectives": [
+        "Singapore",
         "Singaporean"
       ],
       "anthemName": "Onward Singapore",
@@ -1218,7 +1247,7 @@
     },
     "SLB": {
       "adjectives": [
-        "Solomon Islander"
+        "Solomon Island"
       ],
       "anthemName": "God Save Our Solomon Islands",
       "capital": "Honiara",
@@ -1266,7 +1295,7 @@
     },
     "STP": {
       "adjectives": [
-        "Sao Tomean"
+        "São Toméan"
       ],
       "anthemName": "Total Independence",
       "capital": "São Tomé",
@@ -1274,7 +1303,7 @@
     },
     "SUR": {
       "adjectives": [
-        "Surinamer"
+        "Surinamese"
       ],
       "anthemName": "God Be With Our Suriname",
       "capital": "Paramaribo",
@@ -1290,6 +1319,7 @@
     },
     "SVN": {
       "adjectives": [
+        "Slovenian",
         "Slovene"
       ],
       "anthemName": "A Toast",
@@ -1354,7 +1384,7 @@
     },
     "TJK": {
       "adjectives": [
-        "Tadzhik"
+        "Tajikistani"
       ],
       "anthemName": "National Anthem",
       "capital": "Dushanbe",
@@ -1370,7 +1400,7 @@
     },
     "TLS": {
       "adjectives": [
-        "East Timorese"
+        "Timorese"
       ],
       "anthemName": "Fatherland",
       "capital": "Dili",
@@ -1386,7 +1416,8 @@
     },
     "TTO": {
       "adjectives": [
-        "Trinidadian"
+        "Trinidadian",
+        "Tobagonian"
       ],
       "anthemName": "Forged from the Love of Liberty",
       "capital": "Port of Spain",
@@ -1458,6 +1489,8 @@
     },
     "USA": {
       "adjectives": [
+        "United States",
+        "U.S.",
         "American"
       ],
       "anthemName": "The Star-Spangled Banner",
@@ -1466,7 +1499,8 @@
     },
     "UZB": {
       "adjectives": [
-        "Uzbekistani"
+        "Uzbekistani",
+        "Uzbek"
       ],
       "anthemName": "National Anthem of the Republic of Uzbekistan",
       "capital": "Tashkent",
@@ -1474,7 +1508,8 @@
     },
     "VCT": {
       "adjectives": [
-        "Saint Vincentian"
+        "Saint Vincentian",
+        "Vincentian"
       ],
       "anthemName": "Saint Vincent, Land so beautiful",
       "capital": "Kingstown",
@@ -1498,7 +1533,8 @@
     },
     "VUT": {
       "adjectives": [
-        "Ni-Vanuatu"
+        "Ni-Vanuatu",
+        "Vanuatuan"
       ],
       "anthemName": "We, We, We",
       "capital": "Port Vila",
