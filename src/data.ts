@@ -1,13 +1,14 @@
 import * as generic from "./data/generic.json";
 import * as de from "./data/i18n/de.json";
 import * as en from "./data/i18n/en.json";
+import * as fr from "./data/i18n/fr.json";
 import { Region } from "./regions";
 
 interface IData {
   generic: IDataGeneric[];
   i18n: {
     [lang: string]: IDataLocale;
-  }
+  };
 }
 
 interface IDataGeneric {
@@ -15,7 +16,7 @@ interface IDataGeneric {
   flag: {
     svgUrl: string,
     smallImageUrl: string,
-    largeImageUrl: string
+    largeImageUrl: string,
   };
   iso3: string;
   iso2: string;
@@ -35,16 +36,16 @@ interface IDataLocale {
       capital: string;
       adjectives: string[];
       anthemName: string;
-    }
-  }
+    };
+  };
   regions: {
     [code: string]: string;
-  }
+  };
 }
 
 const data: IData = {
   generic,
-  i18n: { de, en },
+  i18n: { de, en, fr },
 };
 
 export { data };

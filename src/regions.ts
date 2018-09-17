@@ -8,7 +8,7 @@ export enum Region {
   NORTH_AMERICA = "NA",
   OCEANIA = "OC",
   SOUTH_AMERICA = "SA",
-};
+}
 
 export interface IRegion {
   code: Region;
