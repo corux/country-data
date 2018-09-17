@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "generate-data": "bin/generate-data.ts --destination src/data/",
+    "generate-data": "ts-node bin/generate-data.ts --destination src/data/",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "tslint --project tsconfig.json",
     "lint:fix": "npm run lint -- --fix",

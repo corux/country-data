@@ -1,5 +1,9 @@
 [
   {
+    "borders": [
+      "GEO",
+      "RUS"
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/1200px-Flag_of_the_Republic_of_Abkhazia.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/720px-Flag_of_the_Republic_of_Abkhazia.svg.png",
@@ -64,7 +68,8 @@
     "borders": [
       "MNE",
       "GRC",
-      "MKD"
+      "MKD",
+      "XXK"
     ],
     "currencies": [
       "ALL"
@@ -111,6 +116,10 @@
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/El_Gran_Carlemany.ogg",
+    "borders": [
+      "ESP",
+      "FRA"
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/720px-Flag_of_Andorra.svg.png",
@@ -1167,7 +1176,9 @@
       "ARM",
       "AZE",
       "RUS",
-      "TUR"
+      "TUR",
+      "ABC",
+      "SOS"
     ],
     "currencies": [
       "GEL"
@@ -1548,7 +1559,8 @@
       "EGY",
       "JOR",
       "LBN",
-      "SYR"
+      "SYR",
+      "PSE"
     ],
     "currencies": [
       "ILS"
@@ -1661,7 +1673,8 @@
       "IRQ",
       "ISR",
       "SAU",
-      "SYR"
+      "SYR",
+      "PSE"
     ],
     "currencies": [
       "JOD"
@@ -2040,6 +2053,12 @@
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg",
+    "borders": [
+      "MNE",
+      "ALB",
+      "MKD",
+      "SRB"
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/720px-Flag_of_Kosovo.svg.png",
@@ -2561,7 +2580,8 @@
       "ALB",
       "BGR",
       "GRC",
-      "SRB"
+      "SRB",
+      "XXK"
     ],
     "currencies": [
       "MKD"
@@ -2689,6 +2709,13 @@
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_Anthem_of_Montenegro.ogg",
+    "borders": [
+      "ALB",
+      "XXK",
+      "SRB",
+      "BIH",
+      "HRV"
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1200px-Flag_of_Montenegro.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/720px-Flag_of_Montenegro.svg.png",
@@ -2726,6 +2753,13 @@
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga",
+    "borders": [
+      "THA",
+      "LAO",
+      "CHN",
+      "BGD",
+      "IND"
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/720px-Flag_of_Myanmar.svg.png",
@@ -3062,6 +3096,10 @@
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/97/National_Anthem_of_Palestine_%28Vocal%29.ogg",
+    "borders": [
+      "ISR",
+      "JOR"
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1200px-Flag_of_Palestine.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/720px-Flag_of_Palestine.svg.png",
@@ -3319,7 +3357,9 @@
       "MNG",
       "NOR",
       "POL",
-      "UKR"
+      "UKR",
+      "ABC",
+      "SOS"
     ],
     "currencies": [
       "RUB"
@@ -3552,6 +3592,16 @@
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Serbian_national_anthem%2C_instrumental.oga",
+    "borders": [
+      "HRV",
+      "XXK",
+      "MNE",
+      "BIH",
+      "MKD",
+      "BGR",
+      "ROU",
+      "HUN"
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/720px-Flag_of_Serbia.svg.png",
@@ -3896,6 +3946,10 @@
     "region": "AF"
   },
   {
+    "borders": [
+      "GEO",
+      "RUS"
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1200px-Flag_of_South_Ossetia.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/720px-Flag_of_South_Ossetia.svg.png",
@@ -4443,6 +4497,9 @@
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg",
+    "borders": [
+      "ITA"
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/1200px-Flag_of_the_Vatican_City.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/720px-Flag_of_the_Vatican_City.svg.png",

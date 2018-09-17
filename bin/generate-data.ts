@@ -1,3 +1,4 @@
+// tslint:disable
 import Axios from "axios";
 import * as cheerio from "cheerio";
 import * as program from "commander";
@@ -86,20 +87,28 @@ namespace Parsers {
   function getFromCountryJs(isoCodes: string[]): any[] {
     // Data missing in countryjs
     const additional = [
-      { ISO: { alpha3: "ABC" }, name: "Abkhazia", capital: "Sukhumi", translations: { fr: "Abkhazie" } },
-      { ISO: { alpha3: "AND" }, name: "Andorra", capital: "Andorra la Vella", translations: { fr: "Andorre" } },
-      { ISO: { alpha3: "XXK" }, name: "Kosovo", capital: "Pristina", translations: { fr: "Kosovo" } },
-      { ISO: { alpha3: "MNE" }, name: "Montenegro", capital: "Podgorica", translations: { fr: "Monténégro" } },
-      { ISO: { alpha3: "MMR" }, name: "Myanmar", capital: "Nay Pyi Taw", translations: { fr: "Birmanie" } },
-      { ISO: { alpha3: "PSE" }, name: "Palestine", capital: "East Jerusalem", translations: { fr: "Palestine" } },
-      { ISO: { alpha3: "SRB" }, name: "Serbia", capital: "Belgrade", translations: { fr: "Serbie" } },
-      { ISO: { alpha3: "SOS" }, name: "South Ossetia", capital: "Tskhinvali", translations: { fr: "Ossétie du Sud" } },
-      { ISO: { alpha3: "VAT" }, name: "Vatican City", capital: "Vatican City", translations: { fr: "Vatican" } },
+      { ISO: { alpha3: "ABC" }, name: "Abkhazia", capital: "Sukhumi", translations: { fr: "Abkhazie" }, borders: ["GEO", "RUS"] },
+      { ISO: { alpha3: "AND" }, name: "Andorra", capital: "Andorra la Vella", translations: { fr: "Andorre" }, borders: ["ESP", "FRA"] },
+      { ISO: { alpha3: "XXK" }, name: "Kosovo", capital: "Pristina", translations: { fr: "Kosovo" }, borders: ["MNE", "ALB", "MKD", "SRB"] },
+      { ISO: { alpha3: "MNE" }, name: "Montenegro", capital: "Podgorica", translations: { fr: "Monténégro" }, borders: ["ALB", "XXK", "SRB", "BIH", "HRV"] },
+      { ISO: { alpha3: "MMR" }, name: "Myanmar", capital: "Nay Pyi Taw", translations: { fr: "Birmanie" }, borders: ["THA", "LAO", "CHN", "BGD", "IND"] },
+      { ISO: { alpha3: "PSE" }, name: "Palestine", capital: "East Jerusalem", translations: { fr: "Palestine" }, borders: ["ISR", "JOR"] },
+      { ISO: { alpha3: "SRB" }, name: "Serbia", capital: "Belgrade", translations: { fr: "Serbie" }, borders: ["HRV", "XXK", "MNE", "BIH", "MKD", "BGR", "ROU", "HUN"] },
+      { ISO: { alpha3: "SOS" }, name: "South Ossetia", capital: "Tskhinvali", translations: { fr: "Ossétie du Sud" }, borders: ["GEO", "RUS"] },
+      { ISO: { alpha3: "VAT" }, name: "Vatican City", capital: "Vatican City", translations: { fr: "Vatican" }, borders: ["ITA"] },
     ];
     const data = [].concat(countryjs.all(), additional)
       .filter((val) => isoCodes.indexOf(val.ISO.alpha3) !== -1)
       .filter((val) => (!(val.ISO.alpha3 === "GBR" && val.name !== "United Kingdom")
         && !(val.ISO.alpha3 === "HUN" && !val.name)));
+    additional.forEach((val) => {
+      val.borders.forEach((border) => {
+        const country = data.find((n) => n.ISO.alpha3 === border);
+        if (country.borders.indexOf(val.ISO.alpha3) === -1) {
+          country.borders.push(val.ISO.alpha3);
+        }
+      });
+    });
     data.forEach((val) => {
       if (val.translations && val.translations.fr) {
         const mapping = {
@@ -152,8 +161,9 @@ namespace Parsers {
     }).get() as any;
 
     // amend with information from countryjs
+    const countryJsList = getFromCountryJs(data.map((n) => n.iso3));
     for (const country of data) {
-      const countryJsData = (countryjs as any).info(country.iso3, "ISO3");
+      const countryJsData = countryJsList.find((n) => n.ISO.alpha3 === country.iso3);
       if (countryJsData) {
         country.region = Helpers.getRegionCode(countryJsData);
         country.languages = countryJsData.languages;
