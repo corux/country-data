@@ -378,7 +378,7 @@ namespace Parsers {
 
   export async function french(isoCodes: string[], anthemUrls: { [iso: string]: string }): Promise<any> {
     let $ = cheerio.load((await Axios.get("https://fr.wikipedia.org/wiki/Liste_des_hymnes_nationaux")).data);
-    var anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
+    const anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
       const get = position => {
         let text = $(elem).children().eq(position).text();
         text = text.split("\n")[0];
@@ -401,6 +401,20 @@ namespace Parsers {
       };
     }).get();
 
+    $ = cheerio.load((await Axios.get("https://fr.wikipedia.org/wiki/Liste_de_gentilés")).data);
+    const adjectiveData = $("li>b:first-of-type>a, li>a:has(b)").map((i, elem) => {
+      const name = $(elem).text().trim();
+      const adjectives = $(elem).closest("li").find("i").first().text().split(" ou ")
+        .map(n => n.split(",").map(m => m.trim().replace(/^-$/, "")).filter(n => !!n));
+      const mapping = {
+        "Libéria": "Liberia",
+      };
+      return {
+        name: mapping[name] || name,
+        adjectives: adjectives.map(n => n[0]).filter(n => !!n),
+      };
+    }).get();
+
     const data = {};
     getFromCountryJs(isoCodes)
       .forEach((val) => {
@@ -413,6 +427,13 @@ namespace Parsers {
           if (anthem.url) {
             anthemUrls[val.ISO.alpha3] = anthem.url;
           }
+        }
+        const mapping = {
+          "République démocratique du Congo": "Congo",
+        };
+        const adjective = adjectiveData.find((a) => a.name === (mapping[country.name] || country.name));
+        if (adjective && adjective.adjectives.length) {
+          country.adjectives = adjective.adjectives.map(n => n.toLowerCase());
         }
       });
 
