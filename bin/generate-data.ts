@@ -1,13 +1,11 @@
-#!/usr/bin/env ts-node
-
-import * as fs from "fs";
-import * as path from "path";
-import * as program from "commander";
-import * as process from "process";
-import * as cheerio from "cheerio";
-import * as countryjs from "countryjs";
-import * as stableStringify from "json-stable-stringify";
 import Axios from "axios";
+import * as cheerio from "cheerio";
+import * as program from "commander";
+import * as countryjs from "countryjs";
+import * as fs from "fs";
+import * as stableStringify from "json-stable-stringify";
+import * as path from "path";
+import * as process from "process";
 
 program
   .option("--destination <path>", "Destination folder for generated files.")
@@ -429,7 +427,7 @@ Parsers.generic().then((generic) => {
         if (val[iso]) {
           data.countries[iso] = val[iso];
         }
-      })
+      });
       fs.writeFile(file, stringify(data), "utf8", () => { });
     });
   });
