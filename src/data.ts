@@ -1,6 +1,7 @@
 import * as generic from "./data/generic.json";
 import * as de from "./data/i18n/de.json";
 import * as en from "./data/i18n/en.json";
+import * as es from "./data/i18n/es.json";
 import * as fr from "./data/i18n/fr.json";
 import { Region } from "./regions";
 
@@ -45,7 +46,7 @@ interface IDataLocale {
 
 const data: IData = {
   generic,
-  i18n: { de, en, fr },
+  i18n: { de, en, fr, es },
 };
 
 export { data };

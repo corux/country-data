@@ -1,0 +1,1492 @@
+{
+  "countries": {
+    "ABC": {
+      "adjectives": [
+        "abjasio"
+      ],
+      "capital": "Sujumi",
+      "longName": "Abjasio y Ruso",
+      "name": "Abjasia"
+    },
+    "AFG": {
+      "adjectives": [
+        "afgano"
+      ],
+      "capital": "Kabul",
+      "name": "Afganistán"
+    },
+    "AGO": {
+      "adjectives": [
+        "angoleño"
+      ],
+      "capital": "Luanda",
+      "name": "Angola"
+    },
+    "ALB": {
+      "adjectives": [
+        "albanés"
+      ],
+      "capital": "Tirana",
+      "name": "Albania"
+    },
+    "AND": {
+      "adjectives": [
+        "andorrano"
+      ],
+      "capital": "Andorra la Vieja",
+      "name": "Andorra"
+    },
+    "ARE": {
+      "adjectives": [
+        "emiratí​"
+      ],
+      "capital": "Abu Dabi",
+      "longName": "los Emiratos Árabes Unidos",
+      "name": "Emiratos Árabes Unidos"
+    },
+    "ARG": {
+      "adjectives": [
+        "argentino"
+      ],
+      "capital": "Buenos Aires",
+      "name": "Argentina"
+    },
+    "ARM": {
+      "adjectives": [
+        "armenio"
+      ],
+      "capital": "Ereván",
+      "name": "Armenia"
+    },
+    "ATG": {
+      "adjectives": [
+        "antiguano"
+      ],
+      "capital": "Saint John",
+      "name": "Antigua y Barbuda"
+    },
+    "AUS": {
+      "adjectives": [
+        "australiano"
+      ],
+      "capital": "Canberra",
+      "name": "Australia"
+    },
+    "AUT": {
+      "adjectives": [
+        "austriaco"
+      ],
+      "capital": "Viena",
+      "name": "Austria"
+    },
+    "AZE": {
+      "adjectives": [
+        "azerbaiyano"
+      ],
+      "capital": "Bakú",
+      "name": "Azerbaiyán"
+    },
+    "BDI": {
+      "adjectives": [
+        "burundés"
+      ],
+      "capital": "Buyumbura",
+      "name": "Burundi"
+    },
+    "BEL": {
+      "adjectives": [
+        "belga​"
+      ],
+      "capital": "Bruselas",
+      "name": "Bélgica"
+    },
+    "BEN": {
+      "adjectives": [
+        "beninés"
+      ],
+      "capital": "Porto Novo",
+      "longName": "Benin",
+      "name": "Benín"
+    },
+    "BFA": {
+      "adjectives": [
+        "burkinés"
+      ],
+      "capital": "Uagadugú",
+      "name": "Burkina Faso"
+    },
+    "BGD": {
+      "adjectives": [
+        "bangladesí​"
+      ],
+      "capital": "Daca",
+      "longName": "Bangladesh",
+      "name": "Bangladés"
+    },
+    "BGR": {
+      "adjectives": [
+        "búlgaro"
+      ],
+      "capital": "Sofía",
+      "name": "Bulgaria"
+    },
+    "BHR": {
+      "adjectives": [
+        "bareiní​"
+      ],
+      "capital": "Manama",
+      "longName": "Bahrein",
+      "name": "Baréin"
+    },
+    "BHS": {
+      "adjectives": [
+        "bahameño"
+      ],
+      "capital": "Nasáu",
+      "longName": "las Bahamas",
+      "name": "Bahamas"
+    },
+    "BIH": {
+      "adjectives": [
+        "bosnio"
+      ],
+      "capital": "Sarajevo",
+      "name": "Bosnia y Herzegovina"
+    },
+    "BLR": {
+      "adjectives": [
+        "bielorruso"
+      ],
+      "capital": "Minsk",
+      "longName": "Belarús",
+      "name": "Bielorrusia"
+    },
+    "BLZ": {
+      "adjectives": [
+        "beliceño"
+      ],
+      "capital": "Belmopán",
+      "name": "Belice"
+    },
+    "BOL": {
+      "adjectives": [
+        "boliviano"
+      ],
+      "capital": "Sucre",
+      "longName": "Estado Plurinacional de Bolivia",
+      "name": "Bolivia"
+    },
+    "BRA": {
+      "adjectives": [
+        "brasileño"
+      ],
+      "capital": "Brasilia",
+      "name": "Brasil"
+    },
+    "BRB": {
+      "adjectives": [
+        "barbadense​"
+      ],
+      "capital": "Bridgetown",
+      "name": "Barbados"
+    },
+    "BRN": {
+      "adjectives": [
+        "bruneano"
+      ],
+      "capital": "Bandar Seri Begawan",
+      "longName": "Brunei Darussalam",
+      "name": "Brunéi"
+    },
+    "BTN": {
+      "adjectives": [
+        "butanés"
+      ],
+      "capital": "Timbu",
+      "longName": "Bhután",
+      "name": "Bután"
+    },
+    "BWA": {
+      "adjectives": [
+        "botsuano"
+      ],
+      "capital": "Gaborone",
+      "longName": "Botswana",
+      "name": "Botsuana"
+    },
+    "CAF": {
+      "adjectives": [
+        "centroafricano"
+      ],
+      "capital": "Bangui",
+      "longName": "la República Centroafricana",
+      "name": "República Centroafricana"
+    },
+    "CAN": {
+      "adjectives": [
+        "canadiense​"
+      ],
+      "capital": "Ottawa",
+      "name": "Canadá"
+    },
+    "CHE": {
+      "adjectives": [
+        "Suizo"
+      ],
+      "capital": "Berna",
+      "name": "Suiza"
+    },
+    "CHL": {
+      "adjectives": [
+        "chileno"
+      ],
+      "capital": "Santiago de Chile",
+      "name": "Chile"
+    },
+    "CHN": {
+      "adjectives": [
+        "chino"
+      ],
+      "capital": "Pekín",
+      "name": "China"
+    },
+    "CIV": {
+      "adjectives": [
+        "marfileño"
+      ],
+      "capital": "Yamusukro",
+      "longName": "costa de marfil !Côte d'Ivoire",
+      "name": "Costa de Marfil"
+    },
+    "CMR": {
+      "adjectives": [
+        "camerunés"
+      ],
+      "capital": "Yaundé",
+      "name": "Camerún"
+    },
+    "COD": {
+      "adjectives": [
+        "congoleño"
+      ],
+      "capital": "Kinsasa",
+      "longName": "la República Democrática del Congo",
+      "name": "República Democrática del Congo"
+    },
+    "COG": {
+      "adjectives": [
+        "congoleño"
+      ],
+      "capital": "Brazzaville",
+      "longName": "el Congo",
+      "name": "República del Congo"
+    },
+    "COK": {
+      "adjectives": [
+        "cookiano"
+      ],
+      "capital": "Avarua",
+      "longName": "las Islas Cook",
+      "name": "Islas Cook"
+    },
+    "COL": {
+      "adjectives": [
+        "colombiano"
+      ],
+      "capital": "Bogotá",
+      "name": "Colombia"
+    },
+    "COM": {
+      "adjectives": [
+        "comorense​"
+      ],
+      "capital": "Moroni",
+      "longName": "las Comoras",
+      "name": "Comoras"
+    },
+    "CPV": {
+      "adjectives": [
+        "caboverdiano"
+      ],
+      "capital": "Praia",
+      "name": "Cabo Verde"
+    },
+    "CRI": {
+      "adjectives": [
+        "costarricense​"
+      ],
+      "capital": "San José",
+      "name": "Costa Rica"
+    },
+    "CUB": {
+      "adjectives": [
+        "cubano"
+      ],
+      "capital": "La Habana",
+      "name": "Cuba"
+    },
+    "CYP": {
+      "adjectives": [
+        "chipriota​"
+      ],
+      "capital": "Nicosia",
+      "name": "Chipre"
+    },
+    "CZE": {
+      "adjectives": [
+        "checo"
+      ],
+      "capital": "Praga",
+      "longName": "Chequia",
+      "name": "República Checa"
+    },
+    "DEU": {
+      "adjectives": [
+        "alemán"
+      ],
+      "capital": "Berlín",
+      "name": "Alemania"
+    },
+    "DJI": {
+      "adjectives": [
+        "yibutiano"
+      ],
+      "capital": "Yibuti",
+      "longName": "Djibouti",
+      "name": "Yibuti"
+    },
+    "DMA": {
+      "adjectives": [
+        "dominiqués"
+      ],
+      "capital": "Roseau",
+      "name": "Dominica"
+    },
+    "DNK": {
+      "adjectives": [
+        "danés"
+      ],
+      "capital": "Copenhague",
+      "name": "Dinamarca"
+    },
+    "DOM": {
+      "adjectives": [
+        "dominicano"
+      ],
+      "capital": "Santo Domingo",
+      "longName": "la República Dominicana",
+      "name": "República Dominicana"
+    },
+    "DZA": {
+      "adjectives": [
+        "argelino"
+      ],
+      "capital": "Argel",
+      "name": "Argelia"
+    },
+    "ECU": {
+      "adjectives": [
+        "ecuatoriano"
+      ],
+      "capital": "Quito",
+      "name": "Ecuador"
+    },
+    "EGY": {
+      "adjectives": [
+        "egipcio"
+      ],
+      "capital": "El Cairo",
+      "name": "Egipto"
+    },
+    "ERI": {
+      "adjectives": [
+        "eritreo"
+      ],
+      "capital": "Asmara",
+      "name": "Eritrea"
+    },
+    "ESH": {
+      "adjectives": [
+        "saharaui​"
+      ],
+      "capital": "El Aaiún",
+      "longName": "Sahara Occidental",
+      "name": "República Árabe Saharaui Democrática"
+    },
+    "ESP": {
+      "adjectives": [
+        "español"
+      ],
+      "capital": "Madrid",
+      "name": "España"
+    },
+    "EST": {
+      "adjectives": [
+        "estonio"
+      ],
+      "capital": "Tallin",
+      "name": "Estonia"
+    },
+    "ETH": {
+      "adjectives": [
+        "etíope​"
+      ],
+      "capital": "Adís Abeba",
+      "name": "Etiopía"
+    },
+    "FIN": {
+      "adjectives": [
+        "finlandés"
+      ],
+      "capital": "Helsinki",
+      "name": "Finlandia"
+    },
+    "FJI": {
+      "adjectives": [
+        "fiyiano"
+      ],
+      "capital": "Suva",
+      "longName": "Fiji",
+      "name": "Fiyi"
+    },
+    "FRA": {
+      "adjectives": [
+        "francés"
+      ],
+      "capital": "París",
+      "name": "Francia"
+    },
+    "FSM": {
+      "adjectives": [
+        "micronesio"
+      ],
+      "capital": "Palikir",
+      "longName": "Estados Federados de Micronesia",
+      "name": "Micronesia"
+    },
+    "GAB": {
+      "adjectives": [
+        "gabonés"
+      ],
+      "capital": "Libreville",
+      "name": "Gabón"
+    },
+    "GBR": {
+      "adjectives": [
+        "británico"
+      ],
+      "capital": "Londres",
+      "longName": "el Reino Unido de Gran Bretaña e Irlanda del Norte",
+      "name": "Reino Unido"
+    },
+    "GEO": {
+      "adjectives": [
+        "georgiano"
+      ],
+      "capital": "Tiflis",
+      "name": "Georgia"
+    },
+    "GHA": {
+      "adjectives": [
+        "ghanés"
+      ],
+      "capital": "Accra",
+      "name": "Ghana"
+    },
+    "GIN": {
+      "adjectives": [
+        "guineano"
+      ],
+      "capital": "Conakri",
+      "name": "Guinea"
+    },
+    "GMB": {
+      "adjectives": [
+        "gambiano"
+      ],
+      "capital": "Banjul",
+      "longName": "la Gambia",
+      "name": "Gambia"
+    },
+    "GNB": {
+      "adjectives": [
+        "guineano"
+      ],
+      "capital": "Bisau",
+      "longName": "Guinea Bissau",
+      "name": "Guinea-Bisáu"
+    },
+    "GNQ": {
+      "adjectives": [
+        "guineano"
+      ],
+      "capital": "Malabo",
+      "name": "Guinea Ecuatorial"
+    },
+    "GRC": {
+      "adjectives": [
+        "griego"
+      ],
+      "capital": "Atenas",
+      "name": "Grecia"
+    },
+    "GRD": {
+      "adjectives": [
+        "granadino"
+      ],
+      "capital": "Saint George's",
+      "name": "Granada"
+    },
+    "GTM": {
+      "adjectives": [
+        "guatemalteco"
+      ],
+      "capital": "Ciudad de Guatemala",
+      "name": "Guatemala"
+    },
+    "GUY": {
+      "adjectives": [
+        "guyanés"
+      ],
+      "capital": "Georgetown",
+      "name": "Guyana"
+    },
+    "HND": {
+      "adjectives": [
+        "hondureño"
+      ],
+      "capital": "Tegucigalpa",
+      "name": "Honduras"
+    },
+    "HRV": {
+      "adjectives": [
+        "croata​"
+      ],
+      "capital": "Zagreb",
+      "name": "Croacia"
+    },
+    "HTI": {
+      "adjectives": [
+        "haitiano"
+      ],
+      "capital": "Puerto Príncipe",
+      "name": "Haití"
+    },
+    "HUN": {
+      "adjectives": [
+        "húngaro"
+      ],
+      "capital": "Budapest",
+      "name": "Hungría"
+    },
+    "IDN": {
+      "adjectives": [
+        "indonesio"
+      ],
+      "capital": "Yakarta",
+      "name": "Indonesia"
+    },
+    "IND": {
+      "adjectives": [
+        "indio"
+      ],
+      "capital": "Nueva Delhi",
+      "name": "India"
+    },
+    "IRL": {
+      "adjectives": [
+        "irlandés"
+      ],
+      "capital": "Dublín",
+      "name": "Irlanda"
+    },
+    "IRN": {
+      "adjectives": [
+        "iraní​"
+      ],
+      "capital": "Teherán",
+      "longName": "República Islámica de Irán",
+      "name": "Irán"
+    },
+    "IRQ": {
+      "adjectives": [
+        "iraquí​"
+      ],
+      "capital": "Bagdad",
+      "longName": "Iraq",
+      "name": "Irak"
+    },
+    "ISL": {
+      "adjectives": [
+        "islandés"
+      ],
+      "capital": "Reikiavik",
+      "name": "Islandia"
+    },
+    "ISR": {
+      "adjectives": [
+        "israelí​"
+      ],
+      "capital": "Jerusalén",
+      "name": "Israel"
+    },
+    "ITA": {
+      "adjectives": [
+        "italiano"
+      ],
+      "capital": "Roma",
+      "name": "Italia"
+    },
+    "JAM": {
+      "adjectives": [
+        "jamaicano"
+      ],
+      "capital": "Kingston",
+      "name": "Jamaica"
+    },
+    "JOR": {
+      "adjectives": [
+        "jordano"
+      ],
+      "capital": "Amán",
+      "name": "Jordania"
+    },
+    "JPN": {
+      "adjectives": [
+        "japonés"
+      ],
+      "capital": "Tokio",
+      "name": "Japón"
+    },
+    "KAZ": {
+      "adjectives": [
+        "kazajo"
+      ],
+      "capital": "Astaná",
+      "longName": "Kazajstán",
+      "name": "Kazajistán"
+    },
+    "KEN": {
+      "adjectives": [
+        "keniano"
+      ],
+      "capital": "Nairobi",
+      "longName": "Kenya",
+      "name": "Kenia"
+    },
+    "KGZ": {
+      "adjectives": [
+        "kirguíso kirguiso"
+      ],
+      "capital": "Biskek",
+      "name": "Kirguistán"
+    },
+    "KHM": {
+      "adjectives": [
+        "camboyano"
+      ],
+      "capital": "Nom Pen",
+      "name": "Camboya"
+    },
+    "KIR": {
+      "adjectives": [
+        "kiribatiano"
+      ],
+      "capital": "Tarawa",
+      "name": "Kiribati"
+    },
+    "KNA": {
+      "adjectives": [
+        "sancristobaleño"
+      ],
+      "capital": "Basseterre",
+      "longName": "Saint Kitts y Nevis",
+      "name": "San Cristóbal y Nieves"
+    },
+    "KOR": {
+      "adjectives": [
+        "surcoreano"
+      ],
+      "capital": "Seúl",
+      "longName": "la República de Corea",
+      "name": "Corea del Sur"
+    },
+    "KWT": {
+      "adjectives": [
+        "kuwaití​"
+      ],
+      "capital": "Ciudad de Kuwait",
+      "name": "Kuwait"
+    },
+    "LAO": {
+      "adjectives": [
+        "laosiano"
+      ],
+      "capital": "Vientián",
+      "longName": "la República Democrática Popular Lao",
+      "name": "Laos"
+    },
+    "LBN": {
+      "adjectives": [
+        "libanés"
+      ],
+      "capital": "Beirut",
+      "name": "Líbano"
+    },
+    "LBR": {
+      "adjectives": [
+        "liberiano"
+      ],
+      "capital": "Monrovia",
+      "name": "Liberia"
+    },
+    "LBY": {
+      "adjectives": [
+        "libio"
+      ],
+      "capital": "Trípoli",
+      "name": "Libia"
+    },
+    "LCA": {
+      "adjectives": [
+        "santalucense​"
+      ],
+      "capital": "Castries",
+      "name": "Santa Lucía"
+    },
+    "LIE": {
+      "adjectives": [
+        "liechtensteiniano"
+      ],
+      "capital": "Vaduz",
+      "name": "Liechtenstein"
+    },
+    "LKA": {
+      "adjectives": [
+        "ceilanés"
+      ],
+      "capital": "Colombo",
+      "name": "Sri Lanka"
+    },
+    "LSO": {
+      "adjectives": [
+        "lesotense​"
+      ],
+      "capital": "Maseru",
+      "longName": "Lesotho",
+      "name": "Lesoto"
+    },
+    "LTU": {
+      "adjectives": [
+        "lituano"
+      ],
+      "capital": "Vilna",
+      "name": "Lituania"
+    },
+    "LUX": {
+      "adjectives": [
+        "luxemburgués"
+      ],
+      "capital": "Luxemburgo",
+      "name": "Luxemburgo"
+    },
+    "LVA": {
+      "adjectives": [
+        "letón"
+      ],
+      "capital": "Riga",
+      "name": "Letonia"
+    },
+    "MAR": {
+      "adjectives": [
+        "marroquí​"
+      ],
+      "capital": "Rabat",
+      "name": "Marruecos"
+    },
+    "MCO": {
+      "adjectives": [
+        "monegasco"
+      ],
+      "capital": "Mónaco",
+      "name": "Mónaco"
+    },
+    "MDA": {
+      "adjectives": [
+        "moldavo"
+      ],
+      "capital": "Chisinau",
+      "longName": "la República de Moldova",
+      "name": "Moldavia"
+    },
+    "MDG": {
+      "adjectives": [
+        "malgache​"
+      ],
+      "capital": "Antananarivo",
+      "name": "Madagascar"
+    },
+    "MDV": {
+      "adjectives": [
+        "maldivo"
+      ],
+      "capital": "Malé",
+      "name": "Maldivas"
+    },
+    "MEX": {
+      "adjectives": [
+        "mexicano"
+      ],
+      "capital": "Ciudad de México",
+      "name": "México"
+    },
+    "MHL": {
+      "adjectives": [
+        "marshalés"
+      ],
+      "capital": "Majuro",
+      "longName": "las Islas Marshall",
+      "name": "Islas Marshall"
+    },
+    "MKD": {
+      "adjectives": [
+        "macedonio"
+      ],
+      "capital": "Skopie",
+      "longName": "la ex República Yugoslava de Macedonia",
+      "name": "Macedonia"
+    },
+    "MLI": {
+      "adjectives": [
+        "maliense​"
+      ],
+      "capital": "Bamako",
+      "name": "Malí"
+    },
+    "MLT": {
+      "adjectives": [
+        "maltés"
+      ],
+      "capital": "La Valeta",
+      "name": "Malta"
+    },
+    "MMR": {
+      "adjectives": [
+        "birmano"
+      ],
+      "capital": "Naipyidó",
+      "name": "Myanmar"
+    },
+    "MNE": {
+      "adjectives": [
+        "montenegrino"
+      ],
+      "capital": "Podgorica",
+      "name": "Montenegro"
+    },
+    "MNG": {
+      "adjectives": [
+        "mongol"
+      ],
+      "capital": "Ulán Bator",
+      "name": "Mongolia"
+    },
+    "MOZ": {
+      "adjectives": [
+        "mozambiqueño"
+      ],
+      "capital": "Maputo",
+      "name": "Mozambique"
+    },
+    "MRT": {
+      "adjectives": [
+        "mauritano"
+      ],
+      "capital": "Nuakchot",
+      "name": "Mauritania"
+    },
+    "MUS": {
+      "adjectives": [
+        "mauriciano"
+      ],
+      "capital": "Port Louis",
+      "name": "Mauricio"
+    },
+    "MWI": {
+      "adjectives": [
+        "malauí​"
+      ],
+      "capital": "Lilongüe",
+      "longName": "Malawi",
+      "name": "Malaui"
+    },
+    "MYS": {
+      "adjectives": [
+        "malasio"
+      ],
+      "capital": "Kuala Lumpur",
+      "name": "Malasia"
+    },
+    "NAM": {
+      "adjectives": [
+        "namibio"
+      ],
+      "capital": "Windhoek",
+      "name": "Namibia"
+    },
+    "NER": {
+      "adjectives": [
+        "nigerino"
+      ],
+      "capital": "Niamey",
+      "longName": "el Níger",
+      "name": "Níger"
+    },
+    "NGA": {
+      "adjectives": [
+        "nigeriano"
+      ],
+      "capital": "Abuya",
+      "name": "Nigeria"
+    },
+    "NIC": {
+      "adjectives": [
+        "nicaragüense​"
+      ],
+      "capital": "Managua",
+      "name": "Nicaragua"
+    },
+    "NIU": {
+      "adjectives": [
+        "niueño"
+      ],
+      "capital": "Alofi",
+      "name": "Niue"
+    },
+    "NLD": {
+      "adjectives": [
+        "neerlandés"
+      ],
+      "capital": "La Haya",
+      "longName": "los Países Bajos",
+      "name": "Países Bajos"
+    },
+    "NOR": {
+      "adjectives": [
+        "noruego"
+      ],
+      "capital": "Oslo",
+      "name": "Noruega"
+    },
+    "NPL": {
+      "adjectives": [
+        "nepalés"
+      ],
+      "capital": "Katmandú",
+      "name": "Nepal"
+    },
+    "NRU": {
+      "adjectives": [
+        "nauruano"
+      ],
+      "capital": "Yaren",
+      "name": "Nauru"
+    },
+    "NZL": {
+      "adjectives": [
+        "neozelandés"
+      ],
+      "capital": "Wellington",
+      "longName": "Nueva Zelandia",
+      "name": "Nueva Zelanda"
+    },
+    "OMN": {
+      "adjectives": [
+        "omaní​"
+      ],
+      "capital": "Mascate",
+      "name": "Omán"
+    },
+    "PAK": {
+      "adjectives": [
+        "pakistaní​"
+      ],
+      "capital": "Islamabad",
+      "name": "Pakistán"
+    },
+    "PAN": {
+      "adjectives": [
+        "panameño"
+      ],
+      "capital": "Panamá",
+      "name": "Panamá"
+    },
+    "PER": {
+      "adjectives": [
+        "peruano"
+      ],
+      "capital": "Lima",
+      "name": "Perú"
+    },
+    "PHL": {
+      "adjectives": [
+        "filipino"
+      ],
+      "capital": "Manila",
+      "longName": "las Filipinas",
+      "name": "Filipinas"
+    },
+    "PLW": {
+      "adjectives": [
+        "palauano"
+      ],
+      "capital": "Melekeok",
+      "longName": "Palau",
+      "name": "Palaos"
+    },
+    "PNG": {
+      "adjectives": [
+        "papú​"
+      ],
+      "capital": "Port Moresby",
+      "longName": "Papua Nueva Guinea",
+      "name": "Papúa Nueva Guinea"
+    },
+    "POL": {
+      "adjectives": [
+        "polaco"
+      ],
+      "capital": "Varsovia",
+      "name": "Polonia"
+    },
+    "PRK": {
+      "adjectives": [
+        "norcoreano"
+      ],
+      "capital": "Pionyang",
+      "longName": "la República Popular Democrática de Corea",
+      "name": "Corea del Norte"
+    },
+    "PRT": {
+      "adjectives": [
+        "portugués"
+      ],
+      "capital": "Lisboa",
+      "name": "Portugal"
+    },
+    "PRY": {
+      "adjectives": [
+        "paraguayo"
+      ],
+      "capital": "Asunción",
+      "name": "Paraguay"
+    },
+    "PSE": {
+      "adjectives": [
+        "palestino"
+      ],
+      "capital": "Gaza",
+      "longName": "Estado de Palestina",
+      "name": "Palestina"
+    },
+    "QAT": {
+      "adjectives": [
+        "catarí​"
+      ],
+      "capital": "Doha",
+      "longName": "Qatar",
+      "name": "Catar"
+    },
+    "ROU": {
+      "adjectives": [
+        "rumano"
+      ],
+      "capital": "Bucarest",
+      "name": "Rumania"
+    },
+    "RUS": {
+      "adjectives": [
+        "ruso"
+      ],
+      "capital": "Moscú",
+      "longName": "la Federación de Rusia",
+      "name": "Rusia"
+    },
+    "RWA": {
+      "adjectives": [
+        "ruandés"
+      ],
+      "capital": "Kigali",
+      "longName": "Rwanda",
+      "name": "Ruanda"
+    },
+    "SAU": {
+      "adjectives": [
+        "saudío saudita​"
+      ],
+      "capital": "Riad",
+      "name": "Arabia Saudita"
+    },
+    "SDN": {
+      "adjectives": [
+        "sudanés"
+      ],
+      "capital": "Jartum",
+      "longName": "el Sudán",
+      "name": "Sudán"
+    },
+    "SEN": {
+      "adjectives": [
+        "senegalés"
+      ],
+      "capital": "Dakar",
+      "name": "Senegal"
+    },
+    "SGP": {
+      "adjectives": [
+        "singapurense​"
+      ],
+      "capital": "Singapur",
+      "name": "Singapur"
+    },
+    "SLB": {
+      "adjectives": [
+        "salomonense​"
+      ],
+      "capital": "Honiara",
+      "name": "Islas Salomón"
+    },
+    "SLE": {
+      "adjectives": [
+        "sierraleonés"
+      ],
+      "capital": "Freetown",
+      "longName": "Sierra leona",
+      "name": "Sierra Leona"
+    },
+    "SLV": {
+      "adjectives": [
+        "salvadoreño"
+      ],
+      "capital": "San Salvador",
+      "name": "El Salvador"
+    },
+    "SMR": {
+      "adjectives": [
+        "sanmarinense​"
+      ],
+      "capital": "Ciudad de San Marino",
+      "name": "San Marino"
+    },
+    "SOM": {
+      "adjectives": [
+        "somalí​"
+      ],
+      "capital": "Mogadiscio",
+      "name": "Somalia"
+    },
+    "SOS": {
+      "adjectives": [
+        "surosetio"
+      ],
+      "capital": "Tsjinval",
+      "longName": "República de Osetia del Sur",
+      "name": "Osetia del Sur"
+    },
+    "SRB": {
+      "adjectives": [
+        "serbio"
+      ],
+      "capital": "Belgrado",
+      "name": "Serbia"
+    },
+    "SSD": {
+      "adjectives": [
+        "sursudanés"
+      ],
+      "capital": "Yuba",
+      "name": "Sudán del Sur"
+    },
+    "STP": {
+      "adjectives": [
+        "santotomense​"
+      ],
+      "capital": "Santo Tomé",
+      "name": "Santo Tomé y Príncipe"
+    },
+    "SUR": {
+      "adjectives": [
+        "surinamés"
+      ],
+      "capital": "Paramaribo",
+      "longName": "Suriname",
+      "name": "Surinam"
+    },
+    "SVK": {
+      "adjectives": [
+        "eslovaco"
+      ],
+      "capital": "Bratislava",
+      "name": "Eslovaquia"
+    },
+    "SVN": {
+      "adjectives": [
+        "esloveno"
+      ],
+      "capital": "Liubliana",
+      "name": "Eslovenia"
+    },
+    "SWE": {
+      "adjectives": [
+        "sueco"
+      ],
+      "capital": "Estocolmo",
+      "name": "Suecia"
+    },
+    "SWZ": {
+      "adjectives": [
+        "suazi​"
+      ],
+      "capital": "Lobamba",
+      "longName": "Swazilandia",
+      "name": "Suazilandia"
+    },
+    "SYC": {
+      "adjectives": [
+        "seychellense​"
+      ],
+      "capital": "Victoria",
+      "name": "Seychelles"
+    },
+    "SYR": {
+      "adjectives": [
+        "sirio"
+      ],
+      "capital": "Damasco",
+      "longName": "República Árabe Siria",
+      "name": "Siria"
+    },
+    "TCD": {
+      "adjectives": [
+        "chadiano"
+      ],
+      "capital": "Yamena",
+      "name": "Chad"
+    },
+    "TGO": {
+      "adjectives": [
+        "togolés"
+      ],
+      "capital": "Lomé",
+      "name": "Togo"
+    },
+    "THA": {
+      "adjectives": [
+        "tailandés"
+      ],
+      "capital": "Bangkok",
+      "name": "Tailandia"
+    },
+    "TJK": {
+      "adjectives": [
+        "tayiko"
+      ],
+      "capital": "Dusambé",
+      "name": "Tayikistán"
+    },
+    "TKM": {
+      "adjectives": [
+        "turcomano"
+      ],
+      "capital": "Asjabad",
+      "name": "Turkmenistán"
+    },
+    "TLS": {
+      "adjectives": [
+        "timorense​"
+      ],
+      "capital": "Dili",
+      "longName": "Timor-Leste",
+      "name": "Timor Oriental"
+    },
+    "TON": {
+      "adjectives": [
+        "tongano"
+      ],
+      "capital": "Nukualofa",
+      "name": "Tonga"
+    },
+    "TTO": {
+      "adjectives": [
+        "trinitense​"
+      ],
+      "capital": "Puerto España",
+      "name": "Trinidad y Tobago"
+    },
+    "TUN": {
+      "adjectives": [
+        "tunecino"
+      ],
+      "capital": "Túnez",
+      "name": "Túnez"
+    },
+    "TUR": {
+      "adjectives": [
+        "turco"
+      ],
+      "capital": "Ankara",
+      "name": "Turquía"
+    },
+    "TUV": {
+      "adjectives": [
+        "tuvaluano"
+      ],
+      "capital": "Funafuti",
+      "name": "Tuvalu"
+    },
+    "TWN": {
+      "adjectives": [
+        "taiwanés"
+      ],
+      "capital": "Taipéi",
+      "longName": "Provincia de China Taiwán",
+      "name": "Taiwán"
+    },
+    "TZA": {
+      "adjectives": [
+        "tanzano"
+      ],
+      "capital": "Dodoma",
+      "longName": "República Unida de Tanzania",
+      "name": "Tanzania"
+    },
+    "UGA": {
+      "adjectives": [
+        "ugandés"
+      ],
+      "capital": "Kampala",
+      "name": "Uganda"
+    },
+    "UKR": {
+      "adjectives": [
+        "ucraniano"
+      ],
+      "capital": "Kiev",
+      "name": "Ucrania"
+    },
+    "URY": {
+      "adjectives": [
+        "uruguayo"
+      ],
+      "capital": "Montevideo",
+      "name": "Uruguay"
+    },
+    "USA": {
+      "adjectives": [
+        "estadounidense",
+        "americano"
+      ],
+      "capital": "Washington DC",
+      "longName": "los Estados Unidos de América",
+      "name": "Estados Unidos"
+    },
+    "UZB": {
+      "adjectives": [
+        "uzbeko"
+      ],
+      "capital": "Taskent",
+      "name": "Uzbekistán"
+    },
+    "VAT": {
+      "adjectives": [
+        "vaticano"
+      ],
+      "capital": "Ciudad del Vaticano",
+      "longName": "la Santa Sede",
+      "name": "Ciudad del Vaticano"
+    },
+    "VCT": {
+      "adjectives": [
+        "sanvicentino"
+      ],
+      "capital": "Kingstown",
+      "name": "San Vicente y las Granadinas"
+    },
+    "VEN": {
+      "adjectives": [
+        "venezolano"
+      ],
+      "capital": "Caracas",
+      "longName": "República Bolivariana de Venezuela",
+      "name": "Venezuela"
+    },
+    "VNM": {
+      "adjectives": [
+        "vietnamita​"
+      ],
+      "capital": "Hanói",
+      "longName": "Viet Nam",
+      "name": "Vietnam"
+    },
+    "VUT": {
+      "adjectives": [
+        "vanuatuense​"
+      ],
+      "capital": "Port Vila",
+      "name": "Vanuatu"
+    },
+    "WSM": {
+      "adjectives": [
+        "samoano"
+      ],
+      "capital": "Apia",
+      "name": "Samoa"
+    },
+    "XXK": {
+      "adjectives": [
+        "kosovar​"
+      ],
+      "capital": "Pristina",
+      "longName": "República de Kosovo",
+      "name": "Kosovo"
+    },
+    "YEM": {
+      "adjectives": [
+        "yemení​"
+      ],
+      "capital": "Saná",
+      "name": "Yemen"
+    },
+    "ZAF": {
+      "adjectives": [
+        "sudafricano"
+      ],
+      "capital": "Pretoria",
+      "name": "Sudáfrica"
+    },
+    "ZMB": {
+      "adjectives": [
+        "zambiano"
+      ],
+      "capital": "Lusaka",
+      "name": "Zambia"
+    },
+    "ZWE": {
+      "adjectives": [
+        "zimbabuense​"
+      ],
+      "capital": "Harare",
+      "longName": "Zimbabwe",
+      "name": "Zimbabue"
+    }
+  },
+  "regions": {
+    "AF": "África",
+    "AM": "América",
+    "AS": "Asia",
+    "EU": "Europa",
+    "NA": "Norteamérica",
+    "OC": "Oceanía",
+    "SA": "Sudamérica"
+  }
+}

@@ -439,6 +439,83 @@ namespace Parsers {
 
     return data;
   }
+
+  export async function spanish(isoCodes: string[]): Promise<any> {
+    let $ = cheerio.load((await Axios.get("https://es.wikipedia.org/wiki/ISO_3166-1")).data);
+    const countryData = $(".wikitable.sortable tbody").first().find("tr").map((i, elem) => {
+      const get = position => {
+        let text = $(elem).children().eq(position).text();
+        text = text.split("\n")[0];
+        text = text.replace(/\[.*\]/, "");
+        return text;
+      };
+      const name = $(elem).children().eq(0).find("a").text().replace(/\[.*\]/, "")
+        .split(",").reverse().join(" ").trim();
+      const mapping = {
+        "Taiwán (República de China)": "Taiwán",
+      };
+      const longName = (() => {
+        let text = get(1).split(",").reverse().join(" ").trim();
+        const match = text.match(/(.*)\((.*)\)(.*)/);
+        if (match && match[2]) {
+          text = `${match[2]} ${match[1]} ${match[3]}`.trim();
+        }
+        while (text.indexOf("  ") !== -1) {
+          text = text.replace("  ", " ");
+        }
+        return text.trim();
+      })();
+
+      return {
+        iso: get(3),
+        name: mapping[name] || name,
+        longName: name !== longName ? longName : undefined,
+      };
+    }).get().filter(n => isoCodes.indexOf(n.iso) !== -1);
+    countryData.push({ iso: "ABC", name: "Abjasia", longName: "Abjasio y Ruso" });
+    countryData.push({ iso: "XXK", name: "Kosovo", longName: "República de Kosovo" });
+    countryData.push({ iso: "SOS", name: "Osetia del Sur", longName: "República de Osetia del Sur" });
+
+    $ = cheerio.load((await Axios.get("https://es.wikipedia.org/wiki/Anexo:Gentilicios")).data);
+    const adjectiveData = $(".wikitable").find("tbody tr:not(:first-child)").map((i, elem) => {
+      const getName = () => {
+        const text = $(elem).children().eq(0).find("a").first().text();
+        const mapping = {
+          "República de Macedonia": "Macedonia",
+          "Estados Federados de Micronesia": "Micronesia",
+          "Birmania": "Myanmar",
+          "República de China": "Taiwán",
+          "Países Bajos": "Países Bajos",
+        };
+        return mapping[text] || text;
+      };
+      const getAdjectives = () => {
+        return $(elem).children().eq(1).text()
+          .split("\n").map(n => n.split(",")[0].replace(/\[.*\]/, "").split(";").map(m => m.trim()))
+          .reduce((acc, val) => acc.concat(val), [])
+          .filter(n => !!n);
+      };
+      const capital = $(elem).children().eq(2).find("a").first().text().trim();
+      return {
+        name: getName(),
+        adjectives: getAdjectives(),
+        capital: capital,
+      };
+    }).get();
+
+    const data = {};
+    countryData.forEach((val) => {
+      const adjectives = adjectiveData.find(n => n.name === val.name || n.name === val.longName);
+      data[val.iso] = {
+        name: val.name,
+        longName: val.longName,
+        adjectives: adjectives.adjectives,
+        capital: adjectives.capital,
+      };
+    });
+
+    return data;
+  }
 }
 
 Parsers.generic().then((generic) => {
@@ -448,6 +525,7 @@ Parsers.generic().then((generic) => {
     { promise: Parsers.german(anthemUrls), lang: "de" },
     { promise: Parsers.english(isoCodes, anthemUrls), lang: "en" },
     { promise: Parsers.french(isoCodes, anthemUrls), lang: "fr" },
+    { promise: Parsers.spanish(isoCodes), lang: "es" },
   ];
   locales.forEach((def) => {
     def.promise.then((val) => {
