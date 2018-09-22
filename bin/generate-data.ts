@@ -418,8 +418,15 @@ namespace Parsers {
     const data = {};
     getFromCountryJs(isoCodes)
       .forEach((val) => {
+        const getAltNames = () => {
+          const mapping = {
+            "GBR": ["Angleterre", "Grande Bretagne"],
+          };
+          return mapping[val.ISO.alpha3] || undefined;
+        };
         const country: any = data[val.ISO.alpha3] = {
           name: Helpers.fixCountryName(val.translations.fr),
+          altNames: getAltNames(),
         };
         const anthem = anthemData.find((a) => a.name === country.name);
         if (anthem) {
@@ -428,12 +435,18 @@ namespace Parsers {
             anthemUrls[val.ISO.alpha3] = anthem.url;
           }
         }
+        const getAdditionalAdjectives = (iso: string) => {
+          const mapping = {
+            "GBR": ["anglaise"]
+          }
+          return mapping[iso] || [];
+        };
         const mapping = {
           "République démocratique du Congo": "Congo",
         };
         const adjective = adjectiveData.find((a) => a.name === (mapping[country.name] || country.name));
         if (adjective && adjective.adjectives.length) {
-          country.adjectives = adjective.adjectives.map(n => n.toLowerCase());
+          country.adjectives = adjective.adjectives.map(n => n.toLowerCase()).concat(getAdditionalAdjectives(val.ISO.alpha3));
         }
       });
 

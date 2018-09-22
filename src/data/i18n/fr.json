@@ -440,7 +440,12 @@
     },
     "GBR": {
       "adjectives": [
-        "britannique"
+        "britannique",
+        "anglaise"
+      ],
+      "altNames": [
+        "Angleterre",
+        "Grande Bretagne"
       ],
       "anthemName": "Que Dieu sauve la Reine",
       "name": "Royaume-Uni"
