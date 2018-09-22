@@ -171,6 +171,8 @@
     },
     "BIH": {
       "adjectives": [
+        "bosnisch",
+        "herzegowinisch",
         "bosnisch-herzegowinisch"
       ],
       "anthemName": "Intermeco",
@@ -562,6 +564,7 @@
     },
     "GBR": {
       "adjectives": [
+        "englisch",
         "britisch"
       ],
       "altNames": [

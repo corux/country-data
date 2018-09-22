@@ -186,6 +186,13 @@ namespace Parsers {
         text.find("br").replaceWith("\n");
         return text.text().split("\n")[0].replace(/\[.*\]/, "");
       };
+      const getAdjectives = (iso: string) => {
+        const mapping = {
+          "GBR": ["englisch"],
+          "BIH": ["bosnisch", "herzegowinisch"]
+        };
+        return mapping[iso] || undefined;
+      };
       const iso = get(7);
       if (iso) {
         const name = Helpers.fixCountryName(get(0));
@@ -194,6 +201,7 @@ namespace Parsers {
           longName: Helpers.fixCountryName(get(1)),
           altNames: Helpers.getAlternativeNames(name),
           capital: Helpers.fixCapitalName(get(2)),
+          adjectives: getAdjectives(iso),
         };
       }
     });
