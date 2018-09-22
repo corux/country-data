@@ -19,6 +19,7 @@ export interface ICountry {
   currencies: string[];
   borders: string[];
   anthem: string;
+  anthemName: string;
   adjectives: string[];
 }
 
