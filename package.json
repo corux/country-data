@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "generate-data": "ts-node bin/generate-data.ts --destination src/data/",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "npm-run-all --parallel build lint",
     "lint": "tslint --project tsconfig.json",
     "lint:fix": "npm run lint -- --fix",
     "build": "tsc && cp -a ./src/data dist/"
@@ -19,6 +19,7 @@
     "commander": "^2.18.0",
     "countryjs": "^1.8.0",
     "json-stable-stringify": "^1.0.1",
+    "npm-run-all": "^4.1.3",
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",
     "typescript": "^2.7.2"
