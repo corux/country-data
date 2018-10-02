@@ -1,5 +1,5 @@
 {
-  "name": "country-data",
+  "name": "@corux/country-data",
   "version": "1.0.0",
   "description": "Data about countries and regions.",
   "main": "dist/index.js",
@@ -9,7 +9,8 @@
     "test": "npm-run-all --parallel build lint",
     "lint": "tslint --project tsconfig.json",
     "lint:fix": "npm run lint -- --fix",
-    "build": "tsc && cp -a ./src/data dist/"
+    "build": "tsc && cp -a ./src/data dist/",
+    "deploy": "npm run publish --access=public"
   },
   "author": "corux",
   "license": "ISC",
