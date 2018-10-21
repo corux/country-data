@@ -149,7 +149,7 @@
     },
     "BGD": {
       "adjectives": [
-        "Bengali"
+        "Bangladeshi"
       ],
       "anthemName": "My Golden Bengal",
       "capital": "Dhaka",
@@ -241,7 +241,7 @@
       ],
       "anthemName": "God Bless the Sultan",
       "capital": "Bandar Seri Begawan",
-      "longName": "Nation of Brunei, Abode of Peace",
+      "longName": "Nation of Brunei, the Abode of Peace",
       "name": "Brunei"
     },
     "BTN": {
@@ -275,7 +275,7 @@
       "adjectives": [
         "Canadian"
       ],
-      "anthemName": "Ô Canada",
+      "anthemName": "O Canada",
       "capital": "Ottawa",
       "name": "Canada"
     },
@@ -803,7 +803,6 @@
       ],
       "anthemName": "His Majesty's Reign",
       "capital": "Tokyo",
-      "longName": "State of Japan",
       "name": "Japan"
     },
     "KAZ": {
@@ -1458,7 +1457,7 @@
       "adjectives": [
         "Somali"
       ],
-      "anthemName": "Qolobaa Calankeed",
+      "anthemName": "Praise to the Flag",
       "capital": "Mogadishu",
       "longName": "Federal Republic of Somalia",
       "name": "Somalia"
