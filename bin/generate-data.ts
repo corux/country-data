@@ -30,7 +30,7 @@ namespace Helpers {
       "Federated States of Micronesia": "Micronesia",
       "Republic of Macedonia": "Macedonia",
     };
-    return fixedNames[name] || name.replace(/[\u00AD]+/g, "");
+    return fixedNames[name] || name.replace(/[\u00AD]+/g, "").replace(/^–$/, "") || undefined;
   }
 
   export function getAlternativeNames(name: string): string {
@@ -41,6 +41,9 @@ namespace Helpers {
       "Republik China": ["Taiwan"],
       "Osttimor": ["Timor-Leste"],
       "Myanmar": ["Burma"],
+      "Niederlande": ["Holland"],
+      "Demokratische Republik Kongo": ["Kongo"],
+      "Vatikanstadt": ["Vatikan"],
     };
     return altNames[name];
   }
@@ -226,7 +229,7 @@ namespace Parsers {
         adjectives = adjectives
           .concat(adjective.split(","))
           .map(val => val.trim())
-          .filter(val => val.length > 0 && val.match(/^[a-z]/i));
+          .filter(val => val.length > 0 && val.match(/^[a-zäöüÄÖÜ]/i));
         if (adjectives.length) {
           data[isoCode].adjectives = adjectives;
         }

@@ -83,6 +83,9 @@
       "name": "Australien"
     },
     "AUT": {
+      "adjectives": [
+        "österreichisch"
+      ],
       "anthemName": "Österreichische Bundeshymne",
       "capital": "Wien",
       "longName": "Republik Österreich",
@@ -324,6 +327,9 @@
       "adjectives": [
         "kongolesisch"
       ],
+      "altNames": [
+        "Kongo"
+      ],
       "anthemName": "Stehe auf, Kongolese",
       "capital": "Kinshasa",
       "longName": "Demokratische Republik Kongo",
@@ -471,6 +477,9 @@
       "name": "Ecuador"
     },
     "EGY": {
+      "adjectives": [
+        "ägyptisch"
+      ],
       "anthemName": "Mein Heimatland, mein Heimatland, mein Heimatland",
       "capital": "Kairo",
       "longName": "Arabische Republik Ägypten",
@@ -512,6 +521,9 @@
       "name": "Estland"
     },
     "ETH": {
+      "adjectives": [
+        "äthiopisch"
+      ],
       "anthemName": "Marschiere voran, liebe Mutter Äthiopien",
       "capital": "Addis Abeba",
       "longName": "Demokratische Bundesrepublik Äthiopien",
@@ -622,6 +634,9 @@
       "name": "Guinea-Bissau"
     },
     "GNQ": {
+      "adjectives": [
+        "äquatorialguineisch"
+      ],
       "anthemName": "Lasst uns den Weg unserer großen Freude gehen",
       "capital": "Malabo",
       "longName": "Republik Äquatorialguinea",
@@ -898,7 +913,7 @@
       ],
       "anthemName": "Libyen, Libyen, Libyen",
       "capital": "Tripolis",
-      "longName": "Libyen",
+      "longName": "Staat Libyen",
       "name": "Libyen"
     },
     "LCA": {
@@ -1179,6 +1194,9 @@
       "adjectives": [
         "niederländisch"
       ],
+      "altNames": [
+        "Holland"
+      ],
       "anthemName": "Wilhelmlied",
       "capital": "Amsterdam",
       "longName": "Königreich der Niederlande",
@@ -1320,7 +1338,6 @@
     },
     "PSE": {
       "capital": "Gaza und Ramallah",
-      "longName": "–",
       "name": "Palästina"
     },
     "QAT": {
@@ -1338,7 +1355,7 @@
       ],
       "anthemName": "Erwache, Rumäne",
       "capital": "Bukarest",
-      "longName": "Republik Rumänien",
+      "longName": "Rumänien",
       "name": "Rumänien"
     },
     "RUS": {
@@ -1513,7 +1530,7 @@
       ],
       "anthemName": "O Herr unser Gott, der Du die Segnungen an die Swasi verteilst",
       "capital": "Mbabane",
-      "longName": "Königreich Swasiland",
+      "longName": "Königreich Eswatini",
       "name": "Swasiland"
     },
     "SYC": {
@@ -1705,6 +1722,9 @@
     "VAT": {
       "adjectives": [
         "vatikanisch"
+      ],
+      "altNames": [
+        "Vatikan"
       ],
       "anthemName": "Hymne und Pontifikalmarsch",
       "longName": "Staat Vatikanstadt",
