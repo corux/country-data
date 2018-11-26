@@ -130,7 +130,7 @@
     "population": 80000
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/80/AngolaAvante.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/en/f/f7/National_anthem_of_Angola%2C_performed_by_the_United_States_Navy_Band_%28March_1996_arrangement%29.ogg",
     "borders": [
       "COG",
       "COD",
@@ -2439,7 +2439,7 @@
     "region": "AS"
   },
   {
-    "anthem": "http://www.nationalanthems.info/ml.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Malian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga",
     "borders": [
       "DZA",
       "BFA",
@@ -2575,7 +2575,7 @@
     "region": "AF"
   },
   {
-    "anthem": "http://www.nationalanthems.info/mk.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/en/8/84/National_anthem_of_Macedonia_%28instrumental%29.ogg",
     "borders": [
       "ALB",
       "BGR",
@@ -2770,7 +2770,7 @@
     "population": 53400000
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Namibia.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Namibian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga",
     "borders": [
       "AGO",
       "BWA",
@@ -3051,6 +3051,7 @@
     "region": "EU"
   },
   {
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/20/East_Timorese_national_anthem.wav",
     "borders": [
       "IDN"
     ],
@@ -3488,7 +3489,7 @@
     "region": "AF"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Aash_Al_Maleek_instrumental.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Saudi_Arabian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga",
     "borders": [
       "IRQ",
       "JOR",
@@ -3704,7 +3705,7 @@
     "region": "AS"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Nad_Tatrou_sa_bl%C3%BDska.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/72/National_anthem_of_Slovakia%2C_performed_by_the_United_States_Navy_Band.ogg",
     "borders": [
       "AUT",
       "CZE",
@@ -4017,9 +4018,9 @@
       "SZL"
     ],
     "flag": {
-      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/1200px-Flag_of_Swaziland.svg.png",
-      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Swaziland.svg/720px-Flag_of_Swaziland.svg.png",
-      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Flag_of_Swaziland.svg"
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/1200px-Flag_of_Eswatini.svg.png",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/720px-Flag_of_Eswatini.svg.png",
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg"
     },
     "iso2": "SZ",
     "iso3": "SWZ",
@@ -4134,7 +4135,7 @@
     "region": "AS"
   },
   {
-    "anthem": "http://www.nationalanthems.info/tg.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/en/0/03/Togo%27s_national_anthem_%28instrumental%29.ogg",
     "borders": [
       "BEN",
       "BFA",
@@ -4300,7 +4301,7 @@
     "region": "AS"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/US_Navy_Band_-_National_Anthem_of_Turkmenistan.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/National_anthem_of_Turkmenistan%2C_performed_by_the_United_States_Navy_Band.oga",
     "borders": [
       "AFG",
       "IRN",
@@ -4398,7 +4399,7 @@
     "region": "EU"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hu-magyarhimnusz.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Hungarian_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28May_1997_arrangement%29.oga",
     "borders": [
       "AUT",
       "HRV",

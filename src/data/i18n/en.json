@@ -386,7 +386,8 @@
     },
     "CUB": {
       "adjectives": [
-        "Cuban"
+        "Cuban",
+        "Cube"
       ],
       "anthemName": "The Anthem of Bayamo",
       "capital": "Havana",
@@ -1060,7 +1061,7 @@
         "Malian",
         "Malinese"
       ],
-      "anthemName": "For Africa and for You, Mali",
+      "anthemName": "Mali",
       "capital": "Bamako",
       "longName": "Republic of Mali",
       "name": "Mali"
@@ -1537,12 +1538,16 @@
     },
     "SWZ": {
       "adjectives": [
-        "Swazi"
+        "Swazi",
+        "Swati"
+      ],
+      "altNames": [
+        "Swaziland"
       ],
       "anthemName": "O Lord our God of the Swazi",
       "capital": "Lobamba",
       "longName": "Kingdom of Eswatini",
-      "name": "Swaziland"
+      "name": "Eswatini"
     },
     "SYC": {
       "adjectives": [

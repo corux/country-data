@@ -44,6 +44,7 @@ namespace Helpers {
       "Niederlande": ["Holland"],
       "Demokratische Republik Kongo": ["Kongo"],
       "Vatikanstadt": ["Vatikan"],
+      "Eswatini": ["Swaziland"],
     };
     return altNames[name];
   }
@@ -329,6 +330,7 @@ namespace Parsers {
           "Federated States of Micronesia": "Micronesia",
           "Republic of Macedonia": "Macedonia",
           "Vatican City State": "Vatican City",
+          "Eswatini (Swaziland)": "Swaziland",
         };
         return mapping[text] || text;
       };
@@ -337,11 +339,16 @@ namespace Parsers {
         if (get(1).indexOf(sep) === -1) {
           sep = ",";
         }
-        return get(1).split(sep).map(n => n.trim()).filter(n => !!n);
+        const foundAdjectives = get(1).split(sep).map(n => n.trim()).filter(n => !!n);
+        const mapping = {
+          "Cuba": ["Cuban"],
+          "Republic of the Congo": ["Congolese"],
+        };
+        return (mapping[getName()] || []).concat(foundAdjectives || []);
       };
       return {
         name: getName(),
-        adjectives: getName() === "Republic of the Congo" ? ["Congolese"] : getAdjectives(),
+        adjectives: getAdjectives(),
       };
     }).get();
 
@@ -353,35 +360,44 @@ namespace Parsers {
       }
       const nameRow = $(elem).children().eq(0).text().replace(/\[[0-9a-z]*\]/, "")
         .split("–").map(n => n.trim());
-      const name = $(elem).children().eq(0).find("a").first().text()
+      let name = $(elem).children().eq(0).find("a").first().text()
         .split(",").reverse().join(" ").trim();
       const mapping = {
-        "Sahrawi Arab Democratic Republic": "Western Sahara"
+        "Sahrawi Arab Democratic Republic": "Western Sahara",
+        "Eswatini": "Swaziland",
       };
+      const longNameMapping = {
+        "Western Sahara": "Sahrawi Arab Democratic Republic",
+      };
+      name = mapping[name] || name;
       return {
-        name: mapping[name] || name,
-        longName: mapping[name] ? name : nameRow[1],
+        name: name,
+        longName: longNameMapping[name] || nameRow[1],
       };
     }).get().filter(n => !!n);
 
     const data = {};
     getFromCountryJs(isoCodes)
       .forEach((val) => {
+        const mapping = {
+          "Swaziland": "Eswatini",
+        };
         const name = Helpers.fixCountryName(val.name);
+        const mappedName = mapping[name] || name;
         const country: any = data[val.ISO.alpha3] = {
-          name: name,
+          name: mappedName,
           capital: Helpers.fixCapitalName(val.capital),
-          altNames: Helpers.getAlternativeNames(name),
+          altNames: Helpers.getAlternativeNames(mappedName),
           longName: nameData.find(n => n.name === name).longName,
         };
-        const anthem = anthemData.find((a) => a.name === country.name);
+        const anthem = anthemData.find((a) => a.name === name);
         if (anthem) {
           country.anthemName = anthem.anthemName;
           if (anthem.url) {
             anthemUrls[val.ISO.alpha3] = anthem.url;
           }
         }
-        country.adjectives = adjectiveData.find(n => n.name === country.name).adjectives;
+        country.adjectives = adjectiveData.find(n => n.name === name).adjectives;
       });
 
     return data;
@@ -402,6 +418,7 @@ namespace Parsers {
           "Salomon": "Îles Salomon",
           "République du Congo": "Congo",
           "République de Macédoine": "Macédoine",
+          "États fédérés de Micronésie": "Micronésie",
         };
         return mapping[text] || text;
       };
