@@ -69,7 +69,7 @@ namespace Helpers {
     switch (countryJsData.subregion) {
       case "South America":
         return "SA";
-      case "North America":
+      case "Northern America":
         return "NA";
     }
     switch (countryJsData.region) {
