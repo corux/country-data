@@ -341,7 +341,6 @@ namespace Parsers {
         }
         const foundAdjectives = get(1).split(sep).map(n => n.trim()).filter(n => !!n);
         const mapping = {
-          "Cuba": ["Cuban"],
           "Republic of the Congo": ["Congolese"],
         };
         return (mapping[getName()] || []).concat(foundAdjectives || []);
@@ -419,6 +418,7 @@ namespace Parsers {
           "République du Congo": "Congo",
           "République de Macédoine": "Macédoine",
           "États fédérés de Micronésie": "Micronésie",
+          "Myanmar": "Birmanie",
         };
         return mapping[text] || text;
       };
@@ -449,6 +449,7 @@ namespace Parsers {
         const getAltNames = () => {
           const mapping = {
             "GBR": ["Angleterre", "Grande Bretagne"],
+            "MMR": ["Myanmar"],
           };
           return mapping[val.ISO.alpha3] || undefined;
         };
