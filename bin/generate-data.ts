@@ -496,6 +496,9 @@ namespace Parsers {
       const mapping = {
         "Taiwán (República de China)": "Taiwán",
       };
+      const longNameMapping = {
+        "Swazilandia": "Suazilandia",
+      };
       const longName = (() => {
         let text = get(1).split(",").reverse().join(" ").trim();
         const match = text.match(/(.*)\((.*)\)(.*)/);
@@ -505,7 +508,8 @@ namespace Parsers {
         while (text.indexOf("  ") !== -1) {
           text = text.replace("  ", " ");
         }
-        return text.trim();
+        text = text.trim();
+        return longNameMapping[text] || text;
       })();
 
       return {
@@ -533,8 +537,10 @@ namespace Parsers {
       };
       const getAdjectives = () => {
         return $(elem).children().eq(1).text()
-          .split("\n").map(n => n.split(",")[0].replace(/\[.*\]/, "").split(";").map(m => m.trim()))
+          .split("\n").map(n => n.split("​o ")).reduce((acc, val) => acc.concat(val), [])
+          .map(n => n.split(",")[0].replace(/\[.*\]/, "").split(";"))
           .reduce((acc, val) => acc.concat(val), [])
+          .map(m => m.replace(/[^\x00-\xFF]+/g, "").trim())
           .filter(n => !!n);
       };
       const capital = $(elem).children().eq(2).find("a").first().text().trim();

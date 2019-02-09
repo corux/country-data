@@ -38,7 +38,7 @@
     },
     "ARE": {
       "adjectives": [
-        "emiratí​"
+        "emiratí"
       ],
       "capital": "Abu Dabi",
       "longName": "los Emiratos Árabes Unidos",
@@ -95,7 +95,7 @@
     },
     "BEL": {
       "adjectives": [
-        "belga​"
+        "belga"
       ],
       "capital": "Bruselas",
       "name": "Bélgica"
@@ -117,7 +117,7 @@
     },
     "BGD": {
       "adjectives": [
-        "bangladesí​"
+        "bangladesí"
       ],
       "capital": "Daca",
       "longName": "Bangladesh",
@@ -132,7 +132,7 @@
     },
     "BHR": {
       "adjectives": [
-        "bareiní​"
+        "bareiní"
       ],
       "capital": "Manama",
       "longName": "Bahrein",
@@ -185,7 +185,7 @@
     },
     "BRB": {
       "adjectives": [
-        "barbadense​"
+        "barbadense"
       ],
       "capital": "Bridgetown",
       "name": "Barbados"
@@ -224,7 +224,7 @@
     },
     "CAN": {
       "adjectives": [
-        "canadiense​"
+        "canadiense"
       ],
       "capital": "Ottawa",
       "name": "Canadá"
@@ -298,7 +298,8 @@
     },
     "COM": {
       "adjectives": [
-        "comorense​"
+        "comorense",
+        "comorano"
       ],
       "capital": "Moroni",
       "longName": "las Comoras",
@@ -313,7 +314,7 @@
     },
     "CRI": {
       "adjectives": [
-        "costarricense​"
+        "costarricense"
       ],
       "capital": "San José",
       "name": "Costa Rica"
@@ -327,7 +328,7 @@
     },
     "CYP": {
       "adjectives": [
-        "chipriota​"
+        "chipriota"
       ],
       "capital": "Nicosia",
       "name": "Chipre"
@@ -364,7 +365,8 @@
     },
     "DNK": {
       "adjectives": [
-        "danés"
+        "danés",
+        "dinamarqués"
       ],
       "capital": "Copenhague",
       "name": "Dinamarca"
@@ -407,7 +409,7 @@
     },
     "ESH": {
       "adjectives": [
-        "saharaui​"
+        "saharaui"
       ],
       "capital": "El Aaiún",
       "longName": "Sahara Occidental",
@@ -429,7 +431,7 @@
     },
     "ETH": {
       "adjectives": [
-        "etíope​"
+        "etíope"
       ],
       "capital": "Adís Abeba",
       "name": "Etiopía"
@@ -510,7 +512,8 @@
     },
     "GNB": {
       "adjectives": [
-        "guineano"
+        "guineano",
+        "bisauguineano"
       ],
       "capital": "Bisau",
       "longName": "Guinea Bissau",
@@ -560,7 +563,7 @@
     },
     "HRV": {
       "adjectives": [
-        "croata​"
+        "croata"
       ],
       "capital": "Zagreb",
       "name": "Croacia"
@@ -602,7 +605,7 @@
     },
     "IRN": {
       "adjectives": [
-        "iraní​"
+        "iraní"
       ],
       "capital": "Teherán",
       "longName": "República Islámica de Irán",
@@ -610,7 +613,7 @@
     },
     "IRQ": {
       "adjectives": [
-        "iraquí​"
+        "iraquí"
       ],
       "capital": "Bagdad",
       "longName": "Iraq",
@@ -625,7 +628,7 @@
     },
     "ISR": {
       "adjectives": [
-        "israelí​"
+        "israelí"
       ],
       "capital": "Jerusalén",
       "name": "Israel"
@@ -660,7 +663,8 @@
     },
     "KAZ": {
       "adjectives": [
-        "kazajo"
+        "kazajo",
+        "kazako"
       ],
       "capital": "Astaná",
       "longName": "Kazajstán",
@@ -713,7 +717,7 @@
     },
     "KWT": {
       "adjectives": [
-        "kuwaití​"
+        "kuwaití"
       ],
       "capital": "Ciudad de Kuwait",
       "name": "Kuwait"
@@ -749,7 +753,7 @@
     },
     "LCA": {
       "adjectives": [
-        "santalucense​"
+        "santalucense"
       ],
       "capital": "Castries",
       "name": "Santa Lucía"
@@ -770,7 +774,7 @@
     },
     "LSO": {
       "adjectives": [
-        "lesotense​"
+        "lesotense"
       ],
       "capital": "Maseru",
       "longName": "Lesotho",
@@ -799,7 +803,7 @@
     },
     "MAR": {
       "adjectives": [
-        "marroquí​"
+        "marroquí"
       ],
       "capital": "Rabat",
       "name": "Marruecos"
@@ -821,7 +825,7 @@
     },
     "MDG": {
       "adjectives": [
-        "malgache​"
+        "malgache"
       ],
       "capital": "Antananarivo",
       "name": "Madagascar"
@@ -858,7 +862,7 @@
     },
     "MLI": {
       "adjectives": [
-        "maliense​"
+        "maliense"
       ],
       "capital": "Bamako",
       "name": "Malí"
@@ -914,7 +918,7 @@
     },
     "MWI": {
       "adjectives": [
-        "malauí​"
+        "malauí"
       ],
       "capital": "Lilongüe",
       "longName": "Malawi",
@@ -951,7 +955,7 @@
     },
     "NIC": {
       "adjectives": [
-        "nicaragüense​"
+        "nicaragüense"
       ],
       "capital": "Managua",
       "name": "Nicaragua"
@@ -1002,14 +1006,14 @@
     },
     "OMN": {
       "adjectives": [
-        "omaní​"
+        "omaní"
       ],
       "capital": "Mascate",
       "name": "Omán"
     },
     "PAK": {
       "adjectives": [
-        "pakistaní​"
+        "pakistaní"
       ],
       "capital": "Islamabad",
       "name": "Pakistán"
@@ -1046,7 +1050,8 @@
     },
     "PNG": {
       "adjectives": [
-        "papú​"
+        "papú",
+        "papúa"
       ],
       "capital": "Port Moresby",
       "longName": "Papua Nueva Guinea",
@@ -1091,7 +1096,7 @@
     },
     "QAT": {
       "adjectives": [
-        "catarí​"
+        "catarí"
       ],
       "capital": "Doha",
       "longName": "Qatar",
@@ -1122,7 +1127,7 @@
     },
     "SAU": {
       "adjectives": [
-        "saudío saudita​"
+        "saudío saudita"
       ],
       "capital": "Riad",
       "name": "Arabia Saudita"
@@ -1144,14 +1149,14 @@
     },
     "SGP": {
       "adjectives": [
-        "singapurense​"
+        "singapurense"
       ],
       "capital": "Singapur",
       "name": "Singapur"
     },
     "SLB": {
       "adjectives": [
-        "salomonense​"
+        "salomonense"
       ],
       "capital": "Honiara",
       "name": "Islas Salomón"
@@ -1173,14 +1178,14 @@
     },
     "SMR": {
       "adjectives": [
-        "sanmarinense​"
+        "sanmarinense"
       ],
       "capital": "Ciudad de San Marino",
       "name": "San Marino"
     },
     "SOM": {
       "adjectives": [
-        "somalí​"
+        "somalí"
       ],
       "capital": "Mogadiscio",
       "name": "Somalia"
@@ -1209,7 +1214,7 @@
     },
     "STP": {
       "adjectives": [
-        "santotomense​"
+        "santotomense"
       ],
       "capital": "Santo Tomé",
       "name": "Santo Tomé y Príncipe"
@@ -1245,15 +1250,15 @@
     },
     "SWZ": {
       "adjectives": [
-        "suazi​"
+        "suazi"
       ],
       "capital": "Lobamba",
-      "longName": "Swazilandia",
-      "name": "Suazilandia"
+      "longName": "Suazilandia",
+      "name": "Esuatini"
     },
     "SYC": {
       "adjectives": [
-        "seychellense​"
+        "seychellense"
       ],
       "capital": "Victoria",
       "name": "Seychelles"
@@ -1303,7 +1308,7 @@
     },
     "TLS": {
       "adjectives": [
-        "timorense​"
+        "timorense"
       ],
       "capital": "Dili",
       "longName": "Timor-Leste",
@@ -1318,7 +1323,7 @@
     },
     "TTO": {
       "adjectives": [
-        "trinitense​"
+        "trinitense"
       ],
       "capital": "Puerto España",
       "name": "Trinidad y Tobago"
@@ -1422,7 +1427,7 @@
     },
     "VNM": {
       "adjectives": [
-        "vietnamita​"
+        "vietnamita"
       ],
       "capital": "Hanói",
       "longName": "Viet Nam",
@@ -1430,7 +1435,7 @@
     },
     "VUT": {
       "adjectives": [
-        "vanuatuense​"
+        "vanuatuense"
       ],
       "capital": "Port Vila",
       "name": "Vanuatu"
@@ -1444,7 +1449,7 @@
     },
     "XXK": {
       "adjectives": [
-        "kosovar​"
+        "kosovar"
       ],
       "capital": "Pristina",
       "longName": "República de Kosovo",
@@ -1452,7 +1457,7 @@
     },
     "YEM": {
       "adjectives": [
-        "yemení​"
+        "yemení"
       ],
       "capital": "Saná",
       "name": "Yemen"
@@ -1473,7 +1478,7 @@
     },
     "ZWE": {
       "adjectives": [
-        "zimbabuense​"
+        "zimbabuense"
       ],
       "capital": "Harare",
       "longName": "Zimbabwe",
