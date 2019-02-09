@@ -130,7 +130,7 @@
     "population": 80000
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/f/f7/National_anthem_of_Angola%2C_performed_by_the_United_States_Navy_Band_%28March_1996_arrangement%29.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/en/d/d0/Angola%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28March_1996_arrangement%29.ogg",
     "borders": [
       "COG",
       "COD",
@@ -821,7 +821,7 @@
     "region": "AM"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/United_States_Navy_Band_-_Kong_Kristian_stod_ved_h%C3%B8jen_mast.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/06/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg",
     "borders": [
       "DEU"
     ],
@@ -1150,7 +1150,7 @@
     "region": "AF"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/23/National_Anthem_of_Gambia_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/gm.mp3",
     "borders": [
       "SEN"
     ],
@@ -1264,7 +1264,7 @@
     "region": "EU"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d8/National_Anthem_of_Guatemala_by_US_Navy_Band.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/en/a/a9/Guatemala%27s_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg",
     "borders": [
       "BLZ",
       "SLV",
@@ -1315,7 +1315,7 @@
     "region": "AF"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/40/National_Anthem_of_Guinea-Bissau_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/gw.mp3",
     "borders": [
       "GIN",
       "SEN"
@@ -1765,7 +1765,7 @@
     "region": "NA"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/e1/National_Anthem_of_Cap_Verde_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/cv.mp3",
     "borders": [
     ],
     "currencies": [
@@ -1949,7 +1949,7 @@
     "region": "AF"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/f/f9/National_anthem_of_the_Democratic_Republic_of_the_Congo.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/en/3/3f/Democratic_Republic_of_the_Congo%27s_national_anthem.ogg",
     "borders": [
       "AGO",
       "BDI",
@@ -2115,7 +2115,7 @@
     "region": "AM"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Kuwait.ogg",
+    "anthem": "http://www.nationalanthems.info/kw.mp3",
     "borders": [
       "IRN",
       "SAU"
@@ -2255,7 +2255,7 @@
     "region": "AF"
   },
   {
-    "anthem": "http://www.nationalanthems.info/ly.mp3",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LibyaLibyaLibya.ogg",
     "borders": [
       "DZA",
       "TCD",
@@ -2352,7 +2352,7 @@
     "region": "EU"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d3/National_Anthem_of_Madagascar_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/mg.mp3",
     "borders": [
     ],
     "currencies": [
@@ -2555,7 +2555,7 @@
     "region": "AF"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/45/National_Anthem_of_Mauritius_by_US_Navy_Band.ogg",
+    "anthem": "http://www.nationalanthems.info/mu.mp3",
     "borders": [
     ],
     "currencies": [
@@ -2575,7 +2575,7 @@
     "region": "AF"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/8/84/National_anthem_of_Macedonia_%28instrumental%29.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/en/8/82/Macedonia%27s_national_anthem_%28instrumental%29.ogg",
     "borders": [
       "ALB",
       "BGR",
@@ -3634,7 +3634,7 @@
     "region": "AF"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/c/c4/National_anthem_of_Sierra_Leone.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/en/6/69/Sierra_Leone%27s_national_anthem.ogg",
     "borders": [
       "GIN",
       "LBR"
