@@ -441,7 +441,7 @@
       "adjectives": [
         "Danish"
       ],
-      "anthemName": "King Christian stood by the lofty mast",
+      "anthemName": "There is a lovely land",
       "capital": "Copenhagen",
       "longName": "Kingdom of Denmark",
       "name": "Denmark"
@@ -916,6 +916,7 @@
       ],
       "anthemName": "Libya, Libya, Libya",
       "capital": "Tripoli",
+      "longName": "State of Libya",
       "name": "Libya"
     },
     "LCA": {
@@ -1331,7 +1332,7 @@
       "adjectives": [
         "Paraguayan"
       ],
-      "anthemName": "Paraguayans, the Republic or Death",
+      "anthemName": "Paraguayan National Anthem",
       "capital": "Asunción",
       "longName": "Republic of Paraguay",
       "name": "Paraguay"
@@ -1644,7 +1645,7 @@
       ],
       "anthemName": "Defenders of the Homeland",
       "capital": "Tunis",
-      "longName": "Tunisian Republic",
+      "longName": "Republic of Tunisia",
       "name": "Tunisia"
     },
     "TUR": {

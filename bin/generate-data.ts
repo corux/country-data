@@ -54,7 +54,7 @@ namespace Helpers {
       return undefined;
     }
 
-    return name;
+    return name.match(/^([^(]*)/)[1].trim();
   }
 
   export function fixAnthemName(name: string): string {
