@@ -809,10 +809,14 @@
     },
     "MKD": {
       "adjectives": [
+        "nord-macédonien",
         "macédonien"
       ],
+      "altNames": [
+        "Macédoine"
+      ],
       "anthemName": "Le Soleil sur la Macédoine",
-      "name": "Macédoine"
+      "name": "Macédoine du Nord"
     },
     "MLI": {
       "adjectives": [

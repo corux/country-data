@@ -1051,10 +1051,13 @@
       "adjectives": [
         "Macedonian"
       ],
+      "altNames": [
+        "Macedonia"
+      ],
       "anthemName": "Today Over Macedonia",
       "capital": "Skopje",
-      "longName": "Republic of Macedonia",
-      "name": "Macedonia"
+      "longName": "Republic of North Macedonia",
+      "name": "North Macedonia"
     },
     "MLI": {
       "adjectives": [
@@ -1542,12 +1545,12 @@
         "Swati"
       ],
       "altNames": [
-        "Swaziland"
+        "Eswatini"
       ],
       "anthemName": "O Lord our God of the Swazi",
       "capital": "Lobamba",
       "longName": "Kingdom of Eswatini",
-      "name": "Eswatini"
+      "name": "Swaziland"
     },
     "SYC": {
       "adjectives": [

@@ -96,7 +96,7 @@
         "burundese"
       ],
       "anthemName": "Nostro Burundi",
-      "capital": "Bujumbura",
+      "capital": "Gitega",
       "name": "Burundi"
     },
     "BEL": {
@@ -742,7 +742,7 @@
         "kazaco"
       ],
       "anthemName": "Mio Kazakhstan",
-      "capital": "Astana",
+      "capital": "Nursultan",
       "name": "Kazakistan"
     },
     "KEN": {
@@ -962,9 +962,12 @@
       "adjectives": [
         "macedone"
       ],
+      "altNames": [
+        "Macedonia"
+      ],
       "anthemName": "Oggi sulla Macedonia",
       "capital": "Skopje",
-      "name": "Macedonia"
+      "name": "Macedonia del Nord"
     },
     "MLI": {
       "adjectives": [

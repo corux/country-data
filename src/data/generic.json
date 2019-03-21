@@ -2575,31 +2575,6 @@
     "region": "AF"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/8/82/Macedonia%27s_national_anthem_%28instrumental%29.ogg",
-    "borders": [
-      "ALB",
-      "BGR",
-      "GRC",
-      "SRB",
-      "XXK"
-    ],
-    "currencies": [
-      "MKD"
-    ],
-    "flag": {
-      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/1200px-Flag_of_Macedonia.svg.png",
-      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Macedonia.svg/720px-Flag_of_Macedonia.svg.png",
-      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_Macedonia.svg"
-    },
-    "iso2": "MK",
-    "iso3": "MKD",
-    "languages": [
-      "mk"
-    ],
-    "population": 2100000,
-    "region": "EU"
-  },
-  {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg",
     "borders": [
       "BLZ",
@@ -2973,6 +2948,31 @@
     ],
     "population": 1229,
     "region": "OC"
+  },
+  {
+    "anthem": "https://upload.wikimedia.org/wikipedia/en/8/82/Macedonia%27s_national_anthem_%28instrumental%29.ogg",
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "SRB",
+      "XXK"
+    ],
+    "currencies": [
+      "MKD"
+    ],
+    "flag": {
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/1200px-Flag_of_North_Macedonia.svg.png",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/720px-Flag_of_North_Macedonia.svg.png",
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg"
+    },
+    "iso2": "MK",
+    "iso3": "MKD",
+    "languages": [
+      "mk"
+    ],
+    "population": 2100000,
+    "region": "EU"
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Norway_%28National_Anthem%29.ogg",
@@ -3552,9 +3552,9 @@
       "CHW"
     ],
     "flag": {
-      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/1200px-Flag_of_Switzerland_within_2to3.svg.png",
-      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Switzerland_within_2to3.svg/720px-Flag_of_Switzerland_within_2to3.svg.png",
-      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Switzerland_within_2to3.svg"
+      "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Switzerland_within_2to3.png/1200px-Flag_of_Switzerland_within_2to3.png",
+      "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Switzerland_within_2to3.png/720px-Flag_of_Switzerland_within_2to3.png",
+      "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_Switzerland_within_2to3.png"
     },
     "iso2": "CH",
     "iso3": "CHE",

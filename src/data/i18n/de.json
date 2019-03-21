@@ -276,7 +276,7 @@
     },
     "CHE": {
       "adjectives": [
-        "Schweizer",
+        "schweizer",
         "schweizerisch"
       ],
       "anthemName": "Schweizerpsalm",
@@ -1046,10 +1046,13 @@
       "adjectives": [
         "mazedonisch"
       ],
+      "altNames": [
+        "Mazedonien"
+      ],
       "anthemName": "Heute über Mazedonien",
       "capital": "Skopje",
-      "longName": "Ehemalige jugoslawische Republik Mazedonien",
-      "name": "Mazedonien"
+      "longName": "Republik Nordmazedonien",
+      "name": "Nordmazedonien"
     },
     "MLI": {
       "adjectives": [

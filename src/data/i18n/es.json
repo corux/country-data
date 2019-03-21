@@ -666,7 +666,7 @@
         "kazajo",
         "kazako"
       ],
-      "capital": "Astaná",
+      "capital": "Nursultán",
       "longName": "Kazajstán",
       "name": "Kazajistán"
     },
@@ -856,9 +856,12 @@
       "adjectives": [
         "macedonio"
       ],
+      "altNames": [
+        "Macedonia"
+      ],
       "capital": "Skopie",
       "longName": "la ex República Yugoslava de Macedonia",
-      "name": "Macedonia"
+      "name": "Macedonia del Norte"
     },
     "MLI": {
       "adjectives": [
@@ -879,7 +882,8 @@
         "birmano"
       ],
       "capital": "Naipyidó",
-      "name": "Myanmar"
+      "longName": "Myanmar",
+      "name": "Birmania"
     },
     "MNE": {
       "adjectives": [
@@ -1252,9 +1256,11 @@
       "adjectives": [
         "suazi"
       ],
+      "altNames": [
+        "Esuatini"
+      ],
       "capital": "Lobamba",
-      "longName": "Suazilandia",
-      "name": "Esuatini"
+      "name": "Suazilandia"
     },
     "SYC": {
       "adjectives": [
