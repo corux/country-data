@@ -1,6 +1,6 @@
 {
   "name": "@corux/country-data",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Data about countries and regions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
     "lint": "tslint --project tsconfig.json",
     "lint:fix": "npm run lint -- --fix",
     "build": "tsc && cp -a ./src/data dist/",
-    "deploy": "npm run publish --access=public"
+    "deploy": "npm publish --access=public"
   },
   "author": "corux",
   "license": "ISC",
