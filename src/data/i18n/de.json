@@ -408,6 +408,9 @@
       "adjectives": [
         "tschechisch"
       ],
+      "altNames": [
+        "Tschechei"
+      ],
       "anthemName": "Wo ist mein Heimatland?",
       "capital": "Prag",
       "longName": "Tschechische Republik",
@@ -577,6 +580,7 @@
     "GBR": {
       "adjectives": [
         "englisch",
+        "großbritannisch",
         "britisch"
       ],
       "altNames": [
@@ -1195,6 +1199,7 @@
     },
     "NLD": {
       "adjectives": [
+        "holländisch",
         "niederländisch"
       ],
       "altNames": [
@@ -1391,6 +1396,9 @@
     "SDN": {
       "adjectives": [
         "sudanesisch"
+      ],
+      "altNames": [
+        "Nordsudan"
       ],
       "anthemName": "Wir sind die Soldaten Gottes und der Heimat",
       "capital": "Khartum",

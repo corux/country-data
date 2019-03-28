@@ -24,7 +24,7 @@ namespace Helpers {
     return Array.from(new Set(array.map((item: any) => item)));
   }
 
-  export function fixCountryName(name: string): string {
+  export function fixCountryName(name: string, lang: string): string {
     const fixedNames = {
       "Korea, Süd": "Südkorea",
       "Korea, Nord": "Nordkorea",
@@ -39,22 +39,33 @@ namespace Helpers {
     return fixedNames[name] || name.replace(/[\u00AD]+/g, "").replace(/^–$/, "") || undefined;
   }
 
-  export function getAlternativeNames(name: string): string {
+  export function getAlternativeNames(name: string, lang: string): string {
     const altNames = {
-      "Vereinigtes Königreich": ["England", "Großbritannien"],
-      "Vereinigte Staaten": ["USA"],
-      "Volksrepublik China": ["China"],
-      "Republik China": ["Taiwan"],
-      "Osttimor": ["Timor-Leste"],
       "Myanmar": ["Burma"],
-      "Niederlande": ["Holland"],
-      "Demokratische Republik Kongo": ["Kongo"],
       "Vatikanstadt": ["Vatikan"],
       "Swaziland": ["Eswatini"],
-      "Nordmazedonien": ["Mazedonien"],
-      "North Macedonia": ["Macedonia"],
     };
-    return altNames[name];
+    const altNamesI18n = {
+      de: {
+        "Vereinigtes Königreich": ["England", "Großbritannien"],
+        "Vereinigte Staaten": ["USA"],
+        "Volksrepublik China": ["China"],
+        "Republik China": ["Taiwan"],
+        "Osttimor": ["Timor-Leste"],
+        "Niederlande": ["Holland"],
+        "Demokratische Republik Kongo": ["Kongo"],
+        "Nordmazedonien": ["Mazedonien"],
+        "Tschechien": ["Tschechei"],
+        "Sudan": ["Nordsudan"],
+      },
+      en: {
+        "Sudan": ["North Sudan"],
+        "North Macedonia": ["Macedonia"],
+      }
+    };
+    const result = (altNames[name] || []).concat((altNamesI18n[lang] || {})[name])
+      .filter(n => !!n);
+    return result.length ? result : undefined;
   }
 
   export function fixCapitalName(name: string): string {
@@ -200,20 +211,21 @@ namespace Parsers {
       };
       const getAdjectives = (iso: string) => {
         const mapping = {
-          "GBR": ["englisch"],
+          "GBR": ["englisch", "großbritannisch"],
           "BIH": ["bosnisch", "herzegowinisch"],
           "CHE": ["schweizer"],
           "MKD": ["mazedonisch"],
+          "NLD": ["holländisch"],
         };
         return mapping[iso] || undefined;
       };
       const iso = get(7);
       if (iso) {
-        const name = Helpers.fixCountryName(get(0));
+        const name = Helpers.fixCountryName(get(0), "de");
         data[iso] = {
           name: name,
-          longName: Helpers.fixCountryName(get(1)),
-          altNames: Helpers.getAlternativeNames(name),
+          longName: Helpers.fixCountryName(get(1), "de"),
+          altNames: Helpers.getAlternativeNames(name, "de"),
           capital: Helpers.fixCapitalName(get(2)),
           adjectives: getAdjectives(iso),
         };
@@ -392,12 +404,12 @@ namespace Parsers {
         const mapping = {
           "Macedonia": "North Macedonia",
         };
-        const name = Helpers.fixCountryName(val.name);
+        const name = Helpers.fixCountryName(val.name, "en");
         const mappedName = mapping[name] || name;
         const country: any = data[val.ISO.alpha3] = {
           name: mappedName,
           capital: Helpers.fixCapitalName(val.capital),
-          altNames: Helpers.getAlternativeNames(mappedName),
+          altNames: Helpers.getAlternativeNames(mappedName, "en"),
           longName: nameData.find(n => n.name === mappedName).longName,
         };
         const anthem = anthemData.find((a) => a.name === mappedName);
@@ -465,7 +477,7 @@ namespace Parsers {
           return mapping[val.ISO.alpha3] || undefined;
         };
         const country: any = data[val.ISO.alpha3] = {
-          name: Helpers.fixCountryName(val.translations.fr),
+          name: Helpers.fixCountryName(val.translations.fr, "fr"),
           altNames: getAltNames(),
         };
         const anthem = anthemData.find((a) => a.name === country.name);
