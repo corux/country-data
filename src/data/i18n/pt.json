@@ -1,0 +1,13 @@
+{
+  "countries": {
+  },
+  "regions": {
+    "AF": "África",
+    "AM": "América",
+    "AS": "Ásia",
+    "EU": "Europa",
+    "NA": "América do Norte",
+    "OC": "Oceânia",
+    "SA": "Ámérica do Sul"
+  }
+}

@@ -4,6 +4,7 @@ import { english } from "./en";
 import { spanish } from "./es";
 import { french } from "./fr";
 import { italian } from "./it";
+import { portugese } from "./pt";
 
 export class Parser {
   public async parse(): Promise<{ generic: any, locales: { [key: string]: any } }> {
@@ -18,6 +19,7 @@ export class Parser {
         es: await spanish(isoCodes),
         fr: await french(isoCodes),
         it: await italian(isoCodes),
+        pt: await portugese(isoCodes),
       },
     };
 
