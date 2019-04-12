@@ -821,7 +821,7 @@
         "kasachisch"
       ],
       "anthemName": "Mein Kasachstan",
-      "capital": "Astana",
+      "capital": "Nursultan",
       "longName": "Republik Kasachstan",
       "name": "Kasachstan"
     },
@@ -1345,7 +1345,8 @@
       "name": "Paraguay"
     },
     "PSE": {
-      "capital": "Gaza und Ramallah",
+      "capital": "Ostjerusalem",
+      "longName": "Staat Palästina",
       "name": "Palästina"
     },
     "QAT": {

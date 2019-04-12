@@ -314,7 +314,8 @@
     },
     "CRI": {
       "adjectives": [
-        "costarricense"
+        "costarricense",
+        "Tico"
       ],
       "capital": "San José",
       "name": "Costa Rica"
@@ -1395,7 +1396,9 @@
     "USA": {
       "adjectives": [
         "estadounidense",
-        "americano"
+        "americano",
+        "norteamericano",
+        "estadunidense"
       ],
       "capital": "Washington DC",
       "longName": "los Estados Unidos de América",
