@@ -2,6 +2,7 @@
   "countries": {
     "ABC": {
       "anthemName": "Victoire",
+      "capital": "Soukhoumi",
       "name": "Abkhazie"
     },
     "AFG": {
@@ -9,6 +10,7 @@
         "afghan"
       ],
       "anthemName": "Hymne national",
+      "capital": "Kaboul",
       "name": "Afghanistan"
     },
     "AGO": {
@@ -16,6 +18,7 @@
         "angolais"
       ],
       "anthemName": "En avant, Angola",
+      "capital": "Luanda",
       "name": "Angola"
     },
     "ALB": {
@@ -23,6 +26,7 @@
         "albanais"
       ],
       "anthemName": "L'Hymne au Drapeau",
+      "capital": "Tirana",
       "name": "Albanie"
     },
     "AND": {
@@ -30,6 +34,7 @@
         "andorran"
       ],
       "anthemName": "Le Grand Charlemagne",
+      "capital": "Andorre-la-Vieille",
       "name": "Andorre"
     },
     "ARE": {
@@ -37,6 +42,7 @@
         "émirati"
       ],
       "anthemName": "Vive ma patrie",
+      "capital": "Abou Dabi",
       "name": "Émirats arabes unis"
     },
     "ARG": {
@@ -44,6 +50,7 @@
         "argentin"
       ],
       "anthemName": "Hymne national argentin",
+      "capital": "Buenos Aires",
       "name": "Argentine"
     },
     "ARM": {
@@ -51,6 +58,7 @@
         "arménien"
       ],
       "anthemName": "Notre Patrie",
+      "capital": "Erevan",
       "name": "Arménie"
     },
     "ATG": {
@@ -58,6 +66,7 @@
         "antiguais et barbudiens"
       ],
       "anthemName": "Juste Antigua, nous te saluons",
+      "capital": "Saint John's",
       "name": "Antigua-et-Barbuda"
     },
     "AUS": {
@@ -65,6 +74,7 @@
         "australien"
       ],
       "anthemName": "Avance belle et juste Australie",
+      "capital": "Canberra",
       "name": "Australie"
     },
     "AUT": {
@@ -72,6 +82,7 @@
         "autrichien"
       ],
       "anthemName": "Pays des montagnes, pays sur le fleuve",
+      "capital": "Vienne",
       "name": "Autriche"
     },
     "AZE": {
@@ -79,6 +90,7 @@
         "azerbaïdjanais"
       ],
       "anthemName": "Marche azerbaïdjanaise",
+      "capital": "Bakou",
       "name": "Azerbaïdjan"
     },
     "BDI": {
@@ -86,6 +98,7 @@
         "burundais"
       ],
       "anthemName": "Burundi aimé",
+      "capital": "Bujumbura",
       "name": "Burundi"
     },
     "BEL": {
@@ -93,6 +106,7 @@
         "belge"
       ],
       "anthemName": "La Brabançonne",
+      "capital": "Bruxelles",
       "name": "Belgique"
     },
     "BEN": {
@@ -100,6 +114,7 @@
         "béninois"
       ],
       "anthemName": "L'Aube Nouvelle",
+      "capital": "Porto-Novo",
       "name": "Bénin"
     },
     "BFA": {
@@ -107,6 +122,7 @@
         "burkinabè"
       ],
       "anthemName": "L'Hymne de la Victoire",
+      "capital": "Ouagadougou",
       "name": "Burkina Faso"
     },
     "BGD": {
@@ -114,6 +130,7 @@
         "bangladais"
       ],
       "anthemName": "Mon Bengale doré",
+      "capital": "Dacca",
       "name": "Bangladesh"
     },
     "BGR": {
@@ -121,6 +138,7 @@
         "bulgare"
       ],
       "anthemName": "Chère patrie",
+      "capital": "Sofia",
       "name": "Bulgarie"
     },
     "BHR": {
@@ -128,6 +146,7 @@
         "bahreïni"
       ],
       "anthemName": "Notre Bahreïn",
+      "capital": "Manama",
       "name": "Bahreïn"
     },
     "BHS": {
@@ -135,6 +154,7 @@
         "bahamien"
       ],
       "anthemName": "Marchez, Bahamas",
+      "capital": "Nassau",
       "name": "Bahamas"
     },
     "BIH": {
@@ -142,6 +162,7 @@
         "bosnien"
       ],
       "anthemName": "Intermezzo",
+      "capital": "Sarajevo",
       "name": "Bosnie-Herzégovine"
     },
     "BLR": {
@@ -149,6 +170,7 @@
         "biélorusse"
       ],
       "anthemName": "Nous, Biélorusses",
+      "capital": "Minsk",
       "name": "Biélorussie"
     },
     "BLZ": {
@@ -156,6 +178,7 @@
         "bélizien"
       ],
       "anthemName": "Terre des Libres",
+      "capital": "Belmopan",
       "name": "Belize"
     },
     "BOL": {
@@ -163,6 +186,7 @@
         "bolivien"
       ],
       "anthemName": "Boliviens, le Destin Propice",
+      "capital": "La Paz",
       "name": "Bolivie"
     },
     "BRA": {
@@ -170,6 +194,7 @@
         "brésilien"
       ],
       "anthemName": "Hymne national brésilien",
+      "capital": "Brasilia",
       "name": "Brésil"
     },
     "BRB": {
@@ -177,6 +202,7 @@
         "barbadien"
       ],
       "anthemName": "Dans l'abondance et dans le besoin",
+      "capital": "Bridgetown",
       "name": "Barbade"
     },
     "BRN": {
@@ -184,6 +210,7 @@
         "brunéien"
       ],
       "anthemName": "Dieu bénisse le Sultan",
+      "capital": "Bandar Seri Begawan",
       "name": "Brunei"
     },
     "BTN": {
@@ -191,6 +218,7 @@
         "bhoutanais"
       ],
       "anthemName": "Terre du dragon tonnerre",
+      "capital": "Thimphou",
       "name": "Bhoutan"
     },
     "BWA": {
@@ -198,6 +226,7 @@
         "botswanais"
       ],
       "anthemName": "Béni soit cette patrie noble",
+      "capital": "Gaborone",
       "name": "Botswana"
     },
     "CAF": {
@@ -205,6 +234,7 @@
         "centrafricain"
       ],
       "anthemName": "La Renaissance",
+      "capital": "Bangui",
       "name": "République centrafricaine"
     },
     "CAN": {
@@ -212,6 +242,7 @@
         "canadien"
       ],
       "anthemName": "Ô Canada",
+      "capital": "Ottawa",
       "name": "Canada"
     },
     "CHE": {
@@ -219,6 +250,7 @@
         "suisse"
       ],
       "anthemName": "Cantique suisse",
+      "capital": "Berne",
       "name": "Suisse"
     },
     "CHL": {
@@ -226,6 +258,7 @@
         "chilien"
       ],
       "anthemName": "Hymne national du Chili",
+      "capital": "Santiago",
       "name": "Chili"
     },
     "CHN": {
@@ -233,6 +266,8 @@
         "chinois"
       ],
       "anthemName": "La Marche des Volontaires",
+      "capital": "Pékin",
+      "longName": "République populaire de Chine",
       "name": "Chine"
     },
     "CIV": {
@@ -240,6 +275,7 @@
         "ivoirien"
       ],
       "anthemName": "L'Abidjanaise",
+      "capital": "Yamoussoukro",
       "name": "Côte d'Ivoire"
     },
     "CMR": {
@@ -247,24 +283,35 @@
         "camerounais"
       ],
       "anthemName": "Chant de Ralliement",
+      "capital": "Yaoundé",
       "name": "Cameroun"
     },
     "COD": {
       "adjectives": [
         "congolais"
       ],
+      "altNames": [
+        "Congo-Kinshasa"
+      ],
       "anthemName": "Debout Congolais",
+      "capital": "Kinshasa",
       "name": "République démocratique du Congo"
     },
     "COG": {
       "adjectives": [
         "congolais"
       ],
+      "altNames": [
+        "Congo",
+        "Congo-Brazzaville"
+      ],
       "anthemName": "La Congolaise",
-      "name": "Congo"
+      "capital": "Brazzaville",
+      "name": "République du Congo"
     },
     "COK": {
       "anthemName": "Dieu est la vérité",
+      "capital": "Avarua",
       "name": "Îles Cook"
     },
     "COL": {
@@ -272,6 +319,7 @@
         "colombien"
       ],
       "anthemName": "Hymne national de la Colombie",
+      "capital": "Bogota",
       "name": "Colombie"
     },
     "COM": {
@@ -279,6 +327,7 @@
         "comorien"
       ],
       "anthemName": "L'Union des îles",
+      "capital": "Moroni",
       "name": "Comores"
     },
     "CPV": {
@@ -286,6 +335,7 @@
         "capverdien"
       ],
       "anthemName": "Chant de la Liberté",
+      "capital": "Praia",
       "name": "Cap-Vert"
     },
     "CRI": {
@@ -293,6 +343,7 @@
         "costaricien"
       ],
       "anthemName": "Noble patrie, ton beau drapeau",
+      "capital": "San José",
       "name": "Costa Rica"
     },
     "CUB": {
@@ -300,6 +351,7 @@
         "cubain"
       ],
       "anthemName": "La Bayamaise",
+      "capital": "La Havane",
       "name": "Cuba"
     },
     "CYP": {
@@ -307,6 +359,8 @@
         "chypriote"
       ],
       "anthemName": "Hymne à la Liberté",
+      "capital": "Nicosie",
+      "longName": "Île de Chypre",
       "name": "Chypre"
     },
     "CZE": {
@@ -314,6 +368,7 @@
         "tchèque"
       ],
       "anthemName": "Où est ma patrie?",
+      "capital": "Prague",
       "name": "République tchèque"
     },
     "DEU": {
@@ -321,6 +376,7 @@
         "allemand"
       ],
       "anthemName": "Le Chant des Allemands",
+      "capital": "Berlin",
       "name": "Allemagne"
     },
     "DJI": {
@@ -328,6 +384,7 @@
         "djiboutien"
       ],
       "anthemName": "Djibouti",
+      "capital": "Djibouti",
       "name": "Djibouti"
     },
     "DMA": {
@@ -335,6 +392,7 @@
         "dominiquais"
       ],
       "anthemName": "Ile de Beauté, Ile de Splendeur",
+      "capital": "Roseau",
       "name": "Dominique"
     },
     "DNK": {
@@ -342,6 +400,7 @@
         "danois"
       ],
       "anthemName": "Il y a un pays charmant",
+      "capital": "Copenhague",
       "name": "Danemark"
     },
     "DOM": {
@@ -349,6 +408,7 @@
         "dominicain"
       ],
       "anthemName": "La République",
+      "capital": "Saint-Domingue",
       "name": "République dominicaine"
     },
     "DZA": {
@@ -356,6 +416,7 @@
         "algérien"
       ],
       "anthemName": "Le Serment",
+      "capital": "Alger",
       "name": "Algérie"
     },
     "ECU": {
@@ -363,6 +424,7 @@
         "équatorien"
       ],
       "anthemName": "Nous te saluons, Oh Patrie",
+      "capital": "Quito",
       "name": "Équateur"
     },
     "EGY": {
@@ -370,6 +432,7 @@
         "égyptien"
       ],
       "anthemName": "Ma patrie, ma patrie, ma patrie",
+      "capital": "Le Caire",
       "name": "Égypte"
     },
     "ERI": {
@@ -377,6 +440,7 @@
         "érythréen"
       ],
       "anthemName": "Érythrée, Érythrée, Érythrée",
+      "capital": "Asmara",
       "name": "Érythrée"
     },
     "ESH": {
@@ -387,6 +451,7 @@
         "espagnol"
       ],
       "anthemName": "La  Marche Royale",
+      "capital": "Madrid",
       "name": "Espagne"
     },
     "EST": {
@@ -394,6 +459,7 @@
         "estonien"
       ],
       "anthemName": "Ma patrie, mon bonheur et ma joie",
+      "capital": "Tallinn",
       "name": "Estonie"
     },
     "ETH": {
@@ -401,6 +467,7 @@
         "éthiopien"
       ],
       "anthemName": "Marche vers l'avant, chère Mère Éthiopie",
+      "capital": "Addis-Abeba",
       "name": "Éthiopie"
     },
     "FIN": {
@@ -408,6 +475,7 @@
         "finlandais"
       ],
       "anthemName": "Notre Pays",
+      "capital": "Helsinki",
       "name": "Finlande"
     },
     "FJI": {
@@ -415,6 +483,7 @@
         "fidjien"
       ],
       "anthemName": "Dieu Bénisse les Fidji",
+      "capital": "Suva",
       "name": "Fidji"
     },
     "FRA": {
@@ -422,6 +491,7 @@
         "français"
       ],
       "anthemName": "La Marseillaise",
+      "capital": "Paris",
       "name": "France"
     },
     "FSM": {
@@ -429,6 +499,8 @@
         "micronésien"
       ],
       "anthemName": "Patriotes de Micronésie",
+      "capital": "Palikir",
+      "longName": "États fédérés de Micronésie",
       "name": "Micronésie"
     },
     "GAB": {
@@ -436,6 +508,7 @@
         "gabonais"
       ],
       "anthemName": "La Concorde",
+      "capital": "Libreville",
       "name": "Gabon"
     },
     "GBR": {
@@ -448,6 +521,7 @@
         "Grande Bretagne"
       ],
       "anthemName": "Que Dieu sauve la Reine",
+      "capital": "Londres",
       "name": "Royaume-Uni"
     },
     "GEO": {
@@ -455,6 +529,7 @@
         "géorgien"
       ],
       "anthemName": "Liberté",
+      "capital": "Tbilissi",
       "name": "Géorgie"
     },
     "GHA": {
@@ -462,6 +537,7 @@
         "ghanéen"
       ],
       "anthemName": "Dieu Bénisse Notre Patrie le Ghana",
+      "capital": "Accra",
       "name": "Ghana"
     },
     "GIN": {
@@ -469,6 +545,7 @@
         "guinéen"
       ],
       "anthemName": "Liberté",
+      "capital": "Conakry",
       "name": "Guinée"
     },
     "GMB": {
@@ -476,6 +553,7 @@
         "gambien"
       ],
       "anthemName": "Pour la Gambie Notre Patrie",
+      "capital": "Banjul",
       "name": "Gambie"
     },
     "GNB": {
@@ -483,6 +561,7 @@
         "bissau-guinéen"
       ],
       "anthemName": "C'est à notre patrie bien-aimée",
+      "capital": "Bissau",
       "name": "Guinée-Bissau"
     },
     "GNQ": {
@@ -490,6 +569,7 @@
         "équatoguinéen"
       ],
       "anthemName": "Marchons en foulant le chemin de notre immense joie",
+      "capital": "Malabo",
       "name": "Guinée équatoriale"
     },
     "GRC": {
@@ -497,6 +577,7 @@
         "grec"
       ],
       "anthemName": "Hymne à la Liberté",
+      "capital": "Athènes",
       "name": "Grèce"
     },
     "GRD": {
@@ -504,6 +585,7 @@
         "grenadien"
       ],
       "anthemName": "Je vous salue Grenade",
+      "capital": "Saint-Georges",
       "name": "Grenade"
     },
     "GTM": {
@@ -511,6 +593,7 @@
         "guatémaltèque"
       ],
       "anthemName": "Le Guatemala heureux",
+      "capital": "Guatemala",
       "name": "Guatemala"
     },
     "GUY": {
@@ -518,6 +601,7 @@
         "guyanien"
       ],
       "anthemName": "Chère Pays de Guyana, de Rivières et de Palmiers",
+      "capital": "Georgetown",
       "name": "Guyana"
     },
     "HND": {
@@ -525,6 +609,7 @@
         "hondurien"
       ],
       "anthemName": "Ton drapeau est une splendeur au ciel",
+      "capital": "Tegucigalpa",
       "name": "Honduras"
     },
     "HRV": {
@@ -532,6 +617,7 @@
         "croate"
       ],
       "anthemName": "Toi, notre belle patrie",
+      "capital": "Zagreb",
       "name": "Croatie"
     },
     "HTI": {
@@ -539,6 +625,7 @@
         "haïtien"
       ],
       "anthemName": "La Dessalinienne",
+      "capital": "Port-au-Prince",
       "name": "Haïti"
     },
     "HUN": {
@@ -546,6 +633,7 @@
         "hongrois"
       ],
       "anthemName": "Dieu, bénis les Hongrois",
+      "capital": "Budapest",
       "name": "Hongrie"
     },
     "IDN": {
@@ -553,6 +641,7 @@
         "indonésien"
       ],
       "anthemName": "Grande Indonésie",
+      "capital": "Jakarta",
       "name": "Indonésie"
     },
     "IND": {
@@ -560,6 +649,7 @@
         "indien"
       ],
       "anthemName": "Tu es le souverain de toutes les âmes",
+      "capital": "New Delhi",
       "name": "Inde"
     },
     "IRL": {
@@ -567,6 +657,7 @@
         "irlandais"
       ],
       "anthemName": "La chanson du soldat",
+      "capital": "Dublin",
       "name": "Irlande"
     },
     "IRN": {
@@ -574,6 +665,7 @@
         "iranien"
       ],
       "anthemName": "Hymne de la république islamique",
+      "capital": "Téhéran",
       "name": "Iran"
     },
     "IRQ": {
@@ -581,6 +673,7 @@
         "irakien"
       ],
       "anthemName": "Ma patrie",
+      "capital": "Bagdad",
       "name": "Irak"
     },
     "ISL": {
@@ -588,6 +681,7 @@
         "islandais"
       ],
       "anthemName": "Chanson de gloire",
+      "capital": "Reykjavik",
       "name": "Islande"
     },
     "ISR": {
@@ -595,6 +689,7 @@
         "israélien"
       ],
       "anthemName": "L'Espoir",
+      "capital": "Jérusalem",
       "name": "Israël"
     },
     "ITA": {
@@ -602,6 +697,7 @@
         "italien"
       ],
       "anthemName": "Frères d'Italie",
+      "capital": "Rome",
       "name": "Italie"
     },
     "JAM": {
@@ -609,6 +705,7 @@
         "jamaïcain"
       ],
       "anthemName": "Jamaïque, terre que nous aimons",
+      "capital": "Kingston",
       "name": "Jamaïque"
     },
     "JOR": {
@@ -616,6 +713,7 @@
         "jordanien"
       ],
       "anthemName": "Longue vie au roi !",
+      "capital": "Amman",
       "name": "Jordanie"
     },
     "JPN": {
@@ -623,6 +721,7 @@
         "japonais"
       ],
       "anthemName": "Votre règne",
+      "capital": "Tokyo",
       "name": "Japon"
     },
     "KAZ": {
@@ -630,6 +729,7 @@
         "kazakh"
       ],
       "anthemName": "Mon Kazakhstan",
+      "capital": "Noursoultan",
       "name": "Kazakhstan"
     },
     "KEN": {
@@ -637,6 +737,7 @@
         "kényan"
       ],
       "anthemName": "Ô Dieu de toute la création",
+      "capital": "Nairobi",
       "name": "Kenya"
     },
     "KGZ": {
@@ -644,6 +745,7 @@
         "kirghiz'e"
       ],
       "anthemName": "Hymne national de la République kirghize",
+      "capital": "Bichkek",
       "name": "Kirghizistan"
     },
     "KHM": {
@@ -651,6 +753,7 @@
         "cambodgien"
       ],
       "anthemName": "Majestueux Royaume",
+      "capital": "Phnom Penh",
       "name": "Cambodge"
     },
     "KIR": {
@@ -658,6 +761,7 @@
         "gilbertin"
       ],
       "anthemName": "Debout Kiribati",
+      "capital": "Tarawa-Sud",
       "name": "Kiribati"
     },
     "KNA": {
@@ -665,6 +769,7 @@
         "kittitiens et néviciens"
       ],
       "anthemName": "Oh, Pays de Beauté",
+      "capital": "Basseterre",
       "name": "Saint-Christophe-et-Niévès"
     },
     "KOR": {
@@ -672,6 +777,7 @@
         "sud-coréen"
       ],
       "anthemName": "Chanson de l'amour pour le Pays",
+      "capital": "Séoul",
       "name": "Corée du Sud"
     },
     "KWT": {
@@ -679,6 +785,7 @@
         "koweïtien"
       ],
       "anthemName": "Hymne national",
+      "capital": "Koweït",
       "name": "Koweït"
     },
     "LAO": {
@@ -686,6 +793,7 @@
         "laotien"
       ],
       "anthemName": "Hymne aux gens du Laos",
+      "capital": "Vientiane",
       "name": "Laos"
     },
     "LBN": {
@@ -693,6 +801,7 @@
         "libanais"
       ],
       "anthemName": "Tous ! Pour notre pays, notre drapeau et notre gloire",
+      "capital": "Beyrouth",
       "name": "Liban"
     },
     "LBR": {
@@ -700,6 +809,7 @@
         "liberia"
       ],
       "anthemName": "Tous Salut, Salut Liberia",
+      "capital": "Monrovia",
       "name": "Liberia"
     },
     "LBY": {
@@ -707,6 +817,7 @@
         "libyen"
       ],
       "anthemName": "Libye, Libye, Libye",
+      "capital": "Tripoli",
       "name": "Libye"
     },
     "LCA": {
@@ -714,6 +825,7 @@
         "saint-lucien"
       ],
       "anthemName": "Fils et Filles de Sainte-Lucie",
+      "capital": "Castries",
       "name": "Sainte-Lucie"
     },
     "LIE": {
@@ -721,6 +833,7 @@
         "liechtensteinois"
       ],
       "anthemName": "Haut au-dessus du jeune Rhin",
+      "capital": "Vaduz",
       "name": "Liechtenstein"
     },
     "LKA": {
@@ -728,6 +841,7 @@
         "srilankais"
       ],
       "anthemName": "Mère Sri Lanka",
+      "capital": "Sri Jayawardenapura",
       "name": "Sri Lanka"
     },
     "LSO": {
@@ -735,6 +849,7 @@
         "sotho"
       ],
       "anthemName": "Lesotho, pays de nos ancêtres",
+      "capital": "Maseru",
       "name": "Lesotho"
     },
     "LTU": {
@@ -742,6 +857,7 @@
         "lituanien"
       ],
       "anthemName": "Chanson nationale",
+      "capital": "Vilnius",
       "name": "Lituanie"
     },
     "LUX": {
@@ -749,6 +865,7 @@
         "luxembourgeois"
       ],
       "anthemName": "Notre mère-patrie",
+      "capital": "Luxembourg",
       "name": "Luxembourg"
     },
     "LVA": {
@@ -756,6 +873,7 @@
         "letton"
       ],
       "anthemName": "Dieu honore la Lettonie",
+      "capital": "Riga",
       "name": "Lettonie"
     },
     "MAR": {
@@ -763,6 +881,7 @@
         "marocain"
       ],
       "anthemName": "Hymne national",
+      "capital": "Rabat",
       "name": "Maroc"
     },
     "MCO": {
@@ -770,6 +889,7 @@
         "monégasque"
       ],
       "anthemName": "Hymne monégasque",
+      "capital": "Monaco",
       "name": "Monaco"
     },
     "MDA": {
@@ -777,6 +897,8 @@
         "moldave"
       ],
       "anthemName": "Notre langue",
+      "capital": "Chisinau",
+      "longName": "République de Moldavie",
       "name": "Moldavie"
     },
     "MDG": {
@@ -784,6 +906,7 @@
         "malgache"
       ],
       "anthemName": "Ô, Notre chère patrie",
+      "capital": "Antananarivo",
       "name": "Madagascar"
     },
     "MDV": {
@@ -791,6 +914,7 @@
         "maldivien"
       ],
       "anthemName": "Dans l'Unité nationale, nous saluons notre nation",
+      "capital": "Malé",
       "name": "Maldives"
     },
     "MEX": {
@@ -798,6 +922,7 @@
         "mexicain"
       ],
       "anthemName": "Hymne national mexicain",
+      "capital": "Mexico",
       "name": "Mexique"
     },
     "MHL": {
@@ -805,6 +930,7 @@
         "marshallais"
       ],
       "anthemName": "Îles Marshall pour toujours",
+      "capital": "Delap-Uliga-Darrit",
       "name": "Îles Marshall"
     },
     "MKD": {
@@ -816,6 +942,7 @@
         "Macédoine"
       ],
       "anthemName": "Le Soleil sur la Macédoine",
+      "capital": "Skopje",
       "name": "Macédoine du Nord"
     },
     "MLI": {
@@ -823,6 +950,7 @@
         "malien"
       ],
       "anthemName": "Pour l'Afrique et pour toi, Mali",
+      "capital": "Bamako",
       "name": "Mali"
     },
     "MLT": {
@@ -830,6 +958,7 @@
         "maltais"
       ],
       "anthemName": "L'Hymne maltais",
+      "capital": "La Valette",
       "name": "Malte"
     },
     "MMR": {
@@ -840,6 +969,7 @@
         "Myanmar"
       ],
       "anthemName": "Nous aimerons la Birmanie",
+      "capital": "Naypyidaw",
       "name": "Birmanie"
     },
     "MNE": {
@@ -847,6 +977,7 @@
         "monténégrin"
       ],
       "anthemName": "Ô brillante aube de Mai",
+      "capital": "Podgorica",
       "name": "Monténégro"
     },
     "MNG": {
@@ -854,6 +985,7 @@
         "mongol"
       ],
       "anthemName": "Hymne mongol",
+      "capital": "Oulan-Bator",
       "name": "Mongolie"
     },
     "MOZ": {
@@ -861,6 +993,7 @@
         "mozambicain"
       ],
       "anthemName": "Patrie aimée",
+      "capital": "Maputo",
       "name": "Mozambique"
     },
     "MRT": {
@@ -868,6 +1001,7 @@
         "mauritanien"
       ],
       "anthemName": "Chant religieux national",
+      "capital": "Nouakchott",
       "name": "Mauritanie"
     },
     "MUS": {
@@ -875,6 +1009,7 @@
         "mauricien"
       ],
       "anthemName": "Mère Patrie",
+      "capital": "Port-Louis",
       "name": "Maurice"
     },
     "MWI": {
@@ -882,6 +1017,7 @@
         "malawite"
       ],
       "anthemName": "Ô Dieu honore notre pays le Malawi",
+      "capital": "Lilongwe",
       "name": "Malawi"
     },
     "MYS": {
@@ -889,6 +1025,7 @@
         "malaisien"
       ],
       "anthemName": "Mon Pays",
+      "capital": "Kuala Lumpur",
       "name": "Malaisie"
     },
     "NAM": {
@@ -896,6 +1033,7 @@
         "namibien"
       ],
       "anthemName": "Namibie, pays des courageux",
+      "capital": "Windhoek",
       "name": "Namibie"
     },
     "NER": {
@@ -903,6 +1041,7 @@
         "nigérien"
       ],
       "anthemName": "La Nigérienne",
+      "capital": "Niamey",
       "name": "Niger"
     },
     "NGA": {
@@ -910,6 +1049,7 @@
         "nigérian"
       ],
       "anthemName": "Levez-vous Oh Compatriotes, Obéissez à l'appel du Nigeria",
+      "capital": "Abuja",
       "name": "Nigeria"
     },
     "NIC": {
@@ -917,6 +1057,7 @@
         "nicaraguayen"
       ],
       "anthemName": "Salut à toi, Nicaragua",
+      "capital": "Managua",
       "name": "Nicaragua"
     },
     "NIU": {
@@ -924,6 +1065,7 @@
         "niouéen"
       ],
       "anthemName": "Le seigneur du Paradis",
+      "capital": "Alofi",
       "name": "Niue"
     },
     "NLD": {
@@ -931,6 +1073,7 @@
         "néerlandais"
       ],
       "anthemName": "Guillaume de Nassau",
+      "capital": "Amsterdam",
       "name": "Pays-Bas"
     },
     "NOR": {
@@ -938,6 +1081,7 @@
         "norvégien"
       ],
       "anthemName": "Oui, nous aimons ce pays",
+      "capital": "Oslo",
       "name": "Norvège"
     },
     "NPL": {
@@ -945,6 +1089,7 @@
         "népalais"
       ],
       "anthemName": "Les cent fleurs",
+      "capital": "Katmandou",
       "name": "Népal"
     },
     "NRU": {
@@ -952,6 +1097,7 @@
         "nauruan"
       ],
       "anthemName": "Nauru Notre patrie",
+      "capital": "Yaren",
       "name": "Nauru"
     },
     "NZL": {
@@ -959,6 +1105,7 @@
         "néo-zélandais"
       ],
       "anthemName": "Dieu Défende la Nouvelle-Zélande",
+      "capital": "Wellington",
       "name": "Nouvelle-Zélande"
     },
     "OMN": {
@@ -966,6 +1113,7 @@
         "omani"
       ],
       "anthemName": "Hymne du sultan",
+      "capital": "Mascate",
       "name": "Oman"
     },
     "PAK": {
@@ -973,6 +1121,7 @@
         "pakistanais"
       ],
       "anthemName": "Honorée soit cette terre sacrée",
+      "capital": "Islamabad",
       "name": "Pakistan"
     },
     "PAN": {
@@ -980,6 +1129,7 @@
         "panaméen"
       ],
       "anthemName": "Hymne de l'Isthme",
+      "capital": "Panama",
       "name": "Panama"
     },
     "PER": {
@@ -987,6 +1137,7 @@
         "péruvien"
       ],
       "anthemName": "Nous sommes libres, restons-le à jamais",
+      "capital": "Lima",
       "name": "Pérou"
     },
     "PHL": {
@@ -994,6 +1145,7 @@
         "philippin"
       ],
       "anthemName": "Pays choisi",
+      "capital": "Manille",
       "name": "Philippines"
     },
     "PLW": {
@@ -1001,6 +1153,7 @@
         "palauan"
       ],
       "anthemName": "Nos Palaos",
+      "capital": "Melekeok",
       "name": "Palaos"
     },
     "PNG": {
@@ -1008,6 +1161,7 @@
         "papouasien"
       ],
       "anthemName": "Ô manifestez, tous vous enfants de ce pays",
+      "capital": "Port Moresby",
       "name": "Papouasie-Nouvelle-Guinée"
     },
     "POL": {
@@ -1015,6 +1169,7 @@
         "polonais"
       ],
       "anthemName": "La Mazurka de Dąbrowski",
+      "capital": "Varsovie",
       "name": "Pologne"
     },
     "PRK": {
@@ -1022,6 +1177,7 @@
         "nord-coréen"
       ],
       "anthemName": "Chant patriotique",
+      "capital": "Pyongyang",
       "name": "Corée du Nord"
     },
     "PRT": {
@@ -1029,6 +1185,7 @@
         "portugais"
       ],
       "anthemName": "La Portugaise",
+      "capital": "Lisbonne",
       "name": "Portugal"
     },
     "PRY": {
@@ -1036,6 +1193,7 @@
         "paraguayen"
       ],
       "anthemName": "Paraguayos, la République ou mourir",
+      "capital": "Asuncion",
       "name": "Paraguay"
     },
     "PSE": {
@@ -1043,6 +1201,7 @@
         "palestinien"
       ],
       "anthemName": "Ma patrie, ma patrie",
+      "capital": "Jérusalem-Est",
       "name": "Palestine"
     },
     "QAT": {
@@ -1050,6 +1209,7 @@
         "qatari"
       ],
       "anthemName": "Vive l'Émir !",
+      "capital": "Doha",
       "name": "Qatar"
     },
     "ROU": {
@@ -1057,6 +1217,7 @@
         "roumain"
       ],
       "anthemName": "Réveille-toi, Roumain",
+      "capital": "Bucarest",
       "name": "Roumanie"
     },
     "RUS": {
@@ -1064,6 +1225,7 @@
         "russe"
       ],
       "anthemName": "Hymne national de la Russie",
+      "capital": "Moscou",
       "name": "Russie"
     },
     "RWA": {
@@ -1071,6 +1233,7 @@
         "rwandais"
       ],
       "anthemName": "Beau Rwanda",
+      "capital": "Kigali",
       "name": "Rwanda"
     },
     "SAU": {
@@ -1078,6 +1241,7 @@
         "saoudien"
       ],
       "anthemName": "Le salut royal",
+      "capital": "Riyad",
       "name": "Arabie saoudite"
     },
     "SDN": {
@@ -1085,6 +1249,7 @@
         "soudanais"
       ],
       "anthemName": "Nous sommes l'armée de Dieu et de notre terre",
+      "capital": "Khartoum",
       "name": "Soudan"
     },
     "SEN": {
@@ -1092,6 +1257,7 @@
         "sénégalais"
       ],
       "anthemName": "Le Lion Rouge",
+      "capital": "Dakar",
       "name": "Sénégal"
     },
     "SGP": {
@@ -1099,13 +1265,18 @@
         "singapourien"
       ],
       "anthemName": "Puisse Singapour progresser",
+      "capital": "Singapour",
       "name": "Singapour"
     },
     "SLB": {
       "adjectives": [
         "salomonais"
       ],
+      "altNames": [
+        "Salomon"
+      ],
       "anthemName": "Dieu Sauve nos Iles Salomon",
+      "capital": "Honiara",
       "name": "Îles Salomon"
     },
     "SLE": {
@@ -1113,6 +1284,7 @@
         "sierra-léonais"
       ],
       "anthemName": "Nous T'exaltons Grandement, Royaume de la Liberté",
+      "capital": "Freetown",
       "name": "Sierra Leone"
     },
     "SLV": {
@@ -1120,6 +1292,7 @@
         "salvadorien"
       ],
       "anthemName": "Hymne National du Salvador",
+      "capital": "San Salvador",
       "name": "Salvador"
     },
     "SMR": {
@@ -1127,6 +1300,7 @@
         "saint-marinais"
       ],
       "anthemName": "Hymne national de la république",
+      "capital": "Saint-Marin",
       "name": "Saint-Marin"
     },
     "SOM": {
@@ -1134,10 +1308,12 @@
         "somalien"
       ],
       "anthemName": "Réveille-toi, Somalie",
+      "capital": "Mogadiscio",
       "name": "Somalie"
     },
     "SOS": {
       "anthemName": "Hymne national de l'Ossétie du Sud",
+      "capital": "Tskhinvali",
       "name": "Ossétie du Sud"
     },
     "SRB": {
@@ -1145,6 +1321,7 @@
         "serbe"
       ],
       "anthemName": "Dieu donne Justice",
+      "capital": "Belgrade",
       "name": "Serbie"
     },
     "SSD": {
@@ -1152,6 +1329,7 @@
         "sud-soudanais"
       ],
       "anthemName": "Soudan du Sud Hourra!",
+      "capital": "Djouba",
       "name": "Soudan du Sud"
     },
     "STP": {
@@ -1159,6 +1337,7 @@
         "santoméen"
       ],
       "anthemName": "Indépendance totale",
+      "capital": "São Tomé",
       "name": "Sao Tomé-et-Principe"
     },
     "SUR": {
@@ -1166,6 +1345,7 @@
         "surinamais"
       ],
       "anthemName": "Dieu soit avec le Suriname",
+      "capital": "Paramaribo",
       "name": "Suriname"
     },
     "SVK": {
@@ -1173,6 +1353,7 @@
         "slovaque"
       ],
       "anthemName": "Tempête sur les Tatras",
+      "capital": "Bratislava",
       "name": "Slovaquie"
     },
     "SVN": {
@@ -1180,6 +1361,7 @@
         "slovène"
       ],
       "anthemName": "Santé !",
+      "capital": "Ljubljana",
       "name": "Slovénie"
     },
     "SWE": {
@@ -1187,20 +1369,26 @@
         "suédois"
       ],
       "anthemName": "Toi l'antique, toi le libre",
+      "capital": "Stockholm",
       "name": "Suède"
     },
     "SWZ": {
       "adjectives": [
         "swazi"
       ],
+      "altNames": [
+        "Swaziland"
+      ],
       "anthemName": "Oh Seigneur notre Dieu, ordonnateur des bénédictions des Swazis",
-      "name": "Swaziland"
+      "capital": "Mbabane",
+      "name": "Eswatini"
     },
     "SYC": {
       "adjectives": [
         "seychellois"
       ],
       "anthemName": "Joignez, tous Seychellois",
+      "capital": "Victoria",
       "name": "Seychelles"
     },
     "SYR": {
@@ -1208,6 +1396,7 @@
         "syrien"
       ],
       "anthemName": "Gardiens de la Patrie",
+      "capital": "Damas",
       "name": "Syrie"
     },
     "TCD": {
@@ -1215,6 +1404,7 @@
         "tchadien"
       ],
       "anthemName": "La Tchadienne",
+      "capital": "N'Djaména",
       "name": "Tchad"
     },
     "TGO": {
@@ -1222,6 +1412,7 @@
         "togolais"
       ],
       "anthemName": "Terre de nos aïeux",
+      "capital": "Lomé",
       "name": "Togo"
     },
     "THA": {
@@ -1229,6 +1420,7 @@
         "thaïlandais"
       ],
       "anthemName": "Hymne national",
+      "capital": "Bangkok",
       "name": "Thaïlande"
     },
     "TJK": {
@@ -1236,6 +1428,7 @@
         "tadjik"
       ],
       "anthemName": "Hymne national",
+      "capital": "Douchanbé",
       "name": "Tadjikistan"
     },
     "TKM": {
@@ -1243,6 +1436,7 @@
         "turkmène"
       ],
       "anthemName": "Hymne national turkmène",
+      "capital": "Achgabat",
       "name": "Turkménistan"
     },
     "TLS": {
@@ -1250,6 +1444,7 @@
         "est-timorais"
       ],
       "anthemName": "Patrie",
+      "capital": "Dili",
       "name": "Timor oriental"
     },
     "TON": {
@@ -1257,6 +1452,7 @@
         "tonguien"
       ],
       "anthemName": "Chanson du Roi des îles Tonga",
+      "capital": "Nuku'alofa",
       "name": "Tonga"
     },
     "TTO": {
@@ -1264,6 +1460,7 @@
         "trinidadien"
       ],
       "anthemName": "Forgé de l'amour de la liberté",
+      "capital": "Port-d'Espagne",
       "name": "Trinité-et-Tobago"
     },
     "TUN": {
@@ -1271,6 +1468,7 @@
         "tunisien"
       ],
       "anthemName": "Défenseurs de la patrie",
+      "capital": "Tunis",
       "name": "Tunisie"
     },
     "TUR": {
@@ -1278,6 +1476,7 @@
         "turc"
       ],
       "anthemName": "La Marche de l'Indépendance",
+      "capital": "Ankara",
       "name": "Turquie"
     },
     "TUV": {
@@ -1285,6 +1484,7 @@
         "tuvaluan"
       ],
       "anthemName": "Les Tuvalu avec Dieu",
+      "capital": "Funafuti",
       "name": "Tuvalu"
     },
     "TWN": {
@@ -1292,6 +1492,7 @@
         "taïwanais"
       ],
       "anthemName": "Les Trois principes du peuple",
+      "capital": "Taipei",
       "name": "Taïwan"
     },
     "TZA": {
@@ -1299,6 +1500,7 @@
         "tanzanien"
       ],
       "anthemName": "Dieu honore l'Afrique",
+      "capital": "Dar es Salam",
       "name": "Tanzanie"
     },
     "UGA": {
@@ -1306,6 +1508,7 @@
         "ougandais"
       ],
       "anthemName": "Ô Ouganda, pays de beauté",
+      "capital": "Kampala",
       "name": "Ouganda"
     },
     "UKR": {
@@ -1313,6 +1516,7 @@
         "ukrainien"
       ],
       "anthemName": "L'Ukraine n'est pas encore morte",
+      "capital": "Kiev",
       "name": "Ukraine"
     },
     "URY": {
@@ -1320,6 +1524,7 @@
         "uruguayen"
       ],
       "anthemName": "Uruguayens, la Patrie ou la Mort !",
+      "capital": "Montevideo",
       "name": "Uruguay"
     },
     "USA": {
@@ -1327,6 +1532,7 @@
         "américain"
       ],
       "anthemName": "La Bannière étoilée",
+      "capital": "Washington D.C.",
       "name": "États-Unis"
     },
     "UZB": {
@@ -1334,6 +1540,7 @@
         "ouzbek"
       ],
       "anthemName": "Hymne national de l'Ouzbékistan",
+      "capital": "Tachkent",
       "name": "Ouzbékistan"
     },
     "VAT": {
@@ -1341,6 +1548,7 @@
         "vaticane"
       ],
       "anthemName": "Hymne et Marche Pontificaux",
+      "capital": "Cité du Vatican",
       "name": "Vatican"
     },
     "VCT": {
@@ -1348,6 +1556,7 @@
         "saint-vincentais et grenadins"
       ],
       "anthemName": "Saint-Vincent, Pays si Beau",
+      "capital": "Kingstown",
       "name": "Saint-Vincent-et-les-Grenadines"
     },
     "VEN": {
@@ -1355,6 +1564,7 @@
         "vénézuélien"
       ],
       "anthemName": "Gloire au peuple brave",
+      "capital": "Caracas",
       "name": "Venezuela"
     },
     "VNM": {
@@ -1362,6 +1572,7 @@
         "vietnamien"
       ],
       "anthemName": "Les troupes avancent",
+      "capital": "Hanoï",
       "name": "Viêt Nam"
     },
     "VUT": {
@@ -1369,6 +1580,7 @@
         "vanuatuan"
       ],
       "anthemName": "Nous, nous, nous",
+      "capital": "Port-Vila",
       "name": "Vanuatu"
     },
     "WSM": {
@@ -1376,6 +1588,7 @@
         "samoan"
       ],
       "anthemName": "La Bannière de la Liberté",
+      "capital": "Apia",
       "name": "Samoa"
     },
     "XXK": {
@@ -1383,6 +1596,7 @@
         "pristinais"
       ],
       "anthemName": "Europe",
+      "capital": "Pristina",
       "name": "Kosovo"
     },
     "YEM": {
@@ -1390,6 +1604,7 @@
         "yéménite"
       ],
       "anthemName": "République unie",
+      "capital": "Sanaa",
       "name": "Yémen"
     },
     "ZAF": {
@@ -1397,6 +1612,7 @@
         "sud-africain"
       ],
       "anthemName": "Dieu sauve l'Afrique/L'Appel de l'Afrique du Sud",
+      "capital": "Bloemfontein",
       "name": "Afrique du Sud"
     },
     "ZMB": {
@@ -1404,6 +1620,7 @@
         "zambien"
       ],
       "anthemName": "Levez et chantez de la Zambie, fière et libre",
+      "capital": "Lusaka",
       "name": "Zambie"
     },
     "ZWE": {
@@ -1411,6 +1628,7 @@
         "zimbabwéen"
       ],
       "anthemName": "Montez haut le drapeau de Zimbabwe",
+      "capital": "Harare",
       "name": "Zimbabwe"
     }
   },
