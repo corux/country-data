@@ -1,10 +1,4 @@
-import { generic } from ".";
-import { german } from "./de";
-import { english } from "./en";
-import { spanish } from "./es";
-import { french } from "./fr";
-import { italian } from "./it";
-import { portugese } from "./pt";
+import { english, french, generic, german, italian, portugese, spanish } from ".";
 
 export class Parser {
   public async parse(): Promise<{ generic: any, locales: { [key: string]: any } }> {
@@ -23,16 +17,21 @@ export class Parser {
       },
     };
 
-    // move data from country specific to generic
+    // post-process locale data
     Object.keys(result.locales).sort().forEach((lang) => {
       const locale = result.locales[lang];
       Object.keys(locale).forEach((iso) => {
+        // move data from country specific to generic
         const genericCountry = genericData.find((val) => val.iso3 === iso);
         if (genericCountry && locale[iso].anthemUrl) {
           genericCountry.anthem = locale[iso].anthemUrl;
         }
 
         delete locale[iso].anthemUrl;
+
+        // cleanup duplicates
+        locale[iso].adjectives = this.distinct(locale[iso].adjectives);
+        locale[iso].altNames = this.distinct(locale[iso].altNames);
       });
     });
 
@@ -44,5 +43,12 @@ export class Parser {
     });
 
     return result;
+  }
+
+  private distinct<T>(array: T[]): T[] {
+    if (array && array.length) {
+      return Array.from(new Set(array.map((item: any) => item))).sort((a, b) => a.localeCompare(b));
+    }
+    return undefined;
   }
 }

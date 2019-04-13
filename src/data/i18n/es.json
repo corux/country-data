@@ -298,8 +298,8 @@
     },
     "COM": {
       "adjectives": [
-        "comorense",
-        "comorano"
+        "comorano",
+        "comorense"
       ],
       "capital": "Moroni",
       "longName": "las Comoras",
@@ -513,8 +513,8 @@
     },
     "GNB": {
       "adjectives": [
-        "guineano",
-        "bisauguineano"
+        "bisauguineano",
+        "guineano"
       ],
       "capital": "Bisau",
       "longName": "Guinea Bissau",
@@ -1395,10 +1395,10 @@
     },
     "USA": {
       "adjectives": [
-        "estadounidense",
         "americano",
-        "norteamericano",
-        "estadunidense"
+        "estadounidense",
+        "estadunidense",
+        "norteamericano"
       ],
       "capital": "Washington DC",
       "longName": "los Estados Unidos de América",

@@ -2,8 +2,8 @@
   "countries": {
     "AFG": {
       "adjectives": [
-        "afghano",
-        "afgano"
+        "afgano",
+        "afghano"
       ],
       "anthemName": "Questa terra è l'Afghanistan",
       "capital": "Kabul",
@@ -84,8 +84,8 @@
     },
     "AZE": {
       "adjectives": [
-        "azero",
-        "azerbaigiano"
+        "azerbaigiano",
+        "azero"
       ],
       "anthemName": "Marcia dell'Azerbaigian",
       "capital": "Baku",
@@ -126,8 +126,8 @@
     },
     "BGD": {
       "adjectives": [
-        "bengalese",
-        "bangladese"
+        "bangladese",
+        "bengalese"
       ],
       "anthemName": "Mio Bengala dorato",
       "capital": "Dacca",
@@ -143,8 +143,8 @@
     },
     "BHR": {
       "adjectives": [
-        "bahreinita",
-        "bahrainita"
+        "bahrainita",
+        "bahreinita"
       ],
       "anthemName": "Nostro Bahrain terra di sicurezza",
       "capital": "Manama",
@@ -161,8 +161,8 @@
     "BIH": {
       "adjectives": [
         "bosniaco",
-        "bosniaco-erzegovino",
-        "bosniaco-erzegovese"
+        "bosniaco-erzegovese",
+        "bosniaco-erzegovino"
       ],
       "anthemName": "Inno Nazionale di Bosnia ed Erzegovina",
       "capital": "Sarajevo",
@@ -170,8 +170,8 @@
     },
     "BLR": {
       "adjectives": [
-        "bielorusso",
-        "belorusso"
+        "belorusso",
+        "bielorusso"
       ],
       "anthemName": "Noi bielorussi",
       "capital": "Minsk",
@@ -252,8 +252,8 @@
     },
     "CHE": {
       "adjectives": [
-        "svizzero",
-        "elvetico"
+        "elvetico",
+        "svizzero"
       ],
       "anthemName": "Salmo Svizzero",
       "capital": "Berna",
@@ -277,8 +277,8 @@
     },
     "CIV": {
       "adjectives": [
-        "ivoriano",
-        "avoriano"
+        "avoriano",
+        "ivoriano"
       ],
       "anthemName": "La Canzone di Abidjan",
       "capital": "Yamoussoukro",
@@ -375,8 +375,8 @@
     },
     "DEU": {
       "adjectives": [
-        "tedesco",
-        "germanico"
+        "germanico",
+        "tedesco"
       ],
       "anthemName": "Il Canto dei Tedeschi",
       "capital": "Berlino",
@@ -424,8 +424,8 @@
     },
     "ECU": {
       "adjectives": [
-        "ecuadoriano",
-        "ecuadoregno"
+        "ecuadoregno",
+        "ecuadoriano"
       ],
       "anthemName": "Salve, o Patria",
       "capital": "Quito",
@@ -449,8 +449,8 @@
     },
     "ESH": {
       "adjectives": [
-        "sahrāwī",
-        "sahariano"
+        "sahariano",
+        "sahrāwī"
       ],
       "anthemName": "O Figli del Sahara",
       "capital": "El Aaiún",
@@ -539,9 +539,9 @@
     },
     "GHA": {
       "adjectives": [
-        "ghanese",
+        "ghanaense",
         "ghanaese",
-        "ghanaense"
+        "ghanese"
       ],
       "anthemName": "Dio Benedica la nostra Patria Ghana",
       "capital": "Accra",
@@ -581,8 +581,8 @@
     },
     "GRC": {
       "adjectives": [
-        "greco",
-        "ellenico"
+        "ellenico",
+        "greco"
       ],
       "anthemName": "Inno alla Libertà",
       "capital": "Atene",
@@ -639,8 +639,8 @@
     },
     "HUN": {
       "adjectives": [
-        "ungherese",
-        "magiaro"
+        "magiaro",
+        "ungherese"
       ],
       "anthemName": "Inno",
       "capital": "Budapest",
@@ -739,8 +739,8 @@
     },
     "KAZ": {
       "adjectives": [
-        "kazako",
-        "kazaco"
+        "kazaco",
+        "kazako"
       ],
       "anthemName": "Mio Kazakhstan",
       "capital": "Nur-Sultan",
@@ -748,10 +748,10 @@
     },
     "KEN": {
       "adjectives": [
-        "keniota",
-        "kenyota",
         "keniano",
-        "kenyano"
+        "keniota",
+        "kenyano",
+        "kenyota"
       ],
       "anthemName": "Oh Dio dell'intero Creato",
       "capital": "Nairobi",
@@ -759,9 +759,9 @@
     },
     "KGZ": {
       "adjectives": [
+        "chirghiso",
         "kirghiso",
-        "kirghizo",
-        "chirghiso"
+        "kirghizo"
       ],
       "anthemName": "Inno Nazionale della Repubblica Kirghiza",
       "capital": "Bishkek",
@@ -793,8 +793,8 @@
     },
     "KOR": {
       "adjectives": [
-        "sudcoreano",
-        "sud-coreano"
+        "sud-coreano",
+        "sudcoreano"
       ],
       "anthemName": "Il Canto Patriottico",
       "capital": "Seul",
@@ -810,8 +810,8 @@
     },
     "LAO": {
       "adjectives": [
-        "laotiano",
-        "laosiano"
+        "laosiano",
+        "laotiano"
       ],
       "anthemName": "Inno Nazionale del Laos",
       "capital": "Vientiane",
@@ -860,8 +860,8 @@
     },
     "LKA": {
       "adjectives": [
-        "singalese",
         "cingalese",
+        "singalese",
         "srilankese",
         "tamil"
       ],
@@ -1005,8 +1005,8 @@
     },
     "MNG": {
       "adjectives": [
-        "mongolo",
-        "mongolico"
+        "mongolico",
+        "mongolo"
       ],
       "anthemName": "Inno Nazionale di Mongolia",
       "capital": "Ulan Bator",
@@ -1039,9 +1039,9 @@
     },
     "MWI": {
       "adjectives": [
-        "malawiano",
+        "malawense",
         "malawi",
-        "malawense"
+        "malawiano"
       ],
       "anthemName": "Dio benedica il Malawi",
       "capital": "Lilongwe",
@@ -1081,9 +1081,9 @@
     },
     "NIC": {
       "adjectives": [
+        "nicaraguegno",
         "nicaraguense",
-        "nicaraguese",
-        "nicaraguegno"
+        "nicaraguese"
       ],
       "anthemName": "Salve a te, Nicaragua",
       "capital": "Managua",
@@ -1097,8 +1097,8 @@
     },
     "NLD": {
       "adjectives": [
-        "neerlandese",
-        "nederlandese"
+        "nederlandese",
+        "neerlandese"
       ],
       "anthemName": "Il Guglielmo",
       "capital": "Amsterdam",
@@ -1146,8 +1146,8 @@
     },
     "PAK": {
       "adjectives": [
-        "pakistano",
-        "pachistano"
+        "pachistano",
+        "pakistano"
       ],
       "anthemName": "Inno Nazionale",
       "capital": "Islamabad",
@@ -1155,8 +1155,8 @@
     },
     "PAN": {
       "adjectives": [
-        "panamense",
-        "panamegno"
+        "panamegno",
+        "panamense"
       ],
       "anthemName": "Inno dell'Istmo",
       "capital": "Panama",
@@ -1205,8 +1205,8 @@
     },
     "PRK": {
       "adjectives": [
-        "nordcoreano",
-        "nord-coreano"
+        "nord-coreano",
+        "nordcoreano"
       ],
       "anthemName": "Il Canto Patriottico",
       "capital": "Pyongyang",
@@ -1247,8 +1247,8 @@
     },
     "ROU": {
       "adjectives": [
-        "rumeno",
-        "romeno"
+        "romeno",
+        "rumeno"
       ],
       "anthemName": "Destati, Romeno!",
       "capital": "Bucarest",
@@ -1272,8 +1272,8 @@
     },
     "SAU": {
       "adjectives": [
-        "saudita",
-        "arabo"
+        "arabo",
+        "saudita"
       ],
       "anthemName": "Glorificate il creatore dei cieli",
       "capital": "Riyād",
@@ -1410,8 +1410,8 @@
     },
     "SYC": {
       "adjectives": [
-        "seychellese",
-        "seicellese"
+        "seicellese",
+        "seychellese"
       ],
       "anthemName": "Unitevi o abitanti delle Seychelles",
       "capital": "Victoria",
@@ -1443,8 +1443,8 @@
     },
     "THA": {
       "adjectives": [
-        "thailandese",
-        "tailandese"
+        "tailandese",
+        "thailandese"
       ],
       "anthemName": "Canto Nazionale",
       "capital": "Bangkok",
@@ -1452,8 +1452,8 @@
     },
     "TJK": {
       "adjectives": [
-        "tagiko",
-        "tagico"
+        "tagico",
+        "tagiko"
       ],
       "anthemName": "Inno Nazionale",
       "capital": "Dušanbe",
@@ -1461,8 +1461,8 @@
     },
     "TKM": {
       "adjectives": [
-        "turkmeno",
-        "turcmeno"
+        "turcmeno",
+        "turkmeno"
       ],
       "anthemName": "Inno di Stato dell'Indipendente e Neutrale Turkmenistan",
       "capital": "Ashgabat",
@@ -1486,8 +1486,8 @@
     },
     "TTO": {
       "adjectives": [
-        "trinidadiano",
-        "tobagodiano"
+        "tobagodiano",
+        "trinidadiano"
       ],
       "anthemName": "Forgiato dall'Amore della Libertà",
       "capital": "Port of Spain",
@@ -1560,8 +1560,8 @@
     },
     "USA": {
       "adjectives": [
-        "statunitense",
-        "americano"
+        "americano",
+        "statunitense"
       ],
       "anthemName": "La bandiera splendente di Stelle",
       "capital": "Washington",
@@ -1569,9 +1569,9 @@
     },
     "UZB": {
       "adjectives": [
-        "uzbeko",
+        "usbeco",
         "uzbeco",
-        "usbeco"
+        "uzbeko"
       ],
       "anthemName": "Inno Nazionale della Repubblica dell'Uzbekistan",
       "capital": "Tashkent",
@@ -1596,8 +1596,8 @@
     },
     "VEN": {
       "adjectives": [
-        "venezuelano",
-        "venezolano"
+        "venezolano",
+        "venezuelano"
       ],
       "anthemName": "Gloria al Bravo Popolo",
       "capital": "Caracas",
@@ -1638,8 +1638,8 @@
     },
     "ZAF": {
       "adjectives": [
-        "sudafricano",
-        "sud-africano"
+        "sud-africano",
+        "sudafricano"
       ],
       "anthemName": "Inno Nazionale del Sudafrica",
       "capital": "Pretoria",
@@ -1647,8 +1647,8 @@
     },
     "ZMB": {
       "adjectives": [
-        "zambiano",
-        "rhodesiano"
+        "rhodesiano",
+        "zambiano"
       ],
       "anthemName": "Alzatevi e cantate dello Zambia, Orgoglioso e Libero",
       "capital": "Lusaka",
@@ -1656,8 +1656,8 @@
     },
     "ZWE": {
       "adjectives": [
-        "zimbabwese",
-        "rhodesiano"
+        "rhodesiano",
+        "zimbabwese"
       ],
       "anthemName": "Sia benedetta la Terra dello Zimbabwe",
       "capital": "Harare",

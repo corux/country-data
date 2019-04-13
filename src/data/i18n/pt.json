@@ -2,10 +2,10 @@
   "countries": {
     "AFG": {
       "adjectives": [
-        "afegão",
-        "afegane",
         "afegã",
-        "afegânico"
+        "afegane",
+        "afegânico",
+        "afegão"
       ],
       "name": "Afeganistão"
     },
@@ -19,10 +19,10 @@
     },
     "ALB": {
       "adjectives": [
-        "albanês",
-        "albano",
         "albanense",
-        "albânio"
+        "albanês",
+        "albânio",
+        "albano"
       ],
       "anthemName": "Hino à Bandeira",
       "name": "Albânia"
@@ -30,9 +30,9 @@
     "AND": {
       "adjectives": [
         "andorrano",
+        "andorrenho",
         "andorrense",
-        "andorriano",
-        "andorrenho"
+        "andorriano"
       ],
       "anthemName": "O Grande Carlos Magno",
       "name": "Andorra"
@@ -55,11 +55,11 @@
     },
     "ARM": {
       "adjectives": [
-        "armênio",
-        "arménio",
-        "armênico",
+        "armeniano",
         "arménico",
-        "armeniano"
+        "armênico",
+        "arménio",
+        "armênio"
       ],
       "anthemName": "Nossa Pátria",
       "name": "Armênia"
@@ -73,9 +73,9 @@
     },
     "AUS": {
       "adjectives": [
+        "australês",
         "australiano",
-        "austrálio",
-        "australês"
+        "austrálio"
       ],
       "anthemName": "Avança Justa Austrália",
       "name": "Austrália"
@@ -89,11 +89,10 @@
     },
     "AZE": {
       "adjectives": [
-        "azerbaijano",
+        "azerbaidjanês",
         "azerbaidjano",
         "azerbaijanês",
-        "azerbaidjanês",
-        "azerbaijanês",
+        "azerbaijano",
         "azeri"
       ],
       "anthemName": "Hino do Azerbaijão",
@@ -102,9 +101,9 @@
     "BDI": {
       "adjectives": [
         "burundiano",
-        "burúndio",
         "burundiense",
-        "burundinês"
+        "burundinês",
+        "burúndio"
       ],
       "anthemName": "Nosso Burundi",
       "name": "Burundi"
@@ -127,11 +126,11 @@
     },
     "BFA": {
       "adjectives": [
-        "burquinense",
-        "burquino",
-        "burquinês",
         "burkinense",
-        "burquinabê"
+        "burquinabê",
+        "burquinense",
+        "burquinês",
+        "burquino"
       ],
       "anthemName": "Uma só Noite",
       "name": "Burkina Faso"
@@ -139,15 +138,15 @@
     "BGD": {
       "adjectives": [
         "bangladechiano",
-        "bangladexiano",
-        "bangladeshiano",
         "bangladense",
         "bangladês",
+        "bangladeshiano",
+        "bangladexiano",
+        "bengala",
+        "bengalense",
+        "bengalês",
         "bengali",
         "bengáli",
-        "bengalês",
-        "bengalense",
-        "bengala",
         "bengalim"
       ],
       "anthemName": "Meu Bengala Dourado",
@@ -155,51 +154,51 @@
     },
     "BGR": {
       "adjectives": [
-        "búlgaro",
-        "bulgarês"
+        "bulgarês",
+        "búlgaro"
       ],
       "anthemName": "Querida Pátria",
       "name": "Bulgária"
     },
     "BHR": {
       "adjectives": [
-        "bareinita",
-        "baremita",
-        "barenita",
-        "baremês",
         "baramês",
-        "baremense"
+        "bareinita",
+        "baremense",
+        "baremês",
+        "baremita",
+        "barenita"
       ],
       "anthemName": "Nosso Bahrain",
       "name": "Bahrein"
     },
     "BHS": {
       "adjectives": [
-        "bahamiano",
-        "bahamense",
-        "baamiano",
+        "baamense",
         "baamês",
-        "baamense"
+        "baamiano",
+        "bahamense",
+        "bahamiano"
       ],
       "anthemName": "Marcha, Terra das Bahamas",
       "name": "Bahamas"
     },
     "BIH": {
       "adjectives": [
-        "bósnio",
         "bosnense",
         "bosníaco",
+        "bosniano",
         "bosniense",
-        "bosniano"
+        "bósnio"
       ],
       "anthemName": "Hino Nacional da Bósnia e Herzegovina",
       "name": "Bósnia e Herzegovina"
     },
     "BLR": {
       "adjectives": [
-        "bielorrusso",
-        "bielo-russo",
         "belarusso",
+        "bielo-russo",
+        "bielorrusso",
         "russo-branco"
       ],
       "anthemName": "Nós, os Bielorrussos",
@@ -223,20 +222,20 @@
     "BRA": {
       "adjectives": [
         "brasileiro",
-        "brasiliano",
         "brasilense",
+        "brasilês",
+        "brasiliano",
         "brasílico",
         "brasiliense",
         "brasílio",
-        "brasilês",
         "brasilista"
       ],
       "name": "Brasil"
     },
     "BRB": {
       "adjectives": [
-        "barbadiano",
-        "barbadense"
+        "barbadense",
+        "barbadiano"
       ],
       "anthemName": "Na Abundância e na Necessidade",
       "name": "Barbados"
@@ -251,10 +250,10 @@
     },
     "BTN": {
       "adjectives": [
-        "butanês",
-        "butâni",
-        "butani",
         "butanense",
+        "butanês",
+        "butani",
+        "butâni",
         "butânico"
       ],
       "anthemName": "Reino do Dragão do Trovão",
@@ -262,15 +261,15 @@
     },
     "BWA": {
       "adjectives": [
+        "bechuana",
+        "bechuano",
+        "bexuana",
+        "bexuano",
+        "botsuanense",
         "botsuanês",
         "botsuano",
-        "botsuanense",
-        "bechuano",
-        "bexuano",
-        "bechuana",
-        "bexuana",
-        "botswanês",
-        "botswanense"
+        "botswanense",
+        "botswanês"
       ],
       "altNames": [
         "Botsuana"
@@ -280,8 +279,8 @@
     },
     "CAF": {
       "adjectives": [
-        "centro-africano",
-        "centrafricano"
+        "centrafricano",
+        "centro-africano"
       ],
       "anthemName": "O Renascimento",
       "name": "República Centro-Africana"
@@ -297,12 +296,12 @@
     },
     "CHE": {
       "adjectives": [
-        "suíço",
+        "esguíçaro",
+        "esguízaro",
         "helvécio",
         "helvético",
         "helveto",
-        "esguíçaro",
-        "esguízaro"
+        "suíço"
       ],
       "anthemName": "Salmo Suíço",
       "name": "Suíça"
@@ -316,9 +315,9 @@
     },
     "CHN": {
       "adjectives": [
-        "chinês",
-        "china",
         "chim",
+        "china",
+        "chinês",
         "chino",
         "chinoca",
         "sínico",
@@ -330,20 +329,20 @@
     "CIV": {
       "adjectives": [
         "costa-marfinense",
-        "marfinense",
+        "costa-marfiniano",
         "ebúrneo",
-        "marfiniano",
-        "costa-marfiniano"
+        "marfinense",
+        "marfiniano"
       ],
       "anthemName": "Canção de Abidjan",
       "name": "Costa do Marfim"
     },
     "CMR": {
       "adjectives": [
-        "camaronês",
         "camaronense",
-        "camerunês",
+        "camaronês",
         "camerunense",
+        "camerunês",
         "cameruniano"
       ],
       "anthemName": "Canto de Reunião",
@@ -351,11 +350,11 @@
     },
     "COD": {
       "adjectives": [
-        "congolês",
+        "congo",
         "congolense",
-        "conguês",
+        "congolês",
         "conguense",
-        "congo"
+        "conguês"
       ],
       "altNames": [
         "Congo-Kinshasa"
@@ -365,11 +364,11 @@
     },
     "COG": {
       "adjectives": [
-        "congolês",
+        "congo",
         "congolense",
-        "conguês",
+        "congolês",
         "conguense",
-        "congo"
+        "conguês"
       ],
       "altNames": [
         "Congo-Brazzaville"
@@ -402,20 +401,20 @@
     },
     "CPV": {
       "adjectives": [
-        "cabo-verdiano",
+        "cabo-verde",
         "cabo-verdense",
-        "cabo-verde"
+        "cabo-verdiano"
       ],
       "name": "Cabo Verde"
     },
     "CRI": {
       "adjectives": [
+        "costa-ricense",
         "costa-riquenho",
         "costa-riquense",
+        "costarricense",
         "costarriquenho",
-        "costarriquense",
-        "costa-ricense",
-        "costarricense"
+        "costarriquense"
       ],
       "anthemName": "Hino Nacional da Costa Rica",
       "name": "Costa Rica"
@@ -429,13 +428,13 @@
     },
     "CYP": {
       "adjectives": [
-        "cipriota",
-        "cíprio",
-        "cíprico",
-        "cipríaco",
-        "ciprino",
         "chiprense",
-        "cipreno"
+        "cipreno",
+        "cipríaco",
+        "cíprico",
+        "ciprino",
+        "cíprio",
+        "cipriota"
       ],
       "anthemName": "Hymn to Liberty",
       "name": "Chipre"
@@ -450,45 +449,45 @@
     },
     "DEU": {
       "adjectives": [
-        "alemão",
+        "alamão",
         "alemânico",
         "alemanisco",
-        "alamão",
+        "alemão",
+        "boche",
         "germânico",
         "germano",
-        "tudesco",
         "tedesco",
         "teutão",
         "teuto",
         "teutónico",
-        "boche"
+        "tudesco"
       ],
       "anthemName": "Canção da Alemanha",
       "name": "Alemanha"
     },
     "DJI": {
       "adjectives": [
-        "djibutiense",
-        "jibutiense",
         "djibutiano",
-        "jibutiano"
+        "djibutiense",
+        "jibutiano",
+        "jibutiense"
       ],
       "name": "Djibouti"
     },
     "DMA": {
       "adjectives": [
-        "dominiquês",
-        "dominiquense"
+        "dominiquense",
+        "dominiquês"
       ],
       "anthemName": "Ilha de Beleza, Ilha de Esplendor",
       "name": "Dominica"
     },
     "DNK": {
       "adjectives": [
-        "dinamarquês",
         "danês",
         "dânio",
-        "dano"
+        "dano",
+        "dinamarquês"
       ],
       "anthemName": "There is a Lovely Country",
       "name": "Dinamarca"
@@ -502,10 +501,10 @@
     },
     "DZA": {
       "adjectives": [
-        "argelino",
+        "algeriano",
         "argeliano",
         "argeliense",
-        "algeriano"
+        "argelino"
       ],
       "anthemName": "Juramento",
       "name": "Argélia"
@@ -519,12 +518,12 @@
     },
     "EGY": {
       "adjectives": [
-        "egípcio",
-        "egipciano",
         "egipcíaco",
-        "egiptano",
-        "egiptanense",
+        "egipciano",
         "egipcião",
+        "egípcio",
+        "egiptanense",
+        "egiptano",
         "egíptico",
         "egiptino"
       ],
@@ -540,17 +539,17 @@
     },
     "ESH": {
       "adjectives": [
+        "saaraui",
+        "saarauí",
+        "saarense",
+        "saariano",
+        "saárico",
+        "saraui",
         "sarauí",
         "sarauita",
-        "sariano",
-        "saariano",
-        "saarense",
-        "saárico",
         "sarense",
-        "sárico",
-        "saraui",
-        "saarauí",
-        "saaraui"
+        "sariano",
+        "sárico"
       ],
       "name": "Saara Ocidental"
     },
@@ -567,10 +566,10 @@
     "EST": {
       "adjectives": [
         "estoniano",
-        "estónio",
-        "estônio",
         "estónico",
-        "estônico"
+        "estônico",
+        "estónio",
+        "estônio"
       ],
       "anthemName": "Minha Pátria, Minha Felicidade e Alegria",
       "name": "Estónia"
@@ -578,29 +577,29 @@
     "ETH": {
       "adjectives": [
         "etíope",
+        "etiopês",
         "etiopiano",
         "etiópico",
-        "etiópio",
-        "etiopês"
+        "etiópio"
       ],
       "anthemName": "Marcha em Frente, Querida Mãe Etiópia",
       "name": "Etiópia"
     },
     "FIN": {
       "adjectives": [
-        "finlandês",
-        "fino",
-        "finês",
         "finense",
-        "fínico"
+        "finês",
+        "fínico",
+        "finlandês",
+        "fino"
       ],
       "anthemName": "Nossa Terra",
       "name": "Finlândia"
     },
     "FJI": {
       "adjectives": [
-        "fijiano",
-        "fidjiano"
+        "fidjiano",
+        "fijiano"
       ],
       "anthemName": "Deus Abençoe Fiji",
       "name": "Fiji"
@@ -610,12 +609,12 @@
         "francês",
         "franciú",
         "franco",
-        "gaulês",
-        "gálio",
-        "gaulo",
-        "galo",
         "galicano",
-        "gálico"
+        "gálico",
+        "gálio",
+        "galo",
+        "gaulês",
+        "gaulo"
       ],
       "anthemName": "A Marselhesa",
       "name": "França"
@@ -637,10 +636,10 @@
     },
     "GBR": {
       "adjectives": [
-        "britânico",
+        "bife",
         "bretão",
-        "britano",
-        "bife"
+        "britânico",
+        "britano"
       ],
       "name": "Reino Unido"
     },
@@ -648,9 +647,9 @@
       "adjectives": [
         "georgiano",
         "geórgico",
-        "gruzínio",
-        "gruzínico",
         "grúzico",
+        "gruzínico",
+        "gruzínio",
         "grúzio"
       ],
       "anthemName": "Liberdade",
@@ -690,25 +689,25 @@
     },
     "GNQ": {
       "adjectives": [
-        "guinéu-equatoriano",
         "equato-guineense",
         "guineense",
-        "guinéu"
+        "guinéu",
+        "guinéu-equatoriano"
       ],
       "anthemName": "Caminhemos pela vereda",
       "name": "Guiné Equatorial"
     },
     "GRC": {
       "adjectives": [
-        "grego",
-        "greciano",
+        "aqueu",
         "grecânico",
-        "heleno",
+        "greciano",
+        "grego",
+        "gregório",
+        "helene",
         "helénico",
         "helênico",
-        "helene",
-        "gregório",
-        "aqueu",
+        "heleno",
         "romaico"
       ],
       "anthemName": "Hino à Liberdade",
@@ -723,8 +722,8 @@
     },
     "GTM": {
       "adjectives": [
-        "guatemalteco",
         "guatemalense",
+        "guatemalteco",
         "guatemaltense"
       ],
       "anthemName": "Hino Nacional da Guatemala",
@@ -748,9 +747,9 @@
     },
     "HRV": {
       "adjectives": [
-        "croata",
+        "croaciano",
         "croácio",
-        "croaciano"
+        "croata"
       ],
       "anthemName": "Nossa Bela Pátria",
       "name": "Croácia"
@@ -764,11 +763,11 @@
     },
     "HUN": {
       "adjectives": [
-        "húngaro",
-        "magiar",
-        "madgiar",
         "hungarês",
-        "hungárico"
+        "hungárico",
+        "húngaro",
+        "madgiar",
+        "magiar"
       ],
       "name": "Hungria"
     },
@@ -781,25 +780,25 @@
     },
     "IND": {
       "adjectives": [
-        "indiano",
-        "índio",
-        "índico",
-        "indiático",
         "hindu",
+        "hindustani",
         "hindustâni",
-        "hindustani"
+        "indiano",
+        "indiático",
+        "índico",
+        "índio"
       ],
       "anthemName": "Coração do Povo",
       "name": "Índia"
     },
     "IRL": {
       "adjectives": [
-        "irlandês",
+        "eirense",
+        "erino",
         "hibérnico",
         "hibérnio",
         "hiérnio",
-        "erino",
-        "eirense"
+        "irlandês"
       ],
       "anthemName": "Canção do Soldado",
       "name": "Irlanda"
@@ -815,17 +814,17 @@
     },
     "IRQ": {
       "adjectives": [
-        "iraquiano",
         "iraquenho",
-        "iraquense"
+        "iraquense",
+        "iraquiano"
       ],
       "anthemName": "My Homeland",
       "name": "Iraque"
     },
     "ISL": {
       "adjectives": [
-        "islandês",
         "islandense",
+        "islandês",
         "islândico"
       ],
       "name": "Islândia"
@@ -833,8 +832,8 @@
     "ISR": {
       "adjectives": [
         "israelense",
-        "israelita",
         "israeliano",
+        "israelita",
         "israelítico"
       ],
       "anthemName": "Esperança",
@@ -843,9 +842,9 @@
     "ITA": {
       "adjectives": [
         "italiano",
-        "ítalo",
         "itálico",
-        "italiota"
+        "italiota",
+        "ítalo"
       ],
       "anthemName": "Canção dos Italianos",
       "name": "Itália"
@@ -860,37 +859,37 @@
     },
     "JOR": {
       "adjectives": [
-        "jordano",
+        "jordaniano",
         "jordânico",
-        "jordaniano"
+        "jordano"
       ],
       "anthemName": "Hino Real da Jordânia",
       "name": "Jordânia"
     },
     "JPN": {
       "adjectives": [
-        "japonês",
-        "japonense",
         "japão",
-        "japônico",
-        "japónico",
-        "nipônico",
-        "nipónico",
-        "niponense",
-        "nipão",
         "japona",
-        "nipo"
+        "japonense",
+        "japonês",
+        "japónico",
+        "japônico",
+        "nipão",
+        "nipo",
+        "niponense",
+        "nipónico",
+        "nipônico"
       ],
       "anthemName": "Que Teu Reino Dure Eternamente",
       "name": "Japão"
     },
     "KAZ": {
       "adjectives": [
-        "cazaque",
-        "cazaquistanês",
         "casaco",
         "casáquio",
-        "casaquistano"
+        "casaquistano",
+        "cazaque",
+        "cazaquistanês"
       ],
       "anthemName": "Meu Cazaquistão",
       "name": "Cazaquistão"
@@ -903,9 +902,9 @@
     },
     "KGZ": {
       "adjectives": [
+        "quirguistanês",
         "quirguiz",
         "quirguize",
-        "quirguistanês",
         "quirguizistanês"
       ],
       "anthemName": "Hino Nacional da República Quirguiz",
@@ -913,8 +912,8 @@
     },
     "KHM": {
       "adjectives": [
-        "cambojano",
         "cambodjano",
+        "cambojano",
         "cambojiano",
         "campucheano"
       ],
@@ -923,9 +922,9 @@
     },
     "KIR": {
       "adjectives": [
-        "quiribatiano",
         "kiribatiano",
-        "kiribatino"
+        "kiribatino",
+        "quiribatiano"
       ],
       "anthemName": "Levanta-te, Kiribati",
       "name": "Kiribati"
@@ -946,29 +945,29 @@
     },
     "KWT": {
       "adjectives": [
-        "kuwaitiano",
-        "koweitiano",
+        "couaitiano",
         "coveitiano",
+        "cuaitiano",
+        "cuvaiti",
+        "cuvaitiano",
         "cuwaitiano",
         "kowaitiano",
-        "kuweitiano",
-        "cuvaiti",
+        "koweitiano",
         "kuwaiti",
-        "cuaitiano",
-        "cuvaitiano",
-        "quaitiano",
-        "couaitiano",
-        "kwaitiano"
+        "kuwaitiano",
+        "kuweitiano",
+        "kwaitiano",
+        "quaitiano"
       ],
       "name": "Kuwait"
     },
     "LAO": {
       "adjectives": [
+        "lao",
         "laociano",
         "laosiano",
-        "lausiano",
-        "lao",
-        "lau"
+        "lau",
+        "lausiano"
       ],
       "anthemName": "Hino Nacional do Laos",
       "name": "Laos"
@@ -990,15 +989,15 @@
     },
     "LBY": {
       "adjectives": [
-        "líbio",
-        "líbico"
+        "líbico",
+        "líbio"
       ],
       "name": "Líbia"
     },
     "LCA": {
       "adjectives": [
-        "santa-luciense",
-        "santa-lucense"
+        "santa-lucense",
+        "santa-luciense"
       ],
       "anthemName": "Filhos e Filhas de Santa Lúcia",
       "name": "Santa Lúcia"
@@ -1006,13 +1005,13 @@
     "LIE": {
       "adjectives": [
         "liechtensteinense",
-        "liechtensteiniense",
-        "listenstainiano",
-        "liechtensteiniano",
-        "listenstainense",
-        "listenstainiense",
         "liechtensteinês",
+        "liechtensteiniano",
+        "liechtensteiniense",
+        "listenstainense",
         "listenstainês",
+        "listenstainiano",
+        "listenstainiense",
         "listenstaino"
       ],
       "anthemName": "Sobre o Jovem Reno",
@@ -1020,24 +1019,24 @@
     },
     "LKA": {
       "adjectives": [
-        "srilankês",
-        "srilankesa",
-        "cingalês",
-        "cingalá",
-        "chingalá",
         "ceilonense",
-        "singalês",
+        "chingalá",
+        "cingalá",
+        "cingalês",
         "singala",
         "singalense",
-        "singalibense"
+        "singalês",
+        "singalibense",
+        "srilankês",
+        "srilankesa"
       ],
       "anthemName": "Mother Sri Lanka",
       "name": "Sri Lanka"
     },
     "LSO": {
       "adjectives": [
-        "lesotiano",
         "lesotense",
+        "lesotiano",
         "lesoto"
       ],
       "anthemName": "Lesoto, Terra de Nossos Pais",
@@ -1045,9 +1044,9 @@
     },
     "LTU": {
       "adjectives": [
-        "lituano",
+        "lituânico",
         "lituânio",
-        "lituânico"
+        "lituano"
       ],
       "anthemName": "Canção Nacional",
       "name": "Lituânia"
@@ -1062,11 +1061,11 @@
     "LVA": {
       "adjectives": [
         "letão",
-        "letónio",
-        "letônio",
+        "lético",
         "letónico",
         "letônico",
-        "lético"
+        "letónio",
+        "letônio"
       ],
       "name": "Letónia"
     },
@@ -1079,25 +1078,25 @@
     },
     "MCO": {
       "adjectives": [
-        "monegasco",
-        "monagasco"
+        "monagasco",
+        "monegasco"
       ],
       "anthemName": "Hino Monegasco",
       "name": "Mónaco"
     },
     "MDA": {
       "adjectives": [
-        "moldavo",
+        "moldávico",
         "moldávio",
-        "moldávico"
+        "moldavo"
       ],
       "anthemName": "Nossa Língua",
       "name": "Moldávia"
     },
     "MDG": {
       "adjectives": [
-        "malgaxe",
         "madagascarense",
+        "malgaxe",
         "malgaxo"
       ],
       "anthemName": "Ó Nossa Pátria Amada!",
@@ -1105,10 +1104,10 @@
     },
     "MDV": {
       "adjectives": [
-        "maldívio",
         "maldivano",
         "maldivense",
         "maldiviano",
+        "maldívio",
         "maldivo"
       ],
       "anthemName": "Saudação Nacional",
@@ -1123,30 +1122,30 @@
     },
     "MHL": {
       "adjectives": [
-        "marshallino",
-        "marshallês",
         "marechalês",
-        "marechaliniano"
+        "marechaliniano",
+        "marshallês",
+        "marshallino"
       ],
       "anthemName": "Para Sempre Ilhas Marshall",
       "name": "Ilhas Marshall"
     },
     "MKD": {
       "adjectives": [
-        "macedônio",
-        "macedónio",
-        "macedônico",
-        "macedónico",
+        "mácedo",
         "macedoniano",
-        "mácedo"
+        "macedónico",
+        "macedônico",
+        "macedónio",
+        "macedônio"
       ],
       "name": "Macedónia do Norte"
     },
     "MLI": {
       "adjectives": [
+        "malês",
         "maliano",
-        "malinês",
-        "malês"
+        "malinês"
       ],
       "anthemName": "Pela África e por Ti, Mali",
       "name": "Mali"
@@ -1160,17 +1159,17 @@
     },
     "MMR": {
       "adjectives": [
-        "birmanês",
+        "bermá",
+        "bermã",
+        "bermano",
         "birmã",
         "birmane",
         "birmanense",
+        "birmanês",
         "birmaniano",
         "birmano",
         "bramá",
-        "mianmarense",
-        "bermá",
-        "bermã",
-        "bermano"
+        "mianmarense"
       ],
       "anthemName": "Till the End of the World, Burma",
       "name": "Mianmar"
@@ -1184,13 +1183,13 @@
     },
     "MNG": {
       "adjectives": [
+        "mogol",
+        "mogor",
+        "mogore",
         "mongol",
         "mongólico",
         "mongolino",
-        "mongolita",
-        "mogol",
-        "mogor",
-        "mogore"
+        "mongolita"
       ],
       "anthemName": "Hino Nacional da Mongólia",
       "name": "Mongólia"
@@ -1199,16 +1198,16 @@
       "adjectives": [
         "moçambicano",
         "moçambique",
-        "moçambiquense",
-        "moçambiquenho"
+        "moçambiquenho",
+        "moçambiquense"
       ],
       "name": "Moçambique"
     },
     "MRT": {
       "adjectives": [
-        "mauritano",
+        "mauritaniano",
         "mauritânico",
-        "mauritaniano"
+        "mauritano"
       ],
       "name": "Mauritânia"
     },
@@ -1221,25 +1220,25 @@
     },
     "MWI": {
       "adjectives": [
-        "malauiano",
-        "malaviano",
-        "malawiano",
-        "malauiense",
         "malaui",
-        "malawiense",
+        "malauiano",
+        "malauiense",
         "malauista",
         "malauita",
-        "malavita"
+        "malaviano",
+        "malavita",
+        "malawiano",
+        "malawiense"
       ],
       "anthemName": "Deus Abençoe o Malawi",
       "name": "Malawi"
     },
     "MYS": {
       "adjectives": [
+        "malaico",
         "malaio",
-        "malásio",
         "malasiano",
-        "malaico"
+        "malásio"
       ],
       "anthemName": "Meu País",
       "name": "Malásia"
@@ -1270,8 +1269,8 @@
     },
     "NIC": {
       "adjectives": [
-        "nicaraguense",
-        "nicaraguano"
+        "nicaraguano",
+        "nicaraguense"
       ],
       "anthemName": "Salvé a Ti, Nicarágua",
       "name": "Nicarágua"
@@ -1285,21 +1284,21 @@
     },
     "NLD": {
       "adjectives": [
-        "neerlandês",
-        "nederlandês",
-        "holandês",
         "batávico",
         "batávio",
-        "batavo"
+        "batavo",
+        "holandês",
+        "nederlandês",
+        "neerlandês"
       ],
       "anthemName": "O Guilherme",
       "name": "Países Baixos"
     },
     "NOR": {
       "adjectives": [
-        "norueguês",
+        "noruego",
         "norueguense",
-        "noruego"
+        "norueguês"
       ],
       "anthemName": "Sim, Amamos esta Terra",
       "name": "Noruega"
@@ -1322,8 +1321,8 @@
     },
     "NZL": {
       "adjectives": [
-        "neozelandês",
         "neozelandense",
+        "neozelandês",
         "neozelandiense"
       ],
       "anthemName": "Deus defenda a Nova Zelândia",
@@ -1331,8 +1330,8 @@
     },
     "OMN": {
       "adjectives": [
-        "omani",
         "omanense",
+        "omani",
         "omaniano"
       ],
       "anthemName": "Hino Nacional de Oman",
@@ -1340,20 +1339,20 @@
     },
     "PAK": {
       "adjectives": [
-        "paquistanês",
         "paquistanense",
-        "paquistânico",
-        "paquistani"
+        "paquistanês",
+        "paquistani",
+        "paquistânico"
       ],
       "name": "Paquistão"
     },
     "PAN": {
       "adjectives": [
+        "panamaense",
         "panamenho",
-        "panamista",
         "panamense",
         "panamiano",
-        "panamaense"
+        "panamista"
       ],
       "anthemName": "Hino do Istmo",
       "name": "Panamá"
@@ -1370,9 +1369,9 @@
     "PHL": {
       "adjectives": [
         "filipino",
-        "tagalo",
         "tagal",
-        "tagalar"
+        "tagalar",
+        "tagalo"
       ],
       "anthemName": "Terra Escolhida",
       "name": "Filipinas"
@@ -1387,20 +1386,20 @@
     },
     "PNG": {
       "adjectives": [
-        "papuásio",
-        "papua"
+        "papua",
+        "papuásio"
       ],
       "anthemName": "Levantai-vos, Todos Vós Filhos",
       "name": "Papua-Nova Guiné"
     },
     "POL": {
       "adjectives": [
-        "polonês",
         "polaco",
-        "polónio",
-        "polônio",
+        "polonês",
         "polónico",
         "polônico",
+        "polónio",
+        "polônio",
         "polono"
       ],
       "name": "Polónia"
@@ -1414,81 +1413,81 @@
     },
     "PRT": {
       "adjectives": [
-        "português",
-        "portucalense",
-        "portugalense",
-        "portugalês",
+        "lusíada",
+        "lusitaniano",
+        "lusitânico",
         "lusitano",
         "luso",
-        "lusitânico",
-        "lusitaniano",
-        "lusíada",
+        "portucalense",
         "portuga",
+        "portugalense",
+        "portugalês",
+        "português",
         "tuga"
       ],
       "name": "Portugal"
     },
     "PRY": {
       "adjectives": [
-        "paraguaio",
-        "paraguaiano"
+        "paraguaiano",
+        "paraguaio"
       ],
       "anthemName": "Paraguaios, República ou Morte",
       "name": "Paraguai"
     },
     "PSE": {
       "adjectives": [
-        "palestino",
+        "palestinense",
         "palestiniano",
-        "palestinense"
+        "palestino"
       ],
       "name": "Palestina"
     },
     "QAT": {
       "adjectives": [
-        "catariano",
         "catarense",
-        "catari"
+        "catari",
+        "catariano"
       ],
       "anthemName": "Hino Nacional do Qatar",
       "name": "Catar"
     },
     "ROU": {
       "adjectives": [
-        "romeno",
+        "romenho",
         "roménico",
         "romênico",
-        "romenho"
+        "romeno"
       ],
       "anthemName": "Acordai, Romenos",
       "name": "Roménia"
     },
     "RUS": {
       "adjectives": [
-        "russo",
-        "russiano"
+        "russiano",
+        "russo"
       ],
       "anthemName": "Hino Estatal da Federação Russa",
       "name": "Rússia"
     },
     "RWA": {
       "adjectives": [
-        "ruandês",
-        "ruandense"
+        "ruandense",
+        "ruandês"
       ],
       "anthemName": "Belo Ruanda",
       "name": "Ruanda"
     },
     "SAU": {
       "adjectives": [
-        "saudita",
-        "árabe-saudita",
-        "saudi-arábico",
-        "saudi-árabe",
         "árabe",
-        "arábio",
+        "árabe-saudita",
         "arábico",
-        "arábigo"
+        "arábigo",
+        "arábio",
+        "saudi-árabe",
+        "saudi-arábico",
+        "saudita"
       ],
       "anthemName": "Saudação Real",
       "name": "Arábia Saudita"
@@ -1502,37 +1501,37 @@
     },
     "SEN": {
       "adjectives": [
-        "senegalês",
         "senegalense",
+        "senegalês",
         "senegalesco",
-        "senegálico",
-        "senegaliano"
+        "senegaliano",
+        "senegálico"
       ],
       "anthemName": "Tocai Vossos Corás, Batei os Balafons",
       "name": "Senegal"
     },
     "SGP": {
       "adjectives": [
-        "singapuriano",
+        "singapurano",
         "singapurense",
-        "singapurano"
+        "singapuriano"
       ],
       "anthemName": "Para a Frente, Singapura",
       "name": "Singapura"
     },
     "SLB": {
       "adjectives": [
-        "salomônico",
+        "salomonense",
         "salomónico",
-        "salomonense"
+        "salomônico"
       ],
       "anthemName": "Deus Salve as Nossas Ilhas Salomão",
       "name": "Ilhas Salomão"
     },
     "SLE": {
       "adjectives": [
-        "serra-leonês",
         "serra-leonense",
+        "serra-leonês",
         "serra-leonino"
       ],
       "anthemName": "Alto te Exaltamos, Domínio dos Livres",
@@ -1548,10 +1547,10 @@
     },
     "SMR": {
       "adjectives": [
-        "são-marinhense",
-        "são-marinense",
         "samarinês",
-        "san-marinense"
+        "san-marinense",
+        "são-marinense",
+        "são-marinhense"
       ],
       "anthemName": "Hino Nacional da República",
       "name": "San Marino"
@@ -1581,17 +1580,17 @@
     },
     "STP": {
       "adjectives": [
-        "são-tomense",
-        "santomense",
+        "forro",
         "sã-tomense",
-        "forro"
+        "santomense",
+        "são-tomense"
       ],
       "name": "São Tomé e Príncipe"
     },
     "SUR": {
       "adjectives": [
-        "surinamês",
-        "surinamense"
+        "surinamense",
+        "surinamês"
       ],
       "anthemName": "Deus Esteja com o Nosso Suriname",
       "name": "Suriname"
@@ -1606,28 +1605,28 @@
     },
     "SVN": {
       "adjectives": [
-        "esloveno",
         "eslovénico",
-        "eslovênico"
+        "eslovênico",
+        "esloveno"
       ],
       "name": "Eslovénia"
     },
     "SWE": {
       "adjectives": [
-        "sueco",
-        "suécio"
+        "suécio",
+        "sueco"
       ],
       "anthemName": "Tu Antiga, Tu Livre",
       "name": "Suécia"
     },
     "SWZ": {
       "adjectives": [
+        "essuatiniano",
         "suazi",
         "suázi",
-        "suazilandês",
         "suazilandense",
-        "suazilandiense",
-        "essuatiniano"
+        "suazilandês",
+        "suazilandiense"
       ],
       "anthemName": "O Lord our God of the Swazi",
       "name": "Suazilândia"
@@ -1642,10 +1641,10 @@
     },
     "SYR": {
       "adjectives": [
-        "sírio",
         "siríaco",
-        "siro",
-        "siriano"
+        "siriano",
+        "sírio",
+        "siro"
       ],
       "anthemName": "Guardiões da Pátria",
       "name": "Síria"
@@ -1670,19 +1669,19 @@
     },
     "THA": {
       "adjectives": [
-        "tailandês",
-        "siamês",
+        "siame",
         "siamense",
-        "siame"
+        "siamês",
+        "tailandês"
       ],
       "anthemName": "Canção Nacional",
       "name": "Tailândia"
     },
     "TJK": {
       "adjectives": [
-        "tajique",
         "tadjique",
         "tadjiquistanês",
+        "tajique",
         "tajiquistanês"
       ],
       "anthemName": "National Anthem",
@@ -1702,10 +1701,10 @@
     },
     "TLS": {
       "adjectives": [
-        "timorense",
+        "maubere",
         "timor",
-        "timorino",
-        "maubere"
+        "timorense",
+        "timorino"
       ],
       "name": "Timor-Leste"
     },
@@ -1725,43 +1724,43 @@
     },
     "TUN": {
       "adjectives": [
-        "tunisiano",
-        "tunisino",
+        "tunesino",
         "tunetano",
-        "tunesino"
+        "tunisiano",
+        "tunisino"
       ],
       "anthemName": "Defensores da Pátria",
       "name": "Tunísia"
     },
     "TUR": {
       "adjectives": [
-        "turco",
-        "túrcico",
-        "turquesco",
+        "osmandi",
+        "osmânico",
+        "osmanli",
         "otomano",
         "otomão",
-        "osmanli",
-        "osmandi",
-        "osmânico"
+        "túrcico",
+        "turco",
+        "turquesco"
       ],
       "anthemName": "Marcha da Independência",
       "name": "Turquia"
     },
     "TUV": {
       "adjectives": [
-        "tuvaluano",
-        "tuvalês"
+        "tuvalês",
+        "tuvaluano"
       ],
       "anthemName": "Tuvalu para os Grandes",
       "name": "Tuvalu"
     },
     "TWN": {
       "adjectives": [
-        "taiwanês",
-        "taiuanês",
-        "formosino",
+        "chinês",
         "formosano",
-        "chinês"
+        "formosino",
+        "taiuanês",
+        "taiwanês"
       ],
       "name": "Taiwan"
     },
@@ -1790,21 +1789,21 @@
     },
     "URY": {
       "adjectives": [
-        "uruguaio",
+        "oriental",
         "uruguaiano",
-        "oriental"
+        "uruguaio"
       ],
       "name": "Uruguai"
     },
     "USA": {
       "adjectives": [
-        "norte-americano",
         "americano",
-        "estadunidense",
+        "americano do norte",
         "estado-unidense",
+        "estadunidense",
         "ianque",
-        "yankee",
-        "americano do norte"
+        "norte-americano",
+        "yankee"
       ],
       "anthemName": "A Bandeira Estrelada",
       "name": "Estados Unidos"
@@ -1812,9 +1811,9 @@
     "UZB": {
       "adjectives": [
         "usbeque",
+        "usbequistanês",
         "uzbeque",
-        "uzbequistanês",
-        "usbequistanês"
+        "uzbequistanês"
       ],
       "anthemName": "National Anthem of the Republic of Uzbekistan",
       "name": "Uzbequistão"
@@ -1835,20 +1834,20 @@
     },
     "VEN": {
       "adjectives": [
-        "venezuelano",
-        "venezolano"
+        "venezolano",
+        "venezuelano"
       ],
       "anthemName": "Glória ao Bravo Povo",
       "name": "Venezuela"
     },
     "VNM": {
       "adjectives": [
-        "vietnamita",
-        "vietnamês",
-        "vietnamense",
-        "vietnamiano",
         "anamês",
-        "anamita"
+        "anamita",
+        "vietnamense",
+        "vietnamês",
+        "vietnamiano",
+        "vietnamita"
       ],
       "altNames": [
         "Vietnã"
@@ -1858,8 +1857,8 @@
     },
     "VUT": {
       "adjectives": [
-        "vanuatuense",
-        "vanuatense"
+        "vanuatense",
+        "vanuatuense"
       ],
       "anthemName": "Nós, Nós, Nós",
       "name": "Vanuatu"
@@ -1874,19 +1873,19 @@
     },
     "YEM": {
       "adjectives": [
-        "iemenita",
+        "iemenense",
+        "iemenês",
         "ieménico",
         "iemênico",
-        "iemenense",
-        "iemenês"
+        "iemenita"
       ],
       "name": "Iémen"
     },
     "ZAF": {
       "adjectives": [
-        "sul-africano",
         "austro-africano",
-        "sul-africanista"
+        "sul-africanista",
+        "sul-africano"
       ],
       "name": "África do Sul"
     },

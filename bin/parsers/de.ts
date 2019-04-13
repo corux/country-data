@@ -1,17 +1,12 @@
 import Axios from "axios";
 import * as cheerio from "cheerio";
 
-// tslint:disable:object-literal-sort-keys
-function distinct<T>(array: T[]): T[] {
-  return Array.from(new Set(array.map((item: any) => item)));
-}
-
 function fixCountryName(name: string): string {
   const fixedNames = {
-    "Korea, Süd": "Südkorea",
-    "Korea, Nord": "Nordkorea",
     "Kongo, Demokratische Republik": "Demokratische Republik Kongo",
     "Kongo, Republik": "Republik Kongo",
+    "Korea, Nord": "Nordkorea",
+    "Korea, Süd": "Südkorea",
     "Osttimor / Timor-Leste": "Osttimor",
   };
   return fixedNames[name] || name.replace(/[\u00AD]+/g, "").replace(/^–$/, "") || undefined;
@@ -20,20 +15,20 @@ function fixCountryName(name: string): string {
 function getAlternativeNames(name: string): string {
   const altNames = {
     Myanmar: ["Burma"],
-    Vatikanstadt: ["Vatikan"],
     Swaziland: ["Eswatini"],
+    Vatikanstadt: ["Vatikan"],
   };
   const altNamesI18n = {
-    "Vereinigtes Königreich": ["England", "Großbritannien"],
-    "Vereinigte Staaten": ["USA"],
-    "Volksrepublik China": ["China"],
-    "Republik China": ["Taiwan"],
-    "Osttimor": ["Timor-Leste"],
-    "Niederlande": ["Holland"],
     "Demokratische Republik Kongo": ["Kongo"],
+    "Niederlande": ["Holland"],
     "Nordmazedonien": ["Mazedonien"],
-    "Tschechien": ["Tschechei"],
+    "Osttimor": ["Timor-Leste"],
+    "Republik China": ["Taiwan"],
     "Sudan": ["Nordsudan"],
+    "Tschechien": ["Tschechei"],
+    "Vereinigte Staaten": ["USA"],
+    "Vereinigtes Königreich": ["England", "Großbritannien"],
+    "Volksrepublik China": ["China"],
   };
   const result = (altNames[name] || []).concat((altNamesI18n || {})[name])
     .filter((n) => !!n);
@@ -68,9 +63,9 @@ export async function german(): Promise<any> {
     };
     const getAdjectives = (iso3: string) => {
       const mapping = {
-        GBR: ["englisch", "großbritannisch"],
         BIH: ["bosnisch", "herzegowinisch"],
         CHE: ["schweizer"],
+        GBR: ["englisch", "großbritannisch"],
         MKD: ["mazedonisch"],
         NLD: ["holländisch"],
       };
@@ -80,11 +75,11 @@ export async function german(): Promise<any> {
     if (iso) {
       const name = fixCountryName(get(0));
       data[iso] = {
-        name,
-        longName: fixCountryName(get(1)),
+        adjectives: getAdjectives(iso),
         altNames: getAlternativeNames(name),
         capital: fixCapitalName(get(2)),
-        adjectives: getAdjectives(iso),
+        longName: fixCountryName(get(1)),
+        name,
       };
     }
   });
@@ -99,20 +94,29 @@ export async function german(): Promise<any> {
     if (match && match[1]) {
       isoCode = match[1];
     }
+
+    const mapping = {
+      BIH: ["bosnisch", "herzegowinisch"],
+      CHE: ["schweizer"],
+      CPV: ["kapverdisch"],
+      GBR: ["großbritannisch", "englisch"],
+      MKD: ["mazedonisch"],
+      NLD: ["holländisch"],
+      SWZ: ["swasiländisch", "swatinisch"],
+      TLS: ["osttimoresisch"],
+      TWN: ["taiwanisch"],
+      USA: ["US-amerikanisch"],
+    };
     if (isoCode && td.length >= 4 && data[isoCode]) {
-      let adjectives = data[isoCode].adjectives || [];
-      const adjective = td.last().text().trim()
+      const adjectives = td.last().text().trim()
         .replace(/\((.*)\)/, ",$1,")
         .replace(/\[(.*)\]/, ",$1,")
         .replace(" oder ", ",")
-        .replace(/bis [0-9]*:/i, "");
-      adjectives = adjectives
-        .concat(adjective.split(","))
+        .replace(/bis [0-9]*:/i, "")
+        .split(",")
         .map((val) => val.trim())
         .filter((val) => val.length > 0 && val.match(/^[a-zäöüÄÖÜ]/i));
-      if (adjectives.length) {
-        data[isoCode].adjectives = distinct(adjectives);
-      }
+      data[isoCode].adjectives = adjectives.concat(mapping[isoCode] || []);
     }
   }
 
@@ -134,8 +138,8 @@ export async function german(): Promise<any> {
       return src ? `https:${src}` : undefined;
     };
     return {
-      name: getName(),
       anthemName: fixAnthemName(get(2) || get(1)),
+      name: getName(),
       url: getAudio(),
     };
   }).get();

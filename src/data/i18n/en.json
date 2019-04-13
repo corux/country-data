@@ -49,8 +49,8 @@
     "ARE": {
       "adjectives": [
         "Emirati",
-        "Emirian",
-        "Emiri"
+        "Emiri",
+        "Emirian"
       ],
       "anthemName": "Long Live my Homeland",
       "capital": "Abu Dhabi",
@@ -255,8 +255,8 @@
     },
     "BWA": {
       "adjectives": [
-        "Motswana",
-        "Botswanan"
+        "Botswanan",
+        "Motswana"
       ],
       "anthemName": "Blessed Be This Noble Land",
       "capital": "Gaborone",
@@ -492,9 +492,9 @@
     },
     "ESH": {
       "adjectives": [
+        "Sahraouian",
         "Sahrawi",
-        "Sahrawian",
-        "Sahraouian"
+        "Sahrawian"
       ],
       "anthemName": "O Sons of the Sahara",
       "capital": "El Aaiún",
@@ -629,8 +629,8 @@
     },
     "GNQ": {
       "adjectives": [
-        "Equatorial Guinean",
-        "Equatoguinean"
+        "Equatoguinean",
+        "Equatorial Guinean"
       ],
       "anthemName": "Let Us Tread the Path of our Immense Happiness",
       "capital": "Malabo",
@@ -807,8 +807,8 @@
     },
     "KAZ": {
       "adjectives": [
-        "Kazakhstani",
-        "Kazakh"
+        "Kazakh",
+        "Kazakhstani"
       ],
       "anthemName": "My Kazakhstan",
       "capital": "Astana",
@@ -826,10 +826,10 @@
     },
     "KGZ": {
       "adjectives": [
-        "Kyrgyzstani",
-        "Kyrgyz",
+        "Kirghiz",
         "Kirgiz",
-        "Kirghiz"
+        "Kyrgyz",
+        "Kyrgyzstani"
       ],
       "anthemName": "National Anthem of the Kyrgyz Republic",
       "capital": "Bishkek",
@@ -994,8 +994,8 @@
     },
     "MCO": {
       "adjectives": [
-        "Monégasque",
-        "Monacan"
+        "Monacan",
+        "Monégasque"
       ],
       "anthemName": "Monégasque Anthem",
       "capital": "Monaco",
@@ -1214,8 +1214,8 @@
     },
     "NPL": {
       "adjectives": [
-        "Nepali",
-        "Nepalese"
+        "Nepalese",
+        "Nepali"
       ],
       "anthemName": "A Garland of Hundred Flowers",
       "capital": "Kathmandu",
@@ -1525,8 +1525,8 @@
     },
     "SVN": {
       "adjectives": [
-        "Slovenian",
-        "Slovene"
+        "Slovene",
+        "Slovenian"
       ],
       "anthemName": "A Toast",
       "capital": "Ljubljana",
@@ -1544,8 +1544,8 @@
     },
     "SWZ": {
       "adjectives": [
-        "Swazi",
-        "Swati"
+        "Swati",
+        "Swazi"
       ],
       "altNames": [
         "Eswatini"
@@ -1637,8 +1637,8 @@
     },
     "TTO": {
       "adjectives": [
-        "Trinidadian",
-        "Tobagonian"
+        "Tobagonian",
+        "Trinidadian"
       ],
       "anthemName": "Forged from the Love of Liberty",
       "capital": "Port of Spain",
@@ -1717,9 +1717,9 @@
     },
     "USA": {
       "adjectives": [
-        "United States",
+        "American",
         "U.S.",
-        "American"
+        "United States"
       ],
       "anthemName": "The Star-Spangled Banner",
       "capital": "Washington D.C.",
@@ -1728,8 +1728,8 @@
     },
     "UZB": {
       "adjectives": [
-        "Uzbekistani",
-        "Uzbek"
+        "Uzbek",
+        "Uzbekistani"
       ],
       "anthemName": "National Anthem of the Republic of Uzbekistan",
       "capital": "Tashkent",
@@ -1793,8 +1793,8 @@
     },
     "XXK": {
       "adjectives": [
-        "Kosovar",
-        "Kosovan"
+        "Kosovan",
+        "Kosovar"
       ],
       "anthemName": "Europe",
       "capital": "Pristina",
