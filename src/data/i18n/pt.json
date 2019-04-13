@@ -7,6 +7,7 @@
         "afegânico",
         "afegão"
       ],
+      "anthemName": "Hino Nacional",
       "name": "Afeganistão"
     },
     "AGO": {
@@ -497,6 +498,7 @@
         "dominicano",
         "domínico"
       ],
+      "anthemName": "Hino Nacional",
       "name": "República Dominicana"
     },
     "DZA": {
@@ -769,6 +771,7 @@
         "madgiar",
         "magiar"
       ],
+      "anthemName": "Hino",
       "name": "Hungria"
     },
     "IDN": {
@@ -827,6 +830,7 @@
         "islandês",
         "islândico"
       ],
+      "anthemName": "Hino",
       "name": "Islândia"
     },
     "ISR": {
@@ -959,6 +963,7 @@
         "kwaitiano",
         "quaitiano"
       ],
+      "anthemName": "Hino Nacional",
       "name": "Kuwait"
     },
     "LAO": {
@@ -1344,6 +1349,7 @@
         "paquistani",
         "paquistânico"
       ],
+      "anthemName": "Hino Nacional",
       "name": "Paquistão"
     },
     "PAN": {
@@ -1793,6 +1799,7 @@
         "uruguaiano",
         "uruguaio"
       ],
+      "anthemName": "Hino Nacional",
       "name": "Uruguai"
     },
     "USA": {

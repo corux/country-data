@@ -9,6 +9,7 @@
       "adjectives": [
         "afghanisch"
       ],
+      "anthemName": "Nationalhymne",
       "capital": "Kabul",
       "longName": "Islamische Republik Afghanistan",
       "name": "Afghanistan"
@@ -242,6 +243,7 @@
       "adjectives": [
         "bhutanisch"
       ],
+      "anthemName": "Nationalhymne",
       "capital": "Thimphu",
       "longName": "Königreich Bhutan",
       "name": "Bhutan"
@@ -712,6 +714,7 @@
       "adjectives": [
         "ungarisch"
       ],
+      "anthemName": "Hymne",
       "capital": "Budapest",
       "longName": "Ungarn",
       "name": "Ungarn"
@@ -879,6 +882,7 @@
       "adjectives": [
         "kuwaitisch"
       ],
+      "anthemName": "Nationalhymne",
       "capital": "Kuwait-Stadt",
       "longName": "Staat Kuwait",
       "name": "Kuwait"
@@ -1258,6 +1262,7 @@
       "adjectives": [
         "pakistanisch"
       ],
+      "anthemName": "Nationalhymne",
       "capital": "Islamabad",
       "longName": "Islamische Republik Pakistan",
       "name": "Pakistan"
@@ -1585,6 +1590,7 @@
       "adjectives": [
         "thailändisch"
       ],
+      "anthemName": "Nationalhymne",
       "capital": "Bangkok",
       "longName": "Königreich Thailand",
       "name": "Thailand"
@@ -1593,6 +1599,7 @@
       "adjectives": [
         "tadschikisch"
       ],
+      "anthemName": "Nationalhymne",
       "capital": "Duschanbe",
       "longName": "Republik Tadschikistan",
       "name": "Tadschikistan"

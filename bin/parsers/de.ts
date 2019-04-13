@@ -43,14 +43,6 @@ function fixCapitalName(name: string): string {
   return name.match(/^([^(]*)/)[1].trim();
 }
 
-function fixAnthemName(name: string): string {
-  if (["nationalhymne", "hymne"].indexOf(name.toLowerCase()) !== -1) {
-    return;
-  }
-
-  return name;
-}
-
 export async function german(): Promise<any> {
   // parse wikipedia country data
   let $ = cheerio.load((await Axios.get("https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde")).data);
@@ -138,7 +130,7 @@ export async function german(): Promise<any> {
       return src ? `https:${src}` : undefined;
     };
     return {
-      anthemName: fixAnthemName(get(2) || get(1)),
+      anthemName: get(2) || get(1),
       name: getName(),
       url: getAudio(),
     };

@@ -2,7 +2,6 @@ import Axios from "axios";
 import * as cheerio from "cheerio";
 import { getFromCountryJs } from ".";
 
-// tslint:disable:object-literal-sort-keys
 function fixCountryName(name: string): string {
   const fixedNames = {
     Macédoine: "Macédoine du Nord",
@@ -14,25 +13,26 @@ export async function french(isoCodes: string[]): Promise<any> {
   let $ = cheerio.load((await Axios.get("https://fr.wikipedia.org/wiki/Liste_des_hymnes_nationaux")).data);
   const anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
     const get = (position) => {
-      let text = $(elem).children().eq(position).text();
-      text = text.split("\n")[0];
-      text = text.replace(/\[.*\]/, "");
+      const text = $(elem).children().eq(position).text()
+        .split("\n")[0]
+        .replace(/\[.*\]/, "")
+        .trim();
       return text;
     };
     const getName = () => {
       const text = $(elem).children().eq(0).find("a").text().replace(/\[.*\]/, "");
       const mapping = {
-        "Salomon": "Îles Salomon",
-        "République du Congo": "Congo",
-        "États fédérés de Micronésie": "Micronésie",
         "Myanmar": "Birmanie",
+        "République du Congo": "Congo",
+        "Salomon": "Îles Salomon",
+        "États fédérés de Micronésie": "Micronésie",
       };
       return mapping[text] || text;
     };
 
     return {
+      anthemName: get(2) || get(1),
       name: getName(),
-      anthemName: get(2).trim() || get(1).trim(),
     };
   }).get();
 
@@ -45,8 +45,8 @@ export async function french(isoCodes: string[]): Promise<any> {
       Libéria: "Liberia",
     };
     return {
-      name: mapping[name] || name,
       adjectives: adjectives.map((n) => n[0]).filter((n) => !!n),
+      name: mapping[name] || name,
     };
   }).get();
 
@@ -56,14 +56,14 @@ export async function french(isoCodes: string[]): Promise<any> {
       const getAltNames = () => {
         const mapping = {
           GBR: ["Angleterre", "Grande Bretagne"],
-          MMR: ["Myanmar"],
           MKD: ["Macédoine"],
+          MMR: ["Myanmar"],
         };
         return mapping[val.ISO.alpha3] || undefined;
       };
       const country: any = data[val.ISO.alpha3] = {
-        name: fixCountryName(val.translations.fr),
         altNames: getAltNames(),
+        name: fixCountryName(val.translations.fr),
       };
       const anthem = anthemData.find((a) => a.name === country.name);
       if (anthem) {

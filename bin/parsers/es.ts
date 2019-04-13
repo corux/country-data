@@ -1,7 +1,6 @@
 import Axios from "axios";
 import * as cheerio from "cheerio";
 
-// tslint:disable:object-literal-sort-keys
 export async function spanish(isoCodes: string[]): Promise<any> {
   let $ = cheerio.load((await Axios.get("https://es.wikipedia.org/wiki/ISO_3166-1")).data);
   const countryData = $(".wikitable.sortable tbody").first().find("tr").map((i, elem) => {
@@ -34,8 +33,8 @@ export async function spanish(isoCodes: string[]): Promise<any> {
 
     return {
       iso: get(3),
-      name: mapping[name] || name,
       longName: name !== longName ? longName : undefined,
+      name: mapping[name] || name,
     };
   }).get().filter((n) => isoCodes.indexOf(n.iso) !== -1);
   countryData.push({ iso: "ABC", name: "Abjasia", longName: "Abjasio y Ruso" });
@@ -47,11 +46,11 @@ export async function spanish(isoCodes: string[]): Promise<any> {
     const getName = () => {
       const text = $(elem).children().eq(0).find("a").first().text();
       const mapping = {
-        "República de Macedonia": "Macedonia",
-        "Estados Federados de Micronesia": "Micronesia",
         "Birmania": "Myanmar",
-        "República de China": "Taiwán",
+        "Estados Federados de Micronesia": "Micronesia",
         "Países Bajos": "Países Bajos",
+        "República de China": "Taiwán",
+        "República de Macedonia": "Macedonia",
       };
       return mapping[text] || text;
     };
@@ -65,9 +64,9 @@ export async function spanish(isoCodes: string[]): Promise<any> {
     };
     const capital = $(elem).children().eq(2).find("a").first().text().trim();
     return {
-      name: getName(),
       adjectives: getAdjectives(),
       capital,
+      name: getName(),
     };
   }).get();
 
@@ -80,11 +79,11 @@ export async function spanish(isoCodes: string[]): Promise<any> {
   countryData.forEach((val) => {
     const adjectives = adjectiveData.find((n) => n.name === val.name || n.name === val.longName);
     data[val.iso] = {
-      name: val.name,
-      longName: val.longName,
       adjectives: adjectives.adjectives,
-      capital: adjectives.capital,
       altNames: altNames[val.name],
+      capital: adjectives.capital,
+      longName: val.longName,
+      name: val.name,
     };
   });
 

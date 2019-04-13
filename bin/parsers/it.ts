@@ -1,14 +1,14 @@
 import Axios from "axios";
 import * as cheerio from "cheerio";
 
-// tslint:disable:object-literal-sort-keys
 export async function italian(isoCodes: string[]): Promise<any> {
   let $ = cheerio.load((await Axios.get("https://it.wikipedia.org/wiki/ISO_3166-1")).data);
   const countryData = $(".wikitable.sortable tbody").first().find("tr").map((i, elem) => {
     const get = (position) => {
-      let text = $(elem).children().eq(position).text();
-      text = text.split("\n")[0];
-      text = text.replace(/\[.*\]/, "");
+      const text = $(elem).children().eq(position).text()
+        .split("\n")[0]
+        .replace(/\[.*\]/, "")
+        .trim();
       return text;
     };
     const name = $(elem).children().eq(1).find("a").text()
@@ -40,8 +40,8 @@ export async function italian(isoCodes: string[]): Promise<any> {
       return match[2] || match[1];
     };
     return {
-      name,
       anthemName: getAnthemName(),
+      name,
     };
   }).get();
 
@@ -58,8 +58,8 @@ export async function italian(isoCodes: string[]): Promise<any> {
         .filter((n) => !!n);
     };
     return {
-      name: mapping[name] || name,
       adjectives: getAdjectives(),
+      name: mapping[name] || name,
     };
   }).get();
 
@@ -72,8 +72,8 @@ export async function italian(isoCodes: string[]): Promise<any> {
     };
     const capital = $(elem).children().eq(1).find("a:first-of-type").text().trim();
     return {
-      name: mapping[name] || name,
       capital,
+      name: mapping[name] || name,
     };
   }).get();
 
@@ -90,12 +90,12 @@ export async function italian(isoCodes: string[]): Promise<any> {
       "RD del Congo": "Repubblica Democratica del Congo",
     };
     data[val.iso] = {
-      name: mapping[val.name] || val.name,
-      longName: val.longName,
-      anthemName: anthem ? anthem.anthemName : undefined,
       adjectives: adjectives.adjectives,
       altNames: altNames[val.iso],
+      anthemName: anthem ? anthem.anthemName : undefined,
       capital: capital ? capital.capital : undefined,
+      longName: val.longName,
+      name: mapping[val.name] || val.name,
     };
   });
 

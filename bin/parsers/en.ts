@@ -2,18 +2,17 @@ import Axios from "axios";
 import * as cheerio from "cheerio";
 import { getFromCountryJs } from ".";
 
-// tslint:disable:object-literal-sort-keys
 function fixCountryName(name: string): string {
   const fixedNames = {
-    "Korea, Süd": "Südkorea",
-    "Korea, Nord": "Nordkorea",
+    "Federated States of Micronesia": "Micronesia",
     "Kongo, Demokratische Republik": "Demokratische Republik Kongo",
     "Kongo, Republik": "Republik Kongo",
-    "Osttimor / Timor-Leste": "Osttimor",
-    "Federated States of Micronesia": "Micronesia",
-    "Republic of Macedonia": "Macedonia",
+    "Korea, Nord": "Nordkorea",
+    "Korea, Süd": "Südkorea",
     "Macedonia": "North Macedonia",
     "Macédoine": "Macédoine du Nord",
+    "Osttimor / Timor-Leste": "Osttimor",
+    "Republic of Macedonia": "Macedonia",
   };
   return fixedNames[name] || name.replace(/[\u00AD]+/g, "").replace(/^–$/, "") || undefined;
 }
@@ -21,12 +20,12 @@ function fixCountryName(name: string): string {
 function getAlternativeNames(name: string): string {
   const altNames = {
     Myanmar: ["Burma"],
-    Vatikanstadt: ["Vatikan"],
     Swaziland: ["Eswatini"],
+    Vatikanstadt: ["Vatikan"],
   };
   const altNamesI18n = {
-    "Sudan": ["North Sudan"],
     "North Macedonia": ["Macedonia"],
+    "Sudan": ["North Sudan"],
   };
   const result = (altNames[name] || []).concat((altNamesI18n)[name])
     .filter((n) => !!n);
@@ -50,8 +49,8 @@ export async function english(isoCodes: string[]): Promise<any> {
       const text = $(elem).children().eq(0).children("a").first().text();
       const mapping = {
         "Bahamas": "The Bahamas",
-        "Republic of China": "Taiwan",
         "People's Republic of China": "China",
+        "Republic of China": "Taiwan",
       };
       return mapping[text] || text;
     };
@@ -68,8 +67,8 @@ export async function english(isoCodes: string[]): Promise<any> {
       return match[2] || match[1];
     };
     return {
-      name: getName(),
       anthemName: getAnthemName(),
+      name: getName(),
       url: getAudio(),
     };
   }).get();
@@ -87,14 +86,14 @@ export async function english(isoCodes: string[]): Promise<any> {
       let text = $(elem).children().eq(0).find("a").first().text();
       text = text.split(",").reverse().join(" ").trim();
       const mapping = {
-        "United States of America": "United States",
-        "United Kingdom of Great Britain and Northern Ireland": "United Kingdom",
         "Cabo Verde": "Cape Verde",
+        "Eswatini (Swaziland)": "Swaziland",
         "Federated States of Micronesia": "Micronesia",
         "Republic of Macedonia": "Macedonia",
-        "Vatican City State": "Vatican City",
-        "Eswatini (Swaziland)": "Swaziland",
         "Republic of North Macedonia": "North Macedonia",
+        "United Kingdom of Great Britain and Northern Ireland": "United Kingdom",
+        "United States of America": "United States",
+        "Vatican City State": "Vatican City",
       };
       return mapping[text] || text;
     };
@@ -110,8 +109,8 @@ export async function english(isoCodes: string[]): Promise<any> {
       return (mapping[getName()] || []).concat(foundAdjectives || []);
     };
     return {
-      name: getName(),
       adjectives: getAdjectives(),
+      name: getName(),
     };
   }).get();
 
@@ -126,16 +125,16 @@ export async function english(isoCodes: string[]): Promise<any> {
     let name = $(elem).children().eq(0).find("a").first().text()
       .split(",").reverse().join(" ").trim();
     const mapping = {
-      "Sahrawi Arab Democratic Republic": "Western Sahara",
       "Eswatini": "Swaziland",
+      "Sahrawi Arab Democratic Republic": "Western Sahara",
     };
     const longNameMapping = {
       "Western Sahara": "Sahrawi Arab Democratic Republic",
     };
     name = mapping[name] || name;
     return {
-      name,
       longName: longNameMapping[name] || nameRow[1],
+      name,
     };
   }).get().filter((n) => !!n);
 
@@ -148,10 +147,10 @@ export async function english(isoCodes: string[]): Promise<any> {
       const name = fixCountryName(val.name);
       const mappedName = mapping[name] || name;
       const country: any = data[val.ISO.alpha3] = {
-        name: mappedName,
-        capital: fixCapitalName(val.capital),
         altNames: getAlternativeNames(mappedName),
+        capital: fixCapitalName(val.capital),
         longName: nameData.find((n) => n.name === mappedName).longName,
+        name: mappedName,
       };
       const anthem = anthemData.find((a) => a.name === mappedName);
       if (anthem) {

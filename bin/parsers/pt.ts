@@ -35,9 +35,10 @@ export async function portugese(isoCodes: string[]): Promise<any> {
   $ = cheerio.load((await Axios.get("https://pt.wikipedia.org/wiki/Lista_de_hinos_nacionais_e_regionais")).data);
   const anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
     const get = (position) => {
-      let text = $(elem).children().eq(position).text();
-      text = text.split("\n")[0];
-      text = text.replace(/\[.*\]/, "");
+      const text = $(elem).children().eq(position).text()
+        .split("\n")[0]
+        .replace(/\[.*\]/, "")
+        .trim();
       return text;
     };
     const getName = () => {
@@ -52,10 +53,7 @@ export async function portugese(isoCodes: string[]): Promise<any> {
         return undefined;
       }
 
-      const name = match[2] || match[1];
-      if (["Hino Nacional", "Hino"].indexOf(name) === -1) {
-        return name;
-      }
+      return match[2] || match[1];
     };
     const getAudio = () => {
       const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
@@ -85,6 +83,7 @@ export async function portugese(isoCodes: string[]): Promise<any> {
         .trim())
       .filter((o) => !!o);
     const mapping = {
+      "Burkina Fasso": "Burkina Faso",
       "Macedónia": "Macedónia do Norte",
       "Malaui": "Malawi",
       "Papua Nova Guiné": "Papua-Nova Guiné",
