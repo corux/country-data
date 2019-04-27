@@ -126,9 +126,11 @@ export async function english(isoCodes: string[]): Promise<any> {
       .split(",").reverse().join(" ").trim();
     const mapping = {
       "Eswatini": "Swaziland",
+      "Federated States of Micronesia": "Micronesia",
       "Sahrawi Arab Democratic Republic": "Western Sahara",
     };
     const longNameMapping = {
+      "Micronesia": "Federated States of Micronesia",
       "Western Sahara": "Sahrawi Arab Democratic Republic",
     };
     name = mapping[name] || name;
@@ -142,7 +144,8 @@ export async function english(isoCodes: string[]): Promise<any> {
   getFromCountryJs(isoCodes)
     .forEach((val) => {
       const mapping = {
-        Macedonia: "North Macedonia",
+        "Federated States of Micronesia": "Micronesia",
+        "Macedonia": "North Macedonia",
       };
       const name = fixCountryName(val.name);
       const mappedName = mapping[name] || name;

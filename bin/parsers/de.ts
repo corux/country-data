@@ -99,7 +99,7 @@ export async function german(): Promise<any> {
       TWN: ["taiwanisch"],
       USA: ["US-amerikanisch"],
     };
-    if (isoCode && td.length >= 4 && data[isoCode]) {
+    if (isoCode && data[isoCode]) {
       const adjectives = td.last().text().trim()
         .replace(/\((.*)\)/, ",$1,")
         .replace(/\[(.*)\]/, ",$1,")
@@ -107,8 +107,10 @@ export async function german(): Promise<any> {
         .replace(/bis [0-9]*:/i, "")
         .split(",")
         .map((val) => val.trim())
-        .filter((val) => val.length > 0 && val.match(/^[a-zäöüÄÖÜ]/i));
-      data[isoCode].adjectives = adjectives.concat(mapping[isoCode] || []);
+        .filter((val) => val.match(/^[a-zöäü][a-z\x7f-\xff\-]+$/));
+      data[isoCode].adjectives = adjectives
+        .concat(mapping[isoCode] || [])
+        .concat(data[isoCode].adjectives || []);
     }
   }
 

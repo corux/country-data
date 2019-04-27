@@ -250,7 +250,8 @@
     },
     "BWA": {
       "adjectives": [
-        "botsuanisch"
+        "botsuanisch",
+        "botswanisch"
       ],
       "anthemName": "Gesegnet sei dies edle Land",
       "capital": "Gaborone",
@@ -370,6 +371,7 @@
     },
     "CPV": {
       "adjectives": [
+        "caboverdisch",
         "kap-verdisch",
         "kapverdisch"
       ],
@@ -871,7 +873,8 @@
     },
     "KOR": {
       "adjectives": [
-        "koreanisch"
+        "koreanisch",
+        "südkoreanisch"
       ],
       "anthemName": "Lied der Liebe für das Land",
       "capital": "Seoul",
@@ -1323,7 +1326,8 @@
     },
     "PRK": {
       "adjectives": [
-        "koreanisch"
+        "koreanisch",
+        "nordkoreanisch"
       ],
       "anthemName": "Lass die Morgensonne scheinen",
       "capital": "Pjöngjang",
@@ -1616,7 +1620,8 @@
     "TLS": {
       "adjectives": [
         "osttimoresisch",
-        "osttimorisch"
+        "osttimorisch",
+        "timorisch"
       ],
       "altNames": [
         "Timor-Leste"
