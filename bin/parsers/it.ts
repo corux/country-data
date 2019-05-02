@@ -3,7 +3,7 @@ import * as cheerio from "cheerio";
 
 export async function italian(isoCodes: string[]): Promise<any> {
   let $ = cheerio.load((await Axios.get("https://it.wikipedia.org/wiki/ISO_3166-1")).data);
-  const countryData = $(".wikitable.sortable tbody").first().find("tr").map((i, elem) => {
+  let countryData = $(".wikitable.sortable tbody").first().find("tr").map((i, elem) => {
     const get = (position) => {
       const text = $(elem).children().eq(position).text()
         .split("\n")[0]
@@ -20,6 +20,23 @@ export async function italian(isoCodes: string[]): Promise<any> {
       name: mapping[name] || name,
     };
   }).get().filter((n) => isoCodes.indexOf(n.iso) !== -1);
+  countryData = countryData.concat([
+    {
+      iso: "ABC",
+      longName: "Repubblica di Abcasia",
+      name: "Abcasia",
+    },
+    {
+      iso: "SOS",
+      longName: "Repubblica dell'Ossezia del Sud",
+      name: "Ossezia del Sud",
+    },
+    {
+      iso: "XXK",
+      longName: "Repubblica del Kosovo",
+      name: "Kosovo",
+    },
+  ]);
 
   $ = cheerio.load((await Axios.get("https://it.wikipedia.org/wiki/Inno_nazionale")).data);
   const anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
@@ -79,7 +96,7 @@ export async function italian(isoCodes: string[]): Promise<any> {
 
   const data = {};
   countryData.forEach((val) => {
-    const adjectives = adjectiveData.find((n) => n.name === val.name);
+    const adjectives = adjectiveData.find((n) => n.name === val.name) || {};
     const anthem = anthemData.find((n) => n.name === val.name);
     const capital = capitalData.find((n) => n.name === val.name);
 

@@ -1,5 +1,11 @@
 {
   "countries": {
+    "ABC": {
+      "anthemName": "Vittoria",
+      "capital": "Sukhumi",
+      "longName": "Repubblica di Abcasia",
+      "name": "Abcasia"
+    },
     "AFG": {
       "adjectives": [
         "afgano",
@@ -1344,6 +1350,12 @@
       "capital": "Mogadiscio",
       "name": "Somalia"
     },
+    "SOS": {
+      "anthemName": "Inno nazionale dell'Ossezia del Sud",
+      "capital": "Tskhinvali",
+      "longName": "Repubblica dell'Ossezia del Sud",
+      "name": "Ossezia del Sud"
+    },
     "SRB": {
       "adjectives": [
         "serbo"
@@ -1627,6 +1639,16 @@
       "anthemName": "La bandiera della libertà",
       "capital": "Apia",
       "name": "Samoa"
+    },
+    "XXK": {
+      "adjectives": [
+        "kosovaro",
+        "kossovaro"
+      ],
+      "anthemName": "Europa",
+      "capital": "Pristina",
+      "longName": "Repubblica del Kosovo",
+      "name": "Kosovo"
     },
     "YEM": {
       "adjectives": [
