@@ -8,39 +8,39 @@ export function getFromCountryJs(isoCodes: string[]): any[] {
   const additional = [
     {
       ISO: { alpha3: "ABC" }, name: "Abkhazia", capital: "Sukhumi",
-      translations: { fr: "Abkhazie" }, borders: ["GEO", "RUS"],
+      translations: { fr: "Abkhazie" }, borders: ["GEO", "RUS"], region: "AS",
     },
     {
       ISO: { alpha3: "AND" }, name: "Andorra", capital: "Andorra la Vella",
-      translations: { fr: "Andorre" }, borders: ["ESP", "FRA"],
+      translations: { fr: "Andorre" }, borders: ["ESP", "FRA"], region: "EU",
     },
     {
       ISO: { alpha3: "XXK" }, name: "Kosovo", capital: "Pristina",
-      translations: { fr: "Kosovo" }, borders: ["MNE", "ALB", "MKD", "SRB"],
+      translations: { fr: "Kosovo" }, borders: ["MNE", "ALB", "MKD", "SRB"], region: "EU",
     },
     {
       ISO: { alpha3: "MNE" }, name: "Montenegro", capital: "Podgorica",
-      translations: { fr: "Monténégro" }, borders: ["ALB", "XXK", "SRB", "BIH", "HRV"],
+      translations: { fr: "Monténégro" }, borders: ["ALB", "XXK", "SRB", "BIH", "HRV"], region: "EU",
     },
     {
       ISO: { alpha3: "MMR" }, name: "Myanmar", capital: "Nay Pyi Taw",
-      translations: { fr: "Birmanie" }, borders: ["THA", "LAO", "CHN", "BGD", "IND"],
+      translations: { fr: "Birmanie" }, borders: ["THA", "LAO", "CHN", "BGD", "IND"], region: "AS",
     },
     {
       ISO: { alpha3: "PSE" }, name: "Palestine", capital: "East Jerusalem",
-      translations: { fr: "Palestine" }, borders: ["ISR", "JOR"],
+      translations: { fr: "Palestine" }, borders: ["ISR", "JOR"], region: "AS",
     },
     {
       ISO: { alpha3: "SRB" }, name: "Serbia", capital: "Belgrade",
-      translations: { fr: "Serbie" }, borders: ["HRV", "XXK", "MNE", "BIH", "MKD", "BGR", "ROU", "HUN"],
+      translations: { fr: "Serbie" }, borders: ["HRV", "XXK", "MNE", "BIH", "MKD", "BGR", "ROU", "HUN"], region: "EU",
     },
     {
       ISO: { alpha3: "SOS" }, name: "South Ossetia", capital: "Tskhinvali",
-      translations: { fr: "Ossétie du Sud" }, borders: ["GEO", "RUS"],
+      translations: { fr: "Ossétie du Sud" }, borders: ["GEO", "RUS"], region: "AS",
     },
     {
       ISO: { alpha3: "VAT" }, name: "Vatican City", capital: "Vatican City",
-      translations: { fr: "Vatican" }, borders: ["ITA"],
+      translations: { fr: "Vatican" }, borders: ["ITA"], region: "EU",
     },
   ];
 
@@ -96,6 +96,8 @@ export function getRegionCode(countryJsData: { region: string, subregion: string
     case "Oceania":
       return "OC";
   }
+
+  return countryJsData.region;
 }
 
 export async function generic(): Promise<any> {

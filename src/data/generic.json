@@ -10,7 +10,8 @@
       "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_the_Republic_of_Abkhazia.svg"
     },
     "iso3": "ABC",
-    "population": 240000
+    "population": 240000,
+    "region": "AS"
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/National_anthem_of_Afghanistan%2C_performed_by_the_United_States_Navy_Band.wav",
@@ -127,7 +128,8 @@
     },
     "iso2": "AD",
     "iso3": "AND",
-    "population": 80000
+    "population": 80000,
+    "region": "EU"
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/en/d/d0/Angola%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28March_1996_arrangement%29.ogg",
@@ -2066,7 +2068,8 @@
     },
     "iso2": "XK",
     "iso3": "XXK",
-    "population": 1800000
+    "population": 1800000,
+    "region": "EU"
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lijepa_nasa_domovino_instrumental.ogg",
@@ -2698,7 +2701,8 @@
     },
     "iso2": "ME",
     "iso3": "MNE",
-    "population": 600000
+    "population": 600000,
+    "region": "EU"
   },
   {
     "anthem": "http://www.nationalanthems.info/mz.mp3",
@@ -2742,7 +2746,8 @@
     },
     "iso2": "MM",
     "iso3": "MMR",
-    "population": 53400000
+    "population": 53400000,
+    "region": "AS"
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Namibian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga",
@@ -3108,7 +3113,8 @@
     },
     "iso2": "PS",
     "iso3": "PSE",
-    "population": 4900000
+    "population": 4900000,
+    "region": "AS"
   },
   {
     "anthem": "http://www.nationalanthems.info/pw.mp3",
@@ -3610,7 +3616,8 @@
     },
     "iso2": "RS",
     "iso3": "SRB",
-    "population": 7000000
+    "population": 7000000,
+    "region": "EU"
   },
   {
     "anthem": "http://www.nationalanthems.info/sc.mp3",
@@ -3957,7 +3964,8 @@
       "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_South_Ossetia.svg"
     },
     "iso3": "SOS",
-    "population": 51000
+    "population": 51000,
+    "region": "AS"
   },
   {
     "anthem": "http://www.nationalanthems.info/ss.mp3",
@@ -4508,7 +4516,8 @@
     },
     "iso2": "VA",
     "iso3": "VAT",
-    "population": 829
+    "population": 829,
+    "region": "EU"
   },
   {
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/United_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg",
