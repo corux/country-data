@@ -24,5 +24,6 @@ export interface ICountry {
 }
 
 export function getCountries(lang: string): ICountry[] {
-  return data.generic.map((val) => Object.assign({}, val, data.i18n[lang].countries[val.iso3]));
+  const i18Data = data.i18n[lang] && data.i18n[lang].countries || [];
+  return data.generic.map((val) => Object.assign({}, val, i18Data[val.iso3]));
 }
