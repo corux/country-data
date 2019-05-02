@@ -1,5 +1,15 @@
 {
   "countries": {
+    "ABC": {
+      "adjectives": [
+        "abcásio",
+        "abcázio",
+        "abecásio",
+        "abecázio"
+      ],
+      "longName": "República da Abecásia",
+      "name": "Abecásia"
+    },
     "AFG": {
       "adjectives": [
         "afegã",
@@ -1570,6 +1580,13 @@
       ],
       "name": "Somália"
     },
+    "SOS": {
+      "adjectives": [
+        "sul-osseta"
+      ],
+      "longName": "República da Ossétia do Sul",
+      "name": "Ossétia do Sul"
+    },
     "SRB": {
       "adjectives": [
         "sérvio"
@@ -1877,6 +1894,17 @@
       ],
       "anthemName": "Bandeira da Liberdade",
       "name": "Samoa"
+    },
+    "XXK": {
+      "adjectives": [
+        "cosovano",
+        "cossovano",
+        "cossovar",
+        "kosovar",
+        "kossovar"
+      ],
+      "longName": "República do Kosovo",
+      "name": "Kosovo"
     },
     "YEM": {
       "adjectives": [

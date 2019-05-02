@@ -3,7 +3,7 @@ import * as cheerio from "cheerio";
 
 export async function portugese(isoCodes: string[]): Promise<any> {
   let $ = cheerio.load((await Axios.get("https://pt.wikipedia.org/wiki/ISO_3166-1")).data);
-  const countryData = $(".wikitable.sortable tbody").first().find("tr").map((i, elem) => {
+  let countryData = $(".wikitable.sortable tbody").first().find("tr").map((i, elem) => {
     const get = (position) => {
       let text = $(elem).children().eq(position).text();
       text = text.split("\n")[0];
@@ -31,6 +31,28 @@ export async function portugese(isoCodes: string[]): Promise<any> {
       name: mapping[name] || name,
     };
   }).get().filter((n) => isoCodes.indexOf(n.iso) !== -1);
+  countryData = countryData.concat([
+    {
+      iso: "ABC",
+      longName: "República da Abecásia",
+      name: "Abecásia",
+    },
+    {
+      iso: "SOS",
+      longName: "República da Ossétia do Sul",
+      name: "Ossétia do Sul",
+    },
+    {
+      altNames: [
+        "Cossovo",
+        "Cosovo",
+        "Kossovo",
+      ],
+      iso: "XXK",
+      longName: "República do Kosovo",
+      name: "Kosovo",
+    },
+  ]);
 
   $ = cheerio.load((await Axios.get("https://pt.wikipedia.org/wiki/Lista_de_hinos_nacionais_e_regionais")).data);
   const anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
