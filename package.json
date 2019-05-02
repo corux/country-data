@@ -6,7 +6,9 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "generate-data": "ts-node bin/generate-data.ts --destination src/data/",
-    "test": "npm-run-all --parallel build lint",
+    "pretest": "npm-run-all --parallel build lint",
+    "test": "jest",
+    "test:watch": "jest --watch",
     "lint": "tslint --project tsconfig.json",
     "lint:fix": "npm run lint -- --fix",
     "build": "tsc && cp -a ./src/data dist/",
@@ -15,12 +17,15 @@
   "author": "corux",
   "license": "ISC",
   "devDependencies": {
+    "@types/jest": "24.0.12",
     "axios": "0.18.0",
     "cheerio": "1.0.0-rc.3",
     "commander": "2.20.0",
     "countryjs": "1.8.0",
+    "jest": "24.7.1",
     "json-stable-stringify": "1.0.1",
     "npm-run-all": "4.1.5",
+    "ts-jest": "24.0.2",
     "ts-node": "8.1.0",
     "tslint": "5.16.0",
     "typescript": "3.4.5"
