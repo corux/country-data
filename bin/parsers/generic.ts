@@ -2,45 +2,44 @@ import Axios from "axios";
 import * as cheerio from "cheerio";
 import * as countryjs from "countryjs";
 
-// tslint:disable:object-literal-sort-keys
 export function getFromCountryJs(isoCodes: string[]): any[] {
   // Data missing in countryjs
   const additional = [
     {
-      ISO: { alpha3: "ABC" }, name: "Abkhazia", capital: "Sukhumi",
-      translations: { fr: "Abkhazie" }, borders: ["GEO", "RUS"], region: "AS",
+      ISO: { alpha3: "ABC" }, borders: ["GEO", "RUS"], capital: "Sukhumi",
+      name: "Abkhazia", region: "AS", translations: { fr: "Abkhazie" },
     },
     {
-      ISO: { alpha3: "AND" }, name: "Andorra", capital: "Andorra la Vella",
-      translations: { fr: "Andorre" }, borders: ["ESP", "FRA"], region: "EU",
+      ISO: { alpha3: "AND" }, borders: ["ESP", "FRA"], capital: "Andorra la Vella",
+      name: "Andorra", region: "EU", tld: [".ad"], translations: { fr: "Andorre" },
     },
     {
-      ISO: { alpha3: "XXK" }, name: "Kosovo", capital: "Pristina",
-      translations: { fr: "Kosovo" }, borders: ["MNE", "ALB", "MKD", "SRB"], region: "EU",
+      ISO: { alpha3: "XXK" }, borders: ["MNE", "ALB", "MKD", "SRB"], capital: "Pristina",
+      name: "Kosovo", region: "EU", translations: { fr: "Kosovo" },
     },
     {
-      ISO: { alpha3: "MNE" }, name: "Montenegro", capital: "Podgorica",
-      translations: { fr: "Monténégro" }, borders: ["ALB", "XXK", "SRB", "BIH", "HRV"], region: "EU",
+      ISO: { alpha3: "MNE" }, borders: ["ALB", "XXK", "SRB", "BIH", "HRV"], capital: "Podgorica",
+      name: "Montenegro", region: "EU", tld: [".me"], translations: { fr: "Monténégro" },
     },
     {
-      ISO: { alpha3: "MMR" }, name: "Myanmar", capital: "Nay Pyi Taw",
-      translations: { fr: "Birmanie" }, borders: ["THA", "LAO", "CHN", "BGD", "IND"], region: "AS",
+      ISO: { alpha3: "MMR" }, borders: ["THA", "LAO", "CHN", "BGD", "IND"], capital: "Nay Pyi Taw",
+      name: "Myanmar", region: "AS", tld: [".mm"], translations: { fr: "Birmanie" },
     },
     {
-      ISO: { alpha3: "PSE" }, name: "Palestine", capital: "East Jerusalem",
-      translations: { fr: "Palestine" }, borders: ["ISR", "JOR"], region: "AS",
+      ISO: { alpha3: "PSE" }, borders: ["ISR", "JOR"], capital: "East Jerusalem",
+      name: "Palestine", region: "AS", tld: [".ps"], translations: { fr: "Palestine" },
     },
     {
-      ISO: { alpha3: "SRB" }, name: "Serbia", capital: "Belgrade",
-      translations: { fr: "Serbie" }, borders: ["HRV", "XXK", "MNE", "BIH", "MKD", "BGR", "ROU", "HUN"], region: "EU",
+      ISO: { alpha3: "SRB" }, borders: ["HRV", "XXK", "MNE", "BIH", "MKD", "BGR", "ROU", "HUN"], capital: "Belgrade",
+      name: "Serbia", region: "EU", tld: [".rs"], translations: { fr: "Serbie" },
     },
     {
-      ISO: { alpha3: "SOS" }, name: "South Ossetia", capital: "Tskhinvali",
-      translations: { fr: "Ossétie du Sud" }, borders: ["GEO", "RUS"], region: "AS",
+      ISO: { alpha3: "SOS" }, borders: ["GEO", "RUS"], capital: "Tskhinvali",
+      name: "South Ossetia", region: "AS", translations: { fr: "Ossétie du Sud" },
     },
     {
-      ISO: { alpha3: "VAT" }, name: "Vatican City", capital: "Vatican City",
-      translations: { fr: "Vatican" }, borders: ["ITA"], region: "EU",
+      ISO: { alpha3: "VAT" }, borders: ["ITA"], capital: "Vatican City",
+      name: "Vatican City", region: "EU", tld: [".va"], translations: { fr: "Vatican" },
     },
   ];
 
@@ -59,17 +58,17 @@ export function getFromCountryJs(isoCodes: string[]): any[] {
   data.forEach((val) => {
     if (val.translations && val.translations.fr) {
       const mapping = {
-        "Uganda": "Ouganda",
-        "Trinité et Tobago": "Trinité-et-Tobago",
-        "Surinam": "Suriname",
+        "Arabie Saoudite": "Arabie saoudite",
         "Cap Vert": "Cap-Vert",
         "Congo (Rép. dém.)": "République démocratique du Congo",
         "Guinée-Équatoriale": "Guinée équatoriale",
         "Guyane": "Guyana",
-        "Île Maurice": "Maurice",
         "Nigéria": "Nigeria",
         "Saint-Lucie": "Sainte-Lucie",
-        "Arabie Saoudite": "Arabie saoudite",
+        "Surinam": "Suriname",
+        "Trinité et Tobago": "Trinité-et-Tobago",
+        "Uganda": "Ouganda",
+        "Île Maurice": "Maurice",
       };
       val.translations.fr = mapping[val.translations.fr] || val.translations.fr;
     }
@@ -141,6 +140,7 @@ export async function generic(): Promise<any> {
     country.currencies = countryJsData.currencies || [];
     country.borders = (countryJsData.borders || [])
       .filter((border) => data.find((n) => n.iso3 === border)) || [];
+    country.tld = countryJsData.tld || [];
   }
 
   return data.filter((val) => val.iso3);

@@ -7,6 +7,7 @@ export interface ICountry {
   altNames: string[];
   capital?: string;
   population?: number;
+  tld: string[];
   flag: {
     svgUrl: string,
     smallImageUrl: string,
