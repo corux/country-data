@@ -136,7 +136,27 @@ async function countries(): Promise<any> {
       name: getName(),
       url: getAudio(),
     };
-  }).get();
+  }).get().concat($(".wikitable").eq(2).find("tbody tr:not(:first-child)").map((i, elem) => {
+    const get = (position) => {
+      let text = $(elem).children().eq(position).text();
+      text = text.split("\n")[0];
+      text = text.replace(/\[.*\]/, "");
+      return text;
+    };
+    const getName = () => {
+      const text = $(elem).children().eq(1).children("a").text().replace(/\s/, " ");
+      return text;
+    };
+    const getAudio = () => {
+      const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
+      return src ? `https:${src}` : undefined;
+    };
+    return {
+      anthemName: get(3) || get(2),
+      name: getName(),
+      url: getAudio(),
+    };
+  }).get());
 
   anthemData.forEach((anthem) => {
     const country: any = Object.values(data)

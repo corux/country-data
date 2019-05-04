@@ -12,9 +12,20 @@ describe("Complete Data", () => {
       expect(americas.length).toBe(0);
     });
 
+    test("No duplicate countries", () => {
+      const countries = countryData.getCountries()
+        .map((country) => country.iso3);
+      const removedDuplicates = countries.filter((n, i) => countries.indexOf(n) === i);
+      expect(countries).toEqual(removedDuplicates);
+    });
+
     countryData.getCountries().forEach((country) => {
       test(`Country contains SVG flag (${country.iso3})`, () => {
         expect(country.flag.svgUrl).toBeTruthy();
+      });
+
+      test(`Country contains anthem url (${country.iso3})`, () => {
+        expect(country.anthem.url).toBeTruthy();
       });
 
       test(`Country contains valid continent (${country.iso3})`, () => {

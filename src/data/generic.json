@@ -1,5 +1,8 @@
 [
   {
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/National_Anthem_of_Abkhazia_-_%D0%90%D0%B8%D0%B0%D0%B0%D0%B8%D1%80%D0%B0.ogg"
+    },
     "borders": [
       "GEO",
       "RUS"
@@ -21,7 +24,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6f/National_anthem_of_Afghanistan%2C_performed_by_the_United_States_Navy_Band.wav",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/National_anthem_of_Afghanistan%2C_performed_by_the_United_States_Navy_Band.wav"
+    },
     "borders": [
       "IRN",
       "PAK",
@@ -54,7 +59,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg"
+    },
     "borders": [
       "ISR",
       "LBY",
@@ -81,7 +88,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hymni_i_Flamurit_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hymni_i_Flamurit_instrumental.ogg"
+    },
     "borders": [
       "MNE",
       "GRC",
@@ -109,7 +118,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/79/National_anthem_of_Algeria%2C_by_the_U.S._Navy_Band.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/National_anthem_of_Algeria%2C_by_the_U.S._Navy_Band.oga"
+    },
     "borders": [
       "TUN",
       "LBY",
@@ -141,7 +152,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/5b/El_Gran_Carlemany.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/El_Gran_Carlemany.ogg"
+    },
     "borders": [
       "ESP",
       "FRA"
@@ -165,7 +178,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/d/d0/Angola%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28March_1996_arrangement%29.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Angola%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28March_1996_arrangement%29.ogg"
+    },
     "borders": [
       "COG",
       "COD",
@@ -193,7 +208,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Antigua_and_Barbuda_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Antigua_and_Barbuda_National_Anthem.ogg"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -217,7 +234,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/gq.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/gq.mp3"
+    },
     "borders": [
       "CMR",
       "GAB"
@@ -244,7 +263,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg"
+    },
     "borders": [
       "BOL",
       "BRA",
@@ -274,7 +295,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mer_Hayrenik_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mer_Hayrenik_instrumental.ogg"
+    },
     "borders": [
       "AZE",
       "GEO",
@@ -303,7 +326,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/91/National_Anthem_of_the_Republic_of_Azerbaijan_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/National_Anthem_of_the_Republic_of_Azerbaijan_instrumental.ogg"
+    },
     "borders": [
       "ARM",
       "GEO",
@@ -333,7 +358,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wedefit_Gesgeshi_Widd_Innat_Ittyoppya.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wedefit_Gesgeshi_Widd_Innat_Ittyoppya.ogg"
+    },
     "borders": [
       "DJI",
       "ERI",
@@ -363,7 +390,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -387,7 +416,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/62/National_anthem_of_the_Bahamas.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/National_anthem_of_the_Bahamas.oga"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -411,7 +442,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bahraini_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bahraini_Anthem.ogg"
+    },
     "borders": [
     ],
     "continent": "AS",
@@ -435,7 +468,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Amar_Shonar_Bangla_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Amar_Shonar_Bangla_instrumental.ogg"
+    },
     "borders": [
       "MMR",
       "IND"
@@ -461,7 +496,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/73/In_Plenty_and_In_Time_of_Need_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/In_Plenty_and_In_Time_of_Need_instrumental.ogg"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -485,7 +522,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/e8/La_Braban%C3%A7onne.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/La_Braban%C3%A7onne.oga"
+    },
     "borders": [
       "FRA",
       "DEU",
@@ -515,7 +554,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Land_of_the_Free_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Land_of_the_Free_instrumental.ogg"
+    },
     "borders": [
       "GTM",
       "MEX"
@@ -542,7 +583,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/74/L%27Aube_Nouvelle.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/L%27Aube_Nouvelle.ogg"
+    },
     "borders": [
       "BFA",
       "NER",
@@ -570,7 +613,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/bt.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/bt.mp3"
+    },
     "borders": [
       "CHN",
       "IND"
@@ -597,7 +642,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg"
+    },
     "borders": [
       "ARG",
       "BRA",
@@ -629,7 +676,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/ba.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/ba.mp3"
+    },
     "borders": [
       "HRV",
       "MNE",
@@ -658,7 +707,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/United_States_Navy_Band_-_Fatshe_leno_la_rona.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/United_States_Navy_Band_-_Fatshe_leno_la_rona.ogg"
+    },
     "borders": [
       "NAM",
       "ZAF",
@@ -687,7 +738,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hino-Nacional-Brasil-instrumental-mec.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hino-Nacional-Brasil-instrumental-mec.ogg"
+    },
     "borders": [
       "ARG",
       "BOL",
@@ -720,7 +773,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Navy_Band_-_Allah_Peliharakan_Sultan.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Navy_Band_-_Allah_Peliharakan_Sultan.oga"
+    },
     "borders": [
       "MYS"
     ],
@@ -745,7 +800,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mila_Rodino_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mila_Rodino_instrumental.ogg"
+    },
     "borders": [
       "GRC",
       "MKD",
@@ -774,7 +831,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hymne_National_du_Burkina_Faso.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hymne_National_du_Burkina_Faso.ogg"
+    },
     "borders": [
       "BEN",
       "CIV",
@@ -805,7 +864,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/bi.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/bi.mp3"
+    },
     "borders": [
       "COD",
       "RWA",
@@ -833,7 +894,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg"
+    },
     "borders": [
       "ARG",
       "BOL",
@@ -861,7 +924,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg"
+    },
     "borders": [
     ],
     "continent": "AS",
@@ -885,7 +950,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/March_of_the_Volunteers_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/March_of_the_Volunteers_instrumental.ogg"
+    },
     "borders": [
       "AFG",
       "BTN",
@@ -922,7 +989,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/ck.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/ck.mp3"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -946,7 +1015,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/79/Costa_Rica_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Costa_Rica_National_Anthem.ogg"
+    },
     "borders": [
       "NIC",
       "PAN"
@@ -972,7 +1043,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/06/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg"
+    },
     "borders": [
       "DEU"
     ],
@@ -997,7 +1070,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cb/National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg"
+    },
     "borders": [
       "AUT",
       "BEL",
@@ -1030,7 +1105,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/National_Anthem_of_Dominica_by_US_Navy_Band.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/National_Anthem_of_Dominica_by_US_Navy_Band.ogg"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -1054,7 +1131,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dominican_Republic_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dominican_Republic_National_Anthem.ogg"
+    },
     "borders": [
       "HTI"
     ],
@@ -1079,7 +1158,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Djiboutian_anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Djiboutian_anthem.ogg"
+    },
     "borders": [
       "ERI",
       "ETH",
@@ -1107,7 +1188,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Anthem_of_Ecuador.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Anthem_of_Ecuador.ogg"
+    },
     "borders": [
       "COL",
       "PER"
@@ -1133,7 +1216,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4e/El_Salvador_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/El_Salvador_National_Anthem.ogg"
+    },
     "borders": [
       "GTM",
       "HND"
@@ -1160,7 +1245,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hymne_National_de_C%C3%B4te_d%27Ivoire.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hymne_National_de_C%C3%B4te_d%27Ivoire.ogg"
+    },
     "borders": [
       "BFA",
       "GHA",
@@ -1189,7 +1276,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg"
+    },
     "borders": [
       "DJI",
       "ETH",
@@ -1218,7 +1307,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/52/US_Navy_band_-_National_anthem_of_Estonia.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/US_Navy_band_-_National_anthem_of_Estonia.ogg"
+    },
     "borders": [
       "LVA",
       "RUS"
@@ -1244,7 +1335,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fiji_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fiji_National_Anthem.ogg"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -1271,7 +1364,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/61/United_States_Navy_Band_-_Maamme.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/United_States_Navy_Band_-_Maamme.ogg"
+    },
     "borders": [
       "NOR",
       "SWE",
@@ -1298,7 +1393,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
+    },
     "borders": [
       "AND",
       "BEL",
@@ -1330,7 +1427,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/La_Concorde.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/La_Concorde.ogg"
+    },
     "borders": [
       "CMR",
       "COG",
@@ -1357,7 +1456,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/gm.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/gm.mp3"
+    },
     "borders": [
       "SEN"
     ],
@@ -1382,7 +1483,10 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tavisupleba_vocal.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Georgian_national_anthem.wav",
+      "vocalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tavisupleba_vocal.ogg"
+    },
     "borders": [
       "ARM",
       "AZE",
@@ -1412,7 +1516,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/43/National_Anthem_of_Ghana.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/National_Anthem_of_Ghana.ogg"
+    },
     "borders": [
       "BFA",
       "CIV",
@@ -1439,7 +1545,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/76/HailGrenada.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/HailGrenada.ogg"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -1463,7 +1571,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga"
+    },
     "borders": [
       "ALB",
       "BGR",
@@ -1491,7 +1601,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/a/a9/Guatemala%27s_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Guatemala%27s_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg"
+    },
     "borders": [
       "BLZ",
       "SLV",
@@ -1519,7 +1631,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/65/National_Anthem_of_Guinea_by_US_Navy_Band.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/National_Anthem_of_Guinea_by_US_Navy_Band.ogg"
+    },
     "borders": [
       "CIV",
       "GNB",
@@ -1550,7 +1664,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/gw.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/gw.mp3"
+    },
     "borders": [
       "GIN",
       "SEN"
@@ -1576,7 +1692,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/85/National_Anthem_of_Guyana.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/National_Anthem_of_Guyana.ogg"
+    },
     "borders": [
       "BRA",
       "SUR",
@@ -1603,7 +1721,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Haiti_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Haiti_National_Anthem.ogg"
+    },
     "borders": [
       "DOM"
     ],
@@ -1630,7 +1750,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Honduras_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Honduras_National_Anthem.ogg"
+    },
     "borders": [
       "GTM",
       "SLV",
@@ -1657,7 +1779,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jana_Gana_Mana_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jana_Gana_Mana_instrumental.ogg"
+    },
     "borders": [
       "AFG",
       "BGD",
@@ -1690,7 +1814,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/32/Indonesiaraya.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Indonesiaraya.ogg"
+    },
     "borders": [
       "TLS",
       "MYS",
@@ -1717,7 +1843,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/16/United_States_Navy_Band_-_Mawtini.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/United_States_Navy_Band_-_Mawtini.ogg"
+    },
     "borders": [
       "IRN",
       "JOR",
@@ -1748,7 +1876,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_%28instrumental%29.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_%28instrumental%29.oga"
+    },
     "borders": [
       "AFG",
       "ARM",
@@ -1779,7 +1909,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/United_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/United_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg"
+    },
     "borders": [
       "GBR"
     ],
@@ -1805,7 +1937,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lofs%C3%B6ngur.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lofs%C3%B6ngur.ogg"
+    },
     "borders": [
     ],
     "continent": "EU",
@@ -1829,7 +1963,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hatikvah_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hatikvah_instrumental.ogg"
+    },
     "borders": [
       "EGY",
       "JOR",
@@ -1859,7 +1995,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Inno_di_Mameli_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Inno_di_Mameli_instrumental.ogg"
+    },
     "borders": [
       "AUT",
       "FRA",
@@ -1889,7 +2027,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Anthems_-_National_Anthem_Of_Jamaica.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Anthems_-_National_Anthem_Of_Jamaica.ogg"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -1913,7 +2053,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kimi_ga_Yo_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kimi_ga_Yo_instrumental.ogg"
+    },
     "borders": [
     ],
     "continent": "AS",
@@ -1937,7 +2079,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/13/United_States_Navy_Band_-_United_Republic.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/United_States_Navy_Band_-_United_Republic.ogg"
+    },
     "borders": [
       "OMN",
       "SAU"
@@ -1963,7 +2107,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_anthem_of_Jordan_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_anthem_of_Jordan_instrumental.ogg"
+    },
     "borders": [
       "IRQ",
       "ISR",
@@ -1992,7 +2138,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/af/United_States_Navy_Band_-_Nokoreach.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/United_States_Navy_Band_-_Nokoreach.ogg"
+    },
     "borders": [
       "LAO",
       "THA",
@@ -2019,7 +2167,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Chant_de_Ralliement.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Chant_de_Ralliement.ogg"
+    },
     "borders": [
       "CAF",
       "TCD",
@@ -2050,7 +2200,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b4/United_States_Navy_Band_-_O_Canada.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/United_States_Navy_Band_-_O_Canada.ogg"
+    },
     "borders": [
       "USA"
     ],
@@ -2076,7 +2228,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/cv.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/cv.mp3"
+    },
     "borders": [
     ],
     "continent": "AF",
@@ -2100,7 +2254,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kazakhstan_2006.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kazakhstan_2006.ogg"
+    },
     "borders": [
       "CHN",
       "KGZ",
@@ -2131,7 +2287,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/8a/As_Salam_Al_Amiri_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/As_Salam_Al_Amiri_instrumental.ogg"
+    },
     "borders": [
       "SAU"
     ],
@@ -2156,7 +2314,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/49/National_Anthem_of_Kenya.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/National_Anthem_of_Kenya.ogg"
+    },
     "borders": [
       "ETH",
       "SOM",
@@ -2186,7 +2346,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b5/National_Anthem_of_Kyrgyzstan.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/National_Anthem_of_Kyrgyzstan.ogg"
+    },
     "borders": [
       "CHN",
       "KAZ",
@@ -2215,7 +2377,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/ki.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/ki.mp3"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -2239,7 +2403,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/55/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg"
+    },
     "borders": [
       "BRA",
       "ECU",
@@ -2268,7 +2434,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/National_Anthem_of_Comoros_by_US_Navy_Band.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/National_Anthem_of_Comoros_by_US_Navy_Band.ogg"
+    },
     "borders": [
     ],
     "continent": "AF",
@@ -2293,7 +2461,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/3/3f/Democratic_Republic_of_the_Congo%27s_national_anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Democratic_Republic_of_the_Congo%27s_national_anthem.ogg"
+    },
     "borders": [
       "AGO",
       "BDI",
@@ -2330,7 +2500,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/dc/National_anthem_of_the_Republic_of_the_Congo.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/National_anthem_of_the_Republic_of_the_Congo.oga"
+    },
     "borders": [
       "AGO",
       "CMR",
@@ -2360,7 +2532,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/National_Anthem_of_the_Democratic_People%27s_Republic_of_Korea.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/National_Anthem_of_the_Democratic_People%27s_Republic_of_Korea.ogg"
+    },
     "borders": [
       "CHN",
       "KOR",
@@ -2387,7 +2561,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0d/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav"
+    },
     "borders": [
       "PRK"
     ],
@@ -2412,7 +2588,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg"
+    },
     "borders": [
       "MNE",
       "ALB",
@@ -2437,7 +2615,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lijepa_nasa_domovino_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lijepa_nasa_domovino_instrumental.ogg"
+    },
     "borders": [
       "BIH",
       "HUN",
@@ -2466,7 +2646,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/United_States_Navy_Band_-_La_Bayamesa.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/United_States_Navy_Band_-_La_Bayamesa.ogg"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -2491,7 +2673,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/kw.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/kw.mp3"
+    },
     "borders": [
       "IRN",
       "SAU"
@@ -2517,7 +2701,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_Anthem_of_Laos.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_Anthem_of_Laos.ogg"
+    },
     "borders": [
       "MMR",
       "KHM",
@@ -2546,7 +2732,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/ls.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/ls.mp3"
+    },
     "borders": [
       "ZAF"
     ],
@@ -2573,7 +2761,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/55/Latvian_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Latvian_National_Anthem.ogg"
+    },
     "borders": [
       "BLR",
       "EST",
@@ -2601,7 +2791,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lebanese_national_anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lebanese_national_anthem.ogg"
+    },
     "borders": [
       "ISR",
       "SYR"
@@ -2628,7 +2820,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Liberia_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Liberia_National_Anthem.ogg"
+    },
     "borders": [
       "GIN",
       "CIV",
@@ -2655,7 +2849,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LibyaLibyaLibya.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LibyaLibyaLibya.ogg"
+    },
     "borders": [
       "DZA",
       "TCD",
@@ -2685,7 +2881,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+    },
     "borders": [
       "AUT",
       "CHE"
@@ -2711,7 +2909,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tauti%C5%A1ka_giesme_instumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tauti%C5%A1ka_giesme_instumental.ogg"
+    },
     "borders": [
       "BLR",
       "LVA",
@@ -2739,7 +2939,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_National_Anthem.ogg"
+    },
     "borders": [
       "BEL",
       "FRA",
@@ -2768,7 +2970,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/mg.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/mg.mp3"
+    },
     "borders": [
     ],
     "continent": "AF",
@@ -2793,7 +2997,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Malawian_national_anthem.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Malawian_national_anthem.oga"
+    },
     "borders": [
       "MOZ",
       "TZA",
@@ -2821,7 +3027,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Negaraku_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Negaraku_instrumental.ogg"
+    },
     "borders": [
       "BRN",
       "IDN",
@@ -2847,7 +3055,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gaumii_salaam.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gaumii_salaam.ogg"
+    },
     "borders": [
     ],
     "continent": "AS",
@@ -2871,7 +3081,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Malian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Malian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+    },
     "borders": [
       "DZA",
       "BFA",
@@ -2902,7 +3114,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malta_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malta_National_Anthem.ogg"
+    },
     "borders": [
     ],
     "continent": "EU",
@@ -2927,7 +3141,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/National_Anthem_of_Morocco.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/National_Anthem_of_Morocco.ogg"
+    },
     "borders": [
       "DZA",
       "ESH",
@@ -2954,7 +3170,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/National_Anthem_of_Marshall_Islands_by_US_Navy_Band.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/National_Anthem_of_Marshall_Islands_by_US_Navy_Band.ogg"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -2979,7 +3197,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/mr.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/mr.mp3"
+    },
     "borders": [
       "DZA",
       "MLI",
@@ -3007,7 +3227,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/mu.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/mu.mp3"
+    },
     "borders": [
     ],
     "continent": "AF",
@@ -3031,7 +3253,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg"
+    },
     "borders": [
       "BLZ",
       "GTM",
@@ -3058,7 +3282,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Micronesia_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Micronesia_National_Anthem.ogg"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -3082,7 +3308,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Imnul_Republicii_Moldova_US_NAVY.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Imnul_Republicii_Moldova_US_NAVY.ogg"
+    },
     "borders": [
       "ROU",
       "UKR"
@@ -3108,7 +3336,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Monaco_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Monaco_National_Anthem.ogg"
+    },
     "borders": [
       "FRA"
     ],
@@ -3133,7 +3363,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_anthem_of_Mongolia_2006_official-instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_anthem_of_Mongolia_2006_official-instrumental.ogg"
+    },
     "borders": [
       "CHN",
       "RUS"
@@ -3159,7 +3391,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_Anthem_of_Montenegro.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_Anthem_of_Montenegro.ogg"
+    },
     "borders": [
       "ALB",
       "XXK",
@@ -3186,7 +3420,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/mz.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/mz.mp3"
+    },
     "borders": [
       "MWI",
       "ZAF",
@@ -3216,7 +3452,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga"
+    },
     "borders": [
       "THA",
       "LAO",
@@ -3243,7 +3481,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Namibian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Namibian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+    },
     "borders": [
       "AGO",
       "BWA",
@@ -3273,7 +3513,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/nr.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/nr.mp3"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -3298,7 +3540,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/np.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/np.mp3"
+    },
     "borders": [
       "CHN",
       "IND"
@@ -3324,7 +3568,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -3349,7 +3595,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/National_Anthem_of_Nicaragua.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/National_Anthem_of_Nicaragua.ogg"
+    },
     "borders": [
       "CRI",
       "HND"
@@ -3375,7 +3623,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_Navy_Band_-_Het_Wilhelmus.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_Navy_Band_-_Het_Wilhelmus.ogg"
+    },
     "borders": [
       "BEL",
       "DEU"
@@ -3401,7 +3651,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/ne.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/ne.mp3"
+    },
     "borders": [
       "DZA",
       "BEN",
@@ -3432,7 +3684,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/86/United_States_Navy_Band_-_%22Arise_O%2C_Compatriots%22.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/United_States_Navy_Band_-_%22Arise_O%2C_Compatriots%22.oga"
+    },
     "borders": [
       "BEN",
       "CMR",
@@ -3460,7 +3714,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/nu.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/nu.mp3"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -3484,7 +3740,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/8/82/Macedonia%27s_national_anthem_%28instrumental%29.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/8/82/Macedonia%27s_national_anthem_%28instrumental%29.ogg"
+    },
     "borders": [
       "ALB",
       "BGR",
@@ -3513,7 +3771,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Norway_%28National_Anthem%29.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Norway_%28National_Anthem%29.ogg"
+    },
     "borders": [
       "FIN",
       "SWE",
@@ -3542,7 +3802,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/om.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/om.mp3"
+    },
     "borders": [
       "SAU",
       "ARE",
@@ -3569,7 +3831,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Land_der_Berge_Land_am_Strome_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Land_der_Berge_Land_am_Strome_instrumental.ogg"
+    },
     "borders": [
       "CZE",
       "DEU",
@@ -3601,7 +3865,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/20/East_Timorese_national_anthem.wav",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/East_Timorese_national_anthem.wav"
+    },
     "borders": [
       "IDN"
     ],
@@ -3625,7 +3891,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/National_anthem_of_Pakistan.OGG",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/National_anthem_of_Pakistan.OGG"
+    },
     "borders": [
       "AFG",
       "CHN",
@@ -3654,7 +3922,10 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/97/National_Anthem_of_Palestine_%28Vocal%29.ogg",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/ps.mp3",
+      "vocalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/National_Anthem_of_Palestine_%28Vocal%29.ogg"
+    },
     "borders": [
       "ISR",
       "JOR"
@@ -3678,7 +3949,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/pw.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/pw.mp3"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -3702,7 +3975,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Panama_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Panama_National_Anthem.ogg"
+    },
     "borders": [
       "COL",
       "CRI"
@@ -3729,7 +4004,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/pg.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/pg.mp3"
+    },
     "borders": [
       "IDN"
     ],
@@ -3754,7 +4031,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Paraguayan_National_Anthem.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Paraguayan_National_Anthem.oga"
+    },
     "borders": [
       "ARG",
       "BOL",
@@ -3782,7 +4061,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg"
+    },
     "borders": [
       "BOL",
       "BRA",
@@ -3811,7 +4092,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lupang_Hinirang_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lupang_Hinirang_instrumental.ogg"
+    },
     "borders": [
     ],
     "continent": "AS",
@@ -3835,7 +4118,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mazurek_Dabrowskiego.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mazurek_Dabrowskiego.ogg"
+    },
     "borders": [
       "BLR",
       "CZE",
@@ -3866,7 +4151,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg"
+    },
     "borders": [
       "ESP"
     ],
@@ -3891,7 +4178,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hymne_National_du_Rwanda.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hymne_National_du_Rwanda.ogg"
+    },
     "borders": [
       "BDI",
       "COD",
@@ -3921,7 +4210,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/77/Desteapta-te%2C_romane%21.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Desteapta-te%2C_romane%21.ogg"
+    },
     "borders": [
       "BGR",
       "HUN",
@@ -3950,7 +4241,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/41/National_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/National_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg"
+    },
     "borders": [
       "AZE",
       "BLR",
@@ -3990,7 +4283,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/sb.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/sb.mp3"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -4014,7 +4309,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zambian_national_anthem.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zambian_national_anthem.oga"
+    },
     "borders": [
       "AGO",
       "BWA",
@@ -4046,7 +4343,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/ws.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/ws.mp3"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -4071,7 +4370,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Inno_Nazionale_della_Repubblica.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Inno_Nazionale_della_Repubblica.ogg"
+    },
     "borders": [
       "ITA"
     ],
@@ -4096,7 +4397,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/st.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/st.mp3"
+    },
     "borders": [
     ],
     "continent": "AF",
@@ -4120,7 +4423,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Saudi_Arabian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Saudi_Arabian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+    },
     "borders": [
       "IRQ",
       "JOR",
@@ -4151,7 +4456,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/02/United_States_Navy_Band_-_Sweden.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/United_States_Navy_Band_-_Sweden.ogg"
+    },
     "borders": [
       "FIN",
       "NOR"
@@ -4177,7 +4484,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/0/00/Swiss_Psalm.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Swiss_Psalm.ogg"
+    },
     "borders": [
       "AUT",
       "FRA",
@@ -4210,7 +4519,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/8c/National_Anthem_of_Senegal.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/National_Anthem_of_Senegal.ogg"
+    },
     "borders": [
       "GMB",
       "GIN",
@@ -4239,7 +4550,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Serbian_national_anthem%2C_instrumental.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Serbian_national_anthem%2C_instrumental.oga"
+    },
     "borders": [
       "HRV",
       "XXK",
@@ -4269,7 +4582,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/sc.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/sc.mp3"
+    },
     "borders": [
     ],
     "continent": "AF",
@@ -4294,7 +4609,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/6/69/Sierra_Leone%27s_national_anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Sierra_Leone%27s_national_anthem.ogg"
+    },
     "borders": [
       "GIN",
       "LBR"
@@ -4320,7 +4637,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zimbabwe_National_Anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zimbabwe_National_Anthem.ogg"
+    },
     "borders": [
       "BWA",
       "MOZ",
@@ -4350,7 +4669,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Majulah_Singapura.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Majulah_Singapura.ogg"
+    },
     "borders": [
     ],
     "continent": "AS",
@@ -4377,7 +4698,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/72/National_anthem_of_Slovakia%2C_performed_by_the_United_States_Navy_Band.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/National_anthem_of_Slovakia%2C_performed_by_the_United_States_Navy_Band.ogg"
+    },
     "borders": [
       "AUT",
       "CZE",
@@ -4406,7 +4729,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zdravljica.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zdravljica.ogg"
+    },
     "borders": [
       "AUT",
       "HRV",
@@ -4434,7 +4759,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/so.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/so.mp3"
+    },
     "borders": [
       "DJI",
       "ETH",
@@ -4462,7 +4789,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg"
+    },
     "borders": [
       "AND",
       "FRA",
@@ -4490,7 +4819,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/lk.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/lk.mp3"
+    },
     "borders": [
       "IND"
     ],
@@ -4516,7 +4847,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/United_States_Navy_Band_-_O_Land_of_Beauty.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/United_States_Navy_Band_-_O_Land_of_Beauty.ogg"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -4540,7 +4873,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/lc.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/lc.mp3"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -4564,7 +4899,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/vc.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/vc.mp3"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -4588,7 +4925,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga"
+    },
     "borders": [
       "BWA",
       "LSO",
@@ -4627,7 +4966,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sudan.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sudan.ogg"
+    },
     "borders": [
       "CAF",
       "TCD",
@@ -4659,6 +5000,9 @@
     ]
   },
   {
+    "anthem": {
+      "url": "http://www.nationalanthems.info/oss.mp3"
+    },
     "borders": [
       "GEO",
       "RUS"
@@ -4680,7 +5024,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/ss.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/ss.mp3"
+    },
     "borders": [
       "CAF",
       "COD",
@@ -4710,7 +5056,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/sr.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/sr.mp3"
+    },
     "borders": [
       "BRA",
       "FRA",
@@ -4737,7 +5085,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/sz.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/sz.mp3"
+    },
     "borders": [
       "MOZ",
       "ZAF"
@@ -4764,7 +5114,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/fc/National_Anthem_of_Syria.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/National_Anthem_of_Syria.ogg"
+    },
     "borders": [
       "IRQ",
       "ISR",
@@ -4793,7 +5145,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tajikistan_anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tajikistan_anthem.ogg"
+    },
     "borders": [
       "AFG",
       "CHN",
@@ -4822,7 +5176,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tanzanian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tanzanian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
+    },
     "borders": [
       "BDI",
       "COD",
@@ -4855,7 +5211,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Thai_National_Anthem_-_US_Navy_Band.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Thai_National_Anthem_-_US_Navy_Band.ogg"
+    },
     "borders": [
       "MMR",
       "KHM",
@@ -4883,7 +5241,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/en/0/03/Togo%27s_national_anthem_%28instrumental%29.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Togo%27s_national_anthem_%28instrumental%29.ogg"
+    },
     "borders": [
       "BEN",
       "BFA",
@@ -4910,7 +5270,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ko_e_fasi_%CA%BBo_e_tu%CA%BBi_%CA%BBo_e_%CA%BBOtu_Tonga.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ko_e_fasi_%CA%BBo_e_tu%CA%BBi_%CA%BBo_e_%CA%BBOtu_Tonga.ogg"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -4935,7 +5297,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/tt.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/tt.mp3"
+    },
     "borders": [
     ],
     "continent": "NA",
@@ -4959,7 +5323,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/td.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/td.mp3"
+    },
     "borders": [
       "CMR",
       "CAF",
@@ -4990,7 +5356,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Czech_anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Czech_anthem.ogg"
+    },
     "borders": [
       "AUT",
       "DEU",
@@ -5019,7 +5387,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/23/Humat_al-Hima.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Humat_al-Hima.ogg"
+    },
     "borders": [
       "DZA",
       "LBY"
@@ -5045,7 +5415,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/99/Istikl%C3%A2l_Marsi_instrumetal.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Istikl%C3%A2l_Marsi_instrumetal.ogg"
+    },
     "borders": [
       "ARM",
       "AZE",
@@ -5077,7 +5449,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/National_anthem_of_Turkmenistan%2C_performed_by_the_United_States_Navy_Band.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/National_anthem_of_Turkmenistan%2C_performed_by_the_United_States_Navy_Band.oga"
+    },
     "borders": [
       "AFG",
       "IRN",
@@ -5106,7 +5480,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/tv.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/tv.mp3"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -5130,7 +5506,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Uganda_flag_and_national_anthem_-_Oh_Uganda_Land_o.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Uganda_flag_and_national_anthem_-_Oh_Uganda_Land_o.ogg"
+    },
     "borders": [
       "COD",
       "KEN",
@@ -5160,7 +5538,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Anthem_of_Ukraine_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Anthem_of_Ukraine_instrumental.ogg"
+    },
     "borders": [
       "BLR",
       "HUN",
@@ -5191,7 +5571,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hu-magyarhimnusz.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hu-magyarhimnusz.ogg"
+    },
     "borders": [
       "AUT",
       "HRV",
@@ -5222,7 +5604,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg"
+    },
     "borders": [
       "ARG",
       "BRA"
@@ -5249,7 +5633,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/af/Uzbekistan_anthem.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Uzbekistan_anthem.ogg"
+    },
     "borders": [
       "AFG",
       "KAZ",
@@ -5279,7 +5665,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/United_States_Navy_Band_-_Yumi%2C_Yumi%2C_Yumi.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/United_States_Navy_Band_-_Yumi%2C_Yumi%2C_Yumi.ogg"
+    },
     "borders": [
     ],
     "continent": "OC",
@@ -5305,7 +5693,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg"
+    },
     "borders": [
       "ITA"
     ],
@@ -5328,7 +5718,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f0/United_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/United_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg"
+    },
     "borders": [
       "BRA",
       "COL",
@@ -5355,7 +5747,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%22Ishy_Bilady%22_performed_by_the_United_States_Navy_Band.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%22Ishy_Bilady%22_performed_by_the_United_States_Navy_Band.oga"
+    },
     "borders": [
       "OMN",
       "SAU"
@@ -5381,7 +5775,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrumental.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrumental.ogg"
+    },
     "borders": [
       "CAN",
       "MEX"
@@ -5409,7 +5805,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
+    },
     "borders": [
       "IRL"
     ],
@@ -5433,7 +5831,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/73/United_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/United_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg"
+    },
     "borders": [
       "KHM",
       "CHN",
@@ -5460,7 +5860,10 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/35/My_Belarusy_vocal.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/My_Belarusy.ogg",
+      "vocalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/My_Belarusy_vocal.ogg"
+    },
     "borders": [
       "LVA",
       "LTU",
@@ -5490,7 +5893,9 @@
     ]
   },
   {
-    "anthem": "http://www.nationalanthems.info/eh.mp3",
+    "anthem": {
+      "url": "http://www.nationalanthems.info/eh.mp3"
+    },
     "borders": [
       "DZA",
       "MRT",
@@ -5519,7 +5924,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/8/85/La_Renaissance.ogg",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/La_Renaissance.ogg"
+    },
     "borders": [
       "CMR",
       "TCD",
@@ -5550,7 +5957,9 @@
     ]
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga",
+    "anthem": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga"
+    },
     "borders": [
       "GBR"
     ],

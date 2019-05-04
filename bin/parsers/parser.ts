@@ -24,7 +24,12 @@ export class Parser {
         // move data from country specific to generic
         const genericCountry = genericData.find((val) => val.iso3 === iso);
         if (genericCountry && locale[iso].anthemUrl) {
-          genericCountry.anthem = locale[iso].anthemUrl;
+          const url = locale[iso].anthemUrl;
+          if (url.toLowerCase().indexOf("vocal") !== -1) {
+            genericCountry.anthem.vocalUrl = url;
+          } else {
+            genericCountry.anthem.url = url;
+          }
         }
 
         delete locale[iso].anthemUrl;
@@ -37,8 +42,14 @@ export class Parser {
 
     // amend generic data with anthem URLs
     genericData.forEach((val) => {
-      if (!val.anthem && val.iso2) {
-        val.anthem = `http://www.nationalanthems.info/${val.iso2.toLowerCase()}.mp3`;
+      if (!val.anthem.url) {
+        let id = val.iso2;
+        if (val.iso3 === "SOS") {
+          id = "oss";
+        }
+        if (id) {
+          val.anthem.url = `http://www.nationalanthems.info/${id.toLowerCase()}.mp3`;
+        }
       }
     });
 

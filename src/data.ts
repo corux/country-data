@@ -27,7 +27,10 @@ export interface IDataGeneric {
   languages: string[];
   currencies: string[];
   borders: string[];
-  anthem?: string;
+  anthem: {
+    url: string;
+    vocalUrl?: string;
+  };
   tld: string[];
 }
 

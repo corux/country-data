@@ -87,8 +87,11 @@ export class CountryData {
     return {
       adjectives: combined.adjectives,
       altNames: combined.altNames,
-      anthem: combined.anthem,
-      anthemName: combined.anthemName,
+      anthem: {
+        name: combined.anthemName,
+        url: combined.anthem.url,
+        vocalUrl: combined.anthem.vocalUrl,
+      },
       borders: combined.borders,
       capital: combined.capital,
       continent: this.continents.find((continent) => continent.code === combined.continent),

@@ -136,6 +136,7 @@ export async function generic(): Promise<any> {
     const getFlagSvg = () => "https:" + $(elem).children().eq(6)
       .find("img").attr("src").replace("/thumb/", "/").replace(/\/[^\/]*$/, "");
     const countryData = {
+      anthem: {},
       flag: {
         largeImageUrl: getFlag(1200),
         smallImageUrl: getFlag(720),

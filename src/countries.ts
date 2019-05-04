@@ -23,8 +23,12 @@ export interface ICountry {
   languages: string[];
   currencies: string[];
   borders: string[];
-  /** Link to the anthem audio file. */
-  anthem?: string;
-  anthemName?: string;
+  anthem: {
+    /** Link to the anthem audio file (instrumental version). */
+    url: string;
+    /** Link to the anthem audio file (vocal version). */
+    vocalUrl?: string;
+    name?: string;
+  };
   adjectives: string[];
 }

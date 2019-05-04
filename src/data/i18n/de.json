@@ -11,6 +11,7 @@
   },
   "countries": {
     "ABC": {
+      "anthemName": "Sieg",
       "capital": "Sochumi",
       "longName": "Republik Abchasien",
       "name": "Abchasien"
@@ -514,6 +515,7 @@
       "adjectives": [
         "saharauisch"
       ],
+      "anthemName": "Oh Söhne der Sahara",
       "capital": "El Aaiún",
       "longName": "Demokratische Arabische Republik Sahara",
       "name": "Westsahara"
