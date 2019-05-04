@@ -116,5 +116,40 @@ export async function italian(isoCodes: string[]): Promise<any> {
     };
   });
 
-  return data;
+  return {
+    countries: data,
+    regions: {
+      "001": "Mondo",
+      "002": "Africa",
+      "005": "America del sud",
+      "009": "Oceania",
+      "011": "Africa occidentale",
+      "013": "America centrale",
+      "014": "Africa orientale",
+      "015": "Africa settentrionale",
+      "017": "Africa centrale",
+      "018": "Africa meridionale",
+      "019": "Americhe",
+      "021": "America settentrionale",
+      "029": "Caraibi",
+      "030": "Asia orientale",
+      "034": "Asia meridionale",
+      "035": "Asia sud-orientale",
+      "039": "Europa meridionale",
+      "053": "Australia e Nuova Zelanda",
+      "054": "Melanesia",
+      "057": "Micronesia",
+      "061": "Polinesia",
+      "142": "Asia",
+      "143": "Asia centrale",
+      "145": "Asia occidentale",
+      "150": "Europa",
+      "151": "Europa orientale",
+      "154": "Europa settentrionale",
+      "155": "Europa occidentale",
+      "202": "Africa subsahariana",
+      "419": "America Latina e Caraibi",
+      "830": "Isole del Canale",
+    },
+  };
 }

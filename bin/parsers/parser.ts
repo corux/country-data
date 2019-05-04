@@ -19,7 +19,7 @@ export class Parser {
 
     // post-process locale data
     Object.keys(result.locales).sort().forEach((lang) => {
-      const locale = result.locales[lang];
+      const locale = result.locales[lang].countries;
       Object.keys(locale).forEach((iso) => {
         // move data from country specific to generic
         const genericCountry = genericData.find((val) => val.iso3 === iso);

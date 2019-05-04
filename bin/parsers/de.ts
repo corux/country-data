@@ -43,7 +43,7 @@ function fixCapitalName(name: string): string {
   return name.match(/^([^(]*)/)[1].trim();
 }
 
-export async function german(): Promise<any> {
+async function countries(): Promise<any> {
   // parse wikipedia country data
   let $ = cheerio.load((await Axios.get("https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde")).data);
   const data = {};
@@ -146,6 +146,29 @@ export async function german(): Promise<any> {
       country.anthemUrl = anthem.url;
     }
   });
+  return data;
+}
+
+async function regions(): Promise<any> {
+  const $ = cheerio.load((await Axios
+    .get("https://de.wikipedia.org/wiki/Liste_der_geographischen_Regionen_nach_den_Vereinten_Nationen")).data);
+  const data = {
+    202: "Subsahara-Afrika",
+    830: "Kanalinseln",
+  };
+  $(".mw-parser-output").find("p, li").each((i, elem) => {
+    const match = $(elem).text().split("\n")[0].trim().match(/([0-9]{3}) (.*)/);
+    if (match) {
+      data[match[1]] = match[2];
+    }
+  });
 
   return data;
+}
+
+export async function german(): Promise<any> {
+  return {
+    countries: await countries(),
+    regions: await regions(),
+  };
 }

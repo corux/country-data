@@ -25,9 +25,10 @@ new Parser().parse().then((data) => {
     const file = path.join(process.cwd(), program.destination, `i18n/${key}.json`);
     const fileContent = JSON.parse(fs.readFileSync(file).toString());
     fileContent.countries = {};
+    fileContent.regions = val.regions;
     isoCodes.forEach((iso) => {
-      if (val[iso]) {
-        fileContent.countries[iso] = val[iso];
+      if (val.countries[iso]) {
+        fileContent.countries[iso] = val.countries[iso];
       }
     });
     fs.writeFile(file, stringify(fileContent), "utf8", () => { /* */ });

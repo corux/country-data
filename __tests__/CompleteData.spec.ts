@@ -8,7 +8,7 @@ describe("Complete Data", () => {
     test("No country is linked to America continent", () => {
       const americas = countryData.getCountries()
         .map((country) => country.continent)
-        .filter((continent) => continent === ContinentCode.AMERICAS);
+        .filter((continent) => continent.code === ContinentCode.AMERICAS);
       expect(americas.length).toBe(0);
     });
 
@@ -19,7 +19,11 @@ describe("Complete Data", () => {
 
       test(`Country contains valid continent (${country.iso3})`, () => {
         expect(country.continent).toBeTruthy();
-        expect(Object.values(ContinentCode).includes(country.continent)).toBeTruthy();
+        expect(Object.values(ContinentCode).includes(country.continent.code)).toBeTruthy();
+      });
+
+      test(`Country contains valid region (${country.iso3})`, () => {
+        expect(country.region).toBeTruthy();
       });
     });
   });
@@ -29,8 +33,14 @@ describe("Complete Data", () => {
     describe(`Language: ${lang}`, () => {
       const countryData = new CountryData(lang);
 
-      countryData.getContinents().forEach((region) => {
-        test(`Continent contains name (${region.code})`, () => {
+      countryData.getContinents().forEach((continent) => {
+        test(`Continent contains name (${continent.code})`, () => {
+          expect(continent.name).toBeTruthy();
+        });
+      });
+
+      countryData.getRegions().forEach((region) => {
+        test(`Region contains name (${region.code})`, () => {
           expect(region.name).toBeTruthy();
         });
       });

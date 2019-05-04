@@ -36,7 +36,7 @@ function fixCapitalName(name: string): string {
   return name.match(/^([^(]*)/)[1].trim();
 }
 
-export async function english(isoCodes: string[]): Promise<any> {
+async function countries(isoCodes: string[]): Promise<any> {
   let $ = cheerio.load((await Axios.get("https://en.wikipedia.org/wiki/List_of_national_anthems")).data);
   const anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
     const get = (position) => {
@@ -164,4 +164,26 @@ export async function english(isoCodes: string[]): Promise<any> {
     });
 
   return data;
+}
+
+async function regions(): Promise<any> {
+  const $ = cheerio.load((await Axios.get("https://unstats.un.org/unsd/methodology/m49/")).data);
+  const data = {};
+  $("#GeoGroupsENG").find("tr[data-tt-id]").each((i, elem) => {
+    const name = $(elem).children().eq(0).text();
+    const code = $(elem).children().eq(1).text();
+    const iso = $(elem).children().eq(2).text();
+    if (!iso) {
+      data[code] = name;
+    }
+  });
+
+  return data;
+}
+
+export async function english(isoCodes: string[]): Promise<any> {
+  return {
+    countries: await countries(isoCodes),
+    regions: await regions(),
+  };
 }

@@ -1,7 +1,7 @@
 import Axios from "axios";
 import * as cheerio from "cheerio";
 
-export async function spanish(isoCodes: string[]): Promise<any> {
+async function countries(isoCodes: string[]): Promise<any> {
   let $ = cheerio.load((await Axios.get("https://es.wikipedia.org/wiki/ISO_3166-1")).data);
   const countryData = $(".wikitable.sortable tbody").first().find("tr").map((i, elem) => {
     const get = (position) => {
@@ -88,4 +88,26 @@ export async function spanish(isoCodes: string[]): Promise<any> {
   });
 
   return data;
+}
+
+async function regions(): Promise<any> {
+  const $ = cheerio.load((await Axios.get("https://unstats.un.org/unsd/methodology/m49/")).data);
+  const data = {};
+  $("#GeoGroupsESP").find("tr[data-tt-id]").each((i, elem) => {
+    const name = $(elem).children().eq(0).text();
+    const code = $(elem).children().eq(1).text();
+    const iso = $(elem).children().eq(2).text();
+    if (!iso) {
+      data[code] = name;
+    }
+  });
+
+  return data;
+}
+
+export async function spanish(isoCodes: string[]): Promise<any> {
+  return {
+    countries: await countries(isoCodes),
+    regions: await regions(),
+  };
 }

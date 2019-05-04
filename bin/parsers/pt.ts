@@ -142,5 +142,40 @@ export async function portugese(isoCodes: string[]): Promise<any> {
     };
   });
 
-  return data;
+  return {
+    countries: data,
+    regions: {
+      "001": "Mundo",
+      "002": "África",
+      "005": "América do Sul",
+      "009": "Oceania",
+      "011": "África Ocidental",
+      "013": "América Central",
+      "014": "África Oriental",
+      "015": "Norte de África",
+      "017": "África Central",
+      "018": "África Austral",
+      "019": "América",
+      "021": "América do Norte",
+      "029": "Caraíbas",
+      "030": "Ásia Oriental",
+      "034": "Ásia Meridional",
+      "035": "Sudeste Asiático",
+      "039": "Europa Meridional",
+      "053": "Austrália e Nova Zelândia",
+      "054": "Melanésia",
+      "057": "Micronésia",
+      "061": "Polinésia",
+      "142": "Ásia",
+      "143": "Ásia Central",
+      "145": "Ásia Ocidental",
+      "150": "Europa",
+      "151": "Europa Oriental",
+      "154": "Europa Setentrional",
+      "155": "Europa Ocidental",
+      "202": "África Subsaariana",
+      "419": "América Latina e Caribe",
+      "830": "Ilhas do Canal",
+    },
+  };
 }

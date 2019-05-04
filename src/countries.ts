@@ -1,4 +1,5 @@
-import { ContinentCode } from "./continents";
+import { IContinent } from "./continents";
+import { IRegion } from "./region";
 
 /** Definition of a country in the world. */
 export interface ICountry {
@@ -16,7 +17,9 @@ export interface ICountry {
   iso3: string;
   iso2?: string;
   /** The geological continent, this country belongs to. */
-  continent: ContinentCode;
+  continent: IContinent;
+  /** The region, as defined by the United Nations M49 methodology. */
+  region: IRegion;
   languages: string[];
   currencies: string[];
   borders: string[];
