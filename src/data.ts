@@ -1,3 +1,4 @@
+import { ContinentCode } from "./continents";
 import * as generic from "./data/generic.json";
 import * as de from "./data/i18n/de.json";
 import * as en from "./data/i18n/en.json";
@@ -5,7 +6,6 @@ import * as es from "./data/i18n/es.json";
 import * as fr from "./data/i18n/fr.json";
 import * as it from "./data/i18n/it.json";
 import * as pt from "./data/i18n/pt.json";
-import { Region } from "./regions";
 
 export interface IData {
   generic: IDataGeneric[];
@@ -23,7 +23,7 @@ export interface IDataGeneric {
   };
   iso3: string;
   iso2: string;
-  region: Region;
+  continent: ContinentCode;
   languages: [string];
   currencies: [string];
   borders: [string];
@@ -41,7 +41,7 @@ export interface IDataLocale {
       anthemName?: string;
     };
   };
-  regions: {
+  continents: {
     [code: string]: string;
   };
 }

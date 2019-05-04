@@ -1,4 +1,14 @@
 {
+  "continents": {
+    "AF": "Afrika",
+    "AM": "Amerika",
+    "AN": "Antarktika",
+    "AS": "Asien",
+    "EU": "Europa",
+    "NA": "Nordamerika",
+    "OC": "Ozeanien",
+    "SA": "Südamerika"
+  },
   "countries": {
     "ABC": {
       "capital": "Sochumi",
@@ -1844,14 +1854,5 @@
       "longName": "Republik Simbabwe",
       "name": "Simbabwe"
     }
-  },
-  "regions": {
-    "AF": "Afrika",
-    "AM": "Amerika",
-    "AS": "Asien",
-    "EU": "Europa",
-    "NA": "Nordamerika",
-    "OC": "Ozeanien",
-    "SA": "Südamerika"
   }
 }

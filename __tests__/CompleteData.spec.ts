@@ -1,18 +1,25 @@
-import { CountryData, Region } from "../src/";
+import { ContinentCode, CountryData } from "../src/";
 
 describe("Complete Data", () => {
 
   describe("Language independant data", () => {
     const countryData = new CountryData("en");
 
+    test("No country is linked to America continent", () => {
+      const americas = countryData.getCountries()
+        .map((country) => country.continent)
+        .filter((continent) => continent === ContinentCode.AMERICAS);
+      expect(americas.length).toBe(0);
+    });
+
     countryData.getCountries().forEach((country) => {
       test(`Country contains SVG flag (${country.iso3})`, () => {
         expect(country.flag.svgUrl).toBeTruthy();
       });
 
-      test(`Country contains valid region (${country.iso3})`, () => {
-        expect(country.region).toBeTruthy();
-        expect(Object.values(Region).includes(country.region)).toBeTruthy();
+      test(`Country contains valid continent (${country.iso3})`, () => {
+        expect(country.continent).toBeTruthy();
+        expect(Object.values(ContinentCode).includes(country.continent)).toBeTruthy();
       });
     });
   });
@@ -22,8 +29,8 @@ describe("Complete Data", () => {
     describe(`Language: ${lang}`, () => {
       const countryData = new CountryData(lang);
 
-      countryData.getRegions().forEach((region) => {
-        test(`Region contains name (${region.code})`, () => {
+      countryData.getContinents().forEach((region) => {
+        test(`Continent contains name (${region.code})`, () => {
           expect(region.name).toBeTruthy();
         });
       });

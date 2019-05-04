@@ -1,4 +1,14 @@
 {
+  "continents": {
+    "AF": "África",
+    "AM": "América",
+    "AN": "Antártida",
+    "AS": "Ásia",
+    "EU": "Europa",
+    "NA": "América do Norte",
+    "OC": "Oceânia",
+    "SA": "Ámérica do Sul"
+  },
   "countries": {
     "ABC": {
       "adjectives": [
@@ -1946,14 +1956,5 @@
       "anthemName": "Abençoada seja a terra do Zimbabwe",
       "name": "Zimbabwe"
     }
-  },
-  "regions": {
-    "AF": "África",
-    "AM": "América",
-    "AS": "Ásia",
-    "EU": "Europa",
-    "NA": "América do Norte",
-    "OC": "Oceânia",
-    "SA": "Ámérica do Sul"
   }
 }

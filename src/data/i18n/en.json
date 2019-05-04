@@ -1,4 +1,14 @@
 {
+  "continents": {
+    "AF": "Africa",
+    "AM": "Americas",
+    "AN": "Antarctica",
+    "AS": "Asia",
+    "EU": "Europe",
+    "NA": "North America",
+    "OC": "Oceania",
+    "SA": "South America"
+  },
   "countries": {
     "ABC": {
       "adjectives": [
@@ -1837,14 +1847,5 @@
       "longName": "Republic of Zimbabwe",
       "name": "Zimbabwe"
     }
-  },
-  "regions": {
-    "AF": "Africa",
-    "AM": "Americas",
-    "AS": "Asia",
-    "EU": "Europe",
-    "NA": "North America",
-    "OC": "Oceania",
-    "SA": "South America"
   }
 }

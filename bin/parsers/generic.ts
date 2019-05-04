@@ -1,6 +1,13 @@
 import Axios from "axios";
 import * as cheerio from "cheerio";
 import * as countryjs from "countryjs";
+import { ContinentCode } from "../../src";
+
+declare interface ICountryJsType {
+  ISO: { alpha3: string };
+  region: string;
+  subregion: string;
+}
 
 export function getFromCountryJs(isoCodes: string[]): any[] {
   // Data missing in countryjs
@@ -76,24 +83,27 @@ export function getFromCountryJs(isoCodes: string[]): any[] {
   return data;
 }
 
-export function getRegionCode(countryJsData: { region: string, subregion: string }): string {
+export function getContinentCode(countryJsData: ICountryJsType): string {
   switch (countryJsData.subregion) {
     case "South America":
-      return "SA";
+      return ContinentCode.SOUTH_AMERICA;
     case "Northern America":
-      return "NA";
+    case "Caribbean":
+    case "Central America":
+      return ContinentCode.NORTH_AMERICA;
   }
+
   switch (countryJsData.region) {
     case "Americas":
-      return "AM";
+      return ContinentCode.AMERICAS;
     case "Africa":
-      return "AF";
+      return ContinentCode.AFRICA;
     case "Europe":
-      return "EU";
+      return ContinentCode.EUROPE;
     case "Asia":
-      return "AS";
+      return ContinentCode.ASIA;
     case "Oceania":
-      return "OC";
+      return ContinentCode.OCEANIA;
   }
 
   return countryJsData.region;
@@ -135,7 +145,7 @@ export async function generic(): Promise<any> {
   const countryJsList = getFromCountryJs(data.map((n) => n.iso3));
   for (const country of data) {
     const countryJsData = countryJsList.find((n) => n.ISO.alpha3 === country.iso3) || {};
-    country.region = getRegionCode(countryJsData);
+    country.continent = getContinentCode(countryJsData);
     country.languages = countryJsData.languages || [];
     country.currencies = countryJsData.currencies || [];
     country.borders = (countryJsData.borders || [])

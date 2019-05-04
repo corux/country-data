@@ -4,6 +4,7 @@
       "GEO",
       "RUS"
     ],
+    "continent": "AS",
     "currencies": [
     ],
     "flag": {
@@ -15,7 +16,6 @@
     "languages": [
     ],
     "population": 240000,
-    "region": "AS",
     "tld": [
     ]
   },
@@ -29,6 +29,7 @@
       "TJK",
       "CHN"
     ],
+    "continent": "AS",
     "currencies": [
       "AFN"
     ],
@@ -45,7 +46,6 @@
       "tk"
     ],
     "population": 35500000,
-    "region": "AS",
     "tld": [
       ".af",
       "افغانستان."
@@ -58,6 +58,7 @@
       "LBY",
       "SDN"
     ],
+    "continent": "AF",
     "currencies": [
       "EGP"
     ],
@@ -72,7 +73,6 @@
       "ar"
     ],
     "population": 93400000,
-    "region": "AF",
     "tld": [
       ".eg"
     ]
@@ -85,6 +85,7 @@
       "MKD",
       "XXK"
     ],
+    "continent": "EU",
     "currencies": [
       "ALL"
     ],
@@ -99,7 +100,6 @@
       "sq"
     ],
     "population": 2900000,
-    "region": "EU",
     "tld": [
       ".al"
     ]
@@ -115,6 +115,7 @@
       "MLI",
       "MAR"
     ],
+    "continent": "AF",
     "currencies": [
       "DZD"
     ],
@@ -129,7 +130,6 @@
       "ar"
     ],
     "population": 42200000,
-    "region": "AF",
     "tld": [
       ".dz",
       "الجزائر."
@@ -141,6 +141,7 @@
       "ESP",
       "FRA"
     ],
+    "continent": "EU",
     "currencies": [
     ],
     "flag": {
@@ -153,7 +154,6 @@
     "languages": [
     ],
     "population": 80000,
-    "region": "EU",
     "tld": [
       ".ad"
     ]
@@ -166,6 +166,7 @@
       "ZMB",
       "NAM"
     ],
+    "continent": "AF",
     "currencies": [
       "AOA"
     ],
@@ -180,7 +181,6 @@
       "pt"
     ],
     "population": 28600000,
-    "region": "AF",
     "tld": [
       ".ao"
     ]
@@ -189,6 +189,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/27/Antigua_and_Barbuda_National_Anthem.ogg",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "XCD"
     ],
@@ -203,7 +204,6 @@
       "en"
     ],
     "population": 100000,
-    "region": "AM",
     "tld": [
       ".ag"
     ]
@@ -214,6 +214,7 @@
       "CMR",
       "GAB"
     ],
+    "continent": "AF",
     "currencies": [
       "XAF"
     ],
@@ -229,7 +230,6 @@
       "fr"
     ],
     "population": 1300000,
-    "region": "AF",
     "tld": [
       ".gq"
     ]
@@ -243,6 +243,7 @@
       "PRY",
       "URY"
     ],
+    "continent": "SA",
     "currencies": [
       "ARS"
     ],
@@ -258,7 +259,6 @@
       "gn"
     ],
     "population": 44300000,
-    "region": "SA",
     "tld": [
       ".ar"
     ]
@@ -271,6 +271,7 @@
       "IRN",
       "TUR"
     ],
+    "continent": "AS",
     "currencies": [
       "AMD"
     ],
@@ -286,7 +287,6 @@
       "ru"
     ],
     "population": 3000000,
-    "region": "AS",
     "tld": [
       ".am"
     ]
@@ -300,6 +300,7 @@
       "RUS",
       "TUR"
     ],
+    "continent": "AS",
     "currencies": [
       "AZN"
     ],
@@ -315,7 +316,6 @@
       "hy"
     ],
     "population": 9900000,
-    "region": "AS",
     "tld": [
       ".az"
     ]
@@ -330,6 +330,7 @@
       "SSD",
       "SDN"
     ],
+    "continent": "AF",
     "currencies": [
       "ETB"
     ],
@@ -344,7 +345,6 @@
       "am"
     ],
     "population": 105000000,
-    "region": "AF",
     "tld": [
       ".et"
     ]
@@ -353,6 +353,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a6/U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "AUD"
     ],
@@ -367,7 +368,6 @@
       "en"
     ],
     "population": 24500000,
-    "region": "OC",
     "tld": [
       ".au"
     ]
@@ -376,6 +376,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/62/National_anthem_of_the_Bahamas.oga",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "BSD"
     ],
@@ -390,7 +391,6 @@
       "en"
     ],
     "population": 400000,
-    "region": "AM",
     "tld": [
       ".bs"
     ]
@@ -399,6 +399,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bahraini_Anthem.ogg",
     "borders": [
     ],
+    "continent": "AS",
     "currencies": [
       "BHD"
     ],
@@ -413,7 +414,6 @@
       "ar"
     ],
     "population": 1500000,
-    "region": "AS",
     "tld": [
       ".bh"
     ]
@@ -424,6 +424,7 @@
       "MMR",
       "IND"
     ],
+    "continent": "AS",
     "currencies": [
       "BDT"
     ],
@@ -438,7 +439,6 @@
       "bn"
     ],
     "population": 164700000,
-    "region": "AS",
     "tld": [
       ".bd"
     ]
@@ -447,6 +447,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/73/In_Plenty_and_In_Time_of_Need_instrumental.ogg",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "BBD"
     ],
@@ -461,7 +462,6 @@
       "en"
     ],
     "population": 300000,
-    "region": "AM",
     "tld": [
       ".bb"
     ]
@@ -474,6 +474,7 @@
       "LUX",
       "NLD"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -490,7 +491,6 @@
       "de"
     ],
     "population": 11300000,
-    "region": "EU",
     "tld": [
       ".be"
     ]
@@ -501,6 +501,7 @@
       "GTM",
       "MEX"
     ],
+    "continent": "NA",
     "currencies": [
       "BZD"
     ],
@@ -516,7 +517,6 @@
       "es"
     ],
     "population": 400000,
-    "region": "AM",
     "tld": [
       ".bz"
     ]
@@ -529,6 +529,7 @@
       "NGA",
       "TGO"
     ],
+    "continent": "AF",
     "currencies": [
       "XOF"
     ],
@@ -543,7 +544,6 @@
       "fr"
     ],
     "population": 11200000,
-    "region": "AF",
     "tld": [
       ".bj"
     ]
@@ -554,6 +554,7 @@
       "CHN",
       "IND"
     ],
+    "continent": "AS",
     "currencies": [
       "BTN",
       "INR"
@@ -569,7 +570,6 @@
       "dz"
     ],
     "population": 800000,
-    "region": "AS",
     "tld": [
       ".bt"
     ]
@@ -583,6 +583,7 @@
       "PRY",
       "PER"
     ],
+    "continent": "SA",
     "currencies": [
       "BOB",
       "BOV"
@@ -600,7 +601,6 @@
       "qu"
     ],
     "population": 11100000,
-    "region": "SA",
     "tld": [
       ".bo"
     ]
@@ -612,6 +612,7 @@
       "MNE",
       "SRB"
     ],
+    "continent": "EU",
     "currencies": [
       "BAM"
     ],
@@ -628,7 +629,6 @@
       "sr"
     ],
     "population": 3500000,
-    "region": "EU",
     "tld": [
       ".ba"
     ]
@@ -641,6 +641,7 @@
       "ZMB",
       "ZWE"
     ],
+    "continent": "AF",
     "currencies": [
       "BWP"
     ],
@@ -656,7 +657,6 @@
       "tn"
     ],
     "population": 2300000,
-    "region": "AF",
     "tld": [
       ".bw"
     ]
@@ -674,6 +674,7 @@
       "URY",
       "VEN"
     ],
+    "continent": "SA",
     "currencies": [
       "BRL"
     ],
@@ -688,7 +689,6 @@
       "pt"
     ],
     "population": 207900000,
-    "region": "SA",
     "tld": [
       ".br"
     ]
@@ -698,6 +698,7 @@
     "borders": [
       "MYS"
     ],
+    "continent": "AS",
     "currencies": [
       "BND"
     ],
@@ -712,7 +713,6 @@
       "ms"
     ],
     "population": 400000,
-    "region": "AS",
     "tld": [
       ".bn"
     ]
@@ -726,6 +726,7 @@
       "SRB",
       "TUR"
     ],
+    "continent": "EU",
     "currencies": [
       "BGN"
     ],
@@ -740,7 +741,6 @@
       "bg"
     ],
     "population": 7100000,
-    "region": "EU",
     "tld": [
       ".bg"
     ]
@@ -755,6 +755,7 @@
       "NER",
       "TGO"
     ],
+    "continent": "AF",
     "currencies": [
       "XOF"
     ],
@@ -770,7 +771,6 @@
       "ff"
     ],
     "population": 19600000,
-    "region": "AF",
     "tld": [
       ".bf"
     ]
@@ -782,6 +782,7 @@
       "RWA",
       "TZA"
     ],
+    "continent": "AF",
     "currencies": [
       "BIF"
     ],
@@ -797,7 +798,6 @@
       "rn"
     ],
     "population": 10400000,
-    "region": "AF",
     "tld": [
       ".bi"
     ]
@@ -809,6 +809,7 @@
       "BOL",
       "PER"
     ],
+    "continent": "SA",
     "currencies": [
       "CLF",
       "CLP"
@@ -824,7 +825,6 @@
       "es"
     ],
     "population": 18400000,
-    "region": "SA",
     "tld": [
       ".cl"
     ]
@@ -833,6 +833,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg",
     "borders": [
     ],
+    "continent": "AS",
     "currencies": [
       "TWD"
     ],
@@ -847,7 +848,6 @@
       "zh"
     ],
     "population": 23600000,
-    "region": "AS",
     "tld": [
       ".tw"
     ]
@@ -869,6 +869,7 @@
       "TJK",
       "VNM"
     ],
+    "continent": "AS",
     "currencies": [
       "CNY"
     ],
@@ -883,7 +884,6 @@
       "zh"
     ],
     "population": 1386800000,
-    "region": "AS",
     "tld": [
       ".cn"
     ]
@@ -892,6 +892,7 @@
     "anthem": "http://www.nationalanthems.info/ck.mp3",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "NZD"
     ],
@@ -906,7 +907,6 @@
       "en"
     ],
     "population": 11500,
-    "region": "OC",
     "tld": [
       ".ck"
     ]
@@ -917,6 +917,7 @@
       "NIC",
       "PAN"
     ],
+    "continent": "NA",
     "currencies": [
       "CRC"
     ],
@@ -931,7 +932,6 @@
       "es"
     ],
     "population": 4900000,
-    "region": "AM",
     "tld": [
       ".cr"
     ]
@@ -941,6 +941,7 @@
     "borders": [
       "DEU"
     ],
+    "continent": "EU",
     "currencies": [
       "DKK"
     ],
@@ -955,7 +956,6 @@
       "da"
     ],
     "population": 5748769,
-    "region": "EU",
     "tld": [
       ".dk"
     ]
@@ -973,6 +973,7 @@
       "POL",
       "CHE"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -987,7 +988,6 @@
       "de"
     ],
     "population": 83100000,
-    "region": "EU",
     "tld": [
       ".de"
     ]
@@ -996,6 +996,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/9/9a/National_Anthem_of_Dominica_by_US_Navy_Band.ogg",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "XCD"
     ],
@@ -1010,7 +1011,6 @@
       "en"
     ],
     "population": 73000,
-    "region": "AM",
     "tld": [
       ".dm"
     ]
@@ -1020,6 +1020,7 @@
     "borders": [
       "HTI"
     ],
+    "continent": "NA",
     "currencies": [
       "DOP"
     ],
@@ -1034,7 +1035,6 @@
       "es"
     ],
     "population": 10700000,
-    "region": "AM",
     "tld": [
       ".do"
     ]
@@ -1046,6 +1046,7 @@
       "ETH",
       "SOM"
     ],
+    "continent": "AF",
     "currencies": [
       "DJF"
     ],
@@ -1061,7 +1062,6 @@
       "ar"
     ],
     "population": 1000000,
-    "region": "AF",
     "tld": [
       ".dj"
     ]
@@ -1072,6 +1072,7 @@
       "COL",
       "PER"
     ],
+    "continent": "SA",
     "currencies": [
       "USD"
     ],
@@ -1086,7 +1087,6 @@
       "es"
     ],
     "population": 16800000,
-    "region": "SA",
     "tld": [
       ".ec"
     ]
@@ -1097,6 +1097,7 @@
       "GTM",
       "HND"
     ],
+    "continent": "NA",
     "currencies": [
       "SVC",
       "USD"
@@ -1112,7 +1113,6 @@
       "es"
     ],
     "population": 6400000,
-    "region": "AM",
     "tld": [
       ".sv"
     ]
@@ -1126,6 +1126,7 @@
       "LBR",
       "MLI"
     ],
+    "continent": "AF",
     "currencies": [
       "XOF"
     ],
@@ -1140,7 +1141,6 @@
       "fr"
     ],
     "population": 24400000,
-    "region": "AF",
     "tld": [
       ".ci"
     ]
@@ -1152,6 +1152,7 @@
       "ETH",
       "SDN"
     ],
+    "continent": "AF",
     "currencies": [
       "ERN"
     ],
@@ -1168,7 +1169,6 @@
       "en"
     ],
     "population": 5900000,
-    "region": "AF",
     "tld": [
       ".er"
     ]
@@ -1179,6 +1179,7 @@
       "LVA",
       "RUS"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -1193,7 +1194,6 @@
       "et"
     ],
     "population": 1300000,
-    "region": "EU",
     "tld": [
       ".ee"
     ]
@@ -1202,6 +1202,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fiji_National_Anthem.ogg",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "FJD"
     ],
@@ -1219,7 +1220,6 @@
       "ur"
     ],
     "population": 900000,
-    "region": "OC",
     "tld": [
       ".fj"
     ]
@@ -1231,6 +1231,7 @@
       "SWE",
       "RUS"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -1245,7 +1246,6 @@
       "sv"
     ],
     "population": 5500000,
-    "region": "EU",
     "tld": [
       ".fi"
     ]
@@ -1262,6 +1262,7 @@
       "ESP",
       "CHE"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -1276,7 +1277,6 @@
       "fr"
     ],
     "population": 65000000,
-    "region": "EU",
     "tld": [
       ".fr"
     ]
@@ -1288,6 +1288,7 @@
       "COG",
       "GNQ"
     ],
+    "continent": "AF",
     "currencies": [
       "XAF"
     ],
@@ -1302,7 +1303,6 @@
       "fr"
     ],
     "population": 2000000,
-    "region": "AF",
     "tld": [
       ".ga"
     ]
@@ -1312,6 +1312,7 @@
     "borders": [
       "SEN"
     ],
+    "continent": "AF",
     "currencies": [
       "GMD"
     ],
@@ -1326,7 +1327,6 @@
       "en"
     ],
     "population": 2100000,
-    "region": "AF",
     "tld": [
       ".gm"
     ]
@@ -1341,6 +1341,7 @@
       "ABC",
       "SOS"
     ],
+    "continent": "AS",
     "currencies": [
       "GEL"
     ],
@@ -1355,7 +1356,6 @@
       "ka"
     ],
     "population": 3900000,
-    "region": "AS",
     "tld": [
       ".ge"
     ]
@@ -1367,6 +1367,7 @@
       "CIV",
       "TGO"
     ],
+    "continent": "AF",
     "currencies": [
       "GHS"
     ],
@@ -1381,7 +1382,6 @@
       "en"
     ],
     "population": 28800000,
-    "region": "AF",
     "tld": [
       ".gh"
     ]
@@ -1390,6 +1390,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/76/HailGrenada.ogg",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "XCD"
     ],
@@ -1404,7 +1405,6 @@
       "en"
     ],
     "population": 108000,
-    "region": "AM",
     "tld": [
       ".gd"
     ]
@@ -1417,6 +1417,7 @@
       "TUR",
       "MKD"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -1431,7 +1432,6 @@
       "el"
     ],
     "population": 10700000,
-    "region": "EU",
     "tld": [
       ".gr"
     ]
@@ -1444,6 +1444,7 @@
       "HND",
       "MEX"
     ],
+    "continent": "NA",
     "currencies": [
       "GTQ"
     ],
@@ -1458,7 +1459,6 @@
       "es"
     ],
     "population": 16900000,
-    "region": "AM",
     "tld": [
       ".gt"
     ]
@@ -1473,6 +1473,7 @@
       "SEN",
       "SLE"
     ],
+    "continent": "AF",
     "currencies": [
       "GNF"
     ],
@@ -1488,7 +1489,6 @@
       "ff"
     ],
     "population": 11500000,
-    "region": "AF",
     "tld": [
       ".gn"
     ]
@@ -1499,6 +1499,7 @@
       "GIN",
       "SEN"
     ],
+    "continent": "AF",
     "currencies": [
       "XOF"
     ],
@@ -1513,7 +1514,6 @@
       "pt"
     ],
     "population": 1900000,
-    "region": "AF",
     "tld": [
       ".gw"
     ]
@@ -1525,6 +1525,7 @@
       "SUR",
       "VEN"
     ],
+    "continent": "SA",
     "currencies": [
       "GYD"
     ],
@@ -1539,7 +1540,6 @@
       "en"
     ],
     "population": 800000,
-    "region": "SA",
     "tld": [
       ".gy"
     ]
@@ -1549,6 +1549,7 @@
     "borders": [
       "DOM"
     ],
+    "continent": "NA",
     "currencies": [
       "HTG",
       "USD"
@@ -1565,7 +1566,6 @@
       "ht"
     ],
     "population": 10600000,
-    "region": "AM",
     "tld": [
       ".ht"
     ]
@@ -1577,6 +1577,7 @@
       "SLV",
       "NIC"
     ],
+    "continent": "NA",
     "currencies": [
       "HNL"
     ],
@@ -1591,7 +1592,6 @@
       "es"
     ],
     "population": 8900000,
-    "region": "AM",
     "tld": [
       ".hn"
     ]
@@ -1608,6 +1608,7 @@
       "PAK",
       "LKA"
     ],
+    "continent": "AS",
     "currencies": [
       "INR"
     ],
@@ -1623,7 +1624,6 @@
       "en"
     ],
     "population": 1352600000,
-    "region": "AS",
     "tld": [
       ".in"
     ]
@@ -1635,6 +1635,7 @@
       "MYS",
       "PNG"
     ],
+    "continent": "AS",
     "currencies": [
       "IDR"
     ],
@@ -1649,7 +1650,6 @@
       "id"
     ],
     "population": 264000000,
-    "region": "AS",
     "tld": [
       ".id"
     ]
@@ -1664,6 +1664,7 @@
       "SYR",
       "TUR"
     ],
+    "continent": "AS",
     "currencies": [
       "IQD"
     ],
@@ -1679,7 +1680,6 @@
       "ku"
     ],
     "population": 39200000,
-    "region": "AS",
     "tld": [
       ".iq"
     ]
@@ -1695,6 +1695,7 @@
       "TUR",
       "TKM"
     ],
+    "continent": "AS",
     "currencies": [
       "IRR"
     ],
@@ -1709,7 +1710,6 @@
       "fa"
     ],
     "population": 80600000,
-    "region": "AS",
     "tld": [
       ".ir"
     ]
@@ -1719,6 +1719,7 @@
     "borders": [
       "GBR"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -1734,7 +1735,6 @@
       "en"
     ],
     "population": 4800000,
-    "region": "EU",
     "tld": [
       ".ie"
     ]
@@ -1743,6 +1743,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lofs%C3%B6ngur.ogg",
     "borders": [
     ],
+    "continent": "EU",
     "currencies": [
       "ISK"
     ],
@@ -1757,7 +1758,6 @@
       "is"
     ],
     "population": 350000,
-    "region": "EU",
     "tld": [
       ".is"
     ]
@@ -1771,6 +1771,7 @@
       "SYR",
       "PSE"
     ],
+    "continent": "AS",
     "currencies": [
       "ILS"
     ],
@@ -1786,7 +1787,6 @@
       "ar"
     ],
     "population": 8600000,
-    "region": "AS",
     "tld": [
       ".il"
     ]
@@ -1801,6 +1801,7 @@
       "CHE",
       "VAT"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -1815,7 +1816,6 @@
       "it"
     ],
     "population": 60500000,
-    "region": "EU",
     "tld": [
       ".it"
     ]
@@ -1824,6 +1824,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/11/Anthems_-_National_Anthem_Of_Jamaica.ogg",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "JMD"
     ],
@@ -1838,7 +1839,6 @@
       "en"
     ],
     "population": 2900000,
-    "region": "AM",
     "tld": [
       ".jm"
     ]
@@ -1847,6 +1847,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kimi_ga_Yo_instrumental.ogg",
     "borders": [
     ],
+    "continent": "AS",
     "currencies": [
       "JPY"
     ],
@@ -1861,7 +1862,6 @@
       "ja"
     ],
     "population": 126700000,
-    "region": "AS",
     "tld": [
       ".jp"
     ]
@@ -1872,6 +1872,7 @@
       "OMN",
       "SAU"
     ],
+    "continent": "AS",
     "currencies": [
       "YER"
     ],
@@ -1886,7 +1887,6 @@
       "ar"
     ],
     "population": 28300000,
-    "region": "AS",
     "tld": [
       ".ye"
     ]
@@ -1900,6 +1900,7 @@
       "SYR",
       "PSE"
     ],
+    "continent": "AS",
     "currencies": [
       "JOD"
     ],
@@ -1914,7 +1915,6 @@
       "ar"
     ],
     "population": 9700000,
-    "region": "AS",
     "tld": [
       ".jo"
     ]
@@ -1926,6 +1926,7 @@
       "THA",
       "VNM"
     ],
+    "continent": "AS",
     "currencies": [
       "KHR"
     ],
@@ -1940,7 +1941,6 @@
       "km"
     ],
     "population": 15900000,
-    "region": "AS",
     "tld": [
       ".kh"
     ]
@@ -1955,6 +1955,7 @@
       "GAB",
       "NGA"
     ],
+    "continent": "AF",
     "currencies": [
       "XAF"
     ],
@@ -1970,7 +1971,6 @@
       "fr"
     ],
     "population": 25000000,
-    "region": "AF",
     "tld": [
       ".cm"
     ]
@@ -1980,6 +1980,7 @@
     "borders": [
       "USA"
     ],
+    "continent": "NA",
     "currencies": [
       "CAD"
     ],
@@ -1995,7 +1996,6 @@
       "fr"
     ],
     "population": 36700000,
-    "region": "NA",
     "tld": [
       ".ca"
     ]
@@ -2004,6 +2004,7 @@
     "anthem": "http://www.nationalanthems.info/cv.mp3",
     "borders": [
     ],
+    "continent": "AF",
     "currencies": [
       "CVE"
     ],
@@ -2018,7 +2019,6 @@
       "pt"
     ],
     "population": 517000,
-    "region": "AF",
     "tld": [
       ".cv"
     ]
@@ -2032,6 +2032,7 @@
       "TKM",
       "UZB"
     ],
+    "continent": "AS",
     "currencies": [
       "KZT"
     ],
@@ -2047,7 +2048,6 @@
       "ru"
     ],
     "population": 18000000,
-    "region": "AS",
     "tld": [
       ".kz",
       ".қаз"
@@ -2058,6 +2058,7 @@
     "borders": [
       "SAU"
     ],
+    "continent": "AS",
     "currencies": [
       "QAR"
     ],
@@ -2072,7 +2073,6 @@
       "ar"
     ],
     "population": 2700000,
-    "region": "AS",
     "tld": [
       ".qa"
     ]
@@ -2086,6 +2086,7 @@
       "TZA",
       "UGA"
     ],
+    "continent": "AF",
     "currencies": [
       "KES"
     ],
@@ -2101,7 +2102,6 @@
       "sw"
     ],
     "population": 49700000,
-    "region": "AF",
     "tld": [
       ".ke"
     ]
@@ -2114,6 +2114,7 @@
       "TJK",
       "UZB"
     ],
+    "continent": "AS",
     "currencies": [
       "KGS"
     ],
@@ -2129,7 +2130,6 @@
       "ru"
     ],
     "population": 6200000,
-    "region": "AS",
     "tld": [
       ".kg"
     ]
@@ -2138,6 +2138,7 @@
     "anthem": "http://www.nationalanthems.info/ki.mp3",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "AUD"
     ],
@@ -2152,7 +2153,6 @@
       "en"
     ],
     "population": 100000,
-    "region": "OC",
     "tld": [
       ".ki"
     ]
@@ -2166,6 +2166,7 @@
       "PER",
       "VEN"
     ],
+    "continent": "SA",
     "currencies": [
       "COP"
     ],
@@ -2180,7 +2181,6 @@
       "es"
     ],
     "population": 49300000,
-    "region": "SA",
     "tld": [
       ".co"
     ]
@@ -2189,6 +2189,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/4/4b/National_Anthem_of_Comoros_by_US_Navy_Band.ogg",
     "borders": [
     ],
+    "continent": "AF",
     "currencies": [
       "KMF"
     ],
@@ -2204,7 +2205,6 @@
       "fr"
     ],
     "population": 800000,
-    "region": "AF",
     "tld": [
       ".km"
     ]
@@ -2222,6 +2222,7 @@
       "UGA",
       "ZMB"
     ],
+    "continent": "AF",
     "currencies": [
       "CDF"
     ],
@@ -2240,7 +2241,6 @@
       "lu"
     ],
     "population": 81500000,
-    "region": "AF",
     "tld": [
       ".cd"
     ]
@@ -2254,6 +2254,7 @@
       "COD",
       "GAB"
     ],
+    "continent": "AF",
     "currencies": [
       "XAF"
     ],
@@ -2269,7 +2270,6 @@
       "ln"
     ],
     "population": 5000000,
-    "region": "AF",
     "tld": [
       ".cg"
     ]
@@ -2281,6 +2281,7 @@
       "KOR",
       "RUS"
     ],
+    "continent": "AS",
     "currencies": [
       "KPW"
     ],
@@ -2295,7 +2296,6 @@
       "ko"
     ],
     "population": 25500000,
-    "region": "AS",
     "tld": [
       ".kp"
     ]
@@ -2305,6 +2305,7 @@
     "borders": [
       "PRK"
     ],
+    "continent": "AS",
     "currencies": [
       "KRW"
     ],
@@ -2319,7 +2320,6 @@
       "ko"
     ],
     "population": 51400000,
-    "region": "AS",
     "tld": [
       ".kr"
     ]
@@ -2332,6 +2332,7 @@
       "MKD",
       "SRB"
     ],
+    "continent": "EU",
     "currencies": [
     ],
     "flag": {
@@ -2344,7 +2345,6 @@
     "languages": [
     ],
     "population": 1800000,
-    "region": "EU",
     "tld": [
     ]
   },
@@ -2357,6 +2357,7 @@
       "SRB",
       "SVN"
     ],
+    "continent": "EU",
     "currencies": [
       "HRK"
     ],
@@ -2371,7 +2372,6 @@
       "hr"
     ],
     "population": 4100000,
-    "region": "EU",
     "tld": [
       ".hr"
     ]
@@ -2380,6 +2380,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/cf/United_States_Navy_Band_-_La_Bayamesa.ogg",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "CUC",
       "CUP"
@@ -2395,7 +2396,6 @@
       "es"
     ],
     "population": 11300000,
-    "region": "AM",
     "tld": [
       ".cu"
     ]
@@ -2406,6 +2406,7 @@
       "IRN",
       "SAU"
     ],
+    "continent": "AS",
     "currencies": [
       "KWD"
     ],
@@ -2420,7 +2421,6 @@
       "ar"
     ],
     "population": 4100000,
-    "region": "AS",
     "tld": [
       ".kw"
     ]
@@ -2434,6 +2434,7 @@
       "THA",
       "VNM"
     ],
+    "continent": "AS",
     "currencies": [
       "LAK"
     ],
@@ -2448,7 +2449,6 @@
       "lo"
     ],
     "population": 7000000,
-    "region": "AS",
     "tld": [
       ".la"
     ]
@@ -2458,6 +2458,7 @@
     "borders": [
       "ZAF"
     ],
+    "continent": "AF",
     "currencies": [
       "LSL",
       "ZAR"
@@ -2474,7 +2475,6 @@
       "st"
     ],
     "population": 2200000,
-    "region": "AF",
     "tld": [
       ".ls"
     ]
@@ -2487,6 +2487,7 @@
       "LTU",
       "RUS"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -2501,7 +2502,6 @@
       "lv"
     ],
     "population": 1900000,
-    "region": "EU",
     "tld": [
       ".lv"
     ]
@@ -2512,6 +2512,7 @@
       "ISR",
       "SYR"
     ],
+    "continent": "AS",
     "currencies": [
       "LBP"
     ],
@@ -2527,7 +2528,6 @@
       "fr"
     ],
     "population": 6200000,
-    "region": "AS",
     "tld": [
       ".lb"
     ]
@@ -2539,6 +2539,7 @@
       "CIV",
       "SLE"
     ],
+    "continent": "AF",
     "currencies": [
       "LRD"
     ],
@@ -2553,7 +2554,6 @@
       "en"
     ],
     "population": 4700000,
-    "region": "AF",
     "tld": [
       ".lr"
     ]
@@ -2568,6 +2568,7 @@
       "SDN",
       "TUN"
     ],
+    "continent": "AF",
     "currencies": [
       "LYD"
     ],
@@ -2582,7 +2583,6 @@
       "ar"
     ],
     "population": 6400000,
-    "region": "AF",
     "tld": [
       ".ly"
     ]
@@ -2593,6 +2593,7 @@
       "AUT",
       "CHE"
     ],
+    "continent": "EU",
     "currencies": [
       "CHF"
     ],
@@ -2607,7 +2608,6 @@
       "de"
     ],
     "population": 40000,
-    "region": "EU",
     "tld": [
       ".li"
     ]
@@ -2620,6 +2620,7 @@
       "POL",
       "RUS"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -2634,7 +2635,6 @@
       "lt"
     ],
     "population": 2800000,
-    "region": "EU",
     "tld": [
       ".lt"
     ]
@@ -2646,6 +2646,7 @@
       "FRA",
       "DEU"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -2662,7 +2663,6 @@
       "lb"
     ],
     "population": 600000,
-    "region": "EU",
     "tld": [
       ".lu"
     ]
@@ -2671,6 +2671,7 @@
     "anthem": "http://www.nationalanthems.info/mg.mp3",
     "borders": [
     ],
+    "continent": "AF",
     "currencies": [
       "MGA"
     ],
@@ -2686,7 +2687,6 @@
       "mg"
     ],
     "population": 25500000,
-    "region": "AF",
     "tld": [
       ".mg"
     ]
@@ -2698,6 +2698,7 @@
       "TZA",
       "ZMB"
     ],
+    "continent": "AF",
     "currencies": [
       "MWK"
     ],
@@ -2713,7 +2714,6 @@
       "ny"
     ],
     "population": 18600000,
-    "region": "AF",
     "tld": [
       ".mw"
     ]
@@ -2725,6 +2725,7 @@
       "IDN",
       "THA"
     ],
+    "continent": "AS",
     "currencies": [
       "MYR"
     ],
@@ -2738,7 +2739,6 @@
     "languages": [
     ],
     "population": 31600000,
-    "region": "AS",
     "tld": [
       ".my"
     ]
@@ -2747,6 +2747,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gaumii_salaam.ogg",
     "borders": [
     ],
+    "continent": "AS",
     "currencies": [
       "MVR"
     ],
@@ -2761,7 +2762,6 @@
       "dv"
     ],
     "population": 400000,
-    "region": "AS",
     "tld": [
       ".mv"
     ]
@@ -2777,6 +2777,7 @@
       "NER",
       "SEN"
     ],
+    "continent": "AF",
     "currencies": [
       "XOF"
     ],
@@ -2791,7 +2792,6 @@
       "fr"
     ],
     "population": 18900000,
-    "region": "AF",
     "tld": [
       ".ml"
     ]
@@ -2800,6 +2800,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malta_National_Anthem.ogg",
     "borders": [
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -2815,7 +2816,6 @@
       "en"
     ],
     "population": 438000,
-    "region": "EU",
     "tld": [
       ".mt"
     ]
@@ -2827,6 +2827,7 @@
       "ESH",
       "ESP"
     ],
+    "continent": "AF",
     "currencies": [
       "MAD"
     ],
@@ -2841,7 +2842,6 @@
       "ar"
     ],
     "population": 35100000,
-    "region": "AF",
     "tld": [
       ".ma"
     ]
@@ -2850,6 +2850,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/a/a3/National_Anthem_of_Marshall_Islands_by_US_Navy_Band.ogg",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "USD"
     ],
@@ -2865,7 +2866,6 @@
       "mh"
     ],
     "population": 60000,
-    "region": "OC",
     "tld": [
       ".mh"
     ]
@@ -2878,6 +2878,7 @@
       "SEN",
       "ESH"
     ],
+    "continent": "AF",
     "currencies": [
       "MRO"
     ],
@@ -2892,7 +2893,6 @@
       "ar"
     ],
     "population": 4400000,
-    "region": "AF",
     "tld": [
       ".mr"
     ]
@@ -2901,6 +2901,7 @@
     "anthem": "http://www.nationalanthems.info/mu.mp3",
     "borders": [
     ],
+    "continent": "AF",
     "currencies": [
       "MUR"
     ],
@@ -2915,7 +2916,6 @@
       "en"
     ],
     "population": 1300000,
-    "region": "AF",
     "tld": [
       ".mu"
     ]
@@ -2927,6 +2927,7 @@
       "GTM",
       "USA"
     ],
+    "continent": "NA",
     "currencies": [
       "MXN"
     ],
@@ -2941,7 +2942,6 @@
       "es"
     ],
     "population": 129200000,
-    "region": "AM",
     "tld": [
       ".mx"
     ]
@@ -2950,6 +2950,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Micronesia_National_Anthem.ogg",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "USD"
     ],
@@ -2964,7 +2965,6 @@
       "en"
     ],
     "population": 107000,
-    "region": "OC",
     "tld": [
       ".fm"
     ]
@@ -2975,6 +2975,7 @@
       "ROU",
       "UKR"
     ],
+    "continent": "EU",
     "currencies": [
       "MDL"
     ],
@@ -2989,7 +2990,6 @@
       "ro"
     ],
     "population": 3900000,
-    "region": "EU",
     "tld": [
       ".md"
     ]
@@ -2999,6 +2999,7 @@
     "borders": [
       "FRA"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -3013,7 +3014,6 @@
       "fr"
     ],
     "population": 37800,
-    "region": "EU",
     "tld": [
       ".mc"
     ]
@@ -3024,6 +3024,7 @@
       "CHN",
       "RUS"
     ],
+    "continent": "AS",
     "currencies": [
       "MNT"
     ],
@@ -3038,7 +3039,6 @@
       "mn"
     ],
     "population": 3200000,
-    "region": "AS",
     "tld": [
       ".mn"
     ]
@@ -3052,6 +3052,7 @@
       "BIH",
       "HRV"
     ],
+    "continent": "EU",
     "currencies": [
     ],
     "flag": {
@@ -3064,7 +3065,6 @@
     "languages": [
     ],
     "population": 600000,
-    "region": "EU",
     "tld": [
       ".me"
     ]
@@ -3079,6 +3079,7 @@
       "ZMB",
       "ZWE"
     ],
+    "continent": "AF",
     "currencies": [
       "MZN"
     ],
@@ -3093,7 +3094,6 @@
       "pt"
     ],
     "population": 29700000,
-    "region": "AF",
     "tld": [
       ".mz"
     ]
@@ -3107,6 +3107,7 @@
       "BGD",
       "IND"
     ],
+    "continent": "AS",
     "currencies": [
     ],
     "flag": {
@@ -3119,7 +3120,6 @@
     "languages": [
     ],
     "population": 53400000,
-    "region": "AS",
     "tld": [
       ".mm"
     ]
@@ -3132,6 +3132,7 @@
       "ZAF",
       "ZMB"
     ],
+    "continent": "AF",
     "currencies": [
       "NAD",
       "ZAR"
@@ -3148,7 +3149,6 @@
       "af"
     ],
     "population": 2500000,
-    "region": "AF",
     "tld": [
       ".na"
     ]
@@ -3157,6 +3157,7 @@
     "anthem": "http://www.nationalanthems.info/nr.mp3",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "AUD"
     ],
@@ -3172,7 +3173,6 @@
       "na"
     ],
     "population": 10000,
-    "region": "OC",
     "tld": [
       ".nr"
     ]
@@ -3183,6 +3183,7 @@
       "CHN",
       "IND"
     ],
+    "continent": "AS",
     "currencies": [
       "NPR"
     ],
@@ -3197,7 +3198,6 @@
       "ne"
     ],
     "population": 29400000,
-    "region": "AS",
     "tld": [
       ".np"
     ]
@@ -3206,6 +3206,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "NZD"
     ],
@@ -3221,7 +3222,6 @@
       "mi"
     ],
     "population": 4800000,
-    "region": "OC",
     "tld": [
       ".nz"
     ]
@@ -3232,6 +3232,7 @@
       "CRI",
       "HND"
     ],
+    "continent": "NA",
     "currencies": [
       "NIO"
     ],
@@ -3246,7 +3247,6 @@
       "es"
     ],
     "population": 6200000,
-    "region": "AM",
     "tld": [
       ".ni"
     ]
@@ -3257,6 +3257,7 @@
       "BEL",
       "DEU"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -3271,7 +3272,6 @@
       "nl"
     ],
     "population": 17100000,
-    "region": "EU",
     "tld": [
       ".nl"
     ]
@@ -3287,6 +3287,7 @@
       "MLI",
       "NGA"
     ],
+    "continent": "AF",
     "currencies": [
       "XOF"
     ],
@@ -3301,7 +3302,6 @@
       "fr"
     ],
     "population": 20600000,
-    "region": "AF",
     "tld": [
       ".ne"
     ]
@@ -3314,6 +3314,7 @@
       "TCD",
       "NER"
     ],
+    "continent": "AF",
     "currencies": [
       "NGN"
     ],
@@ -3328,7 +3329,6 @@
       "en"
     ],
     "population": 190900000,
-    "region": "AF",
     "tld": [
       ".ng"
     ]
@@ -3337,6 +3337,7 @@
     "anthem": "http://www.nationalanthems.info/nu.mp3",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "NZD"
     ],
@@ -3351,7 +3352,6 @@
       "en"
     ],
     "population": 1229,
-    "region": "OC",
     "tld": [
       ".nu"
     ]
@@ -3365,6 +3365,7 @@
       "SRB",
       "XXK"
     ],
+    "continent": "EU",
     "currencies": [
       "MKD"
     ],
@@ -3379,7 +3380,6 @@
       "mk"
     ],
     "population": 2100000,
-    "region": "EU",
     "tld": [
       ".mk"
     ]
@@ -3391,6 +3391,7 @@
       "SWE",
       "RUS"
     ],
+    "continent": "EU",
     "currencies": [
       "NOK"
     ],
@@ -3407,7 +3408,6 @@
       "nn"
     ],
     "population": 5300000,
-    "region": "EU",
     "tld": [
       ".no"
     ]
@@ -3419,6 +3419,7 @@
       "ARE",
       "YEM"
     ],
+    "continent": "AS",
     "currencies": [
       "OMR"
     ],
@@ -3433,7 +3434,6 @@
       "ar"
     ],
     "population": 4700000,
-    "region": "AS",
     "tld": [
       ".om"
     ]
@@ -3450,6 +3450,7 @@
       "SVN",
       "CHE"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -3464,7 +3465,6 @@
       "de"
     ],
     "population": 8800000,
-    "region": "EU",
     "tld": [
       ".at"
     ]
@@ -3474,6 +3474,7 @@
     "borders": [
       "IDN"
     ],
+    "continent": "AS",
     "currencies": [
       "USD"
     ],
@@ -3487,7 +3488,6 @@
       "pt"
     ],
     "population": 1300000,
-    "region": "AS",
     "tld": [
       ".tl"
     ]
@@ -3500,6 +3500,7 @@
       "IND",
       "IRN"
     ],
+    "continent": "AS",
     "currencies": [
       "PKR"
     ],
@@ -3515,7 +3516,6 @@
       "ur"
     ],
     "population": 207600000,
-    "region": "AS",
     "tld": [
       ".pk"
     ]
@@ -3526,6 +3526,7 @@
       "ISR",
       "JOR"
     ],
+    "continent": "AS",
     "currencies": [
     ],
     "flag": {
@@ -3538,7 +3539,6 @@
     "languages": [
     ],
     "population": 4900000,
-    "region": "AS",
     "tld": [
       ".ps"
     ]
@@ -3547,6 +3547,7 @@
     "anthem": "http://www.nationalanthems.info/pw.mp3",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "USD"
     ],
@@ -3561,7 +3562,6 @@
       "en"
     ],
     "population": 21000,
-    "region": "OC",
     "tld": [
       ".pw"
     ]
@@ -3572,6 +3572,7 @@
       "COL",
       "CRI"
     ],
+    "continent": "NA",
     "currencies": [
       "PAB",
       "USD"
@@ -3587,7 +3588,6 @@
       "es"
     ],
     "population": 4100000,
-    "region": "AM",
     "tld": [
       ".pa"
     ]
@@ -3597,6 +3597,7 @@
     "borders": [
       "IDN"
     ],
+    "continent": "OC",
     "currencies": [
       "PGK"
     ],
@@ -3611,7 +3612,6 @@
       "en"
     ],
     "population": 8300000,
-    "region": "OC",
     "tld": [
       ".pg"
     ]
@@ -3623,6 +3623,7 @@
       "BOL",
       "BRA"
     ],
+    "continent": "SA",
     "currencies": [
       "PYG"
     ],
@@ -3638,7 +3639,6 @@
       "gn"
     ],
     "population": 6800000,
-    "region": "SA",
     "tld": [
       ".py"
     ]
@@ -3652,6 +3652,7 @@
       "COL",
       "ECU"
     ],
+    "continent": "SA",
     "currencies": [
       "PEN"
     ],
@@ -3666,7 +3667,6 @@
       "es"
     ],
     "population": 31800000,
-    "region": "SA",
     "tld": [
       ".pe"
     ]
@@ -3675,6 +3675,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lupang_Hinirang_instrumental.ogg",
     "borders": [
     ],
+    "continent": "AS",
     "currencies": [
       "PHP"
     ],
@@ -3689,7 +3690,6 @@
       "en"
     ],
     "population": 105000000,
-    "region": "AS",
     "tld": [
       ".ph"
     ]
@@ -3705,6 +3705,7 @@
       "SVK",
       "UKR"
     ],
+    "continent": "EU",
     "currencies": [
       "PLN"
     ],
@@ -3719,7 +3720,6 @@
       "pl"
     ],
     "population": 38400000,
-    "region": "EU",
     "tld": [
       ".pl"
     ]
@@ -3729,6 +3729,7 @@
     "borders": [
       "ESP"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -3743,7 +3744,6 @@
       "pt"
     ],
     "population": 10300000,
-    "region": "EU",
     "tld": [
       ".pt"
     ]
@@ -3756,6 +3756,7 @@
       "TZA",
       "UGA"
     ],
+    "continent": "AF",
     "currencies": [
       "RWF"
     ],
@@ -3772,7 +3773,6 @@
       "fr"
     ],
     "population": 12300000,
-    "region": "AF",
     "tld": [
       ".rw"
     ]
@@ -3786,6 +3786,7 @@
       "SRB",
       "UKR"
     ],
+    "continent": "EU",
     "currencies": [
       "RON"
     ],
@@ -3800,7 +3801,6 @@
       "ro"
     ],
     "population": 19600000,
-    "region": "EU",
     "tld": [
       ".ro"
     ]
@@ -3825,6 +3825,7 @@
       "ABC",
       "SOS"
     ],
+    "continent": "EU",
     "currencies": [
       "RUB"
     ],
@@ -3839,7 +3840,6 @@
       "ru"
     ],
     "population": 144500000,
-    "region": "EU",
     "tld": [
       ".ru"
     ]
@@ -3848,6 +3848,7 @@
     "anthem": "http://www.nationalanthems.info/sb.mp3",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "SDB"
     ],
@@ -3862,7 +3863,6 @@
       "en"
     ],
     "population": 700000,
-    "region": "OC",
     "tld": [
       ".sb"
     ]
@@ -3879,6 +3879,7 @@
       "TZA",
       "ZWE"
     ],
+    "continent": "AF",
     "currencies": [
       "ZMK"
     ],
@@ -3893,7 +3894,6 @@
       "en"
     ],
     "population": 16400000,
-    "region": "AF",
     "tld": [
       ".zm"
     ]
@@ -3902,6 +3902,7 @@
     "anthem": "http://www.nationalanthems.info/ws.mp3",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "WST"
     ],
@@ -3917,7 +3918,6 @@
       "en"
     ],
     "population": 200000,
-    "region": "OC",
     "tld": [
       ".ws"
     ]
@@ -3927,6 +3927,7 @@
     "borders": [
       "ITA"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -3941,7 +3942,6 @@
       "it"
     ],
     "population": 32800,
-    "region": "EU",
     "tld": [
       ".sm"
     ]
@@ -3950,6 +3950,7 @@
     "anthem": "http://www.nationalanthems.info/st.mp3",
     "borders": [
     ],
+    "continent": "AF",
     "currencies": [
       "STD"
     ],
@@ -3964,7 +3965,6 @@
       "pt"
     ],
     "population": 200000,
-    "region": "AF",
     "tld": [
       ".st"
     ]
@@ -3980,6 +3980,7 @@
       "ARE",
       "YEM"
     ],
+    "continent": "AS",
     "currencies": [
       "SAR"
     ],
@@ -3994,7 +3995,6 @@
       "ar"
     ],
     "population": 32600000,
-    "region": "AS",
     "tld": [
       ".sa"
     ]
@@ -4005,6 +4005,7 @@
       "FIN",
       "NOR"
     ],
+    "continent": "EU",
     "currencies": [
       "SEK"
     ],
@@ -4019,7 +4020,6 @@
       "sv"
     ],
     "population": 10100000,
-    "region": "EU",
     "tld": [
       ".se"
     ]
@@ -4033,6 +4033,7 @@
       "LIE",
       "DEU"
     ],
+    "continent": "EU",
     "currencies": [
       "CHE",
       "CHF",
@@ -4051,7 +4052,6 @@
       "it"
     ],
     "population": 8500000,
-    "region": "EU",
     "tld": [
       ".ch"
     ]
@@ -4065,6 +4065,7 @@
       "MLI",
       "MRT"
     ],
+    "continent": "AF",
     "currencies": [
       "XOF"
     ],
@@ -4079,7 +4080,6 @@
       "fr"
     ],
     "population": 15800000,
-    "region": "AF",
     "tld": [
       ".sn"
     ]
@@ -4096,6 +4096,7 @@
       "ROU",
       "HUN"
     ],
+    "continent": "EU",
     "currencies": [
     ],
     "flag": {
@@ -4108,7 +4109,6 @@
     "languages": [
     ],
     "population": 7000000,
-    "region": "EU",
     "tld": [
       ".rs"
     ]
@@ -4117,6 +4117,7 @@
     "anthem": "http://www.nationalanthems.info/sc.mp3",
     "borders": [
     ],
+    "continent": "AF",
     "currencies": [
       "SCR"
     ],
@@ -4132,7 +4133,6 @@
       "en"
     ],
     "population": 90000,
-    "region": "AF",
     "tld": [
       ".sc"
     ]
@@ -4143,6 +4143,7 @@
       "GIN",
       "LBR"
     ],
+    "continent": "AF",
     "currencies": [
       "SLL"
     ],
@@ -4157,7 +4158,6 @@
       "en"
     ],
     "population": 7600000,
-    "region": "AF",
     "tld": [
       ".sl"
     ]
@@ -4170,6 +4170,7 @@
       "ZAF",
       "ZMB"
     ],
+    "continent": "AF",
     "currencies": [
       "USD"
     ],
@@ -4186,7 +4187,6 @@
       "nd"
     ],
     "population": 16600000,
-    "region": "AF",
     "tld": [
       ".zw"
     ]
@@ -4195,6 +4195,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/74/Majulah_Singapura.ogg",
     "borders": [
     ],
+    "continent": "AS",
     "currencies": [
       "SGD"
     ],
@@ -4212,7 +4213,6 @@
       "zh"
     ],
     "population": 5700000,
-    "region": "AS",
     "tld": [
       ".sg"
     ]
@@ -4226,6 +4226,7 @@
       "POL",
       "UKR"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -4240,7 +4241,6 @@
       "sk"
     ],
     "population": 5400000,
-    "region": "EU",
     "tld": [
       ".sk"
     ]
@@ -4253,6 +4253,7 @@
       "ITA",
       "HUN"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -4267,7 +4268,6 @@
       "sl"
     ],
     "population": 2100000,
-    "region": "EU",
     "tld": [
       ".si"
     ]
@@ -4279,6 +4279,7 @@
       "ETH",
       "KEN"
     ],
+    "continent": "AF",
     "currencies": [
       "SOS"
     ],
@@ -4294,7 +4295,6 @@
       "ar"
     ],
     "population": 14700000,
-    "region": "AF",
     "tld": [
       ".so"
     ]
@@ -4307,6 +4307,7 @@
       "PRT",
       "MAR"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -4321,7 +4322,6 @@
       "es"
     ],
     "population": 46600000,
-    "region": "EU",
     "tld": [
       ".es"
     ]
@@ -4331,6 +4331,7 @@
     "borders": [
       "IND"
     ],
+    "continent": "AS",
     "currencies": [
       "LKR"
     ],
@@ -4346,7 +4347,6 @@
       "ta"
     ],
     "population": 21400000,
-    "region": "AS",
     "tld": [
       ".lk"
     ]
@@ -4355,6 +4355,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/3/3f/United_States_Navy_Band_-_O_Land_of_Beauty.ogg",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "XCD"
     ],
@@ -4369,7 +4370,6 @@
       "en"
     ],
     "population": 50000,
-    "region": "AM",
     "tld": [
       ".kn"
     ]
@@ -4378,6 +4378,7 @@
     "anthem": "http://www.nationalanthems.info/lc.mp3",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "XCD"
     ],
@@ -4392,7 +4393,6 @@
       "en"
     ],
     "population": 200000,
-    "region": "AM",
     "tld": [
       ".lc"
     ]
@@ -4401,6 +4401,7 @@
     "anthem": "http://www.nationalanthems.info/vc.mp3",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "XCD"
     ],
@@ -4415,7 +4416,6 @@
       "en"
     ],
     "population": 104000,
-    "region": "AM",
     "tld": [
       ".vc"
     ]
@@ -4430,6 +4430,7 @@
       "SWZ",
       "ZWE"
     ],
+    "continent": "AF",
     "currencies": [
       "ZAR"
     ],
@@ -4453,7 +4454,6 @@
       "zu"
     ],
     "population": 56500000,
-    "region": "AF",
     "tld": [
       ".za"
     ]
@@ -4469,6 +4469,7 @@
       "LBY",
       "SSD"
     ],
+    "continent": "AF",
     "currencies": [
       "SDG"
     ],
@@ -4484,7 +4485,6 @@
       "en"
     ],
     "population": 40600000,
-    "region": "AF",
     "tld": [
       ".sd"
     ]
@@ -4494,6 +4494,7 @@
       "GEO",
       "RUS"
     ],
+    "continent": "AS",
     "currencies": [
     ],
     "flag": {
@@ -4505,7 +4506,6 @@
     "languages": [
     ],
     "population": 51000,
-    "region": "AS",
     "tld": [
     ]
   },
@@ -4519,6 +4519,7 @@
       "SDN",
       "UGA"
     ],
+    "continent": "AF",
     "currencies": [
       "SSP"
     ],
@@ -4533,7 +4534,6 @@
       "en"
     ],
     "population": 12600000,
-    "region": "AF",
     "tld": [
       ".ss"
     ]
@@ -4545,6 +4545,7 @@
       "FRA",
       "GUY"
     ],
+    "continent": "SA",
     "currencies": [
       "SRD"
     ],
@@ -4559,7 +4560,6 @@
       "nl"
     ],
     "population": 600000,
-    "region": "SA",
     "tld": [
       ".sr"
     ]
@@ -4570,6 +4570,7 @@
       "MOZ",
       "ZAF"
     ],
+    "continent": "AF",
     "currencies": [
       "SZL"
     ],
@@ -4585,7 +4586,6 @@
       "ss"
     ],
     "population": 1400000,
-    "region": "AF",
     "tld": [
       ".sz"
     ]
@@ -4599,6 +4599,7 @@
       "LBN",
       "TUR"
     ],
+    "continent": "AS",
     "currencies": [
       "SYP"
     ],
@@ -4613,7 +4614,6 @@
       "ar"
     ],
     "population": 18300000,
-    "region": "AS",
     "tld": [
       ".sy"
     ]
@@ -4626,6 +4626,7 @@
       "KGZ",
       "UZB"
     ],
+    "continent": "AS",
     "currencies": [
       "TJS"
     ],
@@ -4641,7 +4642,6 @@
       "ru"
     ],
     "population": 8800000,
-    "region": "AS",
     "tld": [
       ".tj"
     ]
@@ -4658,6 +4658,7 @@
       "UGA",
       "ZMB"
     ],
+    "continent": "AF",
     "currencies": [
       "TZS"
     ],
@@ -4673,7 +4674,6 @@
       "en"
     ],
     "population": 57500000,
-    "region": "AF",
     "tld": [
       ".tz"
     ]
@@ -4686,6 +4686,7 @@
       "LAO",
       "MYS"
     ],
+    "continent": "AS",
     "currencies": [
       "THB"
     ],
@@ -4700,7 +4701,6 @@
       "th"
     ],
     "population": 66100000,
-    "region": "AS",
     "tld": [
       ".th"
     ]
@@ -4712,6 +4712,7 @@
       "BFA",
       "GHA"
     ],
+    "continent": "AF",
     "currencies": [
       "XOF"
     ],
@@ -4726,7 +4727,6 @@
       "fr"
     ],
     "population": 7800000,
-    "region": "AF",
     "tld": [
       ".tg"
     ]
@@ -4735,6 +4735,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ko_e_fasi_%CA%BBo_e_tu%CA%BBi_%CA%BBo_e_%CA%BBOtu_Tonga.ogg",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "TOP"
     ],
@@ -4750,7 +4751,6 @@
       "to"
     ],
     "population": 123000,
-    "region": "OC",
     "tld": [
       ".to"
     ]
@@ -4759,6 +4759,7 @@
     "anthem": "http://www.nationalanthems.info/tt.mp3",
     "borders": [
     ],
+    "continent": "NA",
     "currencies": [
       "TTD"
     ],
@@ -4773,7 +4774,6 @@
       "en"
     ],
     "population": 1400000,
-    "region": "AM",
     "tld": [
       ".tt"
     ]
@@ -4788,6 +4788,7 @@
       "NGA",
       "SSD"
     ],
+    "continent": "AF",
     "currencies": [
       "XAF"
     ],
@@ -4803,7 +4804,6 @@
       "ar"
     ],
     "population": 14900000,
-    "region": "AF",
     "tld": [
       ".td"
     ]
@@ -4816,6 +4816,7 @@
       "POL",
       "SVK"
     ],
+    "continent": "EU",
     "currencies": [
       "CZK"
     ],
@@ -4831,7 +4832,6 @@
       "sk"
     ],
     "population": 10600000,
-    "region": "EU",
     "tld": [
       ".cz"
     ]
@@ -4842,6 +4842,7 @@
       "DZA",
       "LBY"
     ],
+    "continent": "AF",
     "currencies": [
       "TND"
     ],
@@ -4856,7 +4857,6 @@
       "ar"
     ],
     "population": 11500000,
-    "region": "AF",
     "tld": [
       ".tn"
     ]
@@ -4873,6 +4873,7 @@
       "IRQ",
       "SYR"
     ],
+    "continent": "AS",
     "currencies": [
       "TRY"
     ],
@@ -4887,7 +4888,6 @@
       "tr"
     ],
     "population": 80900000,
-    "region": "AS",
     "tld": [
       ".tr"
     ]
@@ -4900,6 +4900,7 @@
       "KAZ",
       "UZB"
     ],
+    "continent": "AS",
     "currencies": [
       "TMT"
     ],
@@ -4915,7 +4916,6 @@
       "ru"
     ],
     "population": 5800000,
-    "region": "AS",
     "tld": [
       ".tm"
     ]
@@ -4924,6 +4924,7 @@
     "anthem": "http://www.nationalanthems.info/tv.mp3",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "AUD"
     ],
@@ -4938,7 +4939,6 @@
       "en"
     ],
     "population": 10000,
-    "region": "OC",
     "tld": [
       ".tv"
     ]
@@ -4952,6 +4952,7 @@
       "SSD",
       "TZA"
     ],
+    "continent": "AF",
     "currencies": [
       "UGX"
     ],
@@ -4967,7 +4968,6 @@
       "sw"
     ],
     "population": 42800000,
-    "region": "AF",
     "tld": [
       ".ug"
     ]
@@ -4983,6 +4983,7 @@
       "RUS",
       "SVK"
     ],
+    "continent": "EU",
     "currencies": [
       "UAH"
     ],
@@ -4997,7 +4998,6 @@
       "uk"
     ],
     "population": 42300000,
-    "region": "EU",
     "tld": [
       ".ua"
     ]
@@ -5013,6 +5013,7 @@
       "SVN",
       "UKR"
     ],
+    "continent": "EU",
     "currencies": [
       "HUF"
     ],
@@ -5027,7 +5028,6 @@
       "hu"
     ],
     "population": 9800000,
-    "region": "EU",
     "tld": [
       ".hu"
     ]
@@ -5038,6 +5038,7 @@
       "ARG",
       "BRA"
     ],
+    "continent": "SA",
     "currencies": [
       "UYI",
       "UYU"
@@ -5053,7 +5054,6 @@
       "es"
     ],
     "population": 3500000,
-    "region": "SA",
     "tld": [
       ".uy"
     ]
@@ -5067,6 +5067,7 @@
       "TJK",
       "TKM"
     ],
+    "continent": "AS",
     "currencies": [
       "UZS"
     ],
@@ -5082,7 +5083,6 @@
       "ru"
     ],
     "population": 32600000,
-    "region": "AS",
     "tld": [
       ".uz"
     ]
@@ -5091,6 +5091,7 @@
     "anthem": "https://upload.wikimedia.org/wikipedia/commons/7/7f/United_States_Navy_Band_-_Yumi%2C_Yumi%2C_Yumi.ogg",
     "borders": [
     ],
+    "continent": "OC",
     "currencies": [
       "VUV"
     ],
@@ -5107,7 +5108,6 @@
       "fr"
     ],
     "population": 300000,
-    "region": "OC",
     "tld": [
       ".vu"
     ]
@@ -5117,6 +5117,7 @@
     "borders": [
       "ITA"
     ],
+    "continent": "EU",
     "currencies": [
     ],
     "flag": {
@@ -5129,7 +5130,6 @@
     "languages": [
     ],
     "population": 829,
-    "region": "EU",
     "tld": [
       ".va"
     ]
@@ -5141,6 +5141,7 @@
       "COL",
       "GUY"
     ],
+    "continent": "SA",
     "currencies": [
       "VEF"
     ],
@@ -5155,7 +5156,6 @@
       "es"
     ],
     "population": 31400000,
-    "region": "SA",
     "tld": [
       ".ve"
     ]
@@ -5166,6 +5166,7 @@
       "OMN",
       "SAU"
     ],
+    "continent": "AS",
     "currencies": [
       "AED"
     ],
@@ -5180,7 +5181,6 @@
       "ar"
     ],
     "population": 9400000,
-    "region": "AS",
     "tld": [
       ".ae"
     ]
@@ -5191,6 +5191,7 @@
       "CAN",
       "MEX"
     ],
+    "continent": "NA",
     "currencies": [
       "USD",
       "USN",
@@ -5207,7 +5208,6 @@
       "en"
     ],
     "population": 325400000,
-    "region": "NA",
     "tld": [
       ".us"
     ]
@@ -5217,6 +5217,7 @@
     "borders": [
       "IRL"
     ],
+    "continent": "EU",
     "currencies": [
       "GBP"
     ],
@@ -5230,7 +5231,6 @@
       "en"
     ],
     "population": 66200000,
-    "region": "EU",
     "tld": [
       ".uk"
     ]
@@ -5242,6 +5242,7 @@
       "CHN",
       "LAO"
     ],
+    "continent": "AS",
     "currencies": [
       "VND"
     ],
@@ -5256,7 +5257,6 @@
       "vi"
     ],
     "population": 93700000,
-    "region": "AS",
     "tld": [
       ".vn"
     ]
@@ -5270,6 +5270,7 @@
       "RUS",
       "UKR"
     ],
+    "continent": "EU",
     "currencies": [
       "BYR"
     ],
@@ -5285,7 +5286,6 @@
       "ru"
     ],
     "population": 9500000,
-    "region": "EU",
     "tld": [
       ".by"
     ]
@@ -5297,6 +5297,7 @@
       "MRT",
       "MAR"
     ],
+    "continent": "AF",
     "currencies": [
       "MAD",
       "DZD",
@@ -5313,7 +5314,6 @@
       "es"
     ],
     "population": 600000,
-    "region": "AF",
     "tld": [
       ".eh"
     ]
@@ -5328,6 +5328,7 @@
       "SSD",
       "SDN"
     ],
+    "continent": "AF",
     "currencies": [
       "XAF"
     ],
@@ -5343,7 +5344,6 @@
       "sg"
     ],
     "population": 4700000,
-    "region": "AF",
     "tld": [
       ".cf"
     ]
@@ -5353,6 +5353,7 @@
     "borders": [
       "GBR"
     ],
+    "continent": "EU",
     "currencies": [
       "EUR"
     ],
@@ -5369,7 +5370,6 @@
       "hy"
     ],
     "population": 1200000,
-    "region": "EU",
     "tld": [
       ".cy"
     ]

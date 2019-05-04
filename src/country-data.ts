@@ -1,6 +1,6 @@
+import { ContinentCode, IContinent } from "./continents";
 import { ICountry } from "./countries";
 import { data } from "./data";
-import { IRegion, Region } from "./regions";
 
 /** Contains the interface to retrieve localized country and region data. */
 export class CountryData {
@@ -23,13 +23,13 @@ export class CountryData {
     return data.generic.map((val) => Object.assign({}, val, i18Data[val.iso3]) as ICountry);
   }
 
-  /** Gets a list of all regions. */
-  public getRegions(): IRegion[] {
+  /** Gets a list of all continents. */
+  public getContinents(): IContinent[] {
     if (!data.i18n[this.lang]) {
       return [];
     }
-    const regions = data.i18n[this.lang].regions;
-    return Object.keys(regions)
-      .map((val) => ({ code: val as Region, name: regions[val] }));
+    const continents = data.i18n[this.lang].continents;
+    return Object.keys(continents)
+      .map((val) => ({ code: val as ContinentCode, name: continents[val] }));
   }
 }

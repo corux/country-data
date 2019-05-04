@@ -4,7 +4,7 @@ describe("Invalid Languages", () => {
   const countryData = new CountryData("zz");
 
   test("should return no regions", () => {
-    expect(countryData.getRegions().length).toBe(0);
+    expect(countryData.getContinents().length).toBe(0);
   });
 
   test("should return only generic info", () => {

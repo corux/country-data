@@ -1,4 +1,14 @@
 {
+  "continents": {
+    "AF": "África",
+    "AM": "América",
+    "AN": "Antártida",
+    "AS": "Asia",
+    "EU": "Europa",
+    "NA": "Norteamérica",
+    "OC": "Oceanía",
+    "SA": "Sudamérica"
+  },
   "countries": {
     "ABC": {
       "adjectives": [
@@ -1494,14 +1504,5 @@
       "longName": "Zimbabwe",
       "name": "Zimbabue"
     }
-  },
-  "regions": {
-    "AF": "África",
-    "AM": "América",
-    "AS": "Asia",
-    "EU": "Europa",
-    "NA": "Norteamérica",
-    "OC": "Oceanía",
-    "SA": "Sudamérica"
   }
 }

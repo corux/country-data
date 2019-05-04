@@ -1,4 +1,14 @@
 {
+  "continents": {
+    "AF": "Africa",
+    "AM": "America",
+    "AN": "Antartide",
+    "AS": "Asia",
+    "EU": "Europa",
+    "NA": "Nordamerica",
+    "OC": "Oceania",
+    "SA": "Sudamerica"
+  },
   "countries": {
     "ABC": {
       "anthemName": "Vittoria",
@@ -1685,14 +1695,5 @@
       "capital": "Harare",
       "name": "Zimbabwe"
     }
-  },
-  "regions": {
-    "AF": "Africa",
-    "AM": "America",
-    "AS": "Asia",
-    "EU": "Europa",
-    "NA": "Nordamerica",
-    "OC": "Oceania",
-    "SA": "Sudamerica"
   }
 }
