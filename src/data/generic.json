@@ -4,12 +4,16 @@
       "GEO",
       "RUS"
     ],
+    "currencies": [
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/1200px-Flag_of_the_Republic_of_Abkhazia.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/720px-Flag_of_the_Republic_of_Abkhazia.svg.png",
       "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_the_Republic_of_Abkhazia.svg"
     },
     "iso3": "ABC",
+    "languages": [
+    ],
     "population": 240000,
     "region": "AS"
   },
@@ -121,6 +125,8 @@
       "ESP",
       "FRA"
     ],
+    "currencies": [
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/1200px-Flag_of_Andorra.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/720px-Flag_of_Andorra.svg.png",
@@ -128,6 +134,8 @@
     },
     "iso2": "AD",
     "iso3": "AND",
+    "languages": [
+    ],
     "population": 80000,
     "region": "EU"
   },
@@ -1487,7 +1495,7 @@
     "region": "AS"
   },
   {
-    "anthem": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_%28Philharmonic_Orchestra%29.ogg",
+    "anthem": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_%28instrumental%29.oga",
     "borders": [
       "AFG",
       "ARM",
@@ -2061,6 +2069,8 @@
       "MKD",
       "SRB"
     ],
+    "currencies": [
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/1200px-Flag_of_Kosovo.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/720px-Flag_of_Kosovo.svg.png",
@@ -2068,6 +2078,8 @@
     },
     "iso2": "XK",
     "iso3": "XXK",
+    "languages": [
+    ],
     "population": 1800000,
     "region": "EU"
   },
@@ -2694,6 +2706,8 @@
       "BIH",
       "HRV"
     ],
+    "currencies": [
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/1200px-Flag_of_Montenegro.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/720px-Flag_of_Montenegro.svg.png",
@@ -2701,6 +2715,8 @@
     },
     "iso2": "ME",
     "iso3": "MNE",
+    "languages": [
+    ],
     "population": 600000,
     "region": "EU"
   },
@@ -2739,6 +2755,8 @@
       "BGD",
       "IND"
     ],
+    "currencies": [
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/720px-Flag_of_Myanmar.svg.png",
@@ -2746,6 +2764,8 @@
     },
     "iso2": "MM",
     "iso3": "MMR",
+    "languages": [
+    ],
     "population": 53400000,
     "region": "AS"
   },
@@ -3106,6 +3126,8 @@
       "ISR",
       "JOR"
     ],
+    "currencies": [
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/1200px-Flag_of_Palestine.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/720px-Flag_of_Palestine.svg.png",
@@ -3113,6 +3135,8 @@
     },
     "iso2": "PS",
     "iso3": "PSE",
+    "languages": [
+    ],
     "population": 4900000,
     "region": "AS"
   },
@@ -3609,6 +3633,8 @@
       "ROU",
       "HUN"
     ],
+    "currencies": [
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/1200px-Flag_of_Serbia.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/720px-Flag_of_Serbia.svg.png",
@@ -3616,6 +3642,8 @@
     },
     "iso2": "RS",
     "iso3": "SRB",
+    "languages": [
+    ],
     "population": 7000000,
     "region": "EU"
   },
@@ -3958,12 +3986,16 @@
       "GEO",
       "RUS"
     ],
+    "currencies": [
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/1200px-Flag_of_South_Ossetia.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/720px-Flag_of_South_Ossetia.svg.png",
       "svgUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_South_Ossetia.svg"
     },
     "iso3": "SOS",
+    "languages": [
+    ],
     "population": 51000,
     "region": "AS"
   },
@@ -4509,6 +4541,8 @@
     "borders": [
       "ITA"
     ],
+    "currencies": [
+    ],
     "flag": {
       "largeImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/1200px-Flag_of_the_Vatican_City.svg.png",
       "smallImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/720px-Flag_of_the_Vatican_City.svg.png",
@@ -4516,6 +4550,8 @@
     },
     "iso2": "VA",
     "iso3": "VAT",
+    "languages": [
+    ],
     "population": 829,
     "region": "EU"
   },

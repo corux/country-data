@@ -135,14 +135,12 @@ export async function generic(): Promise<any> {
   // amend with information from countryjs
   const countryJsList = getFromCountryJs(data.map((n) => n.iso3));
   for (const country of data) {
-    const countryJsData = countryJsList.find((n) => n.ISO.alpha3 === country.iso3);
-    if (countryJsData) {
-      country.region = getRegionCode(countryJsData);
-      country.languages = countryJsData.languages;
-      country.currencies = countryJsData.currencies;
-      country.borders = (countryJsData.borders || [])
-        .filter((border) => data.find((n) => n.iso3 === border));
-    }
+    const countryJsData = countryJsList.find((n) => n.ISO.alpha3 === country.iso3) || {};
+    country.region = getRegionCode(countryJsData);
+    country.languages = countryJsData.languages || [];
+    country.currencies = countryJsData.currencies || [];
+    country.borders = (countryJsData.borders || [])
+      .filter((border) => data.find((n) => n.iso3 === border)) || [];
   }
 
   return data.filter((val) => val.iso3);

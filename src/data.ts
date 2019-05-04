@@ -7,15 +7,15 @@ import * as it from "./data/i18n/it.json";
 import * as pt from "./data/i18n/pt.json";
 import { Region } from "./regions";
 
-interface IData {
+export interface IData {
   generic: IDataGeneric[];
   i18n: {
     [lang: string]: IDataLocale;
   };
 }
 
-interface IDataGeneric {
-  population: number;
+export interface IDataGeneric {
+  population?: number;
   flag: {
     svgUrl: string,
     smallImageUrl: string,
@@ -27,18 +27,18 @@ interface IDataGeneric {
   languages: [string];
   currencies: [string];
   borders: [string];
-  anthem: string;
+  anthem?: string;
 }
 
-interface IDataLocale {
+export interface IDataLocale {
   countries: {
     [iso: string]: {
       name: string;
-      longName: string;
-      altNames: string[];
-      capital: string;
-      adjectives: string[];
-      anthemName: string;
+      longName?: string;
+      altNames?: string[];
+      capital?: string;
+      adjectives?: string[];
+      anthemName?: string;
     };
   };
   regions: {
