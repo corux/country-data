@@ -85,8 +85,8 @@ export class CountryData {
   private convertToICountry(generic: IDataGeneric, locale: IDataLocaleCountry): ICountry {
     const combined = Object.assign({}, generic, locale);
     return {
-      adjectives: combined.adjectives,
-      altNames: combined.altNames,
+      adjectives: combined.adjectives || [],
+      altNames: combined.altNames || [],
       anthem: {
         name: combined.anthemName,
         url: combined.anthem.url,
