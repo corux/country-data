@@ -92,6 +92,7 @@ export class CountryData {
         url: combined.anthem.url,
         vocalUrl: combined.anthem.vocalUrl,
       },
+      area: combined.area,
       borders: combined.borders,
       capital: combined.capital,
       continent: this.continents.find((continent) => continent.code === combined.continent),
@@ -103,6 +104,7 @@ export class CountryData {
       longName: combined.longName,
       name: combined.name,
       population: combined.population,
+      populationPerSquareKm: combined.populationPerSquareKm,
       region: this.regions.find((region) => region.code === combined.region),
       tld: combined.tld,
     };

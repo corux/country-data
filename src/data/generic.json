@@ -3,6 +3,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/National_Anthem_of_Abkhazia_-_%D0%90%D0%B8%D0%B0%D0%B0%D0%B8%D1%80%D0%B0.ogg"
     },
+    "area": 8600,
     "borders": [
       "GEO",
       "RUS"
@@ -19,6 +20,7 @@
     "languages": [
     ],
     "population": 240000,
+    "populationPerSquareKm": 28,
     "region": "151",
     "tld": [
     ]
@@ -27,6 +29,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/National_anthem_of_Afghanistan%2C_performed_by_the_United_States_Navy_Band.wav"
     },
+    "area": 652230,
     "borders": [
       "IRN",
       "PAK",
@@ -52,6 +55,7 @@
       "tk"
     ],
     "population": 35500000,
+    "populationPerSquareKm": 54,
     "region": "034",
     "tld": [
       ".af",
@@ -62,6 +66,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg"
     },
+    "area": 1001450,
     "borders": [
       "ISR",
       "LBY",
@@ -82,6 +87,7 @@
       "ar"
     ],
     "population": 93400000,
+    "populationPerSquareKm": 93,
     "region": "015",
     "tld": [
       ".eg"
@@ -91,6 +97,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hymni_i_Flamurit_instrumental.ogg"
     },
+    "area": 28748,
     "borders": [
       "MNE",
       "GRC",
@@ -112,6 +119,7 @@
       "sq"
     ],
     "population": 2900000,
+    "populationPerSquareKm": 101,
     "region": "039",
     "tld": [
       ".al"
@@ -121,6 +129,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/National_anthem_of_Algeria%2C_by_the_U.S._Navy_Band.oga"
     },
+    "area": 2381741,
     "borders": [
       "TUN",
       "LBY",
@@ -145,6 +154,7 @@
       "ar"
     ],
     "population": 42200000,
+    "populationPerSquareKm": 18,
     "region": "015",
     "tld": [
       ".dz",
@@ -155,6 +165,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/El_Gran_Carlemany.ogg"
     },
+    "area": 468,
     "borders": [
       "ESP",
       "FRA"
@@ -172,6 +183,7 @@
     "languages": [
     ],
     "population": 80000,
+    "populationPerSquareKm": 182,
     "region": "039",
     "tld": [
       ".ad"
@@ -181,6 +193,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Angola%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28March_1996_arrangement%29.ogg"
     },
+    "area": 1246700,
     "borders": [
       "COG",
       "COD",
@@ -202,6 +215,7 @@
       "pt"
     ],
     "population": 28600000,
+    "populationPerSquareKm": 23,
     "region": "017",
     "tld": [
       ".ao"
@@ -211,6 +225,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Antigua_and_Barbuda_National_Anthem.ogg"
     },
+    "area": 443,
     "borders": [
     ],
     "continent": "NA",
@@ -228,6 +243,7 @@
       "en"
     ],
     "population": 100000,
+    "populationPerSquareKm": 226,
     "region": "029",
     "tld": [
       ".ag"
@@ -237,6 +253,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/gq.mp3"
     },
+    "area": 28051,
     "borders": [
       "CMR",
       "GAB"
@@ -257,6 +274,7 @@
       "fr"
     ],
     "population": 1300000,
+    "populationPerSquareKm": 46,
     "region": "017",
     "tld": [
       ".gq"
@@ -266,6 +284,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg"
     },
+    "area": 2780400,
     "borders": [
       "BOL",
       "BRA",
@@ -289,6 +308,7 @@
       "gn"
     ],
     "population": 44300000,
+    "populationPerSquareKm": 16,
     "region": "005",
     "tld": [
       ".ar"
@@ -298,6 +318,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mer_Hayrenik_instrumental.ogg"
     },
+    "area": 29743,
     "borders": [
       "AZE",
       "GEO",
@@ -320,6 +341,7 @@
       "ru"
     ],
     "population": 3000000,
+    "populationPerSquareKm": 101,
     "region": "145",
     "tld": [
       ".am"
@@ -329,6 +351,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/National_Anthem_of_the_Republic_of_Azerbaijan_instrumental.ogg"
     },
+    "area": 86600,
     "borders": [
       "ARM",
       "GEO",
@@ -352,6 +375,7 @@
       "hy"
     ],
     "population": 9900000,
+    "populationPerSquareKm": 114,
     "region": "145",
     "tld": [
       ".az"
@@ -361,6 +385,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wedefit_Gesgeshi_Widd_Innat_Ittyoppya.ogg"
     },
+    "area": 1104300,
     "borders": [
       "DJI",
       "ERI",
@@ -384,6 +409,7 @@
       "am"
     ],
     "population": 105000000,
+    "populationPerSquareKm": 95,
     "region": "014",
     "tld": [
       ".et"
@@ -393,6 +419,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg"
     },
+    "area": 7741220,
     "borders": [
     ],
     "continent": "OC",
@@ -410,6 +437,7 @@
       "en"
     ],
     "population": 24500000,
+    "populationPerSquareKm": 3,
     "region": "053",
     "tld": [
       ".au"
@@ -419,6 +447,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/National_anthem_of_the_Bahamas.oga"
     },
+    "area": 13880,
     "borders": [
     ],
     "continent": "NA",
@@ -436,6 +465,7 @@
       "en"
     ],
     "population": 400000,
+    "populationPerSquareKm": 29,
     "region": "029",
     "tld": [
       ".bs"
@@ -445,6 +475,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Bahraini_Anthem.ogg"
     },
+    "area": 760,
     "borders": [
     ],
     "continent": "AS",
@@ -462,6 +493,7 @@
       "ar"
     ],
     "population": 1500000,
+    "populationPerSquareKm": 1974,
     "region": "145",
     "tld": [
       ".bh"
@@ -471,6 +503,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Amar_Shonar_Bangla_instrumental.ogg"
     },
+    "area": 143998,
     "borders": [
       "MMR",
       "IND"
@@ -490,6 +523,7 @@
       "bn"
     ],
     "population": 164700000,
+    "populationPerSquareKm": 1144,
     "region": "034",
     "tld": [
       ".bd"
@@ -499,6 +533,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/In_Plenty_and_In_Time_of_Need_instrumental.ogg"
     },
+    "area": 430,
     "borders": [
     ],
     "continent": "NA",
@@ -516,6 +551,7 @@
       "en"
     ],
     "population": 300000,
+    "populationPerSquareKm": 698,
     "region": "029",
     "tld": [
       ".bb"
@@ -525,6 +561,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/La_Braban%C3%A7onne.oga"
     },
+    "area": 30528,
     "borders": [
       "FRA",
       "DEU",
@@ -548,6 +585,7 @@
       "de"
     ],
     "population": 11300000,
+    "populationPerSquareKm": 367,
     "region": "155",
     "tld": [
       ".be"
@@ -557,6 +595,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Land_of_the_Free_instrumental.ogg"
     },
+    "area": 22966,
     "borders": [
       "GTM",
       "MEX"
@@ -577,6 +616,7 @@
       "es"
     ],
     "population": 400000,
+    "populationPerSquareKm": 17,
     "region": "013",
     "tld": [
       ".bz"
@@ -586,6 +626,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/L%27Aube_Nouvelle.ogg"
     },
+    "area": 112622,
     "borders": [
       "BFA",
       "NER",
@@ -607,6 +648,7 @@
       "fr"
     ],
     "population": 11200000,
+    "populationPerSquareKm": 99,
     "region": "011",
     "tld": [
       ".bj"
@@ -616,6 +658,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/bt.mp3"
     },
+    "area": 38394,
     "borders": [
       "CHN",
       "IND"
@@ -636,6 +679,7 @@
       "dz"
     ],
     "population": 800000,
+    "populationPerSquareKm": 21,
     "region": "034",
     "tld": [
       ".bt"
@@ -645,6 +689,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg"
     },
+    "area": 1098581,
     "borders": [
       "ARG",
       "BRA",
@@ -670,6 +715,7 @@
       "qu"
     ],
     "population": 11100000,
+    "populationPerSquareKm": 10,
     "region": "005",
     "tld": [
       ".bo"
@@ -679,6 +725,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/ba.mp3"
     },
+    "area": 51197,
     "borders": [
       "HRV",
       "MNE",
@@ -701,6 +748,7 @@
       "sr"
     ],
     "population": 3500000,
+    "populationPerSquareKm": 68,
     "region": "039",
     "tld": [
       ".ba"
@@ -710,6 +758,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/United_States_Navy_Band_-_Fatshe_leno_la_rona.ogg"
     },
+    "area": 581730,
     "borders": [
       "NAM",
       "ZAF",
@@ -732,6 +781,7 @@
       "tn"
     ],
     "population": 2300000,
+    "populationPerSquareKm": 4,
     "region": "018",
     "tld": [
       ".bw"
@@ -741,6 +791,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hino-Nacional-Brasil-instrumental-mec.ogg"
     },
+    "area": 8514877,
     "borders": [
       "ARG",
       "BOL",
@@ -767,6 +818,7 @@
       "pt"
     ],
     "population": 207900000,
+    "populationPerSquareKm": 24,
     "region": "005",
     "tld": [
       ".br"
@@ -776,6 +828,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/United_States_Navy_Band_-_Allah_Peliharakan_Sultan.oga"
     },
+    "area": 5765,
     "borders": [
       "MYS"
     ],
@@ -794,6 +847,7 @@
       "ms"
     ],
     "population": 400000,
+    "populationPerSquareKm": 69,
     "region": "035",
     "tld": [
       ".bn"
@@ -803,6 +857,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mila_Rodino_instrumental.ogg"
     },
+    "area": 110879,
     "borders": [
       "GRC",
       "MKD",
@@ -825,6 +880,7 @@
       "bg"
     ],
     "population": 7100000,
+    "populationPerSquareKm": 64,
     "region": "151",
     "tld": [
       ".bg"
@@ -834,6 +890,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hymne_National_du_Burkina_Faso.ogg"
     },
+    "area": 274200,
     "borders": [
       "BEN",
       "CIV",
@@ -858,6 +915,7 @@
       "ff"
     ],
     "population": 19600000,
+    "populationPerSquareKm": 71,
     "region": "011",
     "tld": [
       ".bf"
@@ -867,6 +925,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/bi.mp3"
     },
+    "area": 27830,
     "borders": [
       "COD",
       "RWA",
@@ -888,6 +947,7 @@
       "rn"
     ],
     "population": 10400000,
+    "populationPerSquareKm": 410,
     "region": "014",
     "tld": [
       ".bi"
@@ -897,6 +957,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg"
     },
+    "area": 756102,
     "borders": [
       "ARG",
       "BOL",
@@ -918,6 +979,7 @@
       "es"
     ],
     "population": 18400000,
+    "populationPerSquareKm": 24,
     "region": "005",
     "tld": [
       ".cl"
@@ -927,6 +989,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg"
     },
+    "area": 35980,
     "borders": [
     ],
     "continent": "AS",
@@ -944,6 +1007,7 @@
       "zh"
     ],
     "population": 23600000,
+    "populationPerSquareKm": 656,
     "region": "030",
     "tld": [
       ".tw"
@@ -953,6 +1017,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/March_of_the_Volunteers_instrumental.ogg"
     },
+    "area": 9596961,
     "borders": [
       "AFG",
       "BTN",
@@ -983,6 +1048,7 @@
       "zh"
     ],
     "population": 1386800000,
+    "populationPerSquareKm": 145,
     "region": "030",
     "tld": [
       ".cn"
@@ -992,6 +1058,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/ck.mp3"
     },
+    "area": 236,
     "borders": [
     ],
     "continent": "OC",
@@ -1009,6 +1076,7 @@
       "en"
     ],
     "population": 11500,
+    "populationPerSquareKm": 49,
     "region": "061",
     "tld": [
       ".ck"
@@ -1018,6 +1086,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Costa_Rica_National_Anthem.ogg"
     },
+    "area": 51100,
     "borders": [
       "NIC",
       "PAN"
@@ -1037,6 +1106,7 @@
       "es"
     ],
     "population": 4900000,
+    "populationPerSquareKm": 96,
     "region": "013",
     "tld": [
       ".cr"
@@ -1046,6 +1116,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg"
     },
+    "area": 43094,
     "borders": [
       "DEU"
     ],
@@ -1064,6 +1135,7 @@
       "da"
     ],
     "population": 5748769,
+    "populationPerSquareKm": 128,
     "region": "154",
     "tld": [
       ".dk"
@@ -1073,6 +1145,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg"
     },
+    "area": 357121,
     "borders": [
       "AUT",
       "BEL",
@@ -1099,6 +1172,7 @@
       "de"
     ],
     "population": 83100000,
+    "populationPerSquareKm": 231,
     "region": "155",
     "tld": [
       ".de"
@@ -1108,6 +1182,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/National_Anthem_of_Dominica_by_US_Navy_Band.ogg"
     },
+    "area": 751,
     "borders": [
     ],
     "continent": "NA",
@@ -1125,6 +1200,7 @@
       "en"
     ],
     "population": 73000,
+    "populationPerSquareKm": 97,
     "region": "029",
     "tld": [
       ".dm"
@@ -1134,6 +1210,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dominican_Republic_National_Anthem.ogg"
     },
+    "area": 48670,
     "borders": [
       "HTI"
     ],
@@ -1152,6 +1229,7 @@
       "es"
     ],
     "population": 10700000,
+    "populationPerSquareKm": 220,
     "region": "029",
     "tld": [
       ".do"
@@ -1161,6 +1239,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Djiboutian_anthem.ogg"
     },
+    "area": 23200,
     "borders": [
       "ERI",
       "ETH",
@@ -1182,6 +1261,7 @@
       "ar"
     ],
     "population": 1000000,
+    "populationPerSquareKm": 43,
     "region": "014",
     "tld": [
       ".dj"
@@ -1191,6 +1271,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Anthem_of_Ecuador.ogg"
     },
+    "area": 283561,
     "borders": [
       "COL",
       "PER"
@@ -1210,6 +1291,7 @@
       "es"
     ],
     "population": 16800000,
+    "populationPerSquareKm": 59,
     "region": "005",
     "tld": [
       ".ec"
@@ -1219,6 +1301,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/El_Salvador_National_Anthem.ogg"
     },
+    "area": 21041,
     "borders": [
       "GTM",
       "HND"
@@ -1239,6 +1322,7 @@
       "es"
     ],
     "population": 6400000,
+    "populationPerSquareKm": 304,
     "region": "013",
     "tld": [
       ".sv"
@@ -1248,6 +1332,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hymne_National_de_C%C3%B4te_d%27Ivoire.ogg"
     },
+    "area": 322463,
     "borders": [
       "BFA",
       "GHA",
@@ -1270,6 +1355,7 @@
       "fr"
     ],
     "population": 24400000,
+    "populationPerSquareKm": 76,
     "region": "011",
     "tld": [
       ".ci"
@@ -1279,6 +1365,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg"
     },
+    "area": 117600,
     "borders": [
       "DJI",
       "ETH",
@@ -1301,6 +1388,7 @@
       "en"
     ],
     "population": 5900000,
+    "populationPerSquareKm": 50,
     "region": "014",
     "tld": [
       ".er"
@@ -1310,6 +1398,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/US_Navy_band_-_National_anthem_of_Estonia.ogg"
     },
+    "area": 45228,
     "borders": [
       "LVA",
       "RUS"
@@ -1329,6 +1418,7 @@
       "et"
     ],
     "population": 1300000,
+    "populationPerSquareKm": 29,
     "region": "154",
     "tld": [
       ".ee"
@@ -1338,6 +1428,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Fiji_National_Anthem.ogg"
     },
+    "area": 18274,
     "borders": [
     ],
     "continent": "OC",
@@ -1358,6 +1449,7 @@
       "ur"
     ],
     "population": 900000,
+    "populationPerSquareKm": 49,
     "region": "054",
     "tld": [
       ".fj"
@@ -1367,6 +1459,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/United_States_Navy_Band_-_Maamme.ogg"
     },
+    "area": 338145,
     "borders": [
       "NOR",
       "SWE",
@@ -1387,6 +1480,7 @@
       "sv"
     ],
     "population": 5500000,
+    "populationPerSquareKm": 16,
     "region": "154",
     "tld": [
       ".fi"
@@ -1396,6 +1490,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
     },
+    "area": 551500,
     "borders": [
       "AND",
       "BEL",
@@ -1421,6 +1516,7 @@
       "fr"
     ],
     "population": 65000000,
+    "populationPerSquareKm": 118,
     "region": "155",
     "tld": [
       ".fr"
@@ -1430,6 +1526,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/La_Concorde.ogg"
     },
+    "area": 267667,
     "borders": [
       "CMR",
       "COG",
@@ -1450,6 +1547,7 @@
       "fr"
     ],
     "population": 2000000,
+    "populationPerSquareKm": 7,
     "region": "017",
     "tld": [
       ".ga"
@@ -1459,6 +1557,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/gm.mp3"
     },
+    "area": 11295,
     "borders": [
       "SEN"
     ],
@@ -1477,6 +1576,7 @@
       "en"
     ],
     "population": 2100000,
+    "populationPerSquareKm": 186,
     "region": "011",
     "tld": [
       ".gm"
@@ -1487,6 +1587,7 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Georgian_national_anthem.wav",
       "vocalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tavisupleba_vocal.ogg"
     },
+    "area": 69700,
     "borders": [
       "ARM",
       "AZE",
@@ -1510,6 +1611,7 @@
       "ka"
     ],
     "population": 3900000,
+    "populationPerSquareKm": 56,
     "region": "145",
     "tld": [
       ".ge"
@@ -1519,6 +1621,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/National_Anthem_of_Ghana.ogg"
     },
+    "area": 238533,
     "borders": [
       "BFA",
       "CIV",
@@ -1539,6 +1642,7 @@
       "en"
     ],
     "population": 28800000,
+    "populationPerSquareKm": 121,
     "region": "011",
     "tld": [
       ".gh"
@@ -1548,6 +1652,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/HailGrenada.ogg"
     },
+    "area": 344,
     "borders": [
     ],
     "continent": "NA",
@@ -1565,6 +1670,7 @@
       "en"
     ],
     "population": 108000,
+    "populationPerSquareKm": 314,
     "region": "029",
     "tld": [
       ".gd"
@@ -1574,6 +1680,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga"
     },
+    "area": 131957,
     "borders": [
       "ALB",
       "BGR",
@@ -1595,6 +1702,7 @@
       "el"
     ],
     "population": 10700000,
+    "populationPerSquareKm": 81,
     "region": "039",
     "tld": [
       ".gr"
@@ -1604,6 +1712,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Guatemala%27s_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg"
     },
+    "area": 108889,
     "borders": [
       "BLZ",
       "SLV",
@@ -1625,6 +1734,7 @@
       "es"
     ],
     "population": 16900000,
+    "populationPerSquareKm": 155,
     "region": "013",
     "tld": [
       ".gt"
@@ -1634,6 +1744,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/National_Anthem_of_Guinea_by_US_Navy_Band.ogg"
     },
+    "area": 245857,
     "borders": [
       "CIV",
       "GNB",
@@ -1658,6 +1769,7 @@
       "ff"
     ],
     "population": 11500000,
+    "populationPerSquareKm": 47,
     "region": "011",
     "tld": [
       ".gn"
@@ -1667,6 +1779,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/gw.mp3"
     },
+    "area": 36125,
     "borders": [
       "GIN",
       "SEN"
@@ -1686,6 +1799,7 @@
       "pt"
     ],
     "population": 1900000,
+    "populationPerSquareKm": 53,
     "region": "011",
     "tld": [
       ".gw"
@@ -1695,6 +1809,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/National_Anthem_of_Guyana.ogg"
     },
+    "area": 214969,
     "borders": [
       "BRA",
       "SUR",
@@ -1715,6 +1830,7 @@
       "en"
     ],
     "population": 800000,
+    "populationPerSquareKm": 4,
     "region": "005",
     "tld": [
       ".gy"
@@ -1724,6 +1840,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Haiti_National_Anthem.ogg"
     },
+    "area": 27750,
     "borders": [
       "DOM"
     ],
@@ -1744,6 +1861,7 @@
       "ht"
     ],
     "population": 10600000,
+    "populationPerSquareKm": 382,
     "region": "029",
     "tld": [
       ".ht"
@@ -1753,6 +1871,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Honduras_National_Anthem.ogg"
     },
+    "area": 112090,
     "borders": [
       "GTM",
       "SLV",
@@ -1773,6 +1892,7 @@
       "es"
     ],
     "population": 8900000,
+    "populationPerSquareKm": 79,
     "region": "013",
     "tld": [
       ".hn"
@@ -1782,6 +1902,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jana_Gana_Mana_instrumental.ogg"
     },
+    "area": 3287263,
     "borders": [
       "AFG",
       "BGD",
@@ -1808,6 +1929,7 @@
       "en"
     ],
     "population": 1352600000,
+    "populationPerSquareKm": 411,
     "region": "034",
     "tld": [
       ".in"
@@ -1817,6 +1939,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Indonesiaraya.ogg"
     },
+    "area": 1904569,
     "borders": [
       "TLS",
       "MYS",
@@ -1837,6 +1960,7 @@
       "id"
     ],
     "population": 264000000,
+    "populationPerSquareKm": 139,
     "region": "035",
     "tld": [
       ".id"
@@ -1846,6 +1970,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/United_States_Navy_Band_-_Mawtini.ogg"
     },
+    "area": 438317,
     "borders": [
       "IRN",
       "JOR",
@@ -1870,6 +1995,7 @@
       "ku"
     ],
     "population": 39200000,
+    "populationPerSquareKm": 89,
     "region": "145",
     "tld": [
       ".iq"
@@ -1879,6 +2005,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_%28instrumental%29.oga"
     },
+    "area": 1648195,
     "borders": [
       "AFG",
       "ARM",
@@ -1903,6 +2030,7 @@
       "fa"
     ],
     "population": 80600000,
+    "populationPerSquareKm": 49,
     "region": "034",
     "tld": [
       ".ir"
@@ -1912,6 +2040,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/United_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg"
     },
+    "area": 70273,
     "borders": [
       "GBR"
     ],
@@ -1931,6 +2060,7 @@
       "en"
     ],
     "population": 4800000,
+    "populationPerSquareKm": 68,
     "region": "154",
     "tld": [
       ".ie"
@@ -1940,6 +2070,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lofs%C3%B6ngur.ogg"
     },
+    "area": 103000,
     "borders": [
     ],
     "continent": "EU",
@@ -1957,6 +2088,7 @@
       "is"
     ],
     "population": 350000,
+    "populationPerSquareKm": 3,
     "region": "154",
     "tld": [
       ".is"
@@ -1966,6 +2098,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hatikvah_instrumental.ogg"
     },
+    "area": 22380,
     "borders": [
       "EGY",
       "JOR",
@@ -1989,6 +2122,7 @@
       "ar"
     ],
     "population": 8600000,
+    "populationPerSquareKm": 384,
     "region": "145",
     "tld": [
       ".il"
@@ -1998,6 +2132,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Inno_di_Mameli_instrumental.ogg"
     },
+    "area": 301340,
     "borders": [
       "AUT",
       "FRA",
@@ -2021,6 +2156,7 @@
       "it"
     ],
     "population": 60500000,
+    "populationPerSquareKm": 201,
     "region": "039",
     "tld": [
       ".it"
@@ -2030,6 +2166,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Anthems_-_National_Anthem_Of_Jamaica.ogg"
     },
+    "area": 10991,
     "borders": [
     ],
     "continent": "NA",
@@ -2047,6 +2184,7 @@
       "en"
     ],
     "population": 2900000,
+    "populationPerSquareKm": 264,
     "region": "029",
     "tld": [
       ".jm"
@@ -2056,6 +2194,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kimi_ga_Yo_instrumental.ogg"
     },
+    "area": 377915,
     "borders": [
     ],
     "continent": "AS",
@@ -2073,6 +2212,7 @@
       "ja"
     ],
     "population": 126700000,
+    "populationPerSquareKm": 335,
     "region": "030",
     "tld": [
       ".jp"
@@ -2082,6 +2222,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/United_States_Navy_Band_-_United_Republic.ogg"
     },
+    "area": 527968,
     "borders": [
       "OMN",
       "SAU"
@@ -2101,6 +2242,7 @@
       "ar"
     ],
     "population": 28300000,
+    "populationPerSquareKm": 54,
     "region": "145",
     "tld": [
       ".ye"
@@ -2110,6 +2252,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_anthem_of_Jordan_instrumental.ogg"
     },
+    "area": 89342,
     "borders": [
       "IRQ",
       "ISR",
@@ -2132,6 +2275,7 @@
       "ar"
     ],
     "population": 9700000,
+    "populationPerSquareKm": 109,
     "region": "145",
     "tld": [
       ".jo"
@@ -2141,6 +2285,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/United_States_Navy_Band_-_Nokoreach.ogg"
     },
+    "area": 181035,
     "borders": [
       "LAO",
       "THA",
@@ -2161,6 +2306,7 @@
       "km"
     ],
     "population": 15900000,
+    "populationPerSquareKm": 88,
     "region": "035",
     "tld": [
       ".kh"
@@ -2170,6 +2316,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Chant_de_Ralliement.ogg"
     },
+    "area": 475440,
     "borders": [
       "CAF",
       "TCD",
@@ -2194,6 +2341,7 @@
       "fr"
     ],
     "population": 25000000,
+    "populationPerSquareKm": 53,
     "region": "017",
     "tld": [
       ".cm"
@@ -2203,6 +2351,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/United_States_Navy_Band_-_O_Canada.ogg"
     },
+    "area": 9984670,
     "borders": [
       "USA"
     ],
@@ -2222,6 +2371,7 @@
       "fr"
     ],
     "population": 36700000,
+    "populationPerSquareKm": 4,
     "region": "021",
     "tld": [
       ".ca"
@@ -2231,6 +2381,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/cv.mp3"
     },
+    "area": 4033,
     "borders": [
     ],
     "continent": "AF",
@@ -2248,6 +2399,7 @@
       "pt"
     ],
     "population": 517000,
+    "populationPerSquareKm": 128,
     "region": "011",
     "tld": [
       ".cv"
@@ -2257,6 +2409,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kazakhstan_2006.ogg"
     },
+    "area": 2724900,
     "borders": [
       "CHN",
       "KGZ",
@@ -2280,6 +2433,7 @@
       "ru"
     ],
     "population": 18000000,
+    "populationPerSquareKm": 7,
     "region": "143",
     "tld": [
       ".kz",
@@ -2290,6 +2444,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/As_Salam_Al_Amiri_instrumental.ogg"
     },
+    "area": 11586,
     "borders": [
       "SAU"
     ],
@@ -2308,6 +2463,7 @@
       "ar"
     ],
     "population": 2700000,
+    "populationPerSquareKm": 233,
     "region": "145",
     "tld": [
       ".qa"
@@ -2317,6 +2473,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/National_Anthem_of_Kenya.ogg"
     },
+    "area": 580367,
     "borders": [
       "ETH",
       "SOM",
@@ -2340,6 +2497,7 @@
       "sw"
     ],
     "population": 49700000,
+    "populationPerSquareKm": 86,
     "region": "014",
     "tld": [
       ".ke"
@@ -2349,6 +2507,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/National_Anthem_of_Kyrgyzstan.ogg"
     },
+    "area": 199951,
     "borders": [
       "CHN",
       "KAZ",
@@ -2371,6 +2530,7 @@
       "ru"
     ],
     "population": 6200000,
+    "populationPerSquareKm": 31,
     "region": "143",
     "tld": [
       ".kg"
@@ -2380,6 +2540,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/ki.mp3"
     },
+    "area": 811,
     "borders": [
     ],
     "continent": "OC",
@@ -2397,6 +2558,7 @@
       "en"
     ],
     "population": 100000,
+    "populationPerSquareKm": 123,
     "region": "057",
     "tld": [
       ".ki"
@@ -2406,6 +2568,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg"
     },
+    "area": 1138910,
     "borders": [
       "BRA",
       "ECU",
@@ -2428,6 +2591,7 @@
       "es"
     ],
     "population": 49300000,
+    "populationPerSquareKm": 43,
     "region": "005",
     "tld": [
       ".co"
@@ -2437,6 +2601,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/National_Anthem_of_Comoros_by_US_Navy_Band.ogg"
     },
+    "area": 2235,
     "borders": [
     ],
     "continent": "AF",
@@ -2455,6 +2620,7 @@
       "fr"
     ],
     "population": 800000,
+    "populationPerSquareKm": 358,
     "region": "014",
     "tld": [
       ".km"
@@ -2464,6 +2630,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Democratic_Republic_of_the_Congo%27s_national_anthem.ogg"
     },
+    "area": 2344858,
     "borders": [
       "AGO",
       "BDI",
@@ -2494,6 +2661,7 @@
       "lu"
     ],
     "population": 81500000,
+    "populationPerSquareKm": 35,
     "region": "017",
     "tld": [
       ".cd"
@@ -2503,6 +2671,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/National_anthem_of_the_Republic_of_the_Congo.oga"
     },
+    "area": 342000,
     "borders": [
       "AGO",
       "CMR",
@@ -2526,6 +2695,7 @@
       "ln"
     ],
     "population": 5000000,
+    "populationPerSquareKm": 15,
     "region": "017",
     "tld": [
       ".cg"
@@ -2535,6 +2705,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/National_Anthem_of_the_Democratic_People%27s_Republic_of_Korea.ogg"
     },
+    "area": 120538,
     "borders": [
       "CHN",
       "KOR",
@@ -2555,6 +2726,7 @@
       "ko"
     ],
     "population": 25500000,
+    "populationPerSquareKm": 212,
     "region": "030",
     "tld": [
       ".kp"
@@ -2564,6 +2736,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav"
     },
+    "area": 99720,
     "borders": [
       "PRK"
     ],
@@ -2582,6 +2755,7 @@
       "ko"
     ],
     "population": 51400000,
+    "populationPerSquareKm": 515,
     "region": "030",
     "tld": [
       ".kr"
@@ -2591,6 +2765,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg"
     },
+    "area": 10887,
     "borders": [
       "MNE",
       "ALB",
@@ -2610,6 +2785,7 @@
     "languages": [
     ],
     "population": 1800000,
+    "populationPerSquareKm": 165,
     "region": "039",
     "tld": [
     ]
@@ -2618,6 +2794,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lijepa_nasa_domovino_instrumental.ogg"
     },
+    "area": 56594,
     "borders": [
       "BIH",
       "HUN",
@@ -2640,6 +2817,7 @@
       "hr"
     ],
     "population": 4100000,
+    "populationPerSquareKm": 72,
     "region": "039",
     "tld": [
       ".hr"
@@ -2649,6 +2827,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/United_States_Navy_Band_-_La_Bayamesa.ogg"
     },
+    "area": 110860,
     "borders": [
     ],
     "continent": "NA",
@@ -2667,6 +2846,7 @@
       "es"
     ],
     "population": 11300000,
+    "populationPerSquareKm": 102,
     "region": "029",
     "tld": [
       ".cu"
@@ -2676,6 +2856,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/kw.mp3"
     },
+    "area": 17818,
     "borders": [
       "IRN",
       "SAU"
@@ -2695,6 +2876,7 @@
       "ar"
     ],
     "population": 4100000,
+    "populationPerSquareKm": 230,
     "region": "145",
     "tld": [
       ".kw"
@@ -2704,6 +2886,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_Anthem_of_Laos.ogg"
     },
+    "area": 236800,
     "borders": [
       "MMR",
       "KHM",
@@ -2726,6 +2909,7 @@
       "lo"
     ],
     "population": 7000000,
+    "populationPerSquareKm": 30,
     "region": "035",
     "tld": [
       ".la"
@@ -2735,6 +2919,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/ls.mp3"
     },
+    "area": 30355,
     "borders": [
       "ZAF"
     ],
@@ -2755,6 +2940,7 @@
       "st"
     ],
     "population": 2200000,
+    "populationPerSquareKm": 72,
     "region": "018",
     "tld": [
       ".ls"
@@ -2764,6 +2950,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Latvian_National_Anthem.ogg"
     },
+    "area": 64589,
     "borders": [
       "BLR",
       "EST",
@@ -2785,6 +2972,7 @@
       "lv"
     ],
     "population": 1900000,
+    "populationPerSquareKm": 29,
     "region": "154",
     "tld": [
       ".lv"
@@ -2794,6 +2982,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Lebanese_national_anthem.ogg"
     },
+    "area": 10400,
     "borders": [
       "ISR",
       "SYR"
@@ -2814,6 +3003,7 @@
       "fr"
     ],
     "population": 6200000,
+    "populationPerSquareKm": 596,
     "region": "145",
     "tld": [
       ".lb"
@@ -2823,6 +3013,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Liberia_National_Anthem.ogg"
     },
+    "area": 111369,
     "borders": [
       "GIN",
       "CIV",
@@ -2843,6 +3034,7 @@
       "en"
     ],
     "population": 4700000,
+    "populationPerSquareKm": 42,
     "region": "011",
     "tld": [
       ".lr"
@@ -2852,6 +3044,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LibyaLibyaLibya.ogg"
     },
+    "area": 1759540,
     "borders": [
       "DZA",
       "TCD",
@@ -2875,6 +3068,7 @@
       "ar"
     ],
     "population": 6400000,
+    "populationPerSquareKm": 4,
     "region": "015",
     "tld": [
       ".ly"
@@ -2884,6 +3078,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
     },
+    "area": 160,
     "borders": [
       "AUT",
       "CHE"
@@ -2903,6 +3098,7 @@
       "de"
     ],
     "population": 40000,
+    "populationPerSquareKm": 250,
     "region": "155",
     "tld": [
       ".li"
@@ -2912,6 +3108,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tauti%C5%A1ka_giesme_instumental.ogg"
     },
+    "area": 65300,
     "borders": [
       "BLR",
       "LVA",
@@ -2933,6 +3130,7 @@
       "lt"
     ],
     "population": 2800000,
+    "populationPerSquareKm": 43,
     "region": "154",
     "tld": [
       ".lt"
@@ -2942,6 +3140,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Luxembourg_National_Anthem.ogg"
     },
+    "area": 2586,
     "borders": [
       "BEL",
       "FRA",
@@ -2964,6 +3163,7 @@
       "lb"
     ],
     "population": 600000,
+    "populationPerSquareKm": 232,
     "region": "155",
     "tld": [
       ".lu"
@@ -2973,6 +3173,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/mg.mp3"
     },
+    "area": 587041,
     "borders": [
     ],
     "continent": "AF",
@@ -2991,6 +3192,7 @@
       "mg"
     ],
     "population": 25500000,
+    "populationPerSquareKm": 43,
     "region": "014",
     "tld": [
       ".mg"
@@ -3000,6 +3202,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Malawian_national_anthem.oga"
     },
+    "area": 118484,
     "borders": [
       "MOZ",
       "TZA",
@@ -3021,6 +3224,7 @@
       "ny"
     ],
     "population": 18600000,
+    "populationPerSquareKm": 157,
     "region": "014",
     "tld": [
       ".mw"
@@ -3030,6 +3234,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Negaraku_instrumental.ogg"
     },
+    "area": 329847,
     "borders": [
       "BRN",
       "IDN",
@@ -3049,6 +3254,7 @@
     "languages": [
     ],
     "population": 31600000,
+    "populationPerSquareKm": 96,
     "region": "035",
     "tld": [
       ".my"
@@ -3058,6 +3264,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gaumii_salaam.ogg"
     },
+    "area": 298,
     "borders": [
     ],
     "continent": "AS",
@@ -3075,6 +3282,7 @@
       "dv"
     ],
     "population": 400000,
+    "populationPerSquareKm": 1342,
     "region": "034",
     "tld": [
       ".mv"
@@ -3084,6 +3292,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Malian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
     },
+    "area": 1240192,
     "borders": [
       "DZA",
       "BFA",
@@ -3108,6 +3317,7 @@
       "fr"
     ],
     "population": 18900000,
+    "populationPerSquareKm": 15,
     "region": "011",
     "tld": [
       ".ml"
@@ -3117,6 +3327,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malta_National_Anthem.ogg"
     },
+    "area": 316,
     "borders": [
     ],
     "continent": "EU",
@@ -3135,6 +3346,7 @@
       "en"
     ],
     "population": 438000,
+    "populationPerSquareKm": 1386,
     "region": "039",
     "tld": [
       ".mt"
@@ -3144,6 +3356,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/National_Anthem_of_Morocco.ogg"
     },
+    "area": 446550,
     "borders": [
       "DZA",
       "ESH",
@@ -3164,6 +3377,7 @@
       "ar"
     ],
     "population": 35100000,
+    "populationPerSquareKm": 79,
     "region": "015",
     "tld": [
       ".ma"
@@ -3173,6 +3387,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/National_Anthem_of_Marshall_Islands_by_US_Navy_Band.ogg"
     },
+    "area": 181,
     "borders": [
     ],
     "continent": "OC",
@@ -3191,6 +3406,7 @@
       "mh"
     ],
     "population": 60000,
+    "populationPerSquareKm": 331,
     "region": "057",
     "tld": [
       ".mh"
@@ -3200,6 +3416,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/mr.mp3"
     },
+    "area": 1030700,
     "borders": [
       "DZA",
       "MLI",
@@ -3221,6 +3438,7 @@
       "ar"
     ],
     "population": 4400000,
+    "populationPerSquareKm": 4,
     "region": "011",
     "tld": [
       ".mr"
@@ -3230,6 +3448,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/mu.mp3"
     },
+    "area": 2040,
     "borders": [
     ],
     "continent": "AF",
@@ -3247,6 +3466,7 @@
       "en"
     ],
     "population": 1300000,
+    "populationPerSquareKm": 637,
     "region": "014",
     "tld": [
       ".mu"
@@ -3256,6 +3476,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg"
     },
+    "area": 1964375,
     "borders": [
       "BLZ",
       "GTM",
@@ -3276,6 +3497,7 @@
       "es"
     ],
     "population": 129200000,
+    "populationPerSquareKm": 66,
     "region": "013",
     "tld": [
       ".mx"
@@ -3285,6 +3507,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Micronesia_National_Anthem.ogg"
     },
+    "area": 702,
     "borders": [
     ],
     "continent": "OC",
@@ -3302,6 +3525,7 @@
       "en"
     ],
     "population": 107000,
+    "populationPerSquareKm": 152,
     "region": "057",
     "tld": [
       ".fm"
@@ -3311,6 +3535,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Imnul_Republicii_Moldova_US_NAVY.ogg"
     },
+    "area": 33851,
     "borders": [
       "ROU",
       "UKR"
@@ -3330,6 +3555,7 @@
       "ro"
     ],
     "population": 3900000,
+    "populationPerSquareKm": 115,
     "region": "151",
     "tld": [
       ".md"
@@ -3339,6 +3565,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Monaco_National_Anthem.ogg"
     },
+    "area": 2,
     "borders": [
       "FRA"
     ],
@@ -3357,6 +3584,7 @@
       "fr"
     ],
     "population": 37800,
+    "populationPerSquareKm": 18900,
     "region": "155",
     "tld": [
       ".mc"
@@ -3366,6 +3594,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_anthem_of_Mongolia_2006_official-instrumental.ogg"
     },
+    "area": 1564116,
     "borders": [
       "CHN",
       "RUS"
@@ -3385,6 +3614,7 @@
       "mn"
     ],
     "population": 3200000,
+    "populationPerSquareKm": 2,
     "region": "030",
     "tld": [
       ".mn"
@@ -3394,6 +3624,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_Anthem_of_Montenegro.ogg"
     },
+    "area": 13812,
     "borders": [
       "ALB",
       "XXK",
@@ -3414,6 +3645,7 @@
     "languages": [
     ],
     "population": 600000,
+    "populationPerSquareKm": 43,
     "region": "039",
     "tld": [
       ".me"
@@ -3423,6 +3655,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/mz.mp3"
     },
+    "area": 799380,
     "borders": [
       "MWI",
       "ZAF",
@@ -3446,6 +3679,7 @@
       "pt"
     ],
     "population": 29700000,
+    "populationPerSquareKm": 37,
     "region": "014",
     "tld": [
       ".mz"
@@ -3455,6 +3689,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga"
     },
+    "area": 676578,
     "borders": [
       "THA",
       "LAO",
@@ -3475,6 +3710,7 @@
     "languages": [
     ],
     "population": 53400000,
+    "populationPerSquareKm": 79,
     "region": "035",
     "tld": [
       ".mm"
@@ -3484,6 +3720,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Namibian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
     },
+    "area": 824292,
     "borders": [
       "AGO",
       "BWA",
@@ -3507,6 +3744,7 @@
       "af"
     ],
     "population": 2500000,
+    "populationPerSquareKm": 3,
     "region": "018",
     "tld": [
       ".na"
@@ -3516,6 +3754,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/nr.mp3"
     },
+    "area": 21,
     "borders": [
     ],
     "continent": "OC",
@@ -3534,6 +3773,7 @@
       "na"
     ],
     "population": 10000,
+    "populationPerSquareKm": 476,
     "region": "057",
     "tld": [
       ".nr"
@@ -3543,6 +3783,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/np.mp3"
     },
+    "area": 147181,
     "borders": [
       "CHN",
       "IND"
@@ -3562,6 +3803,7 @@
       "ne"
     ],
     "population": 29400000,
+    "populationPerSquareKm": 200,
     "region": "034",
     "tld": [
       ".np"
@@ -3571,6 +3813,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg"
     },
+    "area": 267710,
     "borders": [
     ],
     "continent": "OC",
@@ -3589,6 +3832,7 @@
       "mi"
     ],
     "population": 4800000,
+    "populationPerSquareKm": 18,
     "region": "053",
     "tld": [
       ".nz"
@@ -3598,6 +3842,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/National_Anthem_of_Nicaragua.ogg"
     },
+    "area": 130730,
     "borders": [
       "CRI",
       "HND"
@@ -3617,6 +3862,7 @@
       "es"
     ],
     "population": 6200000,
+    "populationPerSquareKm": 47,
     "region": "013",
     "tld": [
       ".ni"
@@ -3626,6 +3872,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_Navy_Band_-_Het_Wilhelmus.ogg"
     },
+    "area": 41543,
     "borders": [
       "BEL",
       "DEU"
@@ -3645,6 +3892,7 @@
       "nl"
     ],
     "population": 17100000,
+    "populationPerSquareKm": 412,
     "region": "155",
     "tld": [
       ".nl"
@@ -3654,6 +3902,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/ne.mp3"
     },
+    "area": 1267000,
     "borders": [
       "DZA",
       "BEN",
@@ -3678,6 +3927,7 @@
       "fr"
     ],
     "population": 20600000,
+    "populationPerSquareKm": 16,
     "region": "011",
     "tld": [
       ".ne"
@@ -3687,6 +3937,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/United_States_Navy_Band_-_%22Arise_O%2C_Compatriots%22.oga"
     },
+    "area": 923768,
     "borders": [
       "BEN",
       "CMR",
@@ -3708,6 +3959,7 @@
       "en"
     ],
     "population": 190900000,
+    "populationPerSquareKm": 207,
     "region": "011",
     "tld": [
       ".ng"
@@ -3717,6 +3969,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/nu.mp3"
     },
+    "area": 260,
     "borders": [
     ],
     "continent": "OC",
@@ -3734,6 +3987,7 @@
       "en"
     ],
     "population": 1229,
+    "populationPerSquareKm": 5,
     "region": "061",
     "tld": [
       ".nu"
@@ -3741,8 +3995,9 @@
   },
   {
     "anthem": {
-      "url": "https://upload.wikimedia.org/wikipedia/en/8/82/Macedonia%27s_national_anthem_%28instrumental%29.ogg"
+      "url": "http://www.nationalanthems.info/mk.mp3"
     },
+    "area": 25713,
     "borders": [
       "ALB",
       "BGR",
@@ -3765,6 +4020,7 @@
       "mk"
     ],
     "population": 2100000,
+    "populationPerSquareKm": 82,
     "region": "039",
     "tld": [
       ".mk"
@@ -3774,6 +4030,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Norway_%28National_Anthem%29.ogg"
     },
+    "area": 323802,
     "borders": [
       "FIN",
       "SWE",
@@ -3796,6 +4053,7 @@
       "nn"
     ],
     "population": 5300000,
+    "populationPerSquareKm": 16,
     "region": "154",
     "tld": [
       ".no"
@@ -3805,6 +4063,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/om.mp3"
     },
+    "area": 309500,
     "borders": [
       "SAU",
       "ARE",
@@ -3825,6 +4084,7 @@
       "ar"
     ],
     "population": 4700000,
+    "populationPerSquareKm": 15,
     "region": "145",
     "tld": [
       ".om"
@@ -3834,6 +4094,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Land_der_Berge_Land_am_Strome_instrumental.ogg"
     },
+    "area": 83871,
     "borders": [
       "CZE",
       "DEU",
@@ -3859,6 +4120,7 @@
       "de"
     ],
     "population": 8800000,
+    "populationPerSquareKm": 105,
     "region": "155",
     "tld": [
       ".at"
@@ -3868,6 +4130,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/East_Timorese_national_anthem.wav"
     },
+    "area": 14874,
     "borders": [
       "IDN"
     ],
@@ -3885,6 +4148,7 @@
       "pt"
     ],
     "population": 1300000,
+    "populationPerSquareKm": 87,
     "region": "035",
     "tld": [
       ".tl"
@@ -3894,6 +4158,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/National_anthem_of_Pakistan.OGG"
     },
+    "area": 796095,
     "borders": [
       "AFG",
       "CHN",
@@ -3916,6 +4181,7 @@
       "ur"
     ],
     "population": 207600000,
+    "populationPerSquareKm": 261,
     "region": "034",
     "tld": [
       ".pk"
@@ -3926,6 +4192,7 @@
       "url": "http://www.nationalanthems.info/ps.mp3",
       "vocalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/National_Anthem_of_Palestine_%28Vocal%29.ogg"
     },
+    "area": 6220,
     "borders": [
       "ISR",
       "JOR"
@@ -3943,6 +4210,7 @@
     "languages": [
     ],
     "population": 4900000,
+    "populationPerSquareKm": 788,
     "region": "145",
     "tld": [
       ".ps"
@@ -3952,6 +4220,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/pw.mp3"
     },
+    "area": 459,
     "borders": [
     ],
     "continent": "OC",
@@ -3969,6 +4238,7 @@
       "en"
     ],
     "population": 21000,
+    "populationPerSquareKm": 46,
     "region": "057",
     "tld": [
       ".pw"
@@ -3978,6 +4248,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Panama_National_Anthem.ogg"
     },
+    "area": 75420,
     "borders": [
       "COL",
       "CRI"
@@ -3998,6 +4269,7 @@
       "es"
     ],
     "population": 4100000,
+    "populationPerSquareKm": 54,
     "region": "013",
     "tld": [
       ".pa"
@@ -4007,6 +4279,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/pg.mp3"
     },
+    "area": 462840,
     "borders": [
       "IDN"
     ],
@@ -4025,6 +4298,7 @@
       "en"
     ],
     "population": 8300000,
+    "populationPerSquareKm": 18,
     "region": "054",
     "tld": [
       ".pg"
@@ -4034,6 +4308,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Paraguayan_National_Anthem.oga"
     },
+    "area": 406752,
     "borders": [
       "ARG",
       "BOL",
@@ -4055,6 +4330,7 @@
       "gn"
     ],
     "population": 6800000,
+    "populationPerSquareKm": 17,
     "region": "005",
     "tld": [
       ".py"
@@ -4064,6 +4340,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg"
     },
+    "area": 1285216,
     "borders": [
       "BOL",
       "BRA",
@@ -4086,6 +4363,7 @@
       "es"
     ],
     "population": 31800000,
+    "populationPerSquareKm": 25,
     "region": "005",
     "tld": [
       ".pe"
@@ -4095,6 +4373,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lupang_Hinirang_instrumental.ogg"
     },
+    "area": 299000,
     "borders": [
     ],
     "continent": "AS",
@@ -4112,6 +4391,7 @@
       "en"
     ],
     "population": 105000000,
+    "populationPerSquareKm": 351,
     "region": "035",
     "tld": [
       ".ph"
@@ -4121,6 +4401,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mazurek_Dabrowskiego.ogg"
     },
+    "area": 312685,
     "borders": [
       "BLR",
       "CZE",
@@ -4145,6 +4426,7 @@
       "pl"
     ],
     "population": 38400000,
+    "populationPerSquareKm": 123,
     "region": "151",
     "tld": [
       ".pl"
@@ -4154,6 +4436,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg"
     },
+    "area": 92090,
     "borders": [
       "ESP"
     ],
@@ -4172,6 +4455,7 @@
       "pt"
     ],
     "population": 10300000,
+    "populationPerSquareKm": 112,
     "region": "039",
     "tld": [
       ".pt"
@@ -4181,6 +4465,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Hymne_National_du_Rwanda.ogg"
     },
+    "area": 26338,
     "borders": [
       "BDI",
       "COD",
@@ -4204,6 +4489,7 @@
       "fr"
     ],
     "population": 12300000,
+    "populationPerSquareKm": 467,
     "region": "014",
     "tld": [
       ".rw"
@@ -4213,6 +4499,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Desteapta-te%2C_romane%21.ogg"
     },
+    "area": 238391,
     "borders": [
       "BGR",
       "HUN",
@@ -4235,6 +4522,7 @@
       "ro"
     ],
     "population": 19600000,
+    "populationPerSquareKm": 82,
     "region": "151",
     "tld": [
       ".ro"
@@ -4244,6 +4532,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/National_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg"
     },
+    "area": 17098242,
     "borders": [
       "AZE",
       "BLR",
@@ -4277,6 +4566,7 @@
       "ru"
     ],
     "population": 144500000,
+    "populationPerSquareKm": 8,
     "region": "151",
     "tld": [
       ".ru"
@@ -4286,6 +4576,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/sb.mp3"
     },
+    "area": 28896,
     "borders": [
     ],
     "continent": "OC",
@@ -4303,6 +4594,7 @@
       "en"
     ],
     "population": 700000,
+    "populationPerSquareKm": 24,
     "region": "054",
     "tld": [
       ".sb"
@@ -4312,6 +4604,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zambian_national_anthem.oga"
     },
+    "area": 752618,
     "borders": [
       "AGO",
       "BWA",
@@ -4337,6 +4630,7 @@
       "en"
     ],
     "population": 16400000,
+    "populationPerSquareKm": 22,
     "region": "014",
     "tld": [
       ".zm"
@@ -4346,6 +4640,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/ws.mp3"
     },
+    "area": 2831,
     "borders": [
     ],
     "continent": "OC",
@@ -4364,6 +4659,7 @@
       "en"
     ],
     "population": 200000,
+    "populationPerSquareKm": 71,
     "region": "061",
     "tld": [
       ".ws"
@@ -4373,6 +4669,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Inno_Nazionale_della_Repubblica.ogg"
     },
+    "area": 61,
     "borders": [
       "ITA"
     ],
@@ -4391,6 +4688,7 @@
       "it"
     ],
     "population": 32800,
+    "populationPerSquareKm": 538,
     "region": "039",
     "tld": [
       ".sm"
@@ -4400,6 +4698,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/st.mp3"
     },
+    "area": 964,
     "borders": [
     ],
     "continent": "AF",
@@ -4417,6 +4716,7 @@
       "pt"
     ],
     "population": 200000,
+    "populationPerSquareKm": 207,
     "region": "017",
     "tld": [
       ".st"
@@ -4426,6 +4726,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Saudi_Arabian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
     },
+    "area": 2149690,
     "borders": [
       "IRQ",
       "JOR",
@@ -4450,6 +4751,7 @@
       "ar"
     ],
     "population": 32600000,
+    "populationPerSquareKm": 15,
     "region": "145",
     "tld": [
       ".sa"
@@ -4459,6 +4761,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/United_States_Navy_Band_-_Sweden.ogg"
     },
+    "area": 450295,
     "borders": [
       "FIN",
       "NOR"
@@ -4478,6 +4781,7 @@
       "sv"
     ],
     "population": 10100000,
+    "populationPerSquareKm": 22,
     "region": "154",
     "tld": [
       ".se"
@@ -4487,6 +4791,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Swiss_Psalm.ogg"
     },
+    "area": 41277,
     "borders": [
       "AUT",
       "FRA",
@@ -4513,6 +4818,7 @@
       "it"
     ],
     "population": 8500000,
+    "populationPerSquareKm": 206,
     "region": "155",
     "tld": [
       ".ch"
@@ -4522,6 +4828,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/National_Anthem_of_Senegal.ogg"
     },
+    "area": 196722,
     "borders": [
       "GMB",
       "GIN",
@@ -4544,6 +4851,7 @@
       "fr"
     ],
     "population": 15800000,
+    "populationPerSquareKm": 80,
     "region": "011",
     "tld": [
       ".sn"
@@ -4553,6 +4861,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Serbian_national_anthem%2C_instrumental.oga"
     },
+    "area": 77474,
     "borders": [
       "HRV",
       "XXK",
@@ -4576,6 +4885,7 @@
     "languages": [
     ],
     "population": 7000000,
+    "populationPerSquareKm": 90,
     "region": "039",
     "tld": [
       ".rs"
@@ -4585,6 +4895,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/sc.mp3"
     },
+    "area": 455,
     "borders": [
     ],
     "continent": "AF",
@@ -4603,6 +4914,7 @@
       "en"
     ],
     "population": 90000,
+    "populationPerSquareKm": 198,
     "region": "014",
     "tld": [
       ".sc"
@@ -4612,6 +4924,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Sierra_Leone%27s_national_anthem.ogg"
     },
+    "area": 71740,
     "borders": [
       "GIN",
       "LBR"
@@ -4631,6 +4944,7 @@
       "en"
     ],
     "population": 7600000,
+    "populationPerSquareKm": 106,
     "region": "011",
     "tld": [
       ".sl"
@@ -4640,6 +4954,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zimbabwe_National_Anthem.ogg"
     },
+    "area": 390757,
     "borders": [
       "BWA",
       "MOZ",
@@ -4663,6 +4978,7 @@
       "nd"
     ],
     "population": 16600000,
+    "populationPerSquareKm": 42,
     "region": "014",
     "tld": [
       ".zw"
@@ -4672,6 +4988,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Majulah_Singapura.ogg"
     },
+    "area": 697,
     "borders": [
     ],
     "continent": "AS",
@@ -4692,6 +5009,7 @@
       "zh"
     ],
     "population": 5700000,
+    "populationPerSquareKm": 8178,
     "region": "035",
     "tld": [
       ".sg"
@@ -4701,6 +5019,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/National_anthem_of_Slovakia%2C_performed_by_the_United_States_Navy_Band.ogg"
     },
+    "area": 49035,
     "borders": [
       "AUT",
       "CZE",
@@ -4723,6 +5042,7 @@
       "sk"
     ],
     "population": 5400000,
+    "populationPerSquareKm": 110,
     "region": "151",
     "tld": [
       ".sk"
@@ -4732,6 +5052,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Zdravljica.ogg"
     },
+    "area": 20273,
     "borders": [
       "AUT",
       "HRV",
@@ -4753,6 +5074,7 @@
       "sl"
     ],
     "population": 2100000,
+    "populationPerSquareKm": 104,
     "region": "039",
     "tld": [
       ".si"
@@ -4762,6 +5084,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/so.mp3"
     },
+    "area": 637657,
     "borders": [
       "DJI",
       "ETH",
@@ -4783,6 +5106,7 @@
       "ar"
     ],
     "population": 14700000,
+    "populationPerSquareKm": 23,
     "region": "014",
     "tld": [
       ".so"
@@ -4792,6 +5116,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Marcha_Real-Royal_March_by_US_Navy_Band.ogg"
     },
+    "area": 505370,
     "borders": [
       "AND",
       "FRA",
@@ -4813,6 +5138,7 @@
       "es"
     ],
     "population": 46600000,
+    "populationPerSquareKm": 92,
     "region": "039",
     "tld": [
       ".es"
@@ -4822,6 +5148,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/lk.mp3"
     },
+    "area": 65610,
     "borders": [
       "IND"
     ],
@@ -4841,6 +5168,7 @@
       "ta"
     ],
     "population": 21400000,
+    "populationPerSquareKm": 326,
     "region": "034",
     "tld": [
       ".lk"
@@ -4850,6 +5178,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/United_States_Navy_Band_-_O_Land_of_Beauty.ogg"
     },
+    "area": 261,
     "borders": [
     ],
     "continent": "NA",
@@ -4867,6 +5196,7 @@
       "en"
     ],
     "population": 50000,
+    "populationPerSquareKm": 192,
     "region": "029",
     "tld": [
       ".kn"
@@ -4876,6 +5206,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/lc.mp3"
     },
+    "area": 616,
     "borders": [
     ],
     "continent": "NA",
@@ -4893,6 +5224,7 @@
       "en"
     ],
     "population": 200000,
+    "populationPerSquareKm": 325,
     "region": "029",
     "tld": [
       ".lc"
@@ -4902,6 +5234,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/vc.mp3"
     },
+    "area": 389,
     "borders": [
     ],
     "continent": "NA",
@@ -4919,6 +5252,7 @@
       "en"
     ],
     "population": 104000,
+    "populationPerSquareKm": 267,
     "region": "029",
     "tld": [
       ".vc"
@@ -4928,6 +5262,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga"
     },
+    "area": 1219090,
     "borders": [
       "BWA",
       "LSO",
@@ -4960,6 +5295,7 @@
       "zu"
     ],
     "population": 56500000,
+    "populationPerSquareKm": 46,
     "region": "018",
     "tld": [
       ".za"
@@ -4969,6 +5305,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sudan.ogg"
     },
+    "area": 1886068,
     "borders": [
       "CAF",
       "TCD",
@@ -4994,6 +5331,7 @@
       "en"
     ],
     "population": 40600000,
+    "populationPerSquareKm": 22,
     "region": "015",
     "tld": [
       ".sd"
@@ -5003,6 +5341,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/oss.mp3"
     },
+    "area": 3885,
     "borders": [
       "GEO",
       "RUS"
@@ -5019,6 +5358,7 @@
     "languages": [
     ],
     "population": 51000,
+    "populationPerSquareKm": 13,
     "region": "143",
     "tld": [
     ]
@@ -5027,6 +5367,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/ss.mp3"
     },
+    "area": 619745,
     "borders": [
       "CAF",
       "COD",
@@ -5050,6 +5391,7 @@
       "en"
     ],
     "population": 12600000,
+    "populationPerSquareKm": 20,
     "region": "014",
     "tld": [
       ".ss"
@@ -5059,6 +5401,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/sr.mp3"
     },
+    "area": 163820,
     "borders": [
       "BRA",
       "FRA",
@@ -5079,6 +5422,7 @@
       "nl"
     ],
     "population": 600000,
+    "populationPerSquareKm": 4,
     "region": "005",
     "tld": [
       ".sr"
@@ -5088,6 +5432,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/sz.mp3"
     },
+    "area": 17364,
     "borders": [
       "MOZ",
       "ZAF"
@@ -5108,6 +5453,7 @@
       "ss"
     ],
     "population": 1400000,
+    "populationPerSquareKm": 81,
     "region": "018",
     "tld": [
       ".sz"
@@ -5117,6 +5463,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/National_Anthem_of_Syria.ogg"
     },
+    "area": 185180,
     "borders": [
       "IRQ",
       "ISR",
@@ -5139,6 +5486,7 @@
       "ar"
     ],
     "population": 18300000,
+    "populationPerSquareKm": 99,
     "region": "145",
     "tld": [
       ".sy"
@@ -5148,6 +5496,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tajikistan_anthem.ogg"
     },
+    "area": 143100,
     "borders": [
       "AFG",
       "CHN",
@@ -5170,6 +5519,7 @@
       "ru"
     ],
     "population": 8800000,
+    "populationPerSquareKm": 61,
     "region": "143",
     "tld": [
       ".tj"
@@ -5179,6 +5529,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tanzanian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
     },
+    "area": 947300,
     "borders": [
       "BDI",
       "COD",
@@ -5205,6 +5556,7 @@
       "en"
     ],
     "population": 57500000,
+    "populationPerSquareKm": 61,
     "region": "014",
     "tld": [
       ".tz"
@@ -5214,6 +5566,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Thai_National_Anthem_-_US_Navy_Band.ogg"
     },
+    "area": 513120,
     "borders": [
       "MMR",
       "KHM",
@@ -5235,6 +5588,7 @@
       "th"
     ],
     "population": 66100000,
+    "populationPerSquareKm": 129,
     "region": "035",
     "tld": [
       ".th"
@@ -5244,6 +5598,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Togo%27s_national_anthem_%28instrumental%29.ogg"
     },
+    "area": 56785,
     "borders": [
       "BEN",
       "BFA",
@@ -5264,6 +5619,7 @@
       "fr"
     ],
     "population": 7800000,
+    "populationPerSquareKm": 137,
     "region": "011",
     "tld": [
       ".tg"
@@ -5273,6 +5629,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Ko_e_fasi_%CA%BBo_e_tu%CA%BBi_%CA%BBo_e_%CA%BBOtu_Tonga.ogg"
     },
+    "area": 747,
     "borders": [
     ],
     "continent": "OC",
@@ -5291,6 +5648,7 @@
       "to"
     ],
     "population": 123000,
+    "populationPerSquareKm": 165,
     "region": "061",
     "tld": [
       ".to"
@@ -5300,6 +5658,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/tt.mp3"
     },
+    "area": 5128,
     "borders": [
     ],
     "continent": "NA",
@@ -5317,6 +5676,7 @@
       "en"
     ],
     "population": 1400000,
+    "populationPerSquareKm": 273,
     "region": "029",
     "tld": [
       ".tt"
@@ -5326,6 +5686,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/td.mp3"
     },
+    "area": 1284000,
     "borders": [
       "CMR",
       "CAF",
@@ -5350,6 +5711,7 @@
       "ar"
     ],
     "population": 14900000,
+    "populationPerSquareKm": 12,
     "region": "017",
     "tld": [
       ".td"
@@ -5359,6 +5721,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Czech_anthem.ogg"
     },
+    "area": 78867,
     "borders": [
       "AUT",
       "DEU",
@@ -5381,6 +5744,7 @@
       "sk"
     ],
     "population": 10600000,
+    "populationPerSquareKm": 134,
     "region": "151",
     "tld": [
       ".cz"
@@ -5390,6 +5754,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Humat_al-Hima.ogg"
     },
+    "area": 163610,
     "borders": [
       "DZA",
       "LBY"
@@ -5409,6 +5774,7 @@
       "ar"
     ],
     "population": 11500000,
+    "populationPerSquareKm": 70,
     "region": "015",
     "tld": [
       ".tn"
@@ -5418,6 +5784,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Istikl%C3%A2l_Marsi_instrumetal.ogg"
     },
+    "area": 783562,
     "borders": [
       "ARM",
       "AZE",
@@ -5443,6 +5810,7 @@
       "tr"
     ],
     "population": 80900000,
+    "populationPerSquareKm": 103,
     "region": "145",
     "tld": [
       ".tr"
@@ -5452,6 +5820,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/National_anthem_of_Turkmenistan%2C_performed_by_the_United_States_Navy_Band.oga"
     },
+    "area": 488100,
     "borders": [
       "AFG",
       "IRN",
@@ -5474,6 +5843,7 @@
       "ru"
     ],
     "population": 5800000,
+    "populationPerSquareKm": 12,
     "region": "143",
     "tld": [
       ".tm"
@@ -5483,6 +5853,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/tv.mp3"
     },
+    "area": 26,
     "borders": [
     ],
     "continent": "OC",
@@ -5500,6 +5871,7 @@
       "en"
     ],
     "population": 10000,
+    "populationPerSquareKm": 385,
     "region": "061",
     "tld": [
       ".tv"
@@ -5509,6 +5881,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Uganda_flag_and_national_anthem_-_Oh_Uganda_Land_o.ogg"
     },
+    "area": 241038,
     "borders": [
       "COD",
       "KEN",
@@ -5532,6 +5905,7 @@
       "sw"
     ],
     "population": 42800000,
+    "populationPerSquareKm": 178,
     "region": "014",
     "tld": [
       ".ug"
@@ -5541,6 +5915,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Anthem_of_Ukraine_instrumental.ogg"
     },
+    "area": 603550,
     "borders": [
       "BLR",
       "HUN",
@@ -5565,6 +5940,7 @@
       "uk"
     ],
     "population": 42300000,
+    "populationPerSquareKm": 70,
     "region": "151",
     "tld": [
       ".ua"
@@ -5574,6 +5950,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hu-magyarhimnusz.ogg"
     },
+    "area": 93028,
     "borders": [
       "AUT",
       "HRV",
@@ -5598,6 +5975,7 @@
       "hu"
     ],
     "population": 9800000,
+    "populationPerSquareKm": 105,
     "region": "151",
     "tld": [
       ".hu"
@@ -5607,6 +5985,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg"
     },
+    "area": 176215,
     "borders": [
       "ARG",
       "BRA"
@@ -5627,6 +6006,7 @@
       "es"
     ],
     "population": 3500000,
+    "populationPerSquareKm": 20,
     "region": "005",
     "tld": [
       ".uy"
@@ -5636,6 +6016,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Uzbekistan_anthem.ogg"
     },
+    "area": 447400,
     "borders": [
       "AFG",
       "KAZ",
@@ -5659,6 +6040,7 @@
       "ru"
     ],
     "population": 32600000,
+    "populationPerSquareKm": 73,
     "region": "143",
     "tld": [
       ".uz"
@@ -5668,6 +6050,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/United_States_Navy_Band_-_Yumi%2C_Yumi%2C_Yumi.ogg"
     },
+    "area": 12189,
     "borders": [
     ],
     "continent": "OC",
@@ -5687,6 +6070,7 @@
       "fr"
     ],
     "population": 300000,
+    "populationPerSquareKm": 25,
     "region": "054",
     "tld": [
       ".vu"
@@ -5696,6 +6080,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg"
     },
+    "area": 0.44,
     "borders": [
       "ITA"
     ],
@@ -5712,6 +6097,7 @@
     "languages": [
     ],
     "population": 829,
+    "populationPerSquareKm": 1884,
     "region": "039",
     "tld": [
       ".va"
@@ -5721,6 +6107,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/United_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg"
     },
+    "area": 912050,
     "borders": [
       "BRA",
       "COL",
@@ -5741,6 +6128,7 @@
       "es"
     ],
     "population": 31400000,
+    "populationPerSquareKm": 34,
     "region": "005",
     "tld": [
       ".ve"
@@ -5750,6 +6138,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%22Ishy_Bilady%22_performed_by_the_United_States_Navy_Band.oga"
     },
+    "area": 83600,
     "borders": [
       "OMN",
       "SAU"
@@ -5769,6 +6158,7 @@
       "ar"
     ],
     "population": 9400000,
+    "populationPerSquareKm": 112,
     "region": "145",
     "tld": [
       ".ae"
@@ -5778,6 +6168,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrumental.ogg"
     },
+    "area": 9826675,
     "borders": [
       "CAN",
       "MEX"
@@ -5799,6 +6190,7 @@
       "en"
     ],
     "population": 325400000,
+    "populationPerSquareKm": 33,
     "region": "021",
     "tld": [
       ".us"
@@ -5808,6 +6200,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
     },
+    "area": 243610,
     "borders": [
       "IRL"
     ],
@@ -5825,6 +6218,7 @@
       "en"
     ],
     "population": 66200000,
+    "populationPerSquareKm": 272,
     "region": "154",
     "tld": [
       ".uk"
@@ -5834,6 +6228,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/United_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg"
     },
+    "area": 331210,
     "borders": [
       "KHM",
       "CHN",
@@ -5854,6 +6249,7 @@
       "vi"
     ],
     "population": 93700000,
+    "populationPerSquareKm": 283,
     "region": "035",
     "tld": [
       ".vn"
@@ -5864,6 +6260,7 @@
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/My_Belarusy.ogg",
       "vocalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/My_Belarusy_vocal.ogg"
     },
+    "area": 207600,
     "borders": [
       "LVA",
       "LTU",
@@ -5887,6 +6284,7 @@
       "ru"
     ],
     "population": 9500000,
+    "populationPerSquareKm": 46,
     "region": "151",
     "tld": [
       ".by"
@@ -5896,6 +6294,7 @@
     "anthem": {
       "url": "http://www.nationalanthems.info/eh.mp3"
     },
+    "area": 266000,
     "borders": [
       "DZA",
       "MRT",
@@ -5918,6 +6317,7 @@
       "es"
     ],
     "population": 600000,
+    "populationPerSquareKm": 2,
     "region": "015",
     "tld": [
       ".eh"
@@ -5927,6 +6327,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/La_Renaissance.ogg"
     },
+    "area": 622984,
     "borders": [
       "CMR",
       "TCD",
@@ -5951,6 +6352,7 @@
       "sg"
     ],
     "population": 4700000,
+    "populationPerSquareKm": 8,
     "region": "017",
     "tld": [
       ".cf"
@@ -5960,6 +6362,7 @@
     "anthem": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga"
     },
+    "area": 9251,
     "borders": [
       "GBR"
     ],
@@ -5980,6 +6383,7 @@
       "hy"
     ],
     "population": 1200000,
+    "populationPerSquareKm": 130,
     "region": "145",
     "tld": [
       ".cy"

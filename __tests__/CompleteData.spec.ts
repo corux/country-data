@@ -20,21 +20,16 @@ describe("Complete Data", () => {
     });
 
     countryData.getCountries().forEach((country) => {
-      test(`Country contains SVG flag (${country.iso3})`, () => {
+      test(`Country contains all required data (${country.iso3})`, () => {
         expect(country.flag.svgUrl).toBeTruthy();
-      });
-
-      test(`Country contains anthem url (${country.iso3})`, () => {
         expect(country.anthem.url).toBeTruthy();
-      });
+        expect(country.region).toBeTruthy();
+        expect(country.area).toBeTruthy();
+        expect(country.population).toBeTruthy();
+        expect(country.populationPerSquareKm).toBeTruthy();
 
-      test(`Country contains valid continent (${country.iso3})`, () => {
         expect(country.continent).toBeTruthy();
         expect(Object.values(ContinentCode).includes(country.continent.code)).toBeTruthy();
-      });
-
-      test(`Country contains valid region (${country.iso3})`, () => {
-        expect(country.region).toBeTruthy();
       });
     });
   });

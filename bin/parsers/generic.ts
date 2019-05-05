@@ -128,8 +128,8 @@ export async function generic(): Promise<any> {
       return text.text().split("\n")[0].replace(/\[.*\]/, "");
     };
     const toNumber = (value) => {
-      value = value.replace(/\./g, "");
-      return parseInt(value, 10);
+      value = value.replace(/\./g, "").replace(/\,/g, ".");
+      return parseFloat(value);
     };
     const getFlag = (size) => "https:" + $(elem).children().eq(6)
       .find("img").attr("src").replace(/\/[0-9]*px-/, "/" + size + "px-");
@@ -137,6 +137,7 @@ export async function generic(): Promise<any> {
       .find("img").attr("src").replace("/thumb/", "/").replace(/\/[^\/]*$/, "");
     const countryData = {
       anthem: {},
+      area: toNumber(get(4)),
       flag: {
         largeImageUrl: getFlag(1200),
         smallImageUrl: getFlag(720),
@@ -145,11 +146,10 @@ export async function generic(): Promise<any> {
       iso2: /^[a-zA-Z]{2}$/.test(get(8)) ? get(8) : undefined,
       iso3: /^[a-zA-Z]{3}$/.test(get(7)) ? get(7) : undefined,
       population: toNumber(get(3)),
-      // area: toNumber(get(4)),
-      // populationPerSquareKm: toNumber(get(5)),
+      populationPerSquareKm: toNumber(get(5)),
     };
     return countryData;
-  }).get() as any;
+  }).get();
 
   // Get region codes
   $ = cheerio.load((await Axios.get("https://unstats.un.org/unsd/methodology/m49/")).data);

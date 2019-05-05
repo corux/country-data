@@ -7,7 +7,10 @@ export interface ICountry {
   longName?: string;
   altNames: string[];
   capital?: string;
-  population?: number;
+  /** The area in square km. */
+  area: number;
+  population: number;
+  populationPerSquareKm: number;
   tld: string[];
   flag: {
     svgUrl: string,

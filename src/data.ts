@@ -14,7 +14,9 @@ export interface IData {
 }
 
 export interface IDataGeneric {
-  population?: number;
+  area: number;
+  population: number;
+  populationPerSquareKm: number;
   flag: {
     svgUrl: string,
     smallImageUrl: string,
