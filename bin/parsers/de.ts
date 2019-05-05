@@ -2,37 +2,33 @@ import Axios from "axios";
 import * as cheerio from "cheerio";
 
 function fixCountryName(name: string): string {
-  const fixedNames = {
+  const mapping = {
     "Kongo, Demokratische Republik": "Demokratische Republik Kongo",
     "Kongo, Republik": "Republik Kongo",
     "Korea, Nord": "Nordkorea",
     "Korea, Süd": "Südkorea",
     "Osttimor / Timor-Leste": "Osttimor",
   };
-  return fixedNames[name] || name.replace(/[\u00AD]+/g, "").replace(/^–$/, "") || undefined;
+  return mapping[name] || name.replace(/[\u00AD]+/g, "").replace(/^–$/, "");
 }
 
 function getAlternativeNames(name: string): string {
   const altNames = {
-    Myanmar: ["Burma"],
-    Swaziland: ["Eswatini"],
-    Vatikanstadt: ["Vatikan"],
-  };
-  const altNamesI18n = {
     "Demokratische Republik Kongo": ["Kongo"],
+    "Myanmar": ["Burma"],
     "Niederlande": ["Holland"],
     "Nordmazedonien": ["Mazedonien"],
     "Osttimor": ["Timor-Leste"],
     "Republik China": ["Taiwan"],
     "Sudan": ["Nordsudan"],
+    "Swaziland": ["Eswatini"],
     "Tschechien": ["Tschechei"],
+    "Vatikanstadt": ["Vatikan"],
     "Vereinigte Staaten": ["USA"],
     "Vereinigtes Königreich": ["England", "Großbritannien"],
     "Volksrepublik China": ["China"],
   };
-  const result = (altNames[name] || []).concat((altNamesI18n || {})[name])
-    .filter((n) => !!n);
-  return result.length ? result : undefined;
+  return altNames[name];
 }
 
 function fixCapitalName(name: string): string {
@@ -47,27 +43,16 @@ async function countries(): Promise<any> {
   // parse wikipedia country data
   let $ = cheerio.load((await Axios.get("https://de.wikipedia.org/wiki/Liste_der_Staaten_der_Erde")).data);
   const data = {};
-  $(".wikitable tbody tr:not([class])").map((i, elem) => {
+  $(".wikitable tbody tr:not([class])").each((i, elem) => {
     const get = (position) => {
       const text = $(elem).children().eq(position);
       text.find("br").replaceWith("\n");
       return text.text().split("\n")[0].replace(/\[.*\]/, "");
     };
-    const getAdjectives = (iso3: string) => {
-      const mapping = {
-        BIH: ["bosnisch", "herzegowinisch"],
-        CHE: ["schweizer"],
-        GBR: ["englisch", "großbritannisch"],
-        MKD: ["mazedonisch"],
-        NLD: ["holländisch"],
-      };
-      return mapping[iso3] || undefined;
-    };
     const iso = get(7);
     if (iso) {
       const name = fixCountryName(get(0));
       data[iso] = {
-        adjectives: getAdjectives(iso),
         altNames: getAlternativeNames(name),
         capital: fixCapitalName(get(2)),
         longName: fixCountryName(get(1)),
@@ -160,7 +145,7 @@ async function countries(): Promise<any> {
 
   anthemData.forEach((anthem) => {
     const country: any = Object.values(data)
-      .find((n: any) => [n.name, n.longName].concat(n.altNames).indexOf(anthem.name) !== -1);
+      .find((n: any) => [n.name, n.longName].concat(n.altNames).includes(anthem.name));
     if (country) {
       country.anthemName = anthem.anthemName;
       country.anthemUrl = anthem.url;

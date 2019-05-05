@@ -2,37 +2,6 @@ import Axios from "axios";
 import * as cheerio from "cheerio";
 import { getFromCountryJs } from ".";
 
-function fixCountryName(name: string): string {
-  const fixedNames = {
-    "Federated States of Micronesia": "Micronesia",
-    "Kongo, Demokratische Republik": "Demokratische Republik Kongo",
-    "Kongo, Republik": "Republik Kongo",
-    "Korea, Nord": "Nordkorea",
-    "Korea, Süd": "Südkorea",
-    "Macedonia": "North Macedonia",
-    "Macédoine": "Macédoine du Nord",
-    "Osttimor / Timor-Leste": "Osttimor",
-    "Republic of Macedonia": "Macedonia",
-  };
-  return fixedNames[name] || name.replace(/[\u00AD]+/g, "").replace(/^–$/, "") || undefined;
-}
-
-function getAlternativeNames(name: string): string {
-  const altNames = {
-    "Myanmar": ["Burma"],
-    "North Macedonia": ["Macedonia"],
-    "Sudan": ["North Sudan"],
-    "Swaziland": ["Eswatini"],
-    "United Kingdom": ["Britain", "Great Britain", "England"],
-    "Vatikanstadt": ["Vatikan"],
-  };
-  return altNames[name];
-}
-
-function fixCapitalName(name: string): string {
-  return name.match(/^([^(]*)/)[1].trim();
-}
-
 async function countries(isoCodes: string[]): Promise<any> {
   let $ = cheerio.load((await Axios.get("https://en.wikipedia.org/wiki/List_of_national_anthems")).data);
   const anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
@@ -143,13 +112,19 @@ async function countries(isoCodes: string[]): Promise<any> {
     .forEach((val) => {
       const mapping = {
         "Federated States of Micronesia": "Micronesia",
-        "Macedonia": "North Macedonia",
+        "Republic of Macedonia": "North Macedonia",
       };
-      const name = fixCountryName(val.name);
-      const mappedName = mapping[name] || name;
+      const altNames = {
+        "Myanmar": ["Burma"],
+        "North Macedonia": ["Macedonia"],
+        "Sudan": ["North Sudan"],
+        "Swaziland": ["Eswatini"],
+        "United Kingdom": ["Britain", "Great Britain", "England"],
+      };
+      const mappedName = mapping[val.name] || val.name;
       const country: any = data[val.ISO.alpha3] = {
-        altNames: getAlternativeNames(mappedName),
-        capital: fixCapitalName(val.capital),
+        altNames: altNames[mappedName],
+        capital: val.capital,
         longName: nameData.find((n) => n.name === mappedName).longName,
         name: mappedName,
       };
