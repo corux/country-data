@@ -586,7 +586,13 @@
     "GBR": {
       "adjectives": [
         "British",
+        "English",
         "UK"
+      ],
+      "altNames": [
+        "Britain",
+        "England",
+        "Great Britain"
       ],
       "anthemName": "God Save the Queen",
       "capital": "London",

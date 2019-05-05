@@ -19,17 +19,14 @@ function fixCountryName(name: string): string {
 
 function getAlternativeNames(name: string): string {
   const altNames = {
-    Myanmar: ["Burma"],
-    Swaziland: ["Eswatini"],
-    Vatikanstadt: ["Vatikan"],
-  };
-  const altNamesI18n = {
+    "Myanmar": ["Burma"],
     "North Macedonia": ["Macedonia"],
     "Sudan": ["North Sudan"],
+    "Swaziland": ["Eswatini"],
+    "United Kingdom": ["Britain", "Great Britain", "England"],
+    "Vatikanstadt": ["Vatikan"],
   };
-  const result = (altNames[name] || []).concat((altNamesI18n)[name])
-    .filter((n) => !!n);
-  return result.length ? result : undefined;
+  return altNames[name];
 }
 
 function fixCapitalName(name: string): string {
@@ -105,6 +102,7 @@ async function countries(isoCodes: string[]): Promise<any> {
       const foundAdjectives = get(1).split(sep).map((n) => n.trim()).filter((n) => !!n);
       const mapping = {
         "Republic of the Congo": ["Congolese"],
+        "United Kingdom": ["English"],
       };
       return (mapping[getName()] || []).concat(foundAdjectives || []);
     };
