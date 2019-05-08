@@ -70,7 +70,7 @@ export async function portugese(isoCodes: string[]): Promise<any> {
       return mapping[text] || text;
     };
     const getAnthemName = () => {
-      const match = get(1).match(/\"?(?:[^\(]*)\"?(?:\(\"([^\"]*)\"?\))?/);
+      const match = get(1).match(/"?([^\(^"]*)"?\("([^"]*)"?\)?/);
       if (!match) {
         return undefined;
       }
