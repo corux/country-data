@@ -60,7 +60,13 @@ export async function italian(isoCodes: string[]): Promise<any> {
       anthemName: getAnthemName(),
       name,
     };
-  }).get();
+  }).get().concat([ {
+    anthemName: "Dio onnipotente",
+    name: "Isole Cook",
+  }, {
+    anthemName: "Il Signore del Cielo",
+    name: "Niue",
+  }]);
 
   $ = cheerio.load((await Axios.get("https://it.wikipedia.org/wiki/Lista_di_etnici_nazionali")).data);
   const adjectiveData = $("ul li").map((i, elem) => {
