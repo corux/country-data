@@ -37,7 +37,13 @@ async function countries(isoCodes: string[]): Promise<any> {
       name: getName(),
       url: getAudio(),
     };
-  }).get();
+  }).get().concat([{
+    anthemName: "God is Truth",
+    name: "Cook Islands",
+  }, {
+    anthemName: "The Lord in Heaven",
+    name: "Niue",
+  }]);
 
   $ = cheerio.load((await Axios
     .get("https://en.wikipedia.org/wiki/List_of_adjectival_and_demonymic_forms_for_countries_and_nations")).data);
