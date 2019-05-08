@@ -358,6 +358,7 @@
       "name": "Republik Kongo"
     },
     "COK": {
+      "anthemName": "An den allmächtigen Gott",
       "capital": "Avarua",
       "longName": "Cookinseln",
       "name": "Cookinseln"
@@ -1211,6 +1212,7 @@
       "adjectives": [
         "niueanisch"
       ],
+      "anthemName": "Der Gott im Himmel",
       "capital": "Alofi",
       "longName": "Niue",
       "name": "Niue"
@@ -1365,6 +1367,7 @@
       "name": "Paraguay"
     },
     "PSE": {
+      "anthemName": "Mein Land",
       "capital": "Ostjerusalem",
       "longName": "Staat Palästina",
       "name": "Palästina"
@@ -1489,6 +1492,7 @@
       "name": "Somalia"
     },
     "SOS": {
+      "anthemName": "Hymne der Republik Südossetien",
       "capital": "Zchinwali",
       "longName": "Südossetien",
       "name": "Südossetien"

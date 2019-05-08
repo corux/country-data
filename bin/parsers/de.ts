@@ -101,7 +101,13 @@ async function countries(): Promise<any> {
 
   // amend with anthem information
   $ = cheerio.load((await Axios.get("https://de.wikipedia.org/wiki/Liste_der_Nationalhymnen")).data);
-  const anthemData = $(".wikitable").first().find("tbody tr:not(:first-child)").map((i, elem) => {
+  const anthemData = $(".wikitable tbody tr").map((i, elem) => {
+    let columnHeader = $(elem).closest("table").find("th").map((n, m) => $(m).text().trim()).get();
+    columnHeader = columnHeader.slice(columnHeader.length - $(elem).children().length);
+    const titleColumn = columnHeader.indexOf("Hymne");
+    const germanTitleColumn = columnHeader.indexOf("Titel auf Deutsch");
+    const countryColumn = titleColumn - 1;
+
     const get = (position) => {
       let text = $(elem).children().eq(position).text();
       text = text.split("\n")[0];
@@ -109,39 +115,23 @@ async function countries(): Promise<any> {
       return text;
     };
     const getName = () => {
-      const text = $(elem).children().eq(0).children("a").text().replace(/\s/, " ");
-      return text;
+      const text = $(elem).children().eq(countryColumn).children("a").text().replace(/\s/, " ");
+      const mapping = {
+        "Kokosinseln": "Cookinseln",
+        "Palästinensische Autonomiegebiete": "Palästina",
+      };
+      return mapping[text] || text;
     };
     const getAudio = () => {
       const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
       return src ? `https:${src}` : undefined;
     };
     return {
-      anthemName: get(2) || get(1),
+      anthemName: get(germanTitleColumn) || get(titleColumn),
       name: getName(),
       url: getAudio(),
     };
-  }).get().concat($(".wikitable").eq(2).find("tbody tr:not(:first-child)").map((i, elem) => {
-    const get = (position) => {
-      let text = $(elem).children().eq(position).text();
-      text = text.split("\n")[0];
-      text = text.replace(/\[.*\]/, "");
-      return text;
-    };
-    const getName = () => {
-      const text = $(elem).children().eq(1).children("a").text().replace(/\s/, " ");
-      return text;
-    };
-    const getAudio = () => {
-      const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
-      return src ? `https:${src}` : undefined;
-    };
-    return {
-      anthemName: get(3) || get(2),
-      name: getName(),
-      url: getAudio(),
-    };
-  }).get());
+  }).get();
 
   anthemData.forEach((anthem) => {
     const country: any = Object.values(data)
