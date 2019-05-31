@@ -15,6 +15,7 @@ async function countries(isoCodes: string[]): Promise<any> {
       const text = $(elem).children().eq(0).children("a").first().text();
       const mapping = {
         "Bahamas": "The Bahamas",
+        "Eswatini": "Swaziland",
         "People's Republic of China": "China",
         "Republic of China": "Taiwan",
       };
