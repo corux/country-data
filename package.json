@@ -18,7 +18,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "24.0.13",
-    "axios": "0.18.0",
+    "axios": "0.19.0",
     "cheerio": "1.0.0-rc.3",
     "commander": "2.20.0",
     "countryjs": "1.8.0",
