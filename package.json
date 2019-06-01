@@ -7,8 +7,9 @@
   "scripts": {
     "generate-data": "ts-node bin/generate-data.ts --destination src/data/",
     "pretest": "npm-run-all --parallel build lint",
-    "test": "jest",
+    "test": "jest --coverage",
     "test:watch": "jest --watch",
+    "posttest": "cat ./coverage/lcov.info | codacy-coverage",
     "lint": "tslint --project tsconfig.json",
     "lint:fix": "npm run lint -- --fix",
     "build": "tsc && cp -a ./src/data dist/",
@@ -16,10 +17,15 @@
   },
   "author": "corux",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/corux/country-data.git"
+  },
   "devDependencies": {
     "@types/jest": "24.0.13",
     "axios": "0.19.0",
     "cheerio": "1.0.0-rc.3",
+    "codacy-coverage": "3.4.0",
     "commander": "2.20.0",
     "countryjs": "1.8.0",
     "jest": "24.8.0",
