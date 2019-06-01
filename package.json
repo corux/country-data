@@ -12,14 +12,16 @@
     "posttest": "cat ./coverage/lcov.info | codacy-coverage",
     "lint": "tslint --project tsconfig.json",
     "lint:fix": "npm run lint -- --fix",
-    "build": "tsc && cp -a ./src/data dist/",
-    "deploy": "npm publish --access=public"
+    "build": "tsc && cp -a ./src/data dist/"
   },
   "author": "corux",
   "license": "ISC",
   "repository": {
     "type": "git",
     "url": "https://github.com/corux/country-data.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "devDependencies": {
     "@types/jest": "24.0.13",
