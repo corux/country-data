@@ -93,6 +93,7 @@ export class CountryData {
         vocalUrl: combined.anthem.vocalUrl,
       },
       area: combined.area,
+      article: combined.article,
       borders: combined.borders,
       capital: combined.capital,
       continent: this.continents.find((continent) => continent.code === combined.continent),

@@ -43,6 +43,7 @@ export interface IDataLocaleCountry {
   capital?: string;
   adjectives?: string[];
   anthemName?: string;
+  article?: string;
 }
 
 export interface IDataLocale {

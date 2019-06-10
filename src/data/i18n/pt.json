@@ -17,6 +17,7 @@
         "abecásio",
         "abecázio"
       ],
+      "article": "a",
       "longName": "República da Abecásia",
       "name": "Abecásia"
     },
@@ -28,6 +29,7 @@
         "afegão"
       ],
       "anthemName": "Hino Nacional",
+      "article": "o",
       "name": "Afeganistão"
     },
     "AGO": {
@@ -36,6 +38,7 @@
         "angolense",
         "angolês"
       ],
+      "article": "a",
       "name": "Angola"
     },
     "ALB": {
@@ -46,6 +49,7 @@
         "albano"
       ],
       "anthemName": "Hino à Bandeira",
+      "article": "a",
       "name": "Albânia"
     },
     "AND": {
@@ -56,6 +60,7 @@
         "andorriano"
       ],
       "anthemName": "O Grande Carlos Magno",
+      "article": "a",
       "name": "Andorra"
     },
     "ARE": {
@@ -64,6 +69,7 @@
         "emiradense",
         "emirático"
       ],
+      "article": "o",
       "name": "Emirados Árabes Unidos"
     },
     "ARG": {
@@ -72,6 +78,7 @@
         "platino"
       ],
       "anthemName": "Hino Nacional Argentino",
+      "article": "a",
       "name": "Argentina"
     },
     "ARM": {
@@ -83,6 +90,7 @@
         "armênio"
       ],
       "anthemName": "Nossa Pátria",
+      "article": "a",
       "name": "Armênia"
     },
     "ATG": {
@@ -90,6 +98,7 @@
         "antiguano"
       ],
       "anthemName": "Boa Antígua, Nós te Saudamos",
+      "article": "a",
       "name": "Antígua e Barbuda"
     },
     "AUS": {
@@ -99,6 +108,7 @@
         "austrálio"
       ],
       "anthemName": "Avança Justa Austrália",
+      "article": "a",
       "name": "Austrália"
     },
     "AUT": {
@@ -106,6 +116,7 @@
         "austríaco"
       ],
       "anthemName": "Terra de Montanhas, Terra no Rio",
+      "article": "a",
       "name": "Áustria"
     },
     "AZE": {
@@ -117,6 +128,7 @@
         "azeri"
       ],
       "anthemName": "Hino do Azerbaijão",
+      "article": "o",
       "name": "Azerbaijão"
     },
     "BDI": {
@@ -127,6 +139,7 @@
         "burúndio"
       ],
       "anthemName": "Nosso Burundi",
+      "article": "o",
       "name": "Burundi"
     },
     "BEL": {
@@ -135,6 +148,7 @@
         "bélgico"
       ],
       "anthemName": "Canção de Brabante",
+      "article": "a",
       "name": "Bélgica"
     },
     "BEN": {
@@ -143,6 +157,7 @@
         "beninês"
       ],
       "anthemName": "A Nova Aurora",
+      "article": "o",
       "name": "Benim"
     },
     "BFA": {
@@ -154,6 +169,7 @@
         "burquino"
       ],
       "anthemName": "Uma só Noite",
+      "article": "o",
       "name": "Burkina Faso"
     },
     "BGD": {
@@ -171,6 +187,7 @@
         "bengalim"
       ],
       "anthemName": "Meu Bengala Dourado",
+      "article": "o",
       "name": "Bangladesh"
     },
     "BGR": {
@@ -179,6 +196,7 @@
         "búlgaro"
       ],
       "anthemName": "Querida Pátria",
+      "article": "a",
       "name": "Bulgária"
     },
     "BHR": {
@@ -191,6 +209,7 @@
         "barenita"
       ],
       "anthemName": "Nosso Bahrain",
+      "article": "o",
       "name": "Bahrein"
     },
     "BHS": {
@@ -202,6 +221,7 @@
         "bahamiano"
       ],
       "anthemName": "Marcha, Terra das Bahamas",
+      "article": "o",
       "name": "Bahamas"
     },
     "BIH": {
@@ -213,6 +233,7 @@
         "bósnio"
       ],
       "anthemName": "Hino Nacional da Bósnia e Herzegovina",
+      "article": "a",
       "name": "Bósnia e Herzegovina"
     },
     "BLR": {
@@ -223,6 +244,7 @@
         "russo-branco"
       ],
       "anthemName": "Nós, os Bielorrussos",
+      "article": "a",
       "name": "Bielorrússia"
     },
     "BLZ": {
@@ -231,6 +253,7 @@
         "belizense"
       ],
       "anthemName": "Terra dos Livres",
+      "article": "o",
       "name": "Belize"
     },
     "BOL": {
@@ -238,6 +261,7 @@
         "boliviano"
       ],
       "anthemName": "Hino Nacional da República da Bolívia",
+      "article": "a",
       "name": "Bolívia"
     },
     "BRA": {
@@ -251,6 +275,7 @@
         "brasílio",
         "brasilista"
       ],
+      "article": "o",
       "name": "Brasil"
     },
     "BRB": {
@@ -259,6 +284,7 @@
         "barbadiano"
       ],
       "anthemName": "Na Abundância e na Necessidade",
+      "article": "o",
       "name": "Barbados"
     },
     "BRN": {
@@ -267,6 +293,7 @@
         "bruneíno"
       ],
       "anthemName": "Deus Abençoe o Sultão",
+      "article": "o",
       "name": "Brunei"
     },
     "BTN": {
@@ -278,6 +305,7 @@
         "butânico"
       ],
       "anthemName": "Reino do Dragão do Trovão",
+      "article": "o",
       "name": "Butão"
     },
     "BWA": {
@@ -296,6 +324,7 @@
         "Botsuana"
       ],
       "anthemName": "Abençoada Seja Esta Nobre Terra",
+      "article": "a",
       "name": "Botswana"
     },
     "CAF": {
@@ -304,6 +333,7 @@
         "centro-africano"
       ],
       "anthemName": "O Renascimento",
+      "article": "a",
       "name": "República Centro-Africana"
     },
     "CAN": {
@@ -313,6 +343,7 @@
         "canadiense"
       ],
       "anthemName": "Ó, Canadá",
+      "article": "o",
       "name": "Canadá"
     },
     "CHE": {
@@ -325,6 +356,7 @@
         "suíço"
       ],
       "anthemName": "Salmo Suíço",
+      "article": "a",
       "name": "Suíça"
     },
     "CHL": {
@@ -332,6 +364,7 @@
         "chileno"
       ],
       "anthemName": "Hino Nacional do Chile",
+      "article": "o",
       "name": "Chile"
     },
     "CHN": {
@@ -345,6 +378,7 @@
         "sino"
       ],
       "anthemName": "Marcha dos Voluntários",
+      "article": "a",
       "name": "China"
     },
     "CIV": {
@@ -356,6 +390,7 @@
         "marfiniano"
       ],
       "anthemName": "Canção de Abidjan",
+      "article": "o",
       "name": "Costa do Marfim"
     },
     "CMR": {
@@ -367,6 +402,7 @@
         "cameruniano"
       ],
       "anthemName": "Canto de Reunião",
+      "article": "o",
       "name": "Camarões"
     },
     "COD": {
@@ -381,6 +417,7 @@
         "Congo-Kinshasa"
       ],
       "anthemName": "Levantai-vos Congoleses",
+      "article": "o",
       "name": "República Democrática do Congo"
     },
     "COG": {
@@ -395,12 +432,14 @@
         "Congo-Brazzaville"
       ],
       "anthemName": "A Congolesa",
+      "article": "o",
       "name": "República do Congo"
     },
     "COK": {
       "adjectives": [
         "cookense"
       ],
+      "article": "o",
       "name": "Ilhas Cook"
     },
     "COL": {
@@ -410,6 +449,7 @@
         "colombo"
       ],
       "anthemName": "Hino Nacional da República da Colômbia",
+      "article": "a",
       "name": "Colômbia"
     },
     "COM": {
@@ -418,6 +458,7 @@
         "comoriano"
       ],
       "anthemName": "União das Grandes Ilhas",
+      "article": "o",
       "name": "Comores"
     },
     "CPV": {
@@ -426,6 +467,7 @@
         "cabo-verdense",
         "cabo-verdiano"
       ],
+      "article": "o",
       "name": "Cabo Verde"
     },
     "CRI": {
@@ -438,6 +480,7 @@
         "costarriquense"
       ],
       "anthemName": "Hino Nacional da Costa Rica",
+      "article": "a",
       "name": "Costa Rica"
     },
     "CUB": {
@@ -445,6 +488,7 @@
         "cubano"
       ],
       "anthemName": "Hino de Bayamo",
+      "article": "a",
       "name": "Cuba"
     },
     "CYP": {
@@ -458,6 +502,7 @@
         "cipriota"
       ],
       "anthemName": "Hymn to Liberty",
+      "article": "o",
       "name": "Chipre"
     },
     "CZE": {
@@ -466,6 +511,7 @@
         "tcheco"
       ],
       "anthemName": "Onde é a Minha Casa?",
+      "article": "a",
       "name": "República Checa"
     },
     "DEU": {
@@ -484,6 +530,7 @@
         "tudesco"
       ],
       "anthemName": "Canção da Alemanha",
+      "article": "a",
       "name": "Alemanha"
     },
     "DJI": {
@@ -493,6 +540,7 @@
         "jibutiano",
         "jibutiense"
       ],
+      "article": "o",
       "name": "Djibouti"
     },
     "DMA": {
@@ -501,6 +549,7 @@
         "dominiquês"
       ],
       "anthemName": "Ilha de Beleza, Ilha de Esplendor",
+      "article": "a",
       "name": "Dominica"
     },
     "DNK": {
@@ -511,6 +560,7 @@
         "dinamarquês"
       ],
       "anthemName": "There is a Lovely Country",
+      "article": "a",
       "name": "Dinamarca"
     },
     "DOM": {
@@ -519,6 +569,7 @@
         "domínico"
       ],
       "anthemName": "Hino Nacional",
+      "article": "a",
       "name": "República Dominicana"
     },
     "DZA": {
@@ -529,6 +580,7 @@
         "argelino"
       ],
       "anthemName": "Juramento",
+      "article": "a",
       "name": "Argélia"
     },
     "ECU": {
@@ -536,6 +588,7 @@
         "equatoriano"
       ],
       "anthemName": "We Salute You, Our Homeland",
+      "article": "o",
       "name": "Equador"
     },
     "EGY": {
@@ -550,6 +603,7 @@
         "egiptino"
       ],
       "anthemName": "Meu País, Meu País, Meu País",
+      "article": "o",
       "name": "Egito"
     },
     "ERI": {
@@ -557,6 +611,7 @@
         "eritreu"
       ],
       "anthemName": "Eritreia, Eritreia, Eritreia",
+      "article": "a",
       "name": "Eritreia"
     },
     "ESH": {
@@ -573,6 +628,7 @@
         "sariano",
         "sárico"
       ],
+      "article": "o",
       "name": "Saara Ocidental"
     },
     "ESP": {
@@ -583,6 +639,7 @@
         "hispano"
       ],
       "anthemName": "Marcha Real",
+      "article": "a",
       "name": "Espanha"
     },
     "EST": {
@@ -594,6 +651,7 @@
         "estônio"
       ],
       "anthemName": "Minha Pátria, Minha Felicidade e Alegria",
+      "article": "a",
       "name": "Estónia"
     },
     "ETH": {
@@ -605,6 +663,7 @@
         "etiópio"
       ],
       "anthemName": "Marcha em Frente, Querida Mãe Etiópia",
+      "article": "a",
       "name": "Etiópia"
     },
     "FIN": {
@@ -616,6 +675,7 @@
         "fino"
       ],
       "anthemName": "Nossa Terra",
+      "article": "a",
       "name": "Finlândia"
     },
     "FJI": {
@@ -624,6 +684,7 @@
         "fijiano"
       ],
       "anthemName": "Deus Abençoe Fiji",
+      "article": "o",
       "name": "Fiji"
     },
     "FRA": {
@@ -639,6 +700,7 @@
         "gaulo"
       ],
       "anthemName": "A Marselhesa",
+      "article": "a",
       "name": "França"
     },
     "FSM": {
@@ -646,6 +708,7 @@
         "micronésio"
       ],
       "anthemName": "Patriotas da Micronésia",
+      "article": "a",
       "name": "Estados Federados da Micronésia"
     },
     "GAB": {
@@ -654,6 +717,7 @@
         "gabonês"
       ],
       "anthemName": "A Concórdia",
+      "article": "o",
       "name": "Gabão"
     },
     "GBR": {
@@ -664,6 +728,7 @@
         "britano"
       ],
       "anthemName": "Deus Salve a Rainha",
+      "article": "o",
       "name": "Reino Unido"
     },
     "GEO": {
@@ -676,6 +741,7 @@
         "grúzio"
       ],
       "anthemName": "Liberdade",
+      "article": "a",
       "name": "Geórgia"
     },
     "GHA": {
@@ -684,6 +750,7 @@
         "ganês"
       ],
       "anthemName": "Deus Abençoe Nossa Pátria, o Gana",
+      "article": "a",
       "name": "Gana"
     },
     "GIN": {
@@ -693,6 +760,7 @@
         "guinéu"
       ],
       "anthemName": "Liberdade",
+      "article": "o",
       "name": "Guiné"
     },
     "GMB": {
@@ -701,6 +769,7 @@
         "gambiense"
       ],
       "anthemName": "Pela Gâmbia Nossa Pátria",
+      "article": "a",
       "name": "Gâmbia"
     },
     "GNB": {
@@ -708,6 +777,7 @@
         "guineense",
         "guinéu"
       ],
+      "article": "o",
       "name": "Guiné-Bissau"
     },
     "GNQ": {
@@ -718,6 +788,7 @@
         "guinéu-equatoriano"
       ],
       "anthemName": "Caminhemos pela vereda",
+      "article": "o",
       "name": "Guiné Equatorial"
     },
     "GRC": {
@@ -734,6 +805,7 @@
         "romaico"
       ],
       "anthemName": "Hino à Liberdade",
+      "article": "a",
       "name": "Grécia"
     },
     "GRD": {
@@ -741,6 +813,7 @@
         "granadino"
       ],
       "anthemName": "Viva Granada",
+      "article": "a",
       "name": "Granada"
     },
     "GTM": {
@@ -750,6 +823,7 @@
         "guatemaltense"
       ],
       "anthemName": "Hino Nacional da Guatemala",
+      "article": "a",
       "name": "Guatemala"
     },
     "GUY": {
@@ -759,6 +833,7 @@
         "guiano"
       ],
       "anthemName": "Querida Terra da Guiana, de Rios e Planícies",
+      "article": "a",
       "name": "Guiana"
     },
     "HND": {
@@ -766,6 +841,7 @@
         "hondurenho"
       ],
       "anthemName": "Hino Nacional das Honduras",
+      "article": "o",
       "name": "Honduras"
     },
     "HRV": {
@@ -775,6 +851,7 @@
         "croata"
       ],
       "anthemName": "Nossa Bela Pátria",
+      "article": "a",
       "name": "Croácia"
     },
     "HTI": {
@@ -782,6 +859,7 @@
         "haitiano"
       ],
       "anthemName": "Canção de Dessalines",
+      "article": "o",
       "name": "Haiti"
     },
     "HUN": {
@@ -793,6 +871,7 @@
         "magiar"
       ],
       "anthemName": "Hino",
+      "article": "a",
       "name": "Hungria"
     },
     "IDN": {
@@ -800,6 +879,7 @@
         "indonésio"
       ],
       "anthemName": "Grande Indonésia",
+      "article": "a",
       "name": "Indonésia"
     },
     "IND": {
@@ -813,6 +893,7 @@
         "índio"
       ],
       "anthemName": "Coração do Povo",
+      "article": "a",
       "name": "Índia"
     },
     "IRL": {
@@ -825,6 +906,7 @@
         "irlandês"
       ],
       "anthemName": "Canção do Soldado",
+      "article": "a",
       "name": "Irlanda"
     },
     "IRN": {
@@ -834,6 +916,7 @@
         "irânio"
       ],
       "anthemName": "Hino Nacional do Irão",
+      "article": "o",
       "name": "Irão"
     },
     "IRQ": {
@@ -843,6 +926,7 @@
         "iraquiano"
       ],
       "anthemName": "My Homeland",
+      "article": "o",
       "name": "Iraque"
     },
     "ISL": {
@@ -852,6 +936,7 @@
         "islândico"
       ],
       "anthemName": "Hino",
+      "article": "a",
       "name": "Islândia"
     },
     "ISR": {
@@ -862,6 +947,7 @@
         "israelítico"
       ],
       "anthemName": "Esperança",
+      "article": "o",
       "name": "Israel"
     },
     "ITA": {
@@ -872,6 +958,7 @@
         "ítalo"
       ],
       "anthemName": "Canção dos Italianos",
+      "article": "a",
       "name": "Itália"
     },
     "JAM": {
@@ -880,6 +967,7 @@
         "jamaicense"
       ],
       "anthemName": "Jamaica, Terra que Amamos",
+      "article": "a",
       "name": "Jamaica"
     },
     "JOR": {
@@ -889,6 +977,7 @@
         "jordano"
       ],
       "anthemName": "Hino Real da Jordânia",
+      "article": "a",
       "name": "Jordânia"
     },
     "JPN": {
@@ -906,6 +995,7 @@
         "nipônico"
       ],
       "anthemName": "Que Teu Reino Dure Eternamente",
+      "article": "o",
       "name": "Japão"
     },
     "KAZ": {
@@ -917,12 +1007,14 @@
         "cazaquistanês"
       ],
       "anthemName": "Meu Cazaquistão",
+      "article": "o",
       "name": "Cazaquistão"
     },
     "KEN": {
       "adjectives": [
         "queniano"
       ],
+      "article": "a",
       "name": "Quénia"
     },
     "KGZ": {
@@ -933,6 +1025,7 @@
         "quirguizistanês"
       ],
       "anthemName": "Hino Nacional da República Quirguiz",
+      "article": "o",
       "name": "Quirguistão"
     },
     "KHM": {
@@ -943,6 +1036,7 @@
         "campucheano"
       ],
       "anthemName": "Reino",
+      "article": "a",
       "name": "Camboja"
     },
     "KIR": {
@@ -952,6 +1046,7 @@
         "quiribatiano"
       ],
       "anthemName": "Levanta-te, Kiribati",
+      "article": "o",
       "name": "Kiribati"
     },
     "KNA": {
@@ -959,6 +1054,7 @@
         "são-cristovense"
       ],
       "anthemName": "Oh Terra de Beleza!",
+      "article": "o",
       "name": "São Cristóvão e Névis"
     },
     "KOR": {
@@ -966,6 +1062,7 @@
         "sul-coreano"
       ],
       "anthemName": "Canção Patriótica",
+      "article": "o",
       "name": "Coreia do Sul"
     },
     "KWT": {
@@ -985,6 +1082,7 @@
         "quaitiano"
       ],
       "anthemName": "Hino Nacional",
+      "article": "o",
       "name": "Kuwait"
     },
     "LAO": {
@@ -996,6 +1094,7 @@
         "lausiano"
       ],
       "anthemName": "Hino Nacional do Laos",
+      "article": "o",
       "name": "Laos"
     },
     "LBN": {
@@ -1003,6 +1102,7 @@
         "libanês"
       ],
       "anthemName": "Somos Todos Nossa Nação, Pela Nossa Bandeira e Glória",
+      "article": "o",
       "name": "Líbano"
     },
     "LBR": {
@@ -1011,6 +1111,7 @@
         "libério"
       ],
       "anthemName": "Dêem Vivas, Libéria, Viva",
+      "article": "a",
       "name": "Libéria"
     },
     "LBY": {
@@ -1018,6 +1119,7 @@
         "líbico",
         "líbio"
       ],
+      "article": "a",
       "name": "Líbia"
     },
     "LCA": {
@@ -1026,6 +1128,7 @@
         "santa-luciense"
       ],
       "anthemName": "Filhos e Filhas de Santa Lúcia",
+      "article": "a",
       "name": "Santa Lúcia"
     },
     "LIE": {
@@ -1041,6 +1144,7 @@
         "listenstaino"
       ],
       "anthemName": "Sobre o Jovem Reno",
+      "article": "o",
       "name": "Liechtenstein"
     },
     "LKA": {
@@ -1057,6 +1161,7 @@
         "srilankesa"
       ],
       "anthemName": "Mother Sri Lanka",
+      "article": "a",
       "name": "Sri Lanka"
     },
     "LSO": {
@@ -1066,6 +1171,7 @@
         "lesoto"
       ],
       "anthemName": "Lesoto, Terra de Nossos Pais",
+      "article": "o",
       "name": "Lesoto"
     },
     "LTU": {
@@ -1075,6 +1181,7 @@
         "lituano"
       ],
       "anthemName": "Canção Nacional",
+      "article": "a",
       "name": "Lituânia"
     },
     "LUX": {
@@ -1082,6 +1189,7 @@
         "luxemburguês"
       ],
       "anthemName": "Nossa Pátria",
+      "article": "o",
       "name": "Luxemburgo"
     },
     "LVA": {
@@ -1093,6 +1201,7 @@
         "letónio",
         "letônio"
       ],
+      "article": "a",
       "name": "Letónia"
     },
     "MAR": {
@@ -1100,6 +1209,7 @@
         "marroquino"
       ],
       "anthemName": "Hino ao Sharif",
+      "article": "o",
       "name": "Marrocos"
     },
     "MCO": {
@@ -1108,6 +1218,7 @@
         "monegasco"
       ],
       "anthemName": "Hino Monegasco",
+      "article": "o",
       "name": "Mónaco"
     },
     "MDA": {
@@ -1117,6 +1228,7 @@
         "moldavo"
       ],
       "anthemName": "Nossa Língua",
+      "article": "a",
       "name": "Moldávia"
     },
     "MDG": {
@@ -1126,6 +1238,7 @@
         "malgaxo"
       ],
       "anthemName": "Ó Nossa Pátria Amada!",
+      "article": "o",
       "name": "Madagáscar"
     },
     "MDV": {
@@ -1137,6 +1250,7 @@
         "maldivo"
       ],
       "anthemName": "Saudação Nacional",
+      "article": "o",
       "name": "Maldivas"
     },
     "MEX": {
@@ -1144,6 +1258,7 @@
         "mexicano"
       ],
       "anthemName": "Hino Nacional Mexicano",
+      "article": "o",
       "name": "México"
     },
     "MHL": {
@@ -1154,6 +1269,7 @@
         "marshallino"
       ],
       "anthemName": "Para Sempre Ilhas Marshall",
+      "article": "o",
       "name": "Ilhas Marshall"
     },
     "MKD": {
@@ -1165,6 +1281,7 @@
         "macedónio",
         "macedônio"
       ],
+      "article": "o",
       "name": "Macedónia do Norte"
     },
     "MLI": {
@@ -1174,6 +1291,7 @@
         "malinês"
       ],
       "anthemName": "Pela África e por Ti, Mali",
+      "article": "o",
       "name": "Mali"
     },
     "MLT": {
@@ -1181,6 +1299,7 @@
         "maltês"
       ],
       "anthemName": "Hino Maltês",
+      "article": "a",
       "name": "Malta"
     },
     "MMR": {
@@ -1198,6 +1317,7 @@
         "mianmarense"
       ],
       "anthemName": "Till the End of the World, Burma",
+      "article": "o",
       "name": "Mianmar"
     },
     "MNE": {
@@ -1205,6 +1325,7 @@
         "montenegrino"
       ],
       "anthemName": "Oh, Brilhante Aurora de Maio",
+      "article": "o",
       "name": "Montenegro"
     },
     "MNG": {
@@ -1218,6 +1339,7 @@
         "mongolita"
       ],
       "anthemName": "Hino Nacional da Mongólia",
+      "article": "a",
       "name": "Mongólia"
     },
     "MOZ": {
@@ -1227,6 +1349,7 @@
         "moçambiquenho",
         "moçambiquense"
       ],
+      "article": "o",
       "name": "Moçambique"
     },
     "MRT": {
@@ -1235,6 +1358,7 @@
         "mauritânico",
         "mauritano"
       ],
+      "article": "a",
       "name": "Mauritânia"
     },
     "MUS": {
@@ -1242,6 +1366,7 @@
         "mauriciano"
       ],
       "anthemName": "Pátria",
+      "article": "a",
       "name": "Maurícia"
     },
     "MWI": {
@@ -1257,6 +1382,7 @@
         "malawiense"
       ],
       "anthemName": "Deus Abençoe o Malawi",
+      "article": "o",
       "name": "Malawi"
     },
     "MYS": {
@@ -1267,6 +1393,7 @@
         "malásio"
       ],
       "anthemName": "Meu País",
+      "article": "a",
       "name": "Malásia"
     },
     "NAM": {
@@ -1275,6 +1402,7 @@
         "namíbio"
       ],
       "anthemName": "Namíbia, Terra dos Bravos",
+      "article": "a",
       "name": "Namíbia"
     },
     "NER": {
@@ -1283,6 +1411,7 @@
         "nigerino"
       ],
       "anthemName": "A Nigerina",
+      "article": "o",
       "name": "Níger"
     },
     "NGA": {
@@ -1291,6 +1420,7 @@
         "nigerino"
       ],
       "anthemName": "Levantai-vos, Compatriotas, ao Dever da Nigéria Obedecei",
+      "article": "a",
       "name": "Nigéria"
     },
     "NIC": {
@@ -1299,6 +1429,7 @@
         "nicaraguense"
       ],
       "anthemName": "Salvé a Ti, Nicarágua",
+      "article": "a",
       "name": "Nicarágua"
     },
     "NIU": {
@@ -1306,6 +1437,7 @@
         "niueano",
         "niuiano"
       ],
+      "article": "o",
       "name": "Niue"
     },
     "NLD": {
@@ -1318,6 +1450,7 @@
         "neerlandês"
       ],
       "anthemName": "O Guilherme",
+      "article": "o",
       "name": "Países Baixos"
     },
     "NOR": {
@@ -1327,6 +1460,7 @@
         "norueguês"
       ],
       "anthemName": "Sim, Amamos esta Terra",
+      "article": "a",
       "name": "Noruega"
     },
     "NPL": {
@@ -1335,6 +1469,7 @@
         "nepali"
       ],
       "anthemName": "Centenas de Flores",
+      "article": "o",
       "name": "Nepal"
     },
     "NRU": {
@@ -1343,6 +1478,7 @@
         "nauruense"
       ],
       "anthemName": "Canção de Nauru",
+      "article": "o",
       "name": "Nauru"
     },
     "NZL": {
@@ -1352,6 +1488,7 @@
         "neozelandiense"
       ],
       "anthemName": "Deus defenda a Nova Zelândia",
+      "article": "a",
       "name": "Nova Zelândia"
     },
     "OMN": {
@@ -1361,6 +1498,7 @@
         "omaniano"
       ],
       "anthemName": "Hino Nacional de Oman",
+      "article": "a",
       "name": "Omã"
     },
     "PAK": {
@@ -1371,6 +1509,7 @@
         "paquistânico"
       ],
       "anthemName": "Hino Nacional",
+      "article": "o",
       "name": "Paquistão"
     },
     "PAN": {
@@ -1382,6 +1521,7 @@
         "panamista"
       ],
       "anthemName": "Hino do Istmo",
+      "article": "o",
       "name": "Panamá"
     },
     "PER": {
@@ -1391,6 +1531,7 @@
         "perúvio"
       ],
       "anthemName": "Hino Nacional do Peru",
+      "article": "o",
       "name": "Peru"
     },
     "PHL": {
@@ -1401,6 +1542,7 @@
         "tagalo"
       ],
       "anthemName": "Terra Escolhida",
+      "article": "o",
       "name": "Filipinas"
     },
     "PLW": {
@@ -1409,6 +1551,7 @@
         "palauense"
       ],
       "anthemName": "Nosso Palau",
+      "article": "o",
       "name": "Palau"
     },
     "PNG": {
@@ -1417,6 +1560,7 @@
         "papuásio"
       ],
       "anthemName": "Levantai-vos, Todos Vós Filhos",
+      "article": "o",
       "name": "Papua-Nova Guiné"
     },
     "POL": {
@@ -1430,6 +1574,7 @@
         "polono"
       ],
       "anthemName": "Mazurka de Dabrowski",
+      "article": "a",
       "name": "Polónia"
     },
     "PRK": {
@@ -1437,6 +1582,7 @@
         "norte-coreano"
       ],
       "anthemName": "Canção Patriótica",
+      "article": "o",
       "name": "Coreia do Norte"
     },
     "PRT": {
@@ -1453,6 +1599,7 @@
         "português",
         "tuga"
       ],
+      "article": "o",
       "name": "Portugal"
     },
     "PRY": {
@@ -1461,6 +1608,7 @@
         "paraguaio"
       ],
       "anthemName": "Paraguaios, República ou Morte",
+      "article": "o",
       "name": "Paraguai"
     },
     "PSE": {
@@ -1469,6 +1617,7 @@
         "palestiniano",
         "palestino"
       ],
+      "article": "a",
       "name": "Palestina"
     },
     "QAT": {
@@ -1478,6 +1627,7 @@
         "catariano"
       ],
       "anthemName": "Hino Nacional do Qatar",
+      "article": "o",
       "name": "Catar"
     },
     "ROU": {
@@ -1488,6 +1638,7 @@
         "romeno"
       ],
       "anthemName": "Acordai, Romenos",
+      "article": "a",
       "name": "Roménia"
     },
     "RUS": {
@@ -1496,6 +1647,7 @@
         "russo"
       ],
       "anthemName": "Hino Estatal da Federação Russa",
+      "article": "a",
       "name": "Rússia"
     },
     "RWA": {
@@ -1504,6 +1656,7 @@
         "ruandês"
       ],
       "anthemName": "Belo Ruanda",
+      "article": "a",
       "name": "Ruanda"
     },
     "SAU": {
@@ -1518,6 +1671,7 @@
         "saudita"
       ],
       "anthemName": "Saudação Real",
+      "article": "a",
       "name": "Arábia Saudita"
     },
     "SDN": {
@@ -1525,6 +1679,7 @@
         "sudanês"
       ],
       "anthemName": "Somos o Exército de Deus e da Nossa Terra",
+      "article": "o",
       "name": "Sudão"
     },
     "SEN": {
@@ -1536,6 +1691,7 @@
         "senegálico"
       ],
       "anthemName": "Tocai Vossos Corás, Batei os Balafons",
+      "article": "o",
       "name": "Senegal"
     },
     "SGP": {
@@ -1545,6 +1701,7 @@
         "singapuriano"
       ],
       "anthemName": "Para a Frente, Singapura",
+      "article": "a",
       "name": "Singapura"
     },
     "SLB": {
@@ -1554,6 +1711,7 @@
         "salomônico"
       ],
       "anthemName": "Deus Salve as Nossas Ilhas Salomão",
+      "article": "o",
       "name": "Ilhas Salomão"
     },
     "SLE": {
@@ -1563,6 +1721,7 @@
         "serra-leonino"
       ],
       "anthemName": "Alto te Exaltamos, Domínio dos Livres",
+      "article": "a",
       "name": "Serra Leoa"
     },
     "SLV": {
@@ -1571,6 +1730,7 @@
         "salvatoriano"
       ],
       "anthemName": "Hino Nacional de El Salvador",
+      "article": "o",
       "name": "El Salvador"
     },
     "SMR": {
@@ -1581,6 +1741,7 @@
         "são-marinhense"
       ],
       "anthemName": "Hino Nacional da República",
+      "article": "o",
       "name": "San Marino"
     },
     "SOM": {
@@ -1590,12 +1751,14 @@
         "somaliano",
         "somaliense"
       ],
+      "article": "a",
       "name": "Somália"
     },
     "SOS": {
       "adjectives": [
         "sul-osseta"
       ],
+      "article": "o",
       "longName": "República da Ossétia do Sul",
       "name": "Ossétia do Sul"
     },
@@ -1604,6 +1767,7 @@
         "sérvio"
       ],
       "anthemName": "Deus de Justiça",
+      "article": "a",
       "name": "Sérvia"
     },
     "SSD": {
@@ -1611,6 +1775,7 @@
         "sul-sudanês"
       ],
       "anthemName": "Sudão do Sul Oyee!",
+      "article": "o",
       "name": "Sudão do Sul"
     },
     "STP": {
@@ -1620,6 +1785,7 @@
         "santomense",
         "são-tomense"
       ],
+      "article": "o",
       "name": "São Tomé e Príncipe"
     },
     "SUR": {
@@ -1628,6 +1794,7 @@
         "surinamês"
       ],
       "anthemName": "Deus Esteja com o Nosso Suriname",
+      "article": "o",
       "name": "Suriname"
     },
     "SVK": {
@@ -1636,6 +1803,7 @@
         "eslováquio"
       ],
       "anthemName": "Luz sobre as  Tatra",
+      "article": "a",
       "name": "Eslováquia"
     },
     "SVN": {
@@ -1644,6 +1812,7 @@
         "eslovênico",
         "esloveno"
       ],
+      "article": "a",
       "name": "Eslovénia"
     },
     "SWE": {
@@ -1652,6 +1821,7 @@
         "sueco"
       ],
       "anthemName": "Tu Antiga, Tu Livre",
+      "article": "a",
       "name": "Suécia"
     },
     "SWZ": {
@@ -1664,6 +1834,7 @@
         "suazilandiense"
       ],
       "anthemName": "O Lord our God of the Swazi",
+      "article": "a",
       "name": "Suazilândia"
     },
     "SYC": {
@@ -1672,6 +1843,7 @@
         "seychellense"
       ],
       "anthemName": "Juntem-se todos os Seychelenses",
+      "article": "o",
       "name": "Seicheles"
     },
     "SYR": {
@@ -1682,6 +1854,7 @@
         "siro"
       ],
       "anthemName": "Guardiões da Pátria",
+      "article": "a",
       "name": "Síria"
     },
     "TCD": {
@@ -1692,6 +1865,7 @@
         "tchadiense"
       ],
       "anthemName": "A Chadiana",
+      "article": "o",
       "name": "Chade"
     },
     "TGO": {
@@ -1700,6 +1874,7 @@
         "toguês"
       ],
       "anthemName": "Te saudamos, Terra de Nossos Antepassados",
+      "article": "o",
       "name": "Togo"
     },
     "THA": {
@@ -1710,6 +1885,7 @@
         "tailandês"
       ],
       "anthemName": "Canção Nacional",
+      "article": "a",
       "name": "Tailândia"
     },
     "TJK": {
@@ -1720,6 +1896,7 @@
         "tajiquistanês"
       ],
       "anthemName": "National Anthem",
+      "article": "o",
       "name": "Tajiquistão"
     },
     "TKM": {
@@ -1732,6 +1909,7 @@
         "Turcomenistão"
       ],
       "anthemName": "Hino do Estado Independente e Neutral do Turquemenistão",
+      "article": "o",
       "name": "Turquemenistão"
     },
     "TLS": {
@@ -1741,6 +1919,7 @@
         "timorense",
         "timorino"
       ],
+      "article": "o",
       "name": "Timor-Leste"
     },
     "TON": {
@@ -1748,6 +1927,7 @@
         "tonganês"
       ],
       "anthemName": "Canção do Rei das Ilhas Tonga",
+      "article": "a",
       "name": "Tonga"
     },
     "TTO": {
@@ -1755,6 +1935,7 @@
         "trinitário",
         "trinitário-tobagense"
       ],
+      "article": "o",
       "name": "Trindade e Tobago"
     },
     "TUN": {
@@ -1765,6 +1946,7 @@
         "tunisino"
       ],
       "anthemName": "Defensores da Pátria",
+      "article": "a",
       "name": "Tunísia"
     },
     "TUR": {
@@ -1779,6 +1961,7 @@
         "turquesco"
       ],
       "anthemName": "Marcha da Independência",
+      "article": "a",
       "name": "Turquia"
     },
     "TUV": {
@@ -1787,6 +1970,7 @@
         "tuvaluano"
       ],
       "anthemName": "Tuvalu para os Grandes",
+      "article": "o",
       "name": "Tuvalu"
     },
     "TWN": {
@@ -1797,6 +1981,7 @@
         "taiuanês",
         "taiwanês"
       ],
+      "article": "o",
       "name": "Taiwan"
     },
     "TZA": {
@@ -1804,6 +1989,7 @@
         "tanzaniano"
       ],
       "anthemName": "Deus Abençoe a África",
+      "article": "a",
       "name": "Tanzânia"
     },
     "UGA": {
@@ -1812,6 +1998,7 @@
         "ugandês"
       ],
       "anthemName": "Oh Uganda, Terra de Beleza",
+      "article": "a",
       "name": "Uganda"
     },
     "UKR": {
@@ -1820,6 +2007,7 @@
         "ucrânio"
       ],
       "anthemName": "A Glória da Ucrânia não Pereceu",
+      "article": "a",
       "name": "Ucrânia"
     },
     "URY": {
@@ -1829,6 +2017,7 @@
         "uruguaio"
       ],
       "anthemName": "Hino Nacional",
+      "article": "o",
       "name": "Uruguai"
     },
     "USA": {
@@ -1842,6 +2031,7 @@
         "yankee"
       ],
       "anthemName": "A Bandeira Estrelada",
+      "article": "o",
       "name": "Estados Unidos"
     },
     "UZB": {
@@ -1852,6 +2042,7 @@
         "uzbequistanês"
       ],
       "anthemName": "National Anthem of the Republic of Uzbekistan",
+      "article": "o",
       "name": "Uzbequistão"
     },
     "VAT": {
@@ -1859,6 +2050,7 @@
         "vaticano"
       ],
       "anthemName": "Hino e Marcha Pontíficia",
+      "article": "o",
       "name": "Vaticano"
     },
     "VCT": {
@@ -1866,6 +2058,7 @@
         "são-vicentino"
       ],
       "anthemName": "São Vicente, Terra Tão Bela",
+      "article": "o",
       "name": "São Vicente e Granadinas"
     },
     "VEN": {
@@ -1874,6 +2067,7 @@
         "venezuelano"
       ],
       "anthemName": "Glória ao Bravo Povo",
+      "article": "a",
       "name": "Venezuela"
     },
     "VNM": {
@@ -1889,6 +2083,7 @@
         "Vietnã"
       ],
       "anthemName": "Marcha do Exército",
+      "article": "o",
       "name": "Vietname"
     },
     "VUT": {
@@ -1897,6 +2092,7 @@
         "vanuatuense"
       ],
       "anthemName": "Nós, Nós, Nós",
+      "article": "o",
       "name": "Vanuatu"
     },
     "WSM": {
@@ -1905,6 +2101,7 @@
         "samoense"
       ],
       "anthemName": "Bandeira da Liberdade",
+      "article": "a",
       "name": "Samoa"
     },
     "XXK": {
@@ -1915,6 +2112,7 @@
         "kosovar",
         "kossovar"
       ],
+      "article": "o",
       "longName": "República do Kosovo",
       "name": "Kosovo"
     },
@@ -1926,6 +2124,7 @@
         "iemênico",
         "iemenita"
       ],
+      "article": "o",
       "name": "Iémen"
     },
     "ZAF": {
@@ -1934,6 +2133,7 @@
         "sul-africanista",
         "sul-africano"
       ],
+      "article": "o",
       "name": "África do Sul"
     },
     "ZMB": {
@@ -1943,6 +2143,7 @@
         "zâmbio"
       ],
       "anthemName": "Erguei-vos e cantai a Zâmbia, Livres e Orgulhosos",
+      "article": "a",
       "name": "Zâmbia"
     },
     "ZWE": {
@@ -1956,6 +2157,7 @@
         "Zimbábue"
       ],
       "anthemName": "Abençoada seja a terra do Zimbabwe",
+      "article": "o",
       "name": "Zimbabwe"
     }
   },

@@ -4,6 +4,8 @@ import { IRegion } from "./region";
 /** Definition of a country in the world. */
 export interface ICountry {
   name?: string;
+  /** The article for the country name. */
+  article?: string;
   longName?: string;
   altNames: string[];
   capital?: string;

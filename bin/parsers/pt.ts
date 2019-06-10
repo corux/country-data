@@ -1,6 +1,28 @@
 import Axios from "axios";
 import * as cheerio from "cheerio";
 
+function getArticle(name: string): string {
+  if (name.endsWith("ema")) {
+    return "o";
+  }
+
+  if (name.endsWith("a")
+  || name.endsWith("ã")
+  || name.endsWith("ação")
+  || name.endsWith("dade")
+  || name.endsWith("agem")) {
+    return "a";
+  }
+
+  if (name.endsWith("ante")
+  || name.endsWith("ente")
+  || name.endsWith("ista")) {
+    return "";
+  }
+
+  return "o";
+}
+
 export async function portugese(isoCodes: string[]): Promise<any> {
   let $ = cheerio.load((await Axios.get("https://pt.wikipedia.org/wiki/ISO_3166-1")).data);
   let countryData = $(".wikitable.sortable tbody").first().find("tr").map((i, elem) => {
@@ -137,6 +159,7 @@ export async function portugese(isoCodes: string[]): Promise<any> {
       altNames: altNames[val.name],
       anthemName: anthem && anthem.anthemName,
       anthemUrl: anthem && anthem.url,
+      article: getArticle(val.name),
       longName: val.longName,
       name: val.name,
     };
