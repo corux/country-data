@@ -89,6 +89,7 @@ export class CountryData {
       altNames: combined.altNames || [],
       anthem: {
         name: combined.anthemName,
+        subtitles: combined.anthem.subtitles || {},
         url: combined.anthem.url,
         vocalUrl: combined.anthem.vocalUrl,
       },

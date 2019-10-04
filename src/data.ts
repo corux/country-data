@@ -31,6 +31,7 @@ export interface IDataGeneric {
   borders: string[];
   anthem: {
     url: string;
+    subtitles?: { [lang: string]: string };
     vocalUrl?: string;
   };
   tld: string[];

@@ -34,6 +34,8 @@ export interface ICountry {
     /** Link to the anthem audio file (vocal version). */
     vocalUrl?: string;
     name?: string;
+    /** Mapping of languages to subtitle URL. */
+    subtitles: { [lang: string]: string };
   };
   adjectives: string[];
 }

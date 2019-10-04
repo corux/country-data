@@ -26,6 +26,7 @@ describe("Complete Data", () => {
         expect(country.flag.smallImageUrl).toBeTruthy();
         expect(country.flag.largeImageUrl).toBeTruthy();
         expect(country.anthem.url).toBeTruthy();
+        expect(country.anthem.subtitles).toBeTruthy();
         expect(country.region).toBeTruthy();
         expect(country.area).toBeTruthy();
         expect(country.population).toBeTruthy();
