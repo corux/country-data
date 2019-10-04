@@ -69,7 +69,7 @@
     "anthem": {
       "subtitles": {
         "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ABilady%2C_Bilady%2C_Bilady.ogg&lang=en&trackformat=srt&origin=%2A",
-        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ABilady%2C_Bilady%2C_Bilady.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ABilady%2C_Bilady%2C_Bilady.ogg&lang=pt-br&trackformat=srt&origin=%2A"
       },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg"
     },
@@ -856,8 +856,7 @@
       "subtitles": {
         "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHino-Nacional-Brasil-instrumental-mec.ogg&lang=en&trackformat=srt&origin=%2A",
         "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHino-Nacional-Brasil-instrumental-mec.ogg&lang=es&trackformat=srt&origin=%2A",
-        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHino-Nacional-Brasil-instrumental-mec.ogg&lang=pt&trackformat=srt&origin=%2A",
-        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHino-Nacional-Brasil-instrumental-mec.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHino-Nacional-Brasil-instrumental-mec.ogg&lang=pt&trackformat=srt&origin=%2A"
       },
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hino-Nacional-Brasil-instrumental-mec.ogg"
     },
@@ -1251,8 +1250,7 @@
         "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=de&trackformat=srt&origin=%2A",
         "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=en&trackformat=srt&origin=%2A",
         "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=es&trackformat=srt&origin=%2A",
-        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=pt&trackformat=srt&origin=%2A",
-        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=pt&trackformat=srt&origin=%2A"
       },
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg"
     },
@@ -1631,7 +1629,7 @@
         "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=es&trackformat=srt&origin=%2A",
         "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=fr&trackformat=srt&origin=%2A",
         "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=it&trackformat=srt&origin=%2A",
-        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=pt-br&trackformat=srt&origin=%2A"
       },
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
     },
@@ -2279,7 +2277,7 @@
       "subtitles": {
         "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHatikvah_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
         "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHatikvah_instrumental.ogg&lang=es&trackformat=srt&origin=%2A",
-        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHatikvah_instrumental.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHatikvah_instrumental.ogg&lang=pt-br&trackformat=srt&origin=%2A"
       },
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hatikvah_instrumental.ogg"
     },
@@ -3768,8 +3766,7 @@
       "subtitles": {
         "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_Mexicano_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
         "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_Mexicano_instrumental.ogg&lang=es&trackformat=srt&origin=%2A",
-        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_Mexicano_instrumental.ogg&lang=pt&trackformat=srt&origin=%2A",
-        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_Mexicano_instrumental.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_Mexicano_instrumental.ogg&lang=pt&trackformat=srt&origin=%2A"
       },
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg"
     },
@@ -4929,8 +4926,7 @@
       "subtitles": {
         "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg&lang=en&trackformat=srt&origin=%2A",
         "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg&lang=es&trackformat=srt&origin=%2A",
-        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg&lang=pt&trackformat=srt&origin=%2A",
-        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg&lang=pt&trackformat=srt&origin=%2A"
       },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/National_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg"
     },
@@ -5205,7 +5201,6 @@
     "anthem": {
       "subtitles": {
         "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASwiss_Psalm.ogg&lang=de&trackformat=srt&origin=%2A",
-        "de-CH": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASwiss_Psalm.ogg&lang=de-ch&trackformat=srt&origin=%2A",
         "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASwiss_Psalm.ogg&lang=en&trackformat=srt&origin=%2A",
         "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASwiss_Psalm.ogg&lang=fr&trackformat=srt&origin=%2A",
         "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASwiss_Psalm.ogg&lang=it&trackformat=srt&origin=%2A"
@@ -6801,8 +6796,7 @@
         "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=es&trackformat=srt&origin=%2A",
         "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=fr&trackformat=srt&origin=%2A",
         "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=it&trackformat=srt&origin=%2A",
-        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=pt&trackformat=srt&origin=%2A",
-        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=pt&trackformat=srt&origin=%2A"
       },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/My_Belarusy.ogg",
       "vocalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/My_Belarusy_vocal.ogg"

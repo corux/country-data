@@ -1,4 +1,5 @@
 import { english, french, generic, german, italian, portugese, spanish } from ".";
+import { cleanupSubtitles } from "./helpers";
 
 export class Parser {
   public async parse(): Promise<{ generic: any, locales: { [key: string]: any } }> {
@@ -58,6 +59,12 @@ export class Parser {
         locale[iso].altNames = this.distinct(locale[iso].altNames);
       });
     });
+    await Promise.all(Object.keys(genericData).map(async (key) => {
+      const data = genericData[key];
+      if (data.anthem.subtitles) {
+        await cleanupSubtitles(data.anthem.subtitles);
+      }
+    }));
 
     // amend generic data with anthem URLs
     genericData.forEach((val) => {

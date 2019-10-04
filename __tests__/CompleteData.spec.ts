@@ -4,6 +4,7 @@ describe("Complete Data", () => {
 
   describe("Language independant data", () => {
     const countryData = new CountryData("en");
+    const supportedLanguages = CountryData.getSupportedLanguages().sort();
 
     test("No country is linked to America continent", () => {
       const americas = countryData.getCountries()
@@ -37,6 +38,11 @@ describe("Complete Data", () => {
 
         expect(country.continent).toBeTruthy();
         expect(Object.values(ContinentCode).includes(country.continent.code)).toBeTruthy();
+      });
+
+      test(`Subtitles are availbe only for supported languages (${country.iso3})`, () => {
+        const subtitleLanguages = Object.keys(country.anthem.subtitles || {}).sort();
+        expect(supportedLanguages).toEqual(expect.arrayContaining(subtitleLanguages));
       });
     });
   });
