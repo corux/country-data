@@ -7,15 +7,25 @@ export class Parser {
 
     const result = {
       generic: genericData,
-      locales: {
-        de: await german(),
-        en: await english(isoCodes),
-        es: await spanish(isoCodes),
-        fr: await french(isoCodes),
-        it: await italian(isoCodes),
-        pt: await portugese(isoCodes),
-      },
+      locales: {},
     };
+
+    const localeMapping = {
+      de: () => german(),
+      en: () => english(isoCodes),
+      es: () => spanish(isoCodes),
+      fr: () => french(isoCodes),
+      it: () => italian(isoCodes),
+      pt: () => portugese(isoCodes),
+    };
+
+    await Promise.all(Object.getOwnPropertyNames(localeMapping).map(async (locale) => {
+      try {
+        result.locales[locale] = await localeMapping[locale]();
+      } catch (error) {
+        console.error(`Failed to parse ${locale} locale`);
+      }
+    }));
 
     // post-process locale data
     Object.keys(result.locales).sort().forEach((lang) => {
