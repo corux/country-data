@@ -452,7 +452,7 @@
       "adjectives": [
         "Danish"
       ],
-      "anthemName": "There is a lovely land",
+      "anthemName": "There is a lovely country",
       "capital": "Copenhagen",
       "longName": "Kingdom of Denmark",
       "name": "Denmark"
@@ -781,7 +781,8 @@
     },
     "ISR": {
       "adjectives": [
-        "Israeli"
+        "Israeli",
+        "Israelite"
       ],
       "anthemName": "The Hope",
       "capital": "Jerusalem",
@@ -1003,7 +1004,7 @@
       "adjectives": [
         "Moroccan"
       ],
-      "anthemName": "Anthem of Morocco",
+      "anthemName": "Cherifian Anthem",
       "capital": "Rabat",
       "longName": "Kingdom of Morocco",
       "name": "Morocco"
@@ -1250,7 +1251,8 @@
     },
     "NZL": {
       "adjectives": [
-        "New Zealand"
+        "New Zealand",
+        "New Zealandic"
       ],
       "anthemName": "God Defend New Zealand",
       "capital": "Wellington",
@@ -1361,7 +1363,6 @@
       "adjectives": [
         "Palestinian"
       ],
-      "anthemName": "My Country",
       "capital": "East Jerusalem",
       "longName": "State of Palestine",
       "name": "Palestine"
@@ -1690,6 +1691,7 @@
     },
     "TWN": {
       "adjectives": [
+        "Formosan",
         "Taiwanese"
       ],
       "anthemName": "Three Principles of the People",

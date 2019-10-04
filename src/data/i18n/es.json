@@ -34,7 +34,8 @@
     },
     "ALB": {
       "adjectives": [
-        "albanés"
+        "albanés",
+        "albano"
       ],
       "capital": "Tirana",
       "name": "Albania"
@@ -324,8 +325,7 @@
     },
     "CRI": {
       "adjectives": [
-        "costarricense",
-        "Tico"
+        "costarricense"
       ],
       "capital": "San José",
       "name": "Costa Rica"
@@ -354,8 +354,7 @@
     },
     "DEU": {
       "adjectives": [
-        "alemán",
-        "germano"
+        "alemán"
       ],
       "capital": "Berlín",
       "name": "Alemania"
@@ -872,7 +871,6 @@
         "Macedonia"
       ],
       "capital": "Skopie",
-      "longName": "la ex República Yugoslava de Macedonia",
       "name": "Macedonia del Norte"
     },
     "MLI": {
@@ -1408,7 +1406,6 @@
       "adjectives": [
         "americano",
         "estadounidense",
-        "estadunidense",
         "norteamericano"
       ],
       "capital": "Washington DC",
