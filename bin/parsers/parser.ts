@@ -2,6 +2,7 @@ import { english, french, generic, german, italian, portugese, spanish } from ".
 
 export class Parser {
   public async parse(): Promise<{ generic: any, locales: { [key: string]: any } }> {
+    console.log("Start parsing generic data...");
     const genericData = await generic();
     const isoCodes = genericData.map((val) => val.iso3);
 
@@ -20,14 +21,17 @@ export class Parser {
     };
 
     await Promise.all(Object.getOwnPropertyNames(localeMapping).map(async (locale) => {
+      console.log(`Start parsing ${locale} locale...`);
       try {
         result.locales[locale] = await localeMapping[locale]();
+        console.log(`Finished parsing ${locale} locale`);
       } catch (error) {
         console.error(`Failed to parse ${locale} locale`);
       }
     }));
 
     // post-process locale data
+    console.log("Post-processing locale data...");
     Object.keys(result.locales).sort().forEach((lang) => {
       const locale = result.locales[lang].countries;
       Object.keys(locale).forEach((iso) => {
