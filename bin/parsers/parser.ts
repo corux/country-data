@@ -44,9 +44,14 @@ export class Parser {
           } else {
             genericCountry.anthem.url = url;
           }
+
+          if (locale[iso].anthemSubtitleUrls) {
+            genericCountry.anthem.subtitles = locale[iso].anthemSubtitleUrls;
+          }
         }
 
         delete locale[iso].anthemUrl;
+        delete locale[iso].anthemSubtitleUrls;
 
         // cleanup duplicates
         locale[iso].adjectives = this.distinct(locale[iso].adjectives);

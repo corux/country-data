@@ -1,9 +1,11 @@
 import Axios from "axios";
 import * as cheerio from "cheerio";
 import { getFromCountryJs } from ".";
+import { getAudio, getSubtitles } from "./helpers";
 
 async function countries(isoCodes: string[]): Promise<any> {
-  let $ = cheerio.load((await Axios.get("https://en.wikipedia.org/wiki/List_of_national_anthems")).data);
+  const wikiAnthemsUrl = "https://en.wikipedia.org/wiki/List_of_national_anthems";
+  let $ = cheerio.load((await Axios.get(wikiAnthemsUrl)).data);
   const anthemData = $(".wikitable").find("tbody tr").map((i, elem) => {
     const get = (position) => {
       let text = $(elem).children().eq(position).text();
@@ -21,10 +23,6 @@ async function countries(isoCodes: string[]): Promise<any> {
       };
       return mapping[text] || text;
     };
-    const getAudio = () => {
-      const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
-      return src ? `https:${src}` : undefined;
-    };
     const getAnthemName = () => {
       const match = get(1).match(/"([^\"]*)"(?:.*\("([^\"]*)"\))?/);
       if (!match) {
@@ -33,10 +31,12 @@ async function countries(isoCodes: string[]): Promise<any> {
 
       return match[2] || match[1];
     };
+
     return {
       anthemName: getAnthemName(),
       name: getName(),
-      url: getAudio(),
+      subtitles: getSubtitles($(elem), wikiAnthemsUrl),
+      url: getAudio($(elem)),
     };
   }).get().concat([{
     anthemName: "God is Truth",
@@ -139,6 +139,7 @@ async function countries(isoCodes: string[]): Promise<any> {
       if (anthem) {
         country.anthemName = anthem.anthemName;
         country.anthemUrl = anthem.url;
+        country.anthemSubtitleUrls = anthem.subtitles;
       }
       country.adjectives = adjectiveData.find((n) => n.name === mappedName).adjectives;
     });

@@ -1,5 +1,6 @@
 import Axios from "axios";
 import * as cheerio from "cheerio";
+import { getAudio } from "./helpers";
 
 function getArticle(name: string): string {
   if (name.endsWith("ema")) {
@@ -99,15 +100,11 @@ export async function portugese(isoCodes: string[]): Promise<any> {
 
       return match[2] || match[1];
     };
-    const getAudio = () => {
-      const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
-      return src ? `https:${src}` : undefined;
-    };
 
     return {
       anthemName: getAnthemName(),
       name: getName(),
-      url: getAudio(),
+      url: getAudio($(elem)),
     };
   }).get();
 

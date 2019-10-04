@@ -27,6 +27,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Afghanistan%2C_performed_by_the_United_States_Navy_Band.wav&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/National_anthem_of_Afghanistan%2C_performed_by_the_United_States_Navy_Band.wav"
     },
     "area": 652230,
@@ -64,6 +67,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ABilady%2C_Bilady%2C_Bilady.ogg&lang=en&trackformat=srt&origin=%2A",
+        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ABilady%2C_Bilady%2C_Bilady.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bilady%2C_Bilady%2C_Bilady.ogg"
     },
     "area": 1001450,
@@ -95,6 +102,14 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymni_i_Flamurit_instrumental.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymni_i_Flamurit_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymni_i_Flamurit_instrumental.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymni_i_Flamurit_instrumental.ogg&lang=fr&trackformat=srt&origin=%2A",
+        "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymni_i_Flamurit_instrumental.ogg&lang=it&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymni_i_Flamurit_instrumental.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Hymni_i_Flamurit_instrumental.ogg"
     },
     "area": 28748,
@@ -127,6 +142,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Algeria%2C_by_the_U.S._Navy_Band.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/National_anthem_of_Algeria%2C_by_the_U.S._Navy_Band.oga"
     },
     "area": 2381741,
@@ -282,6 +300,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Himno_Nacional_Argentino.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Himno_Nacional_Argentino.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/United_States_Navy_Band_-_Himno_Nacional_Argentino.ogg"
     },
     "area": 2780400,
@@ -316,6 +338,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMer_Hayrenik_instrumental.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Mer_Hayrenik_instrumental.ogg"
     },
     "area": 29743,
@@ -349,6 +374,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_the_Republic_of_Azerbaijan_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_the_Republic_of_Azerbaijan_instrumental.ogg&lang=it&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/National_Anthem_of_the_Republic_of_Azerbaijan_instrumental.ogg"
     },
     "area": 86600,
@@ -383,6 +412,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AWedefit_Gesgeshi_Widd_Innat_Ittyoppya.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wedefit_Gesgeshi_Widd_Innat_Ittyoppya.ogg"
     },
     "area": 1104300,
@@ -417,6 +449,11 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AU.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AU.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AU.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/U.S._Navy_Band%2C_Advance_Australia_Fair_%28instrumental%29.ogg"
     },
     "area": 7741220,
@@ -445,6 +482,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_the_Bahamas.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/National_anthem_of_the_Bahamas.oga"
     },
     "area": 13880,
@@ -501,6 +541,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AAmar_Shonar_Bangla_instrumental.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Amar_Shonar_Bangla_instrumental.ogg"
     },
     "area": 143998,
@@ -531,6 +574,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AIn_Plenty_and_In_Time_of_Need_instrumental.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/In_Plenty_and_In_Time_of_Need_instrumental.ogg"
     },
     "area": 430,
@@ -559,6 +605,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Braban%C3%A7onne.oga&lang=en&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Braban%C3%A7onne.oga&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/La_Braban%C3%A7onne.oga"
     },
     "area": 30528,
@@ -624,6 +674,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AL%27Aube_Nouvelle.ogg&lang=en&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AL%27Aube_Nouvelle.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/L%27Aube_Nouvelle.ogg"
     },
     "area": 112622,
@@ -656,6 +710,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ADruk_tsendhen_instrumental.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Druk_tsendhen_instrumental.ogg"
     },
     "area": 38394,
@@ -687,6 +744,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_de_Bolivia_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_de_Bolivia_instrumental.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Himno_Nacional_de_Bolivia_instrumental.ogg"
     },
     "area": 1098581,
@@ -756,6 +817,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Fatshe_leno_la_rona.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/United_States_Navy_Band_-_Fatshe_leno_la_rona.ogg"
     },
     "area": 581730,
@@ -789,6 +853,12 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHino-Nacional-Brasil-instrumental-mec.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHino-Nacional-Brasil-instrumental-mec.ogg&lang=es&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHino-Nacional-Brasil-instrumental-mec.ogg&lang=pt&trackformat=srt&origin=%2A",
+        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHino-Nacional-Brasil-instrumental-mec.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hino-Nacional-Brasil-instrumental-mec.ogg"
     },
     "area": 8514877,
@@ -855,6 +925,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMila_Rodino_instrumental.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mila_Rodino_instrumental.ogg"
     },
     "area": 110879,
@@ -888,6 +961,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymne_National_du_Burkina_Faso.ogg&lang=en&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymne_National_du_Burkina_Faso.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hymne_National_du_Burkina_Faso.ogg"
     },
     "area": 274200,
@@ -955,6 +1032,11 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_National_Anthem_of_Chile.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_National_Anthem_of_Chile.ogg&lang=es&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_National_Anthem_of_Chile.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/United_States_Navy_Band_-_National_Anthem_of_Chile.ogg"
     },
     "area": 756102,
@@ -987,6 +1069,13 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg&lang=fr&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/National_anthem_of_the_Republic_of_China_%28Taiwan%29_%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%AD%8C%28%E6%BC%94%E5%A5%8F%E7%89%88%29.ogg"
     },
     "area": 35980,
@@ -1015,6 +1104,13 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMarch_of_the_Volunteers_instrumental.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMarch_of_the_Volunteers_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMarch_of_the_Volunteers_instrumental.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMarch_of_the_Volunteers_instrumental.ogg&lang=fr&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMarch_of_the_Volunteers_instrumental.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/March_of_the_Volunteers_instrumental.ogg"
     },
     "area": 9596961,
@@ -1084,6 +1180,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ACosta_Rica_National_Anthem.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ACosta_Rica_National_Anthem.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Costa_Rica_National_Anthem.ogg"
     },
     "area": 51100,
@@ -1114,6 +1214,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Der_er_et_yndigt_land.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Der_er_et_yndigt_land.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/United_States_Navy_Band_-_Der_er_et_yndigt_land.ogg"
     },
     "area": 43094,
@@ -1143,6 +1247,13 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=es&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=pt&trackformat=srt&origin=%2A",
+        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/National_anthem_of_Germany_-_U.S._Army_1st_Armored_Division_Band.ogg"
     },
     "area": 357121,
@@ -1208,6 +1319,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ADominican_Republic_National_Anthem.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dominican_Republic_National_Anthem.ogg"
     },
     "area": 48670,
@@ -1237,6 +1351,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AThe_Djiboutian_anthem.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Djiboutian_anthem.ogg"
     },
     "area": 23200,
@@ -1269,6 +1386,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AAnthem_of_Ecuador.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Anthem_of_Ecuador.ogg"
     },
     "area": 283561,
@@ -1299,6 +1419,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AEl_Salvador_National_Anthem.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/El_Salvador_National_Anthem.ogg"
     },
     "area": 21041,
@@ -1330,6 +1453,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymne_National_de_C%C3%B4te_d%27Ivoire.ogg&lang=en&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymne_National_de_C%C3%B4te_d%27Ivoire.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Hymne_National_de_C%C3%B4te_d%27Ivoire.ogg"
     },
     "area": 322463,
@@ -1363,6 +1490,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Eritrea_by_US_Navy_Band.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/National_Anthem_of_Eritrea_by_US_Navy_Band.ogg"
     },
     "area": 117600,
@@ -1396,6 +1526,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUS_Navy_band_-_National_anthem_of_Estonia.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/US_Navy_band_-_National_anthem_of_Estonia.ogg"
     },
     "area": 45228,
@@ -1457,6 +1590,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Maamme.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/United_States_Navy_Band_-_Maamme.ogg"
     },
     "area": 338145,
@@ -1488,6 +1625,14 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=fr&trackformat=srt&origin=%2A",
+        "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=it&trackformat=srt&origin=%2A",
+        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Marseillaise.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/La_Marseillaise.ogg"
     },
     "area": 551500,
@@ -1584,6 +1729,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AGeorgian_national_anthem.wav&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Georgian_national_anthem.wav",
       "vocalUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Tavisupleba_vocal.ogg"
     },
@@ -1678,6 +1826,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymn_to_liberty_instrumental.oga&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymn_to_liberty_instrumental.oga&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga"
     },
     "area": 131957,
@@ -1710,6 +1862,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://en.wikipedia.org/w/api.php?action=timedtext&title=File%3AGuatemala%27s_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg&lang=en&trackformat=srt"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/en/a/a9/Guatemala%27s_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg"
     },
     "area": 108889,
@@ -1838,6 +1993,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHaiti_National_Anthem.ogg&lang=en&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHaiti_National_Anthem.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Haiti_National_Anthem.ogg"
     },
     "area": 27750,
@@ -1900,6 +2059,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AJana_Gana_Mana_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AJana_Gana_Mana_instrumental.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Jana_Gana_Mana_instrumental.ogg"
     },
     "area": 3287263,
@@ -1937,6 +2100,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AIndonesiaraya.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AIndonesiaraya.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Indonesiaraya.ogg"
     },
     "area": 1904569,
@@ -1968,6 +2135,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Mawtini.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/United_States_Navy_Band_-_Mawtini.ogg"
     },
     "area": 438317,
@@ -2003,6 +2173,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_%28instrumental%29.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sorud-e_Mell%C3%AD-e_Yomhur%C3%AD-e_Eslam%C3%AD-e_Ir%C3%A1n_%28instrumental%29.oga"
     },
     "area": 1648195,
@@ -2038,6 +2211,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/United_States_Navy_Band_-_Amhr%C3%A1n_na_bhFiann.ogg"
     },
     "area": 70273,
@@ -2068,6 +2245,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALofs%C3%B6ngur.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Lofs%C3%B6ngur.ogg"
     },
     "area": 103000,
@@ -2096,6 +2276,11 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHatikvah_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHatikvah_instrumental.ogg&lang=es&trackformat=srt&origin=%2A",
+        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHatikvah_instrumental.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hatikvah_instrumental.ogg"
     },
     "area": 22380,
@@ -2130,6 +2315,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Italy_-_U.S._Navy_Band_%28long_version%29.ogg&lang=en&trackformat=srt&origin=%2A",
+        "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Italy_-_U.S._Navy_Band_%28long_version%29.ogg&lang=it&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Inno_di_Mameli_instrumental.ogg"
     },
     "area": 301340,
@@ -2192,6 +2381,14 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AKimi_ga_Yo_instrumental.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AKimi_ga_Yo_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AKimi_ga_Yo_instrumental.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AKimi_ga_Yo_instrumental.ogg&lang=fr&trackformat=srt&origin=%2A",
+        "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AKimi_ga_Yo_instrumental.ogg&lang=it&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AKimi_ga_Yo_instrumental.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Kimi_ga_Yo_instrumental.ogg"
     },
     "area": 377915,
@@ -2250,6 +2447,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Jordan_instrumental.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_anthem_of_Jordan_instrumental.ogg"
     },
     "area": 89342,
@@ -2283,6 +2483,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Nokoreach.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/United_States_Navy_Band_-_Nokoreach.ogg"
     },
     "area": 181035,
@@ -2349,6 +2552,11 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3A%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3A%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3A%22O_Canada%22%2C_performed_by_the_United_States_Third_Marine_Aircraft_Wing_Band.oga&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/United_States_Navy_Band_-_O_Canada.ogg"
     },
     "area": 9984670,
@@ -2407,6 +2615,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AKazakhstan_2006.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Kazakhstan_2006.ogg"
     },
     "area": 2724900,
@@ -2471,6 +2682,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Kenya.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/National_Anthem_of_Kenya.ogg"
     },
     "area": 580367,
@@ -2505,6 +2719,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Kyrgyzstan.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Kyrgyzstan.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/National_Anthem_of_Kyrgyzstan.ogg"
     },
     "area": 199951,
@@ -2566,6 +2784,12 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/United_States_Navy_Band_-_%C2%A1Oh%2C_gloria_inmarcesible%21.ogg"
     },
     "area": 1138910,
@@ -2628,6 +2852,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://en.wikipedia.org/w/api.php?action=timedtext&title=File%3ADemocratic_Republic_of_the_Congo%27s_national_anthem.ogg&lang=en&trackformat=srt"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/en/3/3f/Democratic_Republic_of_the_Congo%27s_national_anthem.ogg"
     },
     "area": 2344858,
@@ -2703,6 +2930,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_the_Democratic_People%27s_Republic_of_Korea.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_the_Democratic_People%27s_Republic_of_Korea.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/National_Anthem_of_the_Democratic_People%27s_Republic_of_Korea.ogg"
     },
     "area": 120538,
@@ -2734,6 +2965,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/National_anthem_of_South_Korea%2C_performed_by_the_United_States_Navy_Band.wav"
     },
     "area": 99720,
@@ -2763,6 +2998,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_the_Republic_of_Kosovo.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/National_Anthem_of_the_Republic_of_Kosovo.ogg"
     },
     "area": 10887,
@@ -2792,6 +3030,14 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALijepa_nasa_domovino_instrumental.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALijepa_nasa_domovino_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALijepa_nasa_domovino_instrumental.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALijepa_nasa_domovino_instrumental.ogg&lang=fr&trackformat=srt&origin=%2A",
+        "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALijepa_nasa_domovino_instrumental.ogg&lang=it&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALijepa_nasa_domovino_instrumental.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Lijepa_nasa_domovino_instrumental.ogg"
     },
     "area": 56594,
@@ -2825,6 +3071,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_La_Bayamesa.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_La_Bayamesa.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/United_States_Navy_Band_-_La_Bayamesa.ogg"
     },
     "area": 110860,
@@ -2854,6 +3104,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Kuwait_%28instrumental%29.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/National_anthem_of_Kuwait_%28instrumental%29.ogg"
     },
     "area": 17818,
@@ -2884,6 +3137,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Laos.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/National_Anthem_of_Laos.ogg"
     },
     "area": 236800,
@@ -2917,6 +3173,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Lesotho%2C_performed_by_the_U.S._Navy_Band.wav&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/National_anthem_of_Lesotho%2C_performed_by_the_U.S._Navy_Band.wav"
     },
     "area": 30355,
@@ -3011,6 +3270,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALiberia_National_Anthem.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Liberia_National_Anthem.ogg"
     },
     "area": 111369,
@@ -3076,6 +3338,12 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
     },
     "area": 160,
@@ -3106,6 +3374,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ATauti%C5%A1ka_giesme_instumental.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Tauti%C5%A1ka_giesme_instumental.ogg"
     },
     "area": 65300,
@@ -3171,6 +3442,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ARy_Tanindrazanay_malala_%C3%B4%21_%28instrumental%29.ogg&lang=en&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ARy_Tanindrazanay_malala_%C3%B4%21_%28instrumental%29.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Ry_Tanindrazanay_malala_%C3%B4%21_%28instrumental%29.ogg"
     },
     "area": 587041,
@@ -3200,6 +3475,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMalawian_national_anthem.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Malawian_national_anthem.oga"
     },
     "area": 118484,
@@ -3232,6 +3510,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANegaraku_instrumental.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Negaraku_instrumental.ogg"
     },
     "area": 329847,
@@ -3325,6 +3606,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMalta_National_Anthem.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Malta_National_Anthem.ogg"
     },
     "area": 316,
@@ -3354,6 +3638,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Morocco.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/National_Anthem_of_Morocco.ogg"
     },
     "area": 446550,
@@ -3446,6 +3733,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMotherland_%28instrumental%29.ogg&lang=en&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMotherland_%28instrumental%29.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Motherland_%28instrumental%29.ogg"
     },
     "area": 2040,
@@ -3474,6 +3765,12 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_Mexicano_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_Mexicano_instrumental.ogg&lang=es&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_Mexicano_instrumental.ogg&lang=pt&trackformat=srt&origin=%2A",
+        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHimno_Nacional_Mexicano_instrumental.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Himno_Nacional_Mexicano_instrumental.ogg"
     },
     "area": 1964375,
@@ -3505,6 +3802,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMicronesia_National_Anthem.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Micronesia_National_Anthem.ogg"
     },
     "area": 702,
@@ -3533,6 +3833,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AImnul_Republicii_Moldova_US_NAVY.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AImnul_Republicii_Moldova_US_NAVY.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Imnul_Republicii_Moldova_US_NAVY.ogg"
     },
     "area": 33851,
@@ -3563,6 +3867,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMonaco_National_Anthem.ogg&lang=en&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMonaco_National_Anthem.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Monaco_National_Anthem.ogg"
     },
     "area": 2,
@@ -3592,6 +3900,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Mongolia_2006_official-instrumental.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_anthem_of_Mongolia_2006_official-instrumental.ogg"
     },
     "area": 1564116,
@@ -3622,6 +3933,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Montenegro.ogg&lang=en&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Montenegro.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/National_Anthem_of_Montenegro.ogg"
     },
     "area": 13812,
@@ -3653,6 +3968,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMozambican_national_anthem%2C_performed_by_the_United_States_Navy_Band.wav&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Mozambican_national_anthem%2C_performed_by_the_United_States_Navy_Band.wav"
     },
     "area": 799380,
@@ -3687,6 +4005,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AU.S._Navy_Band_-_Kaba_Ma_Kyei.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/U.S._Navy_Band_-_Kaba_Ma_Kyei.oga"
     },
     "area": 676578,
@@ -3718,6 +4039,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANamibian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Namibian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
     },
     "area": 824292,
@@ -3781,6 +4105,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASayaun_Thunga_Phool_Ka_%28instrumental%29.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Sayaun_Thunga_Phool_Ka_%28instrumental%29.ogg"
     },
     "area": 147181,
@@ -3811,6 +4138,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AGod_Defend_New_Zealand_instrumental.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/God_Defend_New_Zealand_instrumental.ogg"
     },
     "area": 267710,
@@ -3840,6 +4170,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Nicaragua.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/National_Anthem_of_Nicaragua.ogg"
     },
     "area": 130730,
@@ -3870,6 +4203,11 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Het_Wilhelmus.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Het_Wilhelmus.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Het_Wilhelmus.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/United_States_Navy_Band_-_Het_Wilhelmus.ogg"
     },
     "area": 41543,
@@ -3935,6 +4273,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_%22Arise_O%2C_Compatriots%22.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/86/United_States_Navy_Band_-_%22Arise_O%2C_Compatriots%22.oga"
     },
     "area": 923768,
@@ -3995,6 +4336,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://en.wikipedia.org/w/api.php?action=timedtext&title=File%3ANorth_Macedonia%27s_national_anthem_%28instrumental%29.ogg&lang=en&trackformat=srt",
+        "fr": "https://en.wikipedia.org/w/api.php?action=timedtext&title=File%3ANorth_Macedonia%27s_national_anthem_%28instrumental%29.ogg&lang=fr&trackformat=srt"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/en/b/b6/North_Macedonia%27s_national_anthem_%28instrumental%29.ogg"
     },
     "area": 25713,
@@ -4028,6 +4373,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANorway_%28National_Anthem%29.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Norway_%28National_Anthem%29.ogg"
     },
     "area": 323802,
@@ -4092,6 +4440,11 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALand_der_Berge_Land_am_Strome_instrumental.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALand_der_Berge_Land_am_Strome_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALand_der_Berge_Land_am_Strome_instrumental.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Land_der_Berge_Land_am_Strome_instrumental.ogg"
     },
     "area": 83871,
@@ -4128,6 +4481,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AEast_Timorese_national_anthem.wav&lang=en&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AEast_Timorese_national_anthem.wav&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/East_Timorese_national_anthem.wav"
     },
     "area": 14874,
@@ -4156,6 +4513,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Pakistan.OGG&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/National_anthem_of_Pakistan.OGG"
     },
     "area": 796095,
@@ -4189,8 +4549,7 @@
   },
   {
     "anthem": {
-      "url": "http://www.nationalanthems.info/ps.mp3",
-      "vocalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/National_Anthem_of_Palestine_%28Vocal%29.ogg"
+      "url": "http://www.nationalanthems.info/ps.mp3"
     },
     "area": 6220,
     "borders": [
@@ -4218,6 +4577,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ABelau_rekid_%28instrumental%29.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Belau_rekid_%28instrumental%29.oga"
     },
     "area": 459,
@@ -4246,6 +4608,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3APanama_National_Anthem.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Panama_National_Anthem.ogg"
     },
     "area": 75420,
@@ -4277,6 +4642,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AO_Arise%2C_All_You_Sons_%28instrumental%29.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/O_Arise%2C_All_You_Sons_%28instrumental%29.ogg"
     },
     "area": 462840,
@@ -4306,6 +4674,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AParaguayan_National_Anthem.oga&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AParaguayan_National_Anthem.oga&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Paraguayan_National_Anthem.oga"
     },
     "area": 406752,
@@ -4338,6 +4710,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/United_States_Navy_Band_-_Marcha_Nacional_del_Per%C3%BA.ogg"
     },
     "area": 1285216,
@@ -4371,6 +4747,11 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALupang_Hinirang_instrumental.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALupang_Hinirang_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALupang_Hinirang_instrumental.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lupang_Hinirang_instrumental.ogg"
     },
     "area": 299000,
@@ -4399,6 +4780,11 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMazurek_Dabrowskiego.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMazurek_Dabrowskiego.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMazurek_Dabrowskiego.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mazurek_Dabrowskiego.ogg"
     },
     "area": 312685,
@@ -4434,6 +4820,12 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AA_Portuguesa.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AA_Portuguesa.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AA_Portuguesa.ogg&lang=es&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AA_Portuguesa.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/A_Portuguesa.ogg"
     },
     "area": 92090,
@@ -4497,6 +4889,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ADesteapta-te%2C_romane%21.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ADesteapta-te%2C_romane%21.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Desteapta-te%2C_romane%21.ogg"
     },
     "area": 238391,
@@ -4530,6 +4926,12 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg&lang=es&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg&lang=pt&trackformat=srt&origin=%2A",
+        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/National_Anthem_of_Russia_%282000%29%2C_instrumental%2C_one_verse.ogg"
     },
     "area": 17098242,
@@ -4602,6 +5004,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AZambian_national_anthem.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Zambian_national_anthem.oga"
     },
     "area": 752618,
@@ -4724,6 +5129,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASaudi_Arabian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASaudi_Arabian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Saudi_Arabian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
     },
     "area": 2149690,
@@ -4759,6 +5168,11 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&lang=en&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Sweden.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/United_States_Navy_Band_-_Sweden.ogg"
     },
     "area": 450295,
@@ -4789,6 +5203,13 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASwiss_Psalm.ogg&lang=de&trackformat=srt&origin=%2A",
+        "de-CH": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASwiss_Psalm.ogg&lang=de-ch&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASwiss_Psalm.ogg&lang=en&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASwiss_Psalm.ogg&lang=fr&trackformat=srt&origin=%2A",
+        "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASwiss_Psalm.ogg&lang=it&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Swiss_Psalm.ogg"
     },
     "area": 41277,
@@ -4826,6 +5247,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Senegal.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/National_Anthem_of_Senegal.ogg"
     },
     "area": 196722,
@@ -4859,6 +5283,12 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASerbian_national_anthem%2C_instrumental.oga&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASerbian_national_anthem%2C_instrumental.oga&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASerbian_national_anthem%2C_instrumental.oga&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASerbian_national_anthem%2C_instrumental.oga&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Serbian_national_anthem%2C_instrumental.oga"
     },
     "area": 77474,
@@ -4922,6 +5352,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://en.wikipedia.org/w/api.php?action=timedtext&title=File%3ASierra_Leone%27s_national_anthem.ogg&lang=en&trackformat=srt"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/en/6/69/Sierra_Leone%27s_national_anthem.ogg"
     },
     "area": 71740,
@@ -4952,6 +5385,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AZimbabwe_National_Anthem.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Zimbabwe_National_Anthem.ogg"
     },
     "area": 390757,
@@ -4986,6 +5422,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMajulah_Singapura.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Majulah_Singapura.ogg"
     },
     "area": 697,
@@ -5017,6 +5456,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Slovakia%2C_performed_by_the_United_States_Navy_Band.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/National_anthem_of_Slovakia%2C_performed_by_the_United_States_Navy_Band.ogg"
     },
     "area": 49035,
@@ -5050,6 +5492,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASlovenia%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Slovenia%27s_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
     },
     "area": 20273,
@@ -5146,6 +5591,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASri_Lankan_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sri_Lankan_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
     },
     "area": 65610,
@@ -5260,6 +5708,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASouth_African_national_anthem.oga&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASouth_African_national_anthem.oga&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/South_African_national_anthem.oga"
     },
     "area": 1219090,
@@ -5303,7 +5755,10 @@
   },
   {
     "anthem": {
-      "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Sudan.ogg"
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ASudanese_national_anthem%2C_performed_by_the_U.S._Navy_Band_%28instrumental%29.oga&lang=en&trackformat=srt&origin=%2A"
+      },
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Sudanese_national_anthem%2C_performed_by_the_U.S._Navy_Band_%28instrumental%29.oga"
     },
     "area": 1886068,
     "borders": [
@@ -5461,6 +5916,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Syria.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_Anthem_of_Syria.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/National_Anthem_of_Syria.ogg"
     },
     "area": 185180,
@@ -5494,6 +5953,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ATajikistan_anthem.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Tajikistan_anthem.ogg"
     },
     "area": 143100,
@@ -5527,6 +5989,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ATanzanian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Tanzanian_national_anthem%2C_performed_by_the_United_States_Navy_Band.oga"
     },
     "area": 947300,
@@ -5564,6 +6029,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AThai_National_Anthem_-_US_Navy_Band.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Thai_National_Anthem_-_US_Navy_Band.ogg"
     },
     "area": 513120,
@@ -5596,6 +6064,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://en.wikipedia.org/w/api.php?action=timedtext&title=File%3ATogo%27s_national_anthem_%28instrumental%29.ogg&lang=en&trackformat=srt",
+        "fr": "https://en.wikipedia.org/w/api.php?action=timedtext&title=File%3ATogo%27s_national_anthem_%28instrumental%29.ogg&lang=fr&trackformat=srt"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Togo%27s_national_anthem_%28instrumental%29.ogg"
     },
     "area": 56785,
@@ -5656,6 +6128,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AForged_from_the_Love_of_Liberty_%28instrumental%29.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Forged_from_the_Love_of_Liberty_%28instrumental%29.ogg"
     },
     "area": 5128,
@@ -5684,6 +6159,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Tchadienne_%28instrumental%29.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/La_Tchadienne_%28instrumental%29.ogg"
     },
     "area": 1284000,
@@ -5719,6 +6197,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ACzech_anthem.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ACzech_anthem.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Czech_anthem.ogg"
     },
     "area": 78867,
@@ -5752,6 +6234,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHumat_al-Hima.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Humat_al-Hima.ogg"
     },
     "area": 163610,
@@ -5782,6 +6267,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AIstikl%C3%A2l_Marsi_instrumetal.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AIstikl%C3%A2l_Marsi_instrumetal.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Istikl%C3%A2l_Marsi_instrumetal.ogg"
     },
     "area": 783562,
@@ -5818,6 +6307,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Turkmenistan%2C_performed_by_the_United_States_Navy_Band.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/National_anthem_of_Turkmenistan%2C_performed_by_the_United_States_Navy_Band.oga"
     },
     "area": 488100,
@@ -5879,6 +6371,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUgandan_national_anthem%2C_performed_by_the_U.S._Navy_Band.wav&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ugandan_national_anthem%2C_performed_by_the_U.S._Navy_Band.ogg"
     },
     "area": 241038,
@@ -5913,6 +6408,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ANational_anthem_of_Ukraine%2C_instrumental.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Anthem_of_Ukraine_instrumental.ogg"
     },
     "area": 603550,
@@ -5948,6 +6446,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHungarian_national_anthem%2C_performed_by_the_United_States_Navy_Band_%28May_1997_arrangement%29.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hu-magyarhimnusz.ogg"
     },
     "area": 93028,
@@ -5983,6 +6484,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/United_States_Navy_Band_-_National_Anthem_of_Uruguay_%28complete%29.ogg"
     },
     "area": 176215,
@@ -6014,6 +6519,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUzbekistan_anthem.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Uzbekistan_anthem.ogg"
     },
     "area": 447400,
@@ -6078,6 +6586,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg&lang=en&trackformat=srt&origin=%2A",
+        "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg&lang=it&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/United_States_Navy_Band_-_Inno_e_Marcia_Pontificale.ogg"
     },
     "area": 0.44,
@@ -6105,6 +6617,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/United_States_Navy_Band_-_Gloria_al_Bravo_Pueblo.ogg"
     },
     "area": 912050,
@@ -6136,6 +6652,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3A%22Ishy_Bilady%22_performed_by_the_United_States_Navy_Band.oga&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/%22Ishy_Bilady%22_performed_by_the_United_States_Navy_Band.oga"
     },
     "area": 83600,
@@ -6166,6 +6685,12 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AStar_Spangled_Banner_instrumental.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AStar_Spangled_Banner_instrumental.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AStar_Spangled_Banner_instrumental.ogg&lang=es&trackformat=srt&origin=%2A",
+        "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AStar_Spangled_Banner_instrumental.ogg&lang=it&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Spangled_Banner_instrumental.ogg"
     },
     "area": 9826675,
@@ -6198,6 +6723,12 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_God_Save_the_Queen.ogg&lang=fr&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/de/United_States_Navy_Band_-_God_Save_the_Queen.ogg"
     },
     "area": 243610,
@@ -6226,6 +6757,13 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg&lang=fr&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AUnited_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg&lang=pt&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/United_States_Navy_Band_-_Ti%E1%BA%BFn_Qu%C3%A2n_Ca.ogg"
     },
     "area": 331210,
@@ -6257,6 +6795,15 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "de": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=de&trackformat=srt&origin=%2A",
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=es&trackformat=srt&origin=%2A",
+        "fr": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=fr&trackformat=srt&origin=%2A",
+        "it": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=it&trackformat=srt&origin=%2A",
+        "pt": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=pt&trackformat=srt&origin=%2A",
+        "pt-BR": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AMy_Belarusy_vocal.ogg&lang=pt-br&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/4/46/My_Belarusy.ogg",
       "vocalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/My_Belarusy_vocal.ogg"
     },
@@ -6292,7 +6839,7 @@
   },
   {
     "anthem": {
-      "url": "http://www.nationalanthems.info/eh.mp3"
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Yabaniy_es-sahara_western_sahara_anthem.mid"
     },
     "area": 266000,
     "borders": [
@@ -6325,6 +6872,9 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3ALa_Renaissance.ogg&lang=en&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/La_Renaissance.ogg"
     },
     "area": 622984,
@@ -6360,6 +6910,10 @@
   },
   {
     "anthem": {
+      "subtitles": {
+        "en": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymn_to_liberty_instrumental.oga&lang=en&trackformat=srt&origin=%2A",
+        "es": "https://commons.wikimedia.org/w/api.php?action=timedtext&title=File%3AHymn_to_liberty_instrumental.oga&lang=es&trackformat=srt&origin=%2A"
+      },
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hymn_to_liberty_instrumental.oga"
     },
     "area": 9251,

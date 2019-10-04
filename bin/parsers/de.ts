@@ -1,5 +1,6 @@
 import Axios from "axios";
 import * as cheerio from "cheerio";
+import { getAudio, getSubtitles } from "./helpers";
 
 function fixCountryName(name: string): string {
   const mapping = {
@@ -100,7 +101,8 @@ async function countries(): Promise<any> {
   }
 
   // amend with anthem information
-  $ = cheerio.load((await Axios.get("https://de.wikipedia.org/wiki/Liste_der_Nationalhymnen")).data);
+  const wikiAnthemsUrl = "https://de.wikipedia.org/wiki/Liste_der_Nationalhymnen";
+  $ = cheerio.load((await Axios.get(wikiAnthemsUrl)).data);
   const anthemData = $(".wikitable tbody tr").map((i, elem) => {
     let columnHeader = $(elem).closest("table").find("th").map((n, m) => $(m).text().trim()).get();
     columnHeader = columnHeader.slice(columnHeader.length - $(elem).children().length);
@@ -122,14 +124,12 @@ async function countries(): Promise<any> {
       };
       return mapping[text] || text;
     };
-    const getAudio = () => {
-      const src = $(elem).find("audio source:not([data-transcodekey])").attr("src");
-      return src ? `https:${src}` : undefined;
-    };
+
     return {
       anthemName: get(germanTitleColumn) || get(titleColumn),
       name: getName(),
-      url: getAudio(),
+      subtitleUrls: getSubtitles($(elem), wikiAnthemsUrl),
+      url: getAudio($(elem)),
     };
   }).get();
 
@@ -139,6 +139,7 @@ async function countries(): Promise<any> {
     if (country) {
       country.anthemName = anthem.anthemName;
       country.anthemUrl = anthem.url;
+      country.anthemSubtitleUrls = anthem.subtitleUrls;
     }
   });
   return data;
