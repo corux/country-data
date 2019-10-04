@@ -54,6 +54,9 @@ async function countries(isoCodes: string[]): Promise<any> {
       };
       return mapping[text] || text;
     };
+    const additionalAdjectives = {
+      "Estados Unidos": ["americano", "norteamericano"],
+    };
     const getAdjectives = () => {
       return $(elem).children().eq(1).text()
         .replace(/\[[0-9]+\]/g, "\n").split("\n")
@@ -64,7 +67,7 @@ async function countries(isoCodes: string[]): Promise<any> {
     };
     const capital = $(elem).children().eq(2).find("a").first().text().trim();
     return {
-      adjectives: getAdjectives(),
+      adjectives: getAdjectives().concat(additionalAdjectives[getName()] || []),
       capital,
       name: getName(),
     };

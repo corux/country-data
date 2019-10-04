@@ -93,7 +93,7 @@ export async function italian(isoCodes: string[]): Promise<any> {
     const mapping = {
       "Regno dei Paesi Bassi": "Paesi Bassi",
     };
-    const capital = $(elem).children().eq(1).find("a:first-of-type").text().trim();
+    const capital = $(elem).children().eq(1).find("a:first-of-type").first().text().trim();
     return {
       capital,
       name: mapping[name] || name,

@@ -42,7 +42,7 @@ async function countries(isoCodes: string[]): Promise<any> {
     };
   }).get();
 
-  $ = cheerio.load((await Axios.get("https://fr.wikipedia.org/wiki/Liste_de_gentilés")).data);
+  $ = cheerio.load((await Axios.get("https://fr.wikipedia.org/wiki/Liste_de_gentiles")).data);
   const adjectiveData = $("li>b:first-of-type>a, li>a:has(b)").map((i, elem) => {
     const additional = {
       "Macédoine du Nord": ["macédonien"],
