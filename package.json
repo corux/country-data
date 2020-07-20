@@ -29,7 +29,7 @@
     "axios": "0.19.2",
     "cheerio": "1.0.0-rc.3",
     "codacy-coverage": "3.4.0",
-    "commander": "5.1.0",
+    "commander": "6.0.0",
     "countryjs": "1.8.0",
     "jest": "26.1.0",
     "json-stable-stringify": "1.0.1",
