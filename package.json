@@ -26,7 +26,7 @@
   "devDependencies": {
     "@types/cheerio": "0.22.23",
     "@types/jest": "26.0.19",
-    "axios": "0.21.1",
+    "axios": "0.21.2",
     "cheerio": "1.0.0-rc.5",
     "codacy-coverage": "3.4.0",
     "commander": "6.2.1",
