@@ -24,7 +24,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "@types/cheerio": "0.22.23",
+    "@types/cheerio": "1.0.0",
     "@types/jest": "26.0.19",
     "axios": "0.21.1",
     "cheerio": "1.0.0-rc.5",
